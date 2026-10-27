@@ -1,0 +1,15 @@
+{
+  "project": "project-X",
+  "titles": [
+    {
+      "id": "jjk-s3",
+      "title": "JUJUTSU KAISEN Season 3 \u2014 Culling Game (uji stream)",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "jjk-s3/ep1/playlist.m3u8"
+        }
+      ]
+    }
+  ]
+}
