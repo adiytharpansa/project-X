@@ -222,6 +222,70 @@
           "playlist": "mashle/ep2/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "oshi-no-ko-season-3",
+      "title": "OSHI NO KO Season 3",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F01%2F1768401431-8661-Oshi-No-Ko-Season-3.webp",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F01%2F1768401431-8661-Oshi-No-Ko-Season-3.webp",
+      "synopsis": "The story enters a new stage.\n\n\n\nIt's been six months since \"POP IN 2\" was released. Thanks to MEM-Cho's hard work, B-Komachi is about to get their major break. Aqua is a multi-talented entertainer, and Akane's career as a talented actress is going smoothly. Meanwhile, Kana lost the cheerfulness she once had. To track down the truth behind Ai and Goro's deaths, Ruby keeps rising in the entertainment world—using lies as a weapon.\n\n\n\n(Source: Crunchyroll)\n\n\n\nNote: The last episode has an extended runtime of ~54 minutes.",
+      "year": 2026,
+      "score": 8.6,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "0ce3b2ccc99f1f9c12c831a04ad93d931a14240e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "oshi-no-ko-season-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "oshi-no-ko-season-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "oshi-no-ko-season-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "oshi-no-ko-season-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "oshi-no-ko-season-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "oshi-no-ko-season-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "oshi-no-ko-season-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "oshi-no-ko-season-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "oshi-no-ko-season-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "oshi-no-ko-season-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "oshi-no-ko-season-3/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
