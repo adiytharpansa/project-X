@@ -286,6 +286,74 @@
           "playlist": "oshi-no-ko-season-3/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dr-stone-science-future-cour-2",
+      "title": "Dr. STONE SCIENCE FUTURE Cour 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49751%2Fposter_image%2F85e5f4e0a4289662360f93d85496e1ca.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49751%2Fcover_image%2F15a27f42514fbbc6118c6d78c442dca0.jpg",
+      "synopsis": "After a strategic maneuver, Senkuu Ishigami's team stalls Dr. Xeno's more scientifically advanced forces. A ceasefire between the two factions allows for the establishment of Corn City in North America, a hope for a future thriving population. Meanwhile, Senkuu and some of his teammates rush toward the Amazon in South America—the epicenter of the petrification beam's impact—to create Superalloy City and progress their spaceship project.\n\n\n\nWith dangerous enemies still pursuing Senkuu and his companions, it is a race against time to reach the heart of the dense Amazon. As unexpected allies and scientific creations further fuel this leg of their journey, Senkuu is closer than ever to finally uncovering the mystery behind the petrification phenomenon.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2025,
+      "score": 8.5,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "186884a2a1539463954961bcd80b8d2004be06e7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dr-stone-science-future-cour-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dr-stone-science-future-cour-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dr-stone-science-future-cour-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dr-stone-science-future-cour-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dr-stone-science-future-cour-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dr-stone-science-future-cour-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dr-stone-science-future-cour-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dr-stone-science-future-cour-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dr-stone-science-future-cour-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dr-stone-science-future-cour-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dr-stone-science-future-cour-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dr-stone-science-future-cour-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
