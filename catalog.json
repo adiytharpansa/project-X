@@ -90,25 +90,26 @@
       ]
     },
     {
-      "id": "a-silent-voice",
-      "title": "A Silent Voice",
-      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F10028%2Foriginal.jpeg",
-      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F10028%2Foriginal.jpg",
-      "synopsis": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\n\n\n(Source: Eleven Arts)",
-      "year": 2016,
-      "score": 8.8,
+      "id": "chainsaw-man",
+      "title": "Chainsaw Man",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F43806%2Fposter_image%2Fcefec27a530ff9faac1b2fc238acad13.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F43806%2Fcover_image%2F1b642a40124b8cbb1b13b97597c0b6f1.jpg",
+      "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita.\n\n\nOne day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as \"Chainsaw Man\" — a man with a devil's heart.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2022,
+      "score": 8.3,
       "status": "FINISHED",
       "genres": [
+        "Action",
         "Drama",
-        "Romance",
-        "Slice of Life"
+        "Horror",
+        "Supernatural"
       ],
-      "repo": "adiytharpansa/gudang-6",
-      "pin": "0b1cfa8df2e82407accb8039139a55d33fc9420e",
+      "repo": "adiytharpansa/gudang-2",
+      "pin": "5ee1148c83ac1be6b626f38ee2e9a5711f59c4d0",
       "episodes": [
         {
           "number": 1,
-          "playlist": "a-silent-voice/ep1/playlist.m3u8"
+          "playlist": "chainsaw-man/ep1/playlist.m3u8"
         }
       ]
     }
