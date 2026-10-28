@@ -211,11 +211,15 @@
         "Fantasy"
       ],
       "repo": "adiytharpansa/gudang-3",
-      "pin": "301d35c37203ce0d000900720c9841394a94c5ff",
+      "pin": "046510ee17d7ff088aa48558bab93f0c866190ea",
       "episodes": [
         {
           "number": 1,
           "playlist": "mashle/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mashle/ep2/playlist.m3u8"
         }
       ]
     }
