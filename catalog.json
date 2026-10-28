@@ -39,9 +39,29 @@
         {
           "number": 6,
           "playlist": "jjk-s3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "jjk-s3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "jjk-s3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "jjk-s3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "jjk-s3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "jjk-s3/ep12/playlist.m3u8"
         }
       ]
     }
   ],
-  "pin": "c238d493ee1f80b47e4b37ef9b6a5dcbd536dc40"
+  "pin": "b4eeb8a55be032cab094f20e3cc6a31b14a248a3"
 }
