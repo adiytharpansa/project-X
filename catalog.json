@@ -65,6 +65,29 @@
           "playlist": "jjk-s3/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "one-piece-fan-letter",
+      "title": "One Piece Fan Letter",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49259%2Fposter_image%2Flarge-3e71b2e44d971f1f6255c8e2d0b07130.jpeg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49259%2Fcover_image%2Flarge-43f63a2e4be1fce36231513147eea99a.jpeg",
+      "synopsis": "Two years after the Paramount War, the Straw Hats are about to reunite on the Sabaody Archipelago. At the same time, a girl who is head over heels for Nami is trying to hand a fan letter to her before the group leaves the island.\n\n\n\n(Source: Crunchyroll)\n\n\n\nNote: This work commemorates the 25th anniversary of the ONE PIECE anime through an animated adaptation of the \"ONE PIECE novel Mugiwara Stories\" light novel.",
+      "year": 2024,
+      "score": 8.9,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "d1f39a6b975a00b914520907c9983bd48453d06b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "one-piece-fan-letter/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
