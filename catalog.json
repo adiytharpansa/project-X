@@ -195,6 +195,29 @@
           "playlist": "attack-on-titan-season-3-part-2/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mashle",
+      "title": "Mashle: Magic and Muscles",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F46229%2Fposter_image%2F81f7fc1e3626e00e6a8dfe139e656fc0.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F46229%2Fcover_image%2Fbc68d0151fc69d810af63f69c377b997.jpg",
+      "synopsis": "This is a world of magic. This is a world in which magic is casually used by everyone.\n\n\nIn a deep, dark forest in this world of magic, there is a boy who is singlemindedly working out. His name is Mash Burnedead, and he has a secret. He can’t use magic. \n\n\nAll he wanted was to live a quiet life with his family, but people suddenly start trying to kill him one day and he somehow finds himself enrolled in Magic School. There, he sets his sights on becoming a “Divine Visionary,” the elite of the elite. \n\n Will his ripped muscles work against the best and brightest of the wizarding world? The curtain rises on this off-kilter magical fantasy in which the power of being jacked crushes any spell!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-3",
+      "pin": "301d35c37203ce0d000900720c9841394a94c5ff",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mashle/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
