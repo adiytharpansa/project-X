@@ -135,6 +135,66 @@
           "playlist": "a-silent-voice/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan-season-3-part-2",
+      "title": "Attack on Titan Season 3 Part 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F41982%2Foriginal.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F41982%2Flarge.jpg",
+      "synopsis": "The battle to retake Wall Maria begins now! With Eren’s new hardening ability, the Scouts are confident they can seal the wall and take back Shiganshina District. If they succeed, Eren can finally unlock the secrets of the basement—and the world. But danger lies in wait as Reiner, Bertholdt, and the Beast Titan have plans of their own. Could this be humanity’s final battle for survival?\n\n\n\n(Source: Funimation)",
+      "year": 2019,
+      "score": 8.9,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "b0a600b6af5096bf15f2112d791e355eb73c4de9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-season-3-part-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "attack-on-titan-season-3-part-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "attack-on-titan-season-3-part-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "attack-on-titan-season-3-part-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "attack-on-titan-season-3-part-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "attack-on-titan-season-3-part-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "attack-on-titan-season-3-part-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "attack-on-titan-season-3-part-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "attack-on-titan-season-3-part-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "attack-on-titan-season-3-part-2/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
