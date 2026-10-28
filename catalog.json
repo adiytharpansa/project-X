@@ -88,6 +88,29 @@
           "playlist": "one-piece-fan-letter/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-silent-voice",
+      "title": "A Silent Voice",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F10028%2Foriginal.jpeg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F10028%2Foriginal.jpg",
+      "synopsis": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\n\n\n(Source: Eleven Arts)",
+      "year": 2016,
+      "score": 8.8,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "0b1cfa8df2e82407accb8039139a55d33fc9420e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-silent-voice/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
