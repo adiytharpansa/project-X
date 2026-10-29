@@ -927,6 +927,121 @@
           "playlist": "re-zero-starting-life-in-another-world-season-4/ep19/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "vinland-saga-season-2",
+      "title": "Vinland Saga Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fvinland-saga-season-2.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fvinland-saga-season-2.jpg",
+      "synopsis": "After his father's death and the destruction of his village at the hands of English raiders, Einar wishes for a peaceful life with his family on their newly rebuilt farms. However, fate has other plans: his village is invaded once again. Einar watches helplessly as the marauding Danes burn his lands and slaughter his family. The invaders capture Einar and take him back to Denmark as a slave.\n\n\n\nEinar clings to his mother's final words to survive. He is purchased by Ketil, a kind slave owner and landlord who promises that Einar can regain his freedom in return for working in the fields. Soon, Einar encounters his new partner in farm cultivation—Thorfinn, a dejected and melancholic slave. As Einar and Thorfinn work together toward their freedom, they are haunted by both sins of the past and the ploys of the present. Yet they carry on, grasping for a glimmer of hope, redemption, and peace in a world that is nothing but unjust and unforgiving.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2023,
+      "score": 8.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "35a08562ba45d58fd9f6bbc491536988082e0f8f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "vinland-saga-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "vinland-saga-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "vinland-saga-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "vinland-saga-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "vinland-saga-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "vinland-saga-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "vinland-saga-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "vinland-saga-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "vinland-saga-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "vinland-saga-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "vinland-saga-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "vinland-saga-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "vinland-saga-season-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "vinland-saga-season-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "vinland-saga-season-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "vinland-saga-season-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "vinland-saga-season-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "vinland-saga-season-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "vinland-saga-season-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "vinland-saga-season-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "vinland-saga-season-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "vinland-saga-season-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "vinland-saga-season-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "vinland-saga-season-2/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
