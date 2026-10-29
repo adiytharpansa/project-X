@@ -1471,6 +1471,81 @@
           "playlist": "spirited-away/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "monogatari-series-off-monster-season",
+      "title": "MONOGATARI Series: OFF & MONSTER Season",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fmonogatari-series-off-monster-season.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fmonogatari-series-off-monster-season.jpg",
+      "synopsis": "The sequel to the 'Final Season' story arc of the Monogatari series.\n\n\n\nFrom the past to the future, their story continues. \n\n\n\nNow that he has graduated from high school, Koyomi Araragi’s story ends here. His story is truly over now, but the stories of the girls Koyomi saved - their stories - are not over yet.\n\n\n\nThis is the prequel or sequel to their stories and their struggles.\n\n\n\n(Source: Monogatari Series USA Official Website)",
+      "year": 2024,
+      "score": 8.6,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "8957bd4749498206e38769a9eb4ec99e81ecab5f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "monogatari-series-off-monster-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "monogatari-series-off-monster-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "monogatari-series-off-monster-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "monogatari-series-off-monster-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "monogatari-series-off-monster-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "monogatari-series-off-monster-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "monogatari-series-off-monster-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "monogatari-series-off-monster-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "monogatari-series-off-monster-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "monogatari-series-off-monster-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "monogatari-series-off-monster-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "monogatari-series-off-monster-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "monogatari-series-off-monster-season/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "monogatari-series-off-monster-season/ep14/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
