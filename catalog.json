@@ -689,6 +689,76 @@
           "playlist": "gintama-season-4/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dandadan-season-2",
+      "title": "DAN DA DAN Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49425%2Fposter_image%2F9e543d689bbb3d28830d6e77f723a7e8.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49425%2Fcover_image%2F342052d61967fd112c5dd3c9d1457b00.png",
+      "synopsis": "While the mission to exorcise Jin \"Jiji\" Enjouji's family home is underway, things are not going as expected. Momo Ayase narrowly evades an attempted abduction while Ken \"Okarun\" Takakura and Jiji are ambushed by the Kitou family—the unsettling landlords of the cursed estate. The trio's efforts threaten the foundation of this enigmatic town shrouded in legends and mysteries.\n\n\n\nAs Momo, Okarun, and Jiji are drawn deeper into the maze of folklore and supernatural entities, they must each utilize their unique powers if they want to survive and unravel the secrets of the uncanny town.\n\n\n\n(Source: MAL Rewrite)\n\n\n\nNote: Worldwide premiere of Episodes 1-3 titled as DAN DA DAN: EVIL EYE before the Japanese premiere was pre-screened in advance in theaters on June 6, 2025 in North America by GKIDS Films and June 7 and 8 in Europe by Piece of Magic Entertainment and Animation Digital Network.",
+      "year": 2025,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "d35d81721a434a30e587346f96863780b82e938f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dandadan-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dandadan-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dandadan-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dandadan-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dandadan-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dandadan-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dandadan-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dandadan-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dandadan-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dandadan-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dandadan-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dandadan-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
