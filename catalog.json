@@ -5825,6 +5825,122 @@
           "playlist": "fate-strange-fake-whispers-of-dawn/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dr-stone",
+      "title": "Dr. STONE",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@180ae5a1a89007ec0d62250d22e9d6faaba62a8f/dr-stone/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@180ae5a1a89007ec0d62250d22e9d6faaba62a8f/dr-stone/banner.jpg",
+      "synopsis": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world— turning every single human into stone.\n\n\n\nSeveral millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified.\n\n\n\nHowever, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2019,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "ab5c225540e00e594d5ea644ffba025fd2e16c7d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dr-stone/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dr-stone/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dr-stone/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dr-stone/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dr-stone/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dr-stone/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dr-stone/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dr-stone/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dr-stone/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dr-stone/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dr-stone/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dr-stone/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "dr-stone/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "dr-stone/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "dr-stone/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "dr-stone/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "dr-stone/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "dr-stone/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "dr-stone/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "dr-stone/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "dr-stone/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "dr-stone/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "dr-stone/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "dr-stone/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
