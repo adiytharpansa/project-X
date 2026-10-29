@@ -2325,6 +2325,174 @@
           "playlist": "gurren-lagann/ep27/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "death-note",
+      "title": "Death Note",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F1376%2Foriginal.png",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F1376%2Foriginal.jpg",
+      "synopsis": "Light Yagami is a genius high school student who is about to learn about life through a book of death. When a bored shinigami, a God of Death, named Ryuk drops a black notepad called a Death Note, Light receives power over life and death with the stroke of a pen. Determined to use this dark gift for the best, Light sets out to rid the world of evil… namely, the people he believes to be evil. Should anyone hold such power?\n\n\n\nThe consequences of Light’s actions will set the world ablaze.\n\n\n\n(Source: VIZ Media)",
+      "year": 2006,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "cd5fe090df6a1f524149f08562f49cd0990f1c20",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "death-note/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "death-note/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "death-note/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "death-note/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "death-note/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "death-note/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "death-note/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "death-note/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "death-note/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "death-note/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "death-note/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "death-note/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "death-note/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "death-note/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "death-note/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "death-note/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "death-note/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "death-note/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "death-note/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "death-note/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "death-note/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "death-note/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "death-note/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "death-note/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "death-note/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "death-note/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "death-note/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "death-note/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "death-note/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "death-note/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "death-note/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "death-note/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "death-note/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "death-note/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "death-note/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "death-note/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "death-note/ep37/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
