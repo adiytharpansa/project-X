@@ -2683,6 +2683,78 @@
           "playlist": "kaguya-sama-love-is-war-stairway-to-adulthood/ep2/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dr-stone-science-future-cour-3",
+      "title": "Dr. STONE SCIENCE FUTURE Cour 3",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F50187%2Fposter_image%2Fcbfde637a47af01452ed57c01cdc27de.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F50187%2Fcover_image%2F9f0a2e795122f99c6ac18db673a61e56.jpg",
+      "synopsis": "After reconciling with Dr. Xeno, Senkuu Ishigami is close to realizing his long-held dream: the space mission to the Moon is finally underway. While Dr. Xeno begins the development of their rocket's engine, Senkuu's team continues navigating through continents and seas in search of essential resources and people to assemble the necessary infrastructure for the mission as well as revive the entire human population.\n\n\n\nMeanwhile, the enigmatic Whyman continues to cast its shadow over Earth from the Moon. But with the combined might of humanity finally coming together, it is only a matter of time before Senkuu and the others confront Whyman and get the answers that have eluded humanity for centuries.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2026,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "d4d18fd21d136e9b4d399470cb64a354beb181b0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dr-stone-science-future-cour-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dr-stone-science-future-cour-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dr-stone-science-future-cour-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dr-stone-science-future-cour-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dr-stone-science-future-cour-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dr-stone-science-future-cour-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dr-stone-science-future-cour-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dr-stone-science-future-cour-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dr-stone-science-future-cour-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dr-stone-science-future-cour-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dr-stone-science-future-cour-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dr-stone-science-future-cour-3/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "dr-stone-science-future-cour-3/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
