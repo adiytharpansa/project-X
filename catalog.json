@@ -6904,6 +6904,107 @@
           "playlist": "my-dress-up-darling/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "to-your-eternity-season-2",
+      "title": "To Your Eternity Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@33d80ed012df77fb851ea286f03174083b06b1db/to-your-eternity-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@33d80ed012df77fb851ea286f03174083b06b1db/to-your-eternity-season-2/poster.jpg",
+      "synopsis": "After seeing enough death and tragedy, the immortal Fushi secludes himself on an island, defending himself from enemy Nokkers. However, instead of attacking Fushi in isolation, Nokkers begin targeting the settlements outside of his reach in hopes of luring him out. Soon, a group known as the Guardians—led by Hisame, the descendant of the deceased warrior Hayase—finds Fushi.\n\n\n\nInspired by how Fushi protected Janada Island from the Nokkers years ago, the Guardians have grown a considerable following and are recognized throughout the world. Initially reluctant, Fushi allows the Guardians to accompany him to the site of the Nokkers' recent attack. In their village, Fushi meets a few valuable allies, both new and old. But as the conflict with the Nokkers only leads to more loss, Fushi must find the inner strength to face his inevitable sorrow.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2022,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "6c9a8723346f01a8d7252bd6c44408427f0139cc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "to-your-eternity-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "to-your-eternity-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "to-your-eternity-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "to-your-eternity-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "to-your-eternity-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "to-your-eternity-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "to-your-eternity-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "to-your-eternity-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "to-your-eternity-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "to-your-eternity-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "to-your-eternity-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "to-your-eternity-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "to-your-eternity-season-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "to-your-eternity-season-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "to-your-eternity-season-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "to-your-eternity-season-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "to-your-eternity-season-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "to-your-eternity-season-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "to-your-eternity-season-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "to-your-eternity-season-2/ep20/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
