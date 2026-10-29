@@ -5516,6 +5516,77 @@
           "playlist": "rascal-does-not-dream-of-santa-claus/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "golden-kamuy-final-season",
+      "title": "Golden Kamuy Final Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f14ecb764dec2d76f62f4bedc925ffbe5c415536/golden-kamuy-final-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f14ecb764dec2d76f62f4bedc925ffbe5c415536/golden-kamuy-final-season/banner.jpg",
+      "synopsis": "Ex-convict Keiji Ueji appears in Sapporo, causing all the different factions to travel to the city in hopes of obtaining part of the map to the Ainu gold that is tattooed on his skin. At the same time, a figure who appears to be a copycat of Jack the Ripper terrorizes the streets of Sapporo. Saichi Sugimoto, Asirpa, and Yoshitake Shiraishi—joined by Fusatarou \"Boutarou the Pirate\" Oosawa and Vasily Pavlichenko—temporarily ally themselves with Toshizou Hijikata, as his faction's motives are somewhat less disturbing than those of Seventh Division's First Lieutenant Tokushirou Tsurumi.\n\n\n\nAsirpa attempts to collect all the information needed to tell apart the fake skins from the real ones, but she cannot decipher the map with certainty. Sugimoto swears never to part with Asirpa again, but the commotion around the serial killer allows for new betrayals and Tsurumi's plan for capturing Asirpa to advance. As the hunt for the gold nears its conclusion, the future of the Ainu rests in the hands of those who claim it first.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2026,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "fab897c91ab61786dca2a4c406d5e78ae7920540",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "golden-kamuy-final-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "golden-kamuy-final-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "golden-kamuy-final-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "golden-kamuy-final-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "golden-kamuy-final-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "golden-kamuy-final-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "golden-kamuy-final-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "golden-kamuy-final-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "golden-kamuy-final-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "golden-kamuy-final-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "golden-kamuy-final-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "golden-kamuy-final-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "golden-kamuy-final-season/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
