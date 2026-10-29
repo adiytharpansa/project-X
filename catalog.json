@@ -362,6 +362,28 @@
           "playlist": "dr-stone-science-future-cour-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kaiju-no-8",
+      "title": "Kaiju No. 8",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F46300%2Fposter_image%2Fc8a7d985608494c388e9aa1a5fa66428.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F46300%2Fcover_image%2Flarge-beb78aec0cb2066bc44ea52f66311e04.jpeg",
+      "synopsis": "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. Kafka Hibino, a kaiju-corpse cleanup man, has always dreamed of joining the force. But when he gets another shot at achieving his childhood dream, he undergoes an unexpected transformation. How can he fight kaiju now that he’s become one himself?!\n\n\n\n(Source: VIZ Media)",
+      "year": 2024,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-3",
+      "pin": "30d514b70d0e06f2b8e339c143fe8026d06ba842",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kaiju-no-8/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
