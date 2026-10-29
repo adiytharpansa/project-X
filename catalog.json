@@ -4488,6 +4488,65 @@
           "playlist": "ave-mujica-the-die-is-cast/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cyberpunk-edgerunners-2",
+      "title": "Cyberpunk: Edgerunners 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@cc692c8924780cc9f4defb5d69d7602357a5fea1/cyberpunk-edgerunners-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@cc692c8924780cc9f4defb5d69d7602357a5fea1/cyberpunk-edgerunners-2/poster.jpg",
+      "synopsis": "Cyberpunk: Edgerunners 2 pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you..\n\n\n\nWhen the world is blinded by spectacle, what extremes do you have to go to make your story matter?\n\n\n(Source: Cyberpunk: Edgerunners 2 Official Site, Official Twitter)",
+      "year": 2026,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "7f4448ad45b23e85a28a49d42af1dde78dd80694",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cyberpunk-edgerunners-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "cyberpunk-edgerunners-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "cyberpunk-edgerunners-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "cyberpunk-edgerunners-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "cyberpunk-edgerunners-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "cyberpunk-edgerunners-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "cyberpunk-edgerunners-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "cyberpunk-edgerunners-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "cyberpunk-edgerunners-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "cyberpunk-edgerunners-2/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
