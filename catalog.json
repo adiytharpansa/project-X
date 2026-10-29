@@ -5236,6 +5236,73 @@
           "playlist": "gachiakuta/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "grand-blue-dreaming-season-3",
+      "title": "Grand Blue Dreaming Season 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1482138f744a2b672744ed70ca3ed27dc71fbf16/grand-blue-dreaming-season-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1482138f744a2b672744ed70ca3ed27dc71fbf16/grand-blue-dreaming-season-3/poster.jpg",
+      "synopsis": "Iori's college shenanigans head overseas! Just as he's finally starting to get the hang of university life, crashing at his uncle's dive shop while balancing the booze-fueled antics of his diving club, Iori's cousin enlists him to help run a new dive shop in Palau. Between crystal-clear dives and his diving group that can't resist partying it up and stripping down, Iori's in for a wild summer.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "975b06fc8122dd41e15603c1577dcd3c0f138111",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "grand-blue-dreaming-season-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "grand-blue-dreaming-season-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "grand-blue-dreaming-season-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "grand-blue-dreaming-season-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "grand-blue-dreaming-season-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "grand-blue-dreaming-season-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "grand-blue-dreaming-season-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "grand-blue-dreaming-season-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "grand-blue-dreaming-season-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "grand-blue-dreaming-season-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "grand-blue-dreaming-season-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "grand-blue-dreaming-season-3/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
