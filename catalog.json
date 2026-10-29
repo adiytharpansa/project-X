@@ -4547,6 +4547,80 @@
           "playlist": "cyberpunk-edgerunners-2/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "world-trigger-3rd-season",
+      "title": "World Trigger 3rd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bf989f55232fa0db7bf1c71cca683b01ed73d4fb/world-trigger-3rd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bf989f55232fa0db7bf1c71cca683b01ed73d4fb/world-trigger-3rd-season/poster.jpg",
+      "synopsis": "With Hyuse joining the Tamakoma Squad, the rank wars are continuing and the Tamakoma squad are striving to get selected for the Away Missions.",
+      "year": 2021,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "cebd9defafc7abef35c8e4522c70e7dfa36e42fc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "world-trigger-3rd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "world-trigger-3rd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "world-trigger-3rd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "world-trigger-3rd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "world-trigger-3rd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "world-trigger-3rd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "world-trigger-3rd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "world-trigger-3rd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "world-trigger-3rd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "world-trigger-3rd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "world-trigger-3rd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "world-trigger-3rd-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "world-trigger-3rd-season/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "world-trigger-3rd-season/ep14/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
