@@ -2655,6 +2655,34 @@
           "playlist": "grand-blue-dreaming-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kaguya-sama-love-is-war-stairway-to-adulthood",
+      "title": "Kaguya-sama: Love Is War -Stairway to Adulthood-",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49998%2Fposter_image%2Fd61f5f6da90247979935edb88c955951.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49998%2Fposter_image%2Fd61f5f6da90247979935edb88c955951.jpg",
+      "synopsis": "Years after graduating from high school, Kaguya Shinomiya finds her old photo album and reminisces about when she was a part of Shuuchiin Academy's student council. At the time, Kaguya had just started dating the president Miyuki Shirogane, and the two were hopelessly in love. With each wholesome and silly memory from their past, Kaguya is filled with bliss.\n\n\n\n(Source: MAL Rewrite)\n\n\n\nNote: The anime first premiered in Japan as a TV Special, and was later split into 2 episodes on streaming.",
+      "year": 2025,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "144150e3bf76d0038066f833ac48f8b31b7dc7e9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kaguya-sama-love-is-war-stairway-to-adulthood/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kaguya-sama-love-is-war-stairway-to-adulthood/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
