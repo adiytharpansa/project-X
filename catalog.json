@@ -2888,6 +2888,46 @@
           "playlist": "dorohedoro-season-2/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kimi-ni-todoke-from-me-to-you-season-3",
+      "title": "Kimi ni Todoke: From Me to You Season 3",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F47905%2Fposter_image%2F3479434c9829e8582590522457a52df1.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F47905%2Fcover_image%2F858dfc4a976834ee45d0f2d245e83853.png",
+      "synopsis": "What do you do once you're a couple?\n\n\n\nAlthough she struggles with her blossoming feelings, Sawako comes to terms with herself and tells Kazehaya how she feels about him. Attracted by Sawako's unnoticed efforts and genuine personality, Kazehaya also candidly makes his feelings known.\nThus, their new relationship begins.\n\n\n\nTheir first date, their school life together, joy, embarrassment and new struggles — everything is fresh and new as the couple awkwardly and gradually learns more about one another, all while their friends' love stories begin to take shape as well. This bittersweet and poignant story of young people, woven from their romantic feelings and dear friendships, begins once more.\n\n\n\n(Source: Netflix Anime)",
+      "year": 2024,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "e55200e04ee8774b12666c19aafdb92a4baf54f5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kimi-ni-todoke-from-me-to-you-season-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kimi-ni-todoke-from-me-to-you-season-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kimi-ni-todoke-from-me-to-you-season-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kimi-ni-todoke-from-me-to-you-season-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kimi-ni-todoke-from-me-to-you-season-3/ep5/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
