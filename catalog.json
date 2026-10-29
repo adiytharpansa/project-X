@@ -4621,6 +4621,230 @@
           "playlist": "world-trigger-3rd-season/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fullmetal-alchemist",
+      "title": "Fullmetal Alchemist",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bd3b479d3373dba813a0bb006873b27b7cf715e0/fullmetal-alchemist/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bd3b479d3373dba813a0bb006873b27b7cf715e0/fullmetal-alchemist/banner.jpg",
+      "synopsis": "The rules of alchemy state that to gain something, one must lose something of equal value. Alchemy is the process of taking apart and reconstructing an object into a different entity, with the rules of alchemy to govern this procedure. However, there exists an object that can bring any alchemist above these rules, the object known as the Philosopher's Stone. The young Edward Elric is a particularly talented alchemist who through an accident years back lost his younger brother Alphonse and one of his legs. Sacrificing one of his arms as well, he used alchemy to bind his brother's soul to a suit of armor. This lead to the beginning of their journey to restore their bodies, in search for the legendary Philosopher's Stone.\n\nNote: Episodes 11, 12 and 37 were adapted from the light novel \"Fullmetal Alchemist: The Land of Sand.\"",
+      "year": 2003,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "d2a15cdb18f49dda7752b96b676c7f79cc9f3497",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fullmetal-alchemist/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fullmetal-alchemist/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fullmetal-alchemist/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fullmetal-alchemist/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fullmetal-alchemist/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fullmetal-alchemist/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fullmetal-alchemist/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fullmetal-alchemist/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fullmetal-alchemist/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fullmetal-alchemist/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fullmetal-alchemist/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fullmetal-alchemist/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fullmetal-alchemist/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "fullmetal-alchemist/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "fullmetal-alchemist/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "fullmetal-alchemist/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "fullmetal-alchemist/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "fullmetal-alchemist/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "fullmetal-alchemist/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "fullmetal-alchemist/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "fullmetal-alchemist/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "fullmetal-alchemist/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "fullmetal-alchemist/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "fullmetal-alchemist/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "fullmetal-alchemist/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "fullmetal-alchemist/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "fullmetal-alchemist/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "fullmetal-alchemist/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "fullmetal-alchemist/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "fullmetal-alchemist/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "fullmetal-alchemist/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "fullmetal-alchemist/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "fullmetal-alchemist/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "fullmetal-alchemist/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "fullmetal-alchemist/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "fullmetal-alchemist/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "fullmetal-alchemist/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "fullmetal-alchemist/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "fullmetal-alchemist/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "fullmetal-alchemist/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "fullmetal-alchemist/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "fullmetal-alchemist/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "fullmetal-alchemist/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "fullmetal-alchemist/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "fullmetal-alchemist/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "fullmetal-alchemist/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "fullmetal-alchemist/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "fullmetal-alchemist/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "fullmetal-alchemist/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "fullmetal-alchemist/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "fullmetal-alchemist/ep51/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
