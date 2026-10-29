@@ -1548,27 +1548,185 @@
       ]
     },
     {
-      "id": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars",
-      "title": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
-      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F3689%2Flarge.jpg",
-      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F3689%2Flarge.jpg",
-      "synopsis": "Seven years have passed after the battle of Teppelin... Humans have since reclaimed the surface of the earth and enjoy an unprecedented period of peace and prosperity. However, humanity's increasing population growth triggers the sudden emergence of an unknown, powerful enemy.\n\n\nThe fearsome, manipulative power of the mysterious Anti-Spiral proves too overwhelming for humans to even fight back. When everyone becomes desperate and loses hope, Team Dai-Gurren members reunite to stand up once again!\n\n\n\n(Source: Official US Website)",
-      "year": 2009,
-      "score": 8.5,
+      "id": "jujutsu-kaisen-season-2",
+      "title": "JUJUTSU KAISEN Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F45857%2Fposter_image%2F6a6b5472cd1b1414796c70733fe332b3.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F45857%2Fcover_image%2F7628bd46d94b8a96108292aa7e4d5571.jpg",
+      "synopsis": "The past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 8.6,
       "genres": [
         "Action",
         "Drama",
-        "Mecha",
-        "Romance",
-        "Sci-Fi"
+        "Supernatural"
       ],
       "status": "FINISHED",
-      "repo": "adiytharpansa/gudang-7",
-      "pin": "29d718c9257a",
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "1b59b666472e",
       "episodes": [
         {
           "number": 1,
-          "playlist": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars/ep1/playlist.m3u8"
+          "playlist": "jujutsu-kaisen-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "jujutsu-kaisen-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "jujutsu-kaisen-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "jujutsu-kaisen-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "jujutsu-kaisen-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "jujutsu-kaisen-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "jujutsu-kaisen-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "jujutsu-kaisen-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "jujutsu-kaisen-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "jujutsu-kaisen-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "jujutsu-kaisen-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "jujutsu-kaisen-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "jujutsu-kaisen-season-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "jujutsu-kaisen-season-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "jujutsu-kaisen-season-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "jujutsu-kaisen-season-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "jujutsu-kaisen-season-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "jujutsu-kaisen-season-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "jujutsu-kaisen-season-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "jujutsu-kaisen-season-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "jujutsu-kaisen-season-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "jujutsu-kaisen-season-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "jujutsu-kaisen-season-2/ep23/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "oshi-no-ko-season-2",
+      "title": "OSHI NO KO Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Foshi-no-ko-season-2.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Foshi-no-ko-season-2.jpg",
+      "synopsis": "Aqua’s desire for revenge takes center stage as he navigates the dark underbelly of the entertainment world alongside his twin sister, Ruby. While Ruby follows in their slain mother’s footsteps to become an idol, Aqua joins a famous theater troupe in hopes of uncovering clues to the identity of his father — the man who arranged their mother’s untimely death, and the man who once starred in the same troupe Aqua hopes to infiltrate.\n\n\n\n(Source: HIDIVE)",
+      "year": 2024,
+      "score": 8.5,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "3728fc4ae9cf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "oshi-no-ko-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "oshi-no-ko-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "oshi-no-ko-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "oshi-no-ko-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "oshi-no-ko-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "oshi-no-ko-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "oshi-no-ko-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "oshi-no-ko-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "oshi-no-ko-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "oshi-no-ko-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "oshi-no-ko-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "oshi-no-ko-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "oshi-no-ko-season-2/ep13/playlist.m3u8"
         }
       ]
     }
