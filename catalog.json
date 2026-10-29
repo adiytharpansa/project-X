@@ -5121,6 +5121,121 @@
           "playlist": "fullmetal-alchemist-brotherhood/ep64/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gachiakuta",
+      "title": "Gachiakuta",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@958ead949ebbeec2accd9735179a0caad28ce019/gachiakuta/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@958ead949ebbeec2accd9735179a0caad28ce019/gachiakuta/banner.jpg",
+      "synopsis": "A boy lives in a floating town, where the poor scrape by and the rich live a sumptuous life, simply casting their garbage off the side, into the abyss. When he’s falsely accused of murder, though, his wrongful conviction leads to an unimaginable punishment—exile off the edge, with the rest of the trash. Down on the surface, the cast-off waste of humanity has bred vicious monsters, and to travel the path to vengeance against those who cast him into Hell, a boy will have to become a warrior…\n\n\n\n(Source: Kodansha USA)",
+      "year": 2025,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "bd0c368696180589b356292892f4a9d55bb03153",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gachiakuta/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gachiakuta/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gachiakuta/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gachiakuta/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gachiakuta/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gachiakuta/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gachiakuta/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gachiakuta/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gachiakuta/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gachiakuta/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gachiakuta/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gachiakuta/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "gachiakuta/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "gachiakuta/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "gachiakuta/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "gachiakuta/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "gachiakuta/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "gachiakuta/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "gachiakuta/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "gachiakuta/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "gachiakuta/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "gachiakuta/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "gachiakuta/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "gachiakuta/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
