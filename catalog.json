@@ -423,7 +423,7 @@
         "Supernatural"
       ],
       "repo": "adiytharpansa/gudang-2",
-      "pin": "c3615a4d6530e9cdf54214a7249085f0213fabbb",
+      "pin": "acb0cdee7217fea2a98b8324ce0aa352f4d40198",
       "episodes": [
         {
           "number": 1,
@@ -436,6 +436,10 @@
         {
           "number": 3,
           "playlist": "dandadan/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dandadan/ep4/playlist.m3u8"
         }
       ]
     },
