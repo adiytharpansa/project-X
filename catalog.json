@@ -2999,6 +2999,70 @@
           "playlist": "medalist/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "given",
+      "title": "Given",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F42379%2Flarge.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F42379%2Flarge.jpg",
+      "synopsis": "Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it and to teach him how to play. Uenoyama eventually agrees and invites him to sit in on a jam session with his two band mates: bassist Haruki Nakayama and drummer Akihiko Kaji.\n\n\n\nSatou's voice is strikingly beautiful, filling Uenoyama with the determination to make Satou the lead singer of the band. Though reticent at first, Satou takes the offer after an emotional meeting with an old friend. With the support of his new friends, Satou must not only learn how to play guitar, but also come to terms with the mysterious circumstances that led him to be its owner.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2019,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "b727170552e897bc4f49cee31249d76ebae2e5ad",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "given/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "given/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "given/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "given/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "given/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "given/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "given/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "given/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "given/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "given/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "given/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
