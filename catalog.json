@@ -542,6 +542,77 @@
           "playlist": "attack-on-titan-final-season/ep16/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "solo-leveling-season-2",
+      "title": "Solo Leveling Season 2 -Arise from the Shadow-",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fsolo-leveling-season-2-arise-from-the-shadow.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fsolo-leveling-season-2-arise-from-the-shadow.jpg",
+      "synopsis": "Mastering his new abilities in secret, Jin-U must battle humanity's toughest foes to save his mother.\n\n\n\n(Source: Crunchyroll News)",
+      "year": 2025,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "a11c87bffc8bc052e54ccf05f91d6caf38707c96",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "solo-leveling-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "solo-leveling-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "solo-leveling-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "solo-leveling-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "solo-leveling-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "solo-leveling-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "solo-leveling-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "solo-leveling-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "solo-leveling-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "solo-leveling-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "solo-leveling-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "solo-leveling-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "solo-leveling-season-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
