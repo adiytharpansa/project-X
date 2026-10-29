@@ -7005,6 +7005,58 @@
           "playlist": "to-your-eternity-season-2/ep20/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "release-that-witch",
+      "title": "Release that Witch",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@02344d46cf31011ca48cee59c6135391df58b8f9/release-that-witch/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@02344d46cf31011ca48cee59c6135391df58b8f9/release-that-witch/poster.jpg",
+      "synopsis": "Roland, a modern man reborn as a prince in the dangerous Border Town, rescues the witches Anna and Nana Pine from the Church. Harnessing their extraordinary powers, he fuses magic and technology to craft weapons, armies, and steam engines to defend his people. As the Demon Moon rises and conspiracies close in on his family, Roland must lead a revolution to protect his allies and reshape the world.\n\n\n\n(Source: Crunchyroll)",
+      "year": null,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "3bdeac154e9decfcf8ed66129bc0095dddd1a79f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "release-that-witch/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "release-that-witch/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "release-that-witch/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "release-that-witch/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "release-that-witch/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "release-that-witch/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "release-that-witch/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "release-that-witch/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
