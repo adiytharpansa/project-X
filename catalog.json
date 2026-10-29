@@ -1822,6 +1822,75 @@
           "playlist": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "call-of-the-night-season-2",
+      "title": "Call of the Night Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48611%2Fposter_image%2F6c565ad3b85aae20d978e48e053ad5a6.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48611%2Fcover_image%2F129613910b0a4125166382f6682be50d.jpg",
+      "synopsis": "Kou overcomes his confusion about becoming a vampire and decides to \"like\" Nazuna, while Nazuna resolves to make Kou \"fall in love\" with her. Without understanding what \"love\" even is, the two of them spend their nights together in a frenzy. Meanwhile, Detective Uguisu Anko is closing in with her plot to kill vampires, not just Nazuna. A vampire's weakness is \"anything they were attached to when they were human\" and so they all try to get rid of this weakness before it's too late. But, Nazuna has no memory of her human life. What is Nazuna's hidden past? Why did Anko start killing vampires? And what is the \"secret\" that Nazuna and Anko share? For Kou, Nazuna, Anko, a fun \"late night\" doesn't end here... a new \"night\" begins!\n\n\n\n(Source: HIDIVE)",
+      "year": 2025,
+      "score": 8.4,
+      "genres": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "695b6ae426bc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "call-of-the-night-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "call-of-the-night-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "call-of-the-night-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "call-of-the-night-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "call-of-the-night-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "call-of-the-night-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "call-of-the-night-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "call-of-the-night-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "call-of-the-night-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "call-of-the-night-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "call-of-the-night-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "call-of-the-night-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
