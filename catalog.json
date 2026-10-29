@@ -422,6 +422,90 @@
           "playlist": "dandadan/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan-final-season",
+      "title": "Attack on Titan Final Season",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fattack-on-titan-final-season.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fattack-on-titan-final-season.jpg",
+      "synopsis": "It’s been four years since the Scout Regiment reached the shoreline, and the world looks different now. Things are heating up as the fate of the Scout Regiment—and the people of Paradis—are determined at last. However, Eren is missing. Will he reappear before age-old tensions between Marleyans and Eldians result in the war of all wars?\n\n\n\n(Source: Crunchyroll)",
+      "year": 2021,
+      "score": 8.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "7e12d4e716e44e313af68933bb10370940ed5171",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-final-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "attack-on-titan-final-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "attack-on-titan-final-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "attack-on-titan-final-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "attack-on-titan-final-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "attack-on-titan-final-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "attack-on-titan-final-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "attack-on-titan-final-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "attack-on-titan-final-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "attack-on-titan-final-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "attack-on-titan-final-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "attack-on-titan-final-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "attack-on-titan-final-season/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "attack-on-titan-final-season/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "attack-on-titan-final-season/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "attack-on-titan-final-season/ep16/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
