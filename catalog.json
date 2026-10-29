@@ -2493,6 +2493,32 @@
           "playlist": "death-note/ep37/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cosmic-princess-kaguya",
+      "title": "Cosmic Princess Kaguya!",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F50322%2Fposter_image%2F1ed3c2c11c300244222cb4d5bd718cd6.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F50322%2Fcover_image%2F690b7c16d13aac916e779ee20facaf0a.jpg",
+      "synopsis": "A tale of otherworldly beauty and celestial secrets unfolds in this new take on Japan’s oldest folktale.\n\n\n\nInspired by The Tale of the Bamboo Cutter, the film reimagines Japan’s oldest folktale with a modern touch by integrating music, fantasy, and contemporary animation.\n\n\n\nSet in the virtual realm of Tsukuyomi, the story unfolds as a live performance marrying original music with Yamashita’s signature style of polished visuals, emotive pacing, and dynamic 3D camerawork to boldly transform this classic tale for a new generation.\n\n\n\n(Source: Netflix, edited)",
+      "year": 2026,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Music",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "34ac5e5ca2c061ba9ee3ef4ec938f65de90a4439",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cosmic-princess-kaguya/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
