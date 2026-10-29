@@ -6476,6 +6476,30 @@
           "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "love-chunibyo-other-delusions-take-on-me",
+      "title": "Love, Chunibyo & Other Delusions: Take on Me",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f57b6f65e8455244ad49ad789ac455feee9d2b59/love-chunibyo-other-delusions-take-on-me/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f57b6f65e8455244ad49ad789ac455feee9d2b59/love-chunibyo-other-delusions-take-on-me/banner.jpg",
+      "synopsis": "Rikka is now a third-year student, but she still has \"chuunibyou\" syndrome. University entrance exams loom on the horizon, and it's spring break, and Yuuta and Rikka are together as usual. One day, Rikka's older sister Touka declares that she's going to take Rikka to Italy with her, as Touka is moving to Italy for work and she thinks they should move together as a family. Yuuta understands Touka's opinion, but thinks that at this rate he and Rikka will be separated. Shinka and the other members suggest that Yuuta and Rikka should \"elope,\" and thus sets the stage for Yuuta and Rikka's travels throughout Japan in their escape drama.\n\n\n\n(Source: Anime News Network)",
+      "year": 2018,
+      "score": 8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "767f92bf326326e54d37680cfa97ed98a3fc3e2a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "love-chunibyo-other-delusions-take-on-me/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
