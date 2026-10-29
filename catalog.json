@@ -6769,6 +6769,73 @@
           "playlist": "makeine-too-many-losing-heroines/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "apocalypse-hotel",
+      "title": "Apocalypse Hotel",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@42a0a1c46a1b951a1afc8819bb01efd08dd5fcdc/apocalypse-hotel/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@42a0a1c46a1b951a1afc8819bb01efd08dd5fcdc/apocalypse-hotel/banner.jpg",
+      "synopsis": "Following the collapse of civilization, one storied hotel stands among the ruins of Tokyo’s Ginza district. Overrun by nature, this lone hotel continues to defy humanity’s collapse. Current guests: zero. Check-ins scheduled today: zero. Yesterday’s website traffic: zero. Enter with caution in this story of survival and mystery in a world where the memory of humanity begins to fade.\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 8,
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "95999c549b05000c92a012828370205512535a48",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "apocalypse-hotel/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "apocalypse-hotel/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "apocalypse-hotel/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "apocalypse-hotel/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "apocalypse-hotel/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "apocalypse-hotel/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "apocalypse-hotel/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "apocalypse-hotel/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "apocalypse-hotel/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "apocalypse-hotel/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "apocalypse-hotel/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "apocalypse-hotel/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
