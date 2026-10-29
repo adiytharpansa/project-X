@@ -5800,6 +5800,31 @@
           "playlist": "the-summer-hikaru-died/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-strange-fake-whispers-of-dawn",
+      "title": "Fate/strange Fake -Whispers of Dawn-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e94709eb2c501dd3b08cba6b55cbd1880964c900/fate-strange-fake-whispers-of-dawn/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e94709eb2c501dd3b08cba6b55cbd1880964c900/fate-strange-fake-whispers-of-dawn/banner.jpg",
+      "synopsis": "Years after the Fifth Holy Grail War in Japan, strange reports surface of one appearing in America. Attracting new Mages and Servants, the question is raised about the relic’s authenticity. As the city of Snowfield is turned into a bloody battleground, specific details seem wrong. Is it possible someone is manipulating this twisted little play, and if so, does this mean the true Holy Grail exists?\n\n\n\n\n(Source: Crunchyroll)\n\n\n\nNote: Special premiere occurred in Los Angeles at Anime Expo before the Japanese television premiere on July 2, 2023.",
+      "year": 2023,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "67e82981a1eb1ed906d4d4ca6aca64771687eb74",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-strange-fake-whispers-of-dawn/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
