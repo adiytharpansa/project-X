@@ -1176,6 +1176,81 @@
           "playlist": "demon-slayer-kimetsu-no-yaiba-infinity-castle/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bleach-thousand-year-blood-war-the-conflict",
+      "title": "BLEACH: Thousand-Year Blood War - The Conflict",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48015%2Fposter_image%2Ffde1aaabdc07d11aabc5a4a3a3414e9c.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48015%2Fcover_image%2F7fd37521a51d5980a925fa4e1708208b.jpg",
+      "synopsis": "After an awe-inspiring battle with Ichibei Hyousube—leader of the Soul Society's Royal Guard—the powerful Yhwach moves into the final stage of his master plan. He aims to slay the Soul King, the being whose very existence maintains the status quo of three worlds: Hueco Mundo, the Soul Society, and the realm of humans that Ichigo Kurosaki and his closest friends hail from. Conquering his own bout with the remainder of the Royal Guard, Uryuu Ishida joins Yhwach in his efforts to create a new world in his image.\n\n\n\nWith a flood of resolution and newfound power, Ichigo rushes to stop Yhwach from accomplishing his ultimate goal and save the countless lives within the three existing realms. But Ichigo has a complicated lineage, one that leaves him susceptible to Yhwach's sinister influence.\n\n\n\nMeanwhile, in a final desperate gambit, Jirou Sakuranosuke Shunsui Kyouraku, the newly promoted head captain of the Soul Society's combat corps, enlists the help of an old enemy whose immense power may turn the tide of battle.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2024,
+      "score": 8.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "a76e1f6aee9d11ee1b6a87fa6ad1c4d55b3da207",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "bleach-thousand-year-blood-war-the-conflict/ep14/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
