@@ -5659,6 +5659,78 @@
           "playlist": "fire-force-season-3-part-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-butler-emerald-witch-arc",
+      "title": "Black Butler: Emerald Witch Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f73cbfdd304c4646697f81dfb6379d3a185147b2/black-butler-emerald-witch-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f73cbfdd304c4646697f81dfb6379d3a185147b2/black-butler-emerald-witch-arc/banner.jpg",
+      "synopsis": "Ciel and his loyal butler Sebastian brave a cursed forest in Germany to uncover the truth behind eerie deaths.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "1d2caf41d69e281ebd5234c0a3da5e8dc4a1bf01",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "black-butler-emerald-witch-arc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "black-butler-emerald-witch-arc/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "black-butler-emerald-witch-arc/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "black-butler-emerald-witch-arc/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "black-butler-emerald-witch-arc/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "black-butler-emerald-witch-arc/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "black-butler-emerald-witch-arc/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "black-butler-emerald-witch-arc/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "black-butler-emerald-witch-arc/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "black-butler-emerald-witch-arc/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "black-butler-emerald-witch-arc/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "black-butler-emerald-witch-arc/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "black-butler-emerald-witch-arc/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
