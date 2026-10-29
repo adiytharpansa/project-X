@@ -1042,6 +1042,68 @@
           "playlist": "vinland-saga-season-2/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-final-season",
+      "title": "My Hero Academia FINAL SEASON",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49279%2Fposter_image%2Fa718fa06480c21168f84340186042f8d.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49279%2Fcover_image%2Flarge-c9d701a40fdff80b630a479de44f3dd7.jpeg",
+      "synopsis": "Deku and the heroes are plunged into a final battle against villains across Japan. Deku, by fully unleashing One For All Quirks, faces off against Shigaraki. A young and refreshed All For One faces Armored All Might, Quirkless in his powered armor suit. Will Deku be able to bring the story of how they all became the greatest heroes to its finale? Or will everything be destroyed?!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 8.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "feef31a4f7c422958c2f434ac0fbd3ff698836dd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-final-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-hero-academia-final-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-hero-academia-final-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-hero-academia-final-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-hero-academia-final-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-hero-academia-final-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-hero-academia-final-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-hero-academia-final-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-hero-academia-final-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-hero-academia-final-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-hero-academia-final-season/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
