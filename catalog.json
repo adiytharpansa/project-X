@@ -2007,6 +2007,126 @@
           "playlist": "to-be-hero-x/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan",
+      "title": "Attack on Titan",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F7442%2Foriginal.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F7442%2Flarge.jpg",
+      "synopsis": "Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.\r\nFlash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.\r\n(Source: MangaHelpers)",
+      "year": 2013,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "aaf315ed6c4d29c1bf1baa0af478dcca48b6a327",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "attack-on-titan/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "attack-on-titan/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "attack-on-titan/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "attack-on-titan/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "attack-on-titan/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "attack-on-titan/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "attack-on-titan/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "attack-on-titan/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "attack-on-titan/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "attack-on-titan/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "attack-on-titan/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "attack-on-titan/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "attack-on-titan/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "attack-on-titan/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "attack-on-titan/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "attack-on-titan/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "attack-on-titan/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "attack-on-titan/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "attack-on-titan/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "attack-on-titan/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "attack-on-titan/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "attack-on-titan/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "attack-on-titan/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "attack-on-titan/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
