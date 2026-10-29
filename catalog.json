@@ -1729,6 +1729,74 @@
           "playlist": "oshi-no-ko-season-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan-season-2",
+      "title": "Attack on Titan Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F8671%2Foriginal.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F8671%2Foriginal.png",
+      "synopsis": "Eren Jaeger swore to wipe out every last Titan, but in a battle for his life he wound up becoming the thing he hates most. With his new powers, he fights for humanity's freedom facing the monsters that threaten his home. After a bittersweet victory against the Female Titan, Eren finds no time to rest—a horde of Titans is approaching Wall Rose and the battle for humanity continues!\n\n\n\n(Source: Funimation)",
+      "year": 2017,
+      "score": 8.5,
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "42b7fcc5eb15",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "attack-on-titan-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "attack-on-titan-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "attack-on-titan-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "attack-on-titan-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "attack-on-titan-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "attack-on-titan-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "attack-on-titan-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "attack-on-titan-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "attack-on-titan-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "attack-on-titan-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "attack-on-titan-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
