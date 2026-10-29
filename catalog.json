@@ -691,101 +691,71 @@
       ]
     },
     {
-      "id": "re-zero-starting-life-in-another-world-season-4",
-      "title": "Re:ZERO -Starting Life in Another World- Season 4",
-      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49746%2Fposter_image%2F1e33406be0996193329715bcff53deb0.jpg",
-      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49746%2Fcover_image%2F0a1b871b08665042259599eea6f60db7.jpg",
-      "synopsis": "In the deadly battle at Priestella, Subaru and his allies emerged victorious, but at great cost. As Subaru searches for a way to save Rem, Crusch, and Julius, he learns of a \"wise woman,\" Shaula, an all-seeing being said to possess every form of knowledge, who resides at the Pleiades Watchtower. Subaru and his crew must brave the uncharted Auguria Dunes to reclaim what was lost.\n\n(Source: Crunchyroll)\n\nNote: Lucca Comics & Games pre-screened episode 1 early on November 1, 2025, prior to the Japanese television broadcast on July 8th, 2026.",
-      "year": 2026,
-      "score": 8.8,
+      "id": "attack-on-titan-final-season-part-2",
+      "title": "Attack on Titan Final Season Part 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F44240%2Fposter_image%2F408da3fa4a94c0b3164ebb2093dad119.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F44240%2Fcover_image%2F414d0ee30956dbe960c5c5dfdbf6cc46.png",
+      "synopsis": "The war for Paradis zeroes in on Shiganshina just as Jaegerists have seized control. After taking a huge blow from a surprise attack led by Eren, Marley swiftly acts to return the favor. With Zeke’s true plan revealed and a military forced under new rule, this battle might be fought on two fronts. Does Eren intend on fulfilling his half-brother’s wishes or does he have a plan of his own?\n\n\n\n(Source: Funimation)",
+      "year": 2022,
+      "score": 8.7,
       "status": "FINISHED",
       "genres": [
         "Action",
-        "Adventure",
         "Drama",
         "Fantasy",
-        "Psychological",
-        "Romance",
-        "Thriller"
+        "Mystery",
+        "Psychological"
       ],
-      "repo": "adiytharpansa/gudang-8",
-      "pin": "87822b1b990bf3bc59ff9f3a388e06a3196b0ce4",
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "fca430f8f92444026208bd39e9b391583905f8da",
       "episodes": [
         {
           "number": 1,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep1/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep2/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep3/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep4/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep5/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep6/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep7/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep8/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep9/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep10/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep11/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "re-zero-starting-life-in-another-world-season-4/ep19/playlist.m3u8"
+          "playlist": "attack-on-titan-final-season-part-2/ep12/playlist.m3u8"
         }
       ]
     }
