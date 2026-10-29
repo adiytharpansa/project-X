@@ -2519,6 +2519,75 @@
           "playlist": "cosmic-princess-kaguya/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kingdom-season-6",
+      "title": "Kingdom Season 6",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2025%2F10%2F1759600792-9201-1759596949-5711-Kingdom-Season-6.webp",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2025%2F10%2F1759600792-9201-1759596949-5711-Kingdom-Season-6.webp",
+      "synopsis": "The sixth season of Kingdom.",
+      "year": 2025,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Action"
+      ],
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "0b5963fa15f9540cdb02279a87539223923b226d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kingdom-season-6/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kingdom-season-6/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kingdom-season-6/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kingdom-season-6/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kingdom-season-6/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kingdom-season-6/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kingdom-season-6/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kingdom-season-6/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kingdom-season-6/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kingdom-season-6/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kingdom-season-6/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kingdom-season-6/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kingdom-season-6/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
