@@ -3332,6 +3332,617 @@
           "playlist": "mushoku-tensei-jobless-reincarnation-season-2-part-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hunter-x-hunter-2011",
+      "title": "Hunter x Hunter (2011)",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F6448%2Flarge.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F6448%2Flarge.jpg",
+      "synopsis": "A Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him.\nAfter becoming 12, Gon leaves his home and takes on the task of entering the Hunter exam, notorious for its low success rate and high probability of death to become an official Hunter. He befriends the revenge-driven Kurapika, the doctor-to-be Leorio and the rebellious ex-assassin Killua in the exam, with their friendship prevailing throughout the many trials and threats they come upon taking on the dangerous career of a Hunter.",
+      "year": 2011,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "5733f6b2c6ece4b4eca00387e1a030f5ba9d8ce8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hunter-x-hunter-2011/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hunter-x-hunter-2011/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hunter-x-hunter-2011/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hunter-x-hunter-2011/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hunter-x-hunter-2011/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hunter-x-hunter-2011/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hunter-x-hunter-2011/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hunter-x-hunter-2011/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hunter-x-hunter-2011/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hunter-x-hunter-2011/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hunter-x-hunter-2011/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hunter-x-hunter-2011/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "hunter-x-hunter-2011/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "hunter-x-hunter-2011/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "hunter-x-hunter-2011/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "hunter-x-hunter-2011/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "hunter-x-hunter-2011/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "hunter-x-hunter-2011/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "hunter-x-hunter-2011/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "hunter-x-hunter-2011/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "hunter-x-hunter-2011/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "hunter-x-hunter-2011/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "hunter-x-hunter-2011/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "hunter-x-hunter-2011/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "hunter-x-hunter-2011/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "hunter-x-hunter-2011/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "hunter-x-hunter-2011/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "hunter-x-hunter-2011/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "hunter-x-hunter-2011/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "hunter-x-hunter-2011/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "hunter-x-hunter-2011/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "hunter-x-hunter-2011/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "hunter-x-hunter-2011/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "hunter-x-hunter-2011/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "hunter-x-hunter-2011/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "hunter-x-hunter-2011/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "hunter-x-hunter-2011/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "hunter-x-hunter-2011/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "hunter-x-hunter-2011/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "hunter-x-hunter-2011/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "hunter-x-hunter-2011/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "hunter-x-hunter-2011/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "hunter-x-hunter-2011/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "hunter-x-hunter-2011/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "hunter-x-hunter-2011/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "hunter-x-hunter-2011/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "hunter-x-hunter-2011/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "hunter-x-hunter-2011/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "hunter-x-hunter-2011/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "hunter-x-hunter-2011/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "hunter-x-hunter-2011/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "hunter-x-hunter-2011/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "hunter-x-hunter-2011/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "hunter-x-hunter-2011/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "hunter-x-hunter-2011/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "hunter-x-hunter-2011/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "hunter-x-hunter-2011/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "hunter-x-hunter-2011/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "hunter-x-hunter-2011/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "hunter-x-hunter-2011/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "hunter-x-hunter-2011/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "hunter-x-hunter-2011/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "hunter-x-hunter-2011/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "hunter-x-hunter-2011/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "hunter-x-hunter-2011/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "hunter-x-hunter-2011/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "hunter-x-hunter-2011/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "hunter-x-hunter-2011/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "hunter-x-hunter-2011/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "hunter-x-hunter-2011/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "hunter-x-hunter-2011/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "hunter-x-hunter-2011/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "hunter-x-hunter-2011/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "hunter-x-hunter-2011/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "hunter-x-hunter-2011/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "hunter-x-hunter-2011/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "hunter-x-hunter-2011/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "hunter-x-hunter-2011/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "hunter-x-hunter-2011/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "hunter-x-hunter-2011/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "hunter-x-hunter-2011/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "hunter-x-hunter-2011/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "hunter-x-hunter-2011/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "hunter-x-hunter-2011/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "hunter-x-hunter-2011/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "hunter-x-hunter-2011/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "hunter-x-hunter-2011/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "hunter-x-hunter-2011/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "hunter-x-hunter-2011/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "hunter-x-hunter-2011/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "hunter-x-hunter-2011/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "hunter-x-hunter-2011/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "hunter-x-hunter-2011/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "hunter-x-hunter-2011/ep94/playlist.m3u8"
+        },
+        {
+          "number": 95,
+          "playlist": "hunter-x-hunter-2011/ep95/playlist.m3u8"
+        },
+        {
+          "number": 96,
+          "playlist": "hunter-x-hunter-2011/ep96/playlist.m3u8"
+        },
+        {
+          "number": 97,
+          "playlist": "hunter-x-hunter-2011/ep97/playlist.m3u8"
+        },
+        {
+          "number": 98,
+          "playlist": "hunter-x-hunter-2011/ep98/playlist.m3u8"
+        },
+        {
+          "number": 99,
+          "playlist": "hunter-x-hunter-2011/ep99/playlist.m3u8"
+        },
+        {
+          "number": 100,
+          "playlist": "hunter-x-hunter-2011/ep100/playlist.m3u8"
+        },
+        {
+          "number": 101,
+          "playlist": "hunter-x-hunter-2011/ep101/playlist.m3u8"
+        },
+        {
+          "number": 102,
+          "playlist": "hunter-x-hunter-2011/ep102/playlist.m3u8"
+        },
+        {
+          "number": 103,
+          "playlist": "hunter-x-hunter-2011/ep103/playlist.m3u8"
+        },
+        {
+          "number": 104,
+          "playlist": "hunter-x-hunter-2011/ep104/playlist.m3u8"
+        },
+        {
+          "number": 105,
+          "playlist": "hunter-x-hunter-2011/ep105/playlist.m3u8"
+        },
+        {
+          "number": 106,
+          "playlist": "hunter-x-hunter-2011/ep106/playlist.m3u8"
+        },
+        {
+          "number": 107,
+          "playlist": "hunter-x-hunter-2011/ep107/playlist.m3u8"
+        },
+        {
+          "number": 108,
+          "playlist": "hunter-x-hunter-2011/ep108/playlist.m3u8"
+        },
+        {
+          "number": 109,
+          "playlist": "hunter-x-hunter-2011/ep109/playlist.m3u8"
+        },
+        {
+          "number": 110,
+          "playlist": "hunter-x-hunter-2011/ep110/playlist.m3u8"
+        },
+        {
+          "number": 111,
+          "playlist": "hunter-x-hunter-2011/ep111/playlist.m3u8"
+        },
+        {
+          "number": 112,
+          "playlist": "hunter-x-hunter-2011/ep112/playlist.m3u8"
+        },
+        {
+          "number": 113,
+          "playlist": "hunter-x-hunter-2011/ep113/playlist.m3u8"
+        },
+        {
+          "number": 114,
+          "playlist": "hunter-x-hunter-2011/ep114/playlist.m3u8"
+        },
+        {
+          "number": 115,
+          "playlist": "hunter-x-hunter-2011/ep115/playlist.m3u8"
+        },
+        {
+          "number": 116,
+          "playlist": "hunter-x-hunter-2011/ep116/playlist.m3u8"
+        },
+        {
+          "number": 117,
+          "playlist": "hunter-x-hunter-2011/ep117/playlist.m3u8"
+        },
+        {
+          "number": 118,
+          "playlist": "hunter-x-hunter-2011/ep118/playlist.m3u8"
+        },
+        {
+          "number": 119,
+          "playlist": "hunter-x-hunter-2011/ep119/playlist.m3u8"
+        },
+        {
+          "number": 120,
+          "playlist": "hunter-x-hunter-2011/ep120/playlist.m3u8"
+        },
+        {
+          "number": 121,
+          "playlist": "hunter-x-hunter-2011/ep121/playlist.m3u8"
+        },
+        {
+          "number": 122,
+          "playlist": "hunter-x-hunter-2011/ep122/playlist.m3u8"
+        },
+        {
+          "number": 123,
+          "playlist": "hunter-x-hunter-2011/ep123/playlist.m3u8"
+        },
+        {
+          "number": 124,
+          "playlist": "hunter-x-hunter-2011/ep124/playlist.m3u8"
+        },
+        {
+          "number": 125,
+          "playlist": "hunter-x-hunter-2011/ep125/playlist.m3u8"
+        },
+        {
+          "number": 126,
+          "playlist": "hunter-x-hunter-2011/ep126/playlist.m3u8"
+        },
+        {
+          "number": 127,
+          "playlist": "hunter-x-hunter-2011/ep127/playlist.m3u8"
+        },
+        {
+          "number": 128,
+          "playlist": "hunter-x-hunter-2011/ep128/playlist.m3u8"
+        },
+        {
+          "number": 129,
+          "playlist": "hunter-x-hunter-2011/ep129/playlist.m3u8"
+        },
+        {
+          "number": 130,
+          "playlist": "hunter-x-hunter-2011/ep130/playlist.m3u8"
+        },
+        {
+          "number": 131,
+          "playlist": "hunter-x-hunter-2011/ep131/playlist.m3u8"
+        },
+        {
+          "number": 132,
+          "playlist": "hunter-x-hunter-2011/ep132/playlist.m3u8"
+        },
+        {
+          "number": 133,
+          "playlist": "hunter-x-hunter-2011/ep133/playlist.m3u8"
+        },
+        {
+          "number": 134,
+          "playlist": "hunter-x-hunter-2011/ep134/playlist.m3u8"
+        },
+        {
+          "number": 135,
+          "playlist": "hunter-x-hunter-2011/ep135/playlist.m3u8"
+        },
+        {
+          "number": 136,
+          "playlist": "hunter-x-hunter-2011/ep136/playlist.m3u8"
+        },
+        {
+          "number": 137,
+          "playlist": "hunter-x-hunter-2011/ep137/playlist.m3u8"
+        },
+        {
+          "number": 138,
+          "playlist": "hunter-x-hunter-2011/ep138/playlist.m3u8"
+        },
+        {
+          "number": 139,
+          "playlist": "hunter-x-hunter-2011/ep139/playlist.m3u8"
+        },
+        {
+          "number": 140,
+          "playlist": "hunter-x-hunter-2011/ep140/playlist.m3u8"
+        },
+        {
+          "number": 141,
+          "playlist": "hunter-x-hunter-2011/ep141/playlist.m3u8"
+        },
+        {
+          "number": 142,
+          "playlist": "hunter-x-hunter-2011/ep142/playlist.m3u8"
+        },
+        {
+          "number": 143,
+          "playlist": "hunter-x-hunter-2011/ep143/playlist.m3u8"
+        },
+        {
+          "number": 144,
+          "playlist": "hunter-x-hunter-2011/ep144/playlist.m3u8"
+        },
+        {
+          "number": 145,
+          "playlist": "hunter-x-hunter-2011/ep145/playlist.m3u8"
+        },
+        {
+          "number": 146,
+          "playlist": "hunter-x-hunter-2011/ep146/playlist.m3u8"
+        },
+        {
+          "number": 147,
+          "playlist": "hunter-x-hunter-2011/ep147/playlist.m3u8"
+        },
+        {
+          "number": 148,
+          "playlist": "hunter-x-hunter-2011/ep148/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
