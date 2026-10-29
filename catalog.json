@@ -2127,6 +2127,74 @@
           "playlist": "attack-on-titan/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan-season-3",
+      "title": "Attack on Titan Season 3",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F13569%2Flarge.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F13569%2Flarge.jpg",
+      "synopsis": "Eren and his companions in the 104th are assigned to the newly-formed Levi Squad, whose assignment is to keep Eren and Historia safe given Eren's newly-discovered power and Historia's knowledge and pedigree. Levi and Erwin have good reason to be concerned, because the priest of the Church that Hanji had hidden away was found tortured to death, making it clear that the Military Police are involved with the cover-up. Things get more harrowing when the MPs make a move on Erwin and the Levi Squad narrowly avoids capture. Eren is also having problems with his Titan transformation, and a deadly killer has been hired to secure Eren and Historia, one Levi knows all too well from his youth.\n\n(Source: Anime News Network)",
+      "year": 2018,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "5155021626b584c268b173a317eef8a359b19a93",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-season-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "attack-on-titan-season-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "attack-on-titan-season-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "attack-on-titan-season-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "attack-on-titan-season-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "attack-on-titan-season-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "attack-on-titan-season-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "attack-on-titan-season-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "attack-on-titan-season-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "attack-on-titan-season-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "attack-on-titan-season-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "attack-on-titan-season-3/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
