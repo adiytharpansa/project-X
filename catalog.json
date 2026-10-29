@@ -6635,6 +6635,73 @@
           "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blue-exorcist-the-blue-night-saga",
+      "title": "Blue Exorcist -The Blue Night Saga-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c33a9d33e581d16b5f86314af6382b8f60b78eb6/blue-exorcist-the-blue-night-saga/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c33a9d33e581d16b5f86314af6382b8f60b78eb6/blue-exorcist-the-blue-night-saga/banner.jpg",
+      "synopsis": "Yukio parts ways with Rin and makes his way to the Illuminati. In order to face Yukio, who is seeking strength and the truth, Rin decides that he must learn the secret of their birth.\nWith Mephisto’s guidance, he embarks on a journey to the past.\n\n\n\nRin traces the footsteps of their adoptive father, Shirou Fujimoto, and birth mother, Yuri Egin.\nBut the path they took in life was harsher than Rin could have ever imagined….\n\n\n\nWhy were children born between the Demon God Satan and a human? What was the Blue Night? And when Rin learns everything, what will be his answer?\n\n\n\n(Source: Official Site)",
+      "year": 2025,
+      "score": 8,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "d51c3bf6760686a107b70bfa5ca04edb5e5d71e7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "blue-exorcist-the-blue-night-saga/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
