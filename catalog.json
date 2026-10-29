@@ -3965,6 +3965,125 @@
           "playlist": "jujutsu-kaisen-0/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haikyu",
+      "title": "Haikyu!!",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F8133%2Foriginal.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F8133%2Flarge.jpg",
+      "synopsis": "Inspired after watching a volleyball ace nicknamed \"Little Giant\" in action, small-statured Shouyou Hinata revives the volleyball club at his middle school. The newly-formed team even makes it to a tournament; however, their first match turns out to be their last when they are brutally squashed by the \"King of the Court,\" Tobio Kageyama. Hinata vows to surpass Kageyama, and so after graduating from middle school, he joins Karasuno High School's volleyball team—only to find that his sworn rival, Kageyama, is now his teammate.\n\n\n\nThanks to his short height, Hinata struggles to find his role on the team, even with his superior jumping power. Surprisingly, Kageyama has his own problems that only Hinata can help with, and learning to work together appears to be the only way for the team to be successful. Based on Haruichi Furudate's popular shounen manga of the same name, Haikyuu!! is an exhilarating and emotional sports comedy following two determined athletes as they attempt to patch a heated rivalry in order to make their high school volleyball team the best in Japan.\n\n\n\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "473ec7b6f4a09e6dfb1b51656f2a0f78f04ba90b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haikyu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "haikyu/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "haikyu/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "haikyu/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "haikyu/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "haikyu/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "haikyu/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "haikyu/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "haikyu/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "haikyu/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "haikyu/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "haikyu/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "haikyu/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "haikyu/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "haikyu/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "haikyu/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "haikyu/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "haikyu/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "haikyu/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "haikyu/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "haikyu/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "haikyu/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "haikyu/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "haikyu/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "haikyu/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
