@@ -4084,6 +4084,72 @@
           "playlist": "haikyu/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "botan-kamiina-fully-blossoms-when-drunk",
+      "title": "Botan Kamiina Fully Blossoms When Drunk",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F04%2Fbotan-kamiina-fully-blossoms-when-drunk.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F04%2Fbotan-kamiina-fully-blossoms-when-drunk.jpg",
+      "synopsis": "New university life, new dormmates…and a whole new world of drinks! Botan Kamiina takes her first sip of alcohol after spotting the quiet dorm leader, Ibuki Tonami, enjoying a highball alone. From shochu to whisky, Botan shares the joy of drinking with friends, while Ibuki slowly learns that some pleasures are better when shared.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "9f603b7b752fed163e1dc8946e4057032158f773",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "botan-kamiina-fully-blossoms-when-drunk/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
