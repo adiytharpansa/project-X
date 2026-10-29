@@ -5443,6 +5443,79 @@
           "playlist": "spy-x-family-season-3/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rascal-does-not-dream-of-santa-claus",
+      "title": "Rascal Does Not Dream of Santa Claus",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9329e3b7cc2a3e62a9bf6d821ac65113d7765c62/rascal-does-not-dream-of-santa-claus/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9329e3b7cc2a3e62a9bf6d821ac65113d7765c62/rascal-does-not-dream-of-santa-claus/poster.jpg",
+      "synopsis": "After encountering various girls going through Puberty Syndrome, Sakuta Azusagawa's high school days have come to a close, and he is now a university student. He enrolls at a university in Kanazawa-hakkei alongside his girlfriend Mai Sakurajima, a nationally famed actress. Off campus, he stumbles upon an out-of-season miniskirt Santa. Precognitive dreams, an anonymous online singer, poltergeists buzzing on social media... A mysterious tale with enigmatic phenomenons surrounding girls with wavering hearts starts again. Puberty continues...\n\n\n \n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Romance",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "8f7cd8b3d34c8956a906773d4e9c0209c152fc90",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "rascal-does-not-dream-of-santa-claus/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
