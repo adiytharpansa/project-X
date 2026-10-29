@@ -6570,6 +6570,71 @@
           "playlist": "secrets-of-the-silent-witch/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc",
+      "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f7a8944926028e5a18f9fb483ec13bd2fd175b2c/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f7a8944926028e5a18f9fb483ec13bd2fd175b2c/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/banner.jpg",
+      "synopsis": "Tanjiro’s journey leads him to the Swordsmith Village, where he reunites with two Hashira, members of the Demon Slayer Corps’ highest-ranking swordsmen - Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji. With the shadows of demons lurking near, a new battle begins for Tanjiro and his comrades.\n\n\n\nNotes:\n\n• The first episode has a runtime of ~49 minutes, and received an early premiere in cinemas worldwide as part of a special screening alongside the final two episodes of Kimetsu no Yaiba: Yuukaku-hen.\n\n• The final episode has a runtime of ~52 minutes.",
+      "year": 2023,
+      "score": 8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "cd467b7291dd3df68435fdd072089d4872a10e06",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
