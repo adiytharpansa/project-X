@@ -613,6 +613,74 @@
           "playlist": "solo-leveling-season-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gintama-season-4",
+      "title": "Gintama Season 4",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F12553%2Foriginal.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F12553%2Flarge.jpg",
+      "synopsis": "After joining the resistance against the bakufu, Gintoki and the gang are in hiding, along with Katsura and his Joui rebels. The Yorozuya is soon approached by Nobume Imai and two members of the Kiheitai, who explain that the Harusame pirates have turned against 7th Division Captain Kamui and their former ally Takasugi. The Kiheitai present Gintoki with a job: find Takasugi, who has been missing since his ship was ambushed in a Harusame raid. Nobume also makes a stunning revelation regarding the Tendoushuu, a secret organization pulling the strings of numerous factions, and their leader Utsuro, the shadowy figure with an uncanny resemblance to Gintoki's former teacher.\n\n\n\nHitching a ride on Sakamoto's space ship, the Yorozuya and Katsura set out for Rakuyou, Kagura's home planet, where the various factions have gathered and tensions are brewing. Long-held grudges, political infighting, and the Tendoushuu's sinister overarching plan finally culminate into a massive, decisive battle on Rakuyou.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2017,
+      "score": 8.9,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "e55f1b64d75a839fb11482e232414c2ca5f28acd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gintama-season-4/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gintama-season-4/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gintama-season-4/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gintama-season-4/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gintama-season-4/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gintama-season-4/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gintama-season-4/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gintama-season-4/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gintama-season-4/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gintama-season-4/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gintama-season-4/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gintama-season-4/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
