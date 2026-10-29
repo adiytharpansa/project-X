@@ -2930,24 +2930,73 @@
       ]
     },
     {
-      "id": "100-meters",
-      "title": "100 Meters",
-      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49072%2Fposter_image%2Fca31dd000fc1ba8a1dfd6ef1a8752c49.jpg",
-      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49072%2Fcover_image%2Ff29e9f1a739fc66b10e585b8b42e24c9.jpg",
-      "synopsis": "100 METERS follows Togashi, a track star who is born to run. As a kid, he is naturally gifted and wins every 100-meter race without effort. But in sixth grade, he meets Komiya, a transfer student who is full of determination but lacks technique. In teaching him, Togashi gives Komiya a new purpose: to win no matter what. Years pass by, and Togashi and Komiya meet again as rivals on the track and reveal their true selves.\n\n\n\n(Source: GKIDS)",
+      "id": "medalist",
+      "title": "Medalist",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F01%2F1769511711-2160-1769408226-6716-155038.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F01%2F1769511711-2160-1769408226-6716-155038.jpg",
+      "synopsis": "Tsukasa Akeuraji, a frustrated skater, meets a girl called Inori Yuitsuka, who is yearning to enter the world of figure skating. Motivated by Inori's obsession on the rink, Tsukasa takes on coaching Inori himself. Inori's talent blossoms, and Tsukasa becomes a brilliant mentor. Together they aim to make her a glorious medalist!! \n\n\n\n(Source: Disney+)",
       "year": 2025,
       "score": 8.3,
       "status": "FINISHED",
       "genres": [
         "Drama",
+        "Psychological",
         "Sports"
       ],
-      "repo": "adiytharpansa/gudang-8",
-      "pin": "2d6da803765ec642a24bc964ea888d5b25faf756",
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "c74cd2beb11ec7e9195e0450f642ad56be344827",
       "episodes": [
         {
           "number": 1,
-          "playlist": "100-meters/ep1/playlist.m3u8"
+          "playlist": "medalist/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "medalist/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "medalist/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "medalist/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "medalist/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "medalist/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "medalist/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "medalist/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "medalist/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "medalist/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "medalist/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "medalist/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "medalist/ep13/playlist.m3u8"
         }
       ]
     }
