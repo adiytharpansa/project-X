@@ -392,6 +392,32 @@
           "playlist": "kaiju-no-8/ep2/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dandadan",
+      "title": "Dan Da Dan",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fdandadan.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F05%2Fdandadan.jpg",
+      "synopsis": "This is a story about Momo, a high school girl who comes from a family of spirit mediums, and her classmate Okarun, an occult fanatic. After Momo rescues Okarun from being bullied, they begin talking. However, an argument ensues between them since Momo believes in ghosts but denies aliens exist, and Okarun believes in aliens but denies ghosts exist.\n\n\n\nTo prove to each other what they believe in is real, Momo goes to an abandoned hospital where a UFO has been spotted and Okarun goes to a tunnel rumored to be haunted. To their surprise, they each encounter overwhelming paranormal activities that transcend comprehension. Amid these predicaments, Momo awakens her hidden power and Okarun gains the power of a curse to overcome these new dangers! Their fateful love begins as well!?\n\n\n\nThe story of the occult battle and adolescence starts!\n\n\n(Source: Crunchyroll) \n\n\n\nNotes: \n\n- Worldwide premiere of Episode 1 before the Japanese television premiere occurred at Anime Expo July 6, 2024. \n\n- Episodes 1-3 titled as DAN DA DAN: FIRST ENCOUNTER was pre-screened in advance in theaters on August 31, 2024 in Asia, September 7, 2024 in Europe and September 13, 2024 in North America. The regular TV broadcast began October 4, 2024.",
+      "year": 2024,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-2",
+      "pin": "d7731952b453c8b472a2a30b6d852fe24663b046",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dandadan/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
