@@ -1251,6 +1251,77 @@
           "playlist": "bleach-thousand-year-blood-war-the-conflict/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bleach-thousand-year-blood-war-the-separation",
+      "title": "BLEACH: Thousand-Year Blood War - The Separation",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F46903%2Fposter_image%2Fc950da378bba0224f72c8720855590fb.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F46903%2Fcover_image%2F9d8cd82f2e3c9f53820fe36993b3f1f9.jpg",
+      "synopsis": "After a brutal surprise attack by the forces of Quincy King Yhwach, the resident Reapers of the Soul Society lick their wounds and mourn their losses. Many of the surviving Soul Reaper captains train to battle without their Bankai, the ultimate technique wielded by the fiercest warriors.\n\n\n\nIn the previous assault, Ichigo Kurosaki narrowly managed to help fend off Yhwach's fearsome wrath. However, to ultimately defeat his godly adversary and save his allies, Ichigo must now undergo severe training that will push him beyond his physical, emotional, and mental limits.\n\n\n\nThough Yhwach already holds the upper hand in this ongoing blood feud, he also successfully recruits Uryuu Ishida, Ichigo's close friend and rival, to be his successor. Yhwach strikes out once again at the weakened Soul Society, intent on finally obliterating his long-standing enemies. As Ichigo struggles to attain new power, the Soul Reaper captains fight for survival and borrowed time.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2023,
+      "score": 8.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "2eded2dd6134f31b8dcc98b3af3ff8f4561f6c43",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "bleach-thousand-year-blood-war-the-separation/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
