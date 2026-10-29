@@ -4845,6 +4845,282 @@
           "playlist": "fullmetal-alchemist/ep51/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fullmetal-alchemist-brotherhood",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b7c950b1a3046544a9bd1c903d811db1ade2d2e3/fullmetal-alchemist-brotherhood/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b7c950b1a3046544a9bd1c903d811db1ade2d2e3/fullmetal-alchemist-brotherhood/banner.jpg",
+      "synopsis": "\"In order for something to be obtained, something of equal value must be lost.\"\n\nAlchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal Alchemist.\n\nThree years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity.\n\n(Source: MAL Rewrite)",
+      "year": 2009,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "8a0c93f70fe828cd3c4854e008ed2e1d52cb1204",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fullmetal-alchemist-brotherhood/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fullmetal-alchemist-brotherhood/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fullmetal-alchemist-brotherhood/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fullmetal-alchemist-brotherhood/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fullmetal-alchemist-brotherhood/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fullmetal-alchemist-brotherhood/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fullmetal-alchemist-brotherhood/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fullmetal-alchemist-brotherhood/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fullmetal-alchemist-brotherhood/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fullmetal-alchemist-brotherhood/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fullmetal-alchemist-brotherhood/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fullmetal-alchemist-brotherhood/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fullmetal-alchemist-brotherhood/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "fullmetal-alchemist-brotherhood/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "fullmetal-alchemist-brotherhood/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "fullmetal-alchemist-brotherhood/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "fullmetal-alchemist-brotherhood/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "fullmetal-alchemist-brotherhood/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "fullmetal-alchemist-brotherhood/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "fullmetal-alchemist-brotherhood/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "fullmetal-alchemist-brotherhood/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "fullmetal-alchemist-brotherhood/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "fullmetal-alchemist-brotherhood/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "fullmetal-alchemist-brotherhood/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "fullmetal-alchemist-brotherhood/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "fullmetal-alchemist-brotherhood/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "fullmetal-alchemist-brotherhood/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "fullmetal-alchemist-brotherhood/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "fullmetal-alchemist-brotherhood/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "fullmetal-alchemist-brotherhood/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "fullmetal-alchemist-brotherhood/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "fullmetal-alchemist-brotherhood/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "fullmetal-alchemist-brotherhood/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "fullmetal-alchemist-brotherhood/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "fullmetal-alchemist-brotherhood/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "fullmetal-alchemist-brotherhood/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "fullmetal-alchemist-brotherhood/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "fullmetal-alchemist-brotherhood/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "fullmetal-alchemist-brotherhood/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "fullmetal-alchemist-brotherhood/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "fullmetal-alchemist-brotherhood/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "fullmetal-alchemist-brotherhood/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "fullmetal-alchemist-brotherhood/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "fullmetal-alchemist-brotherhood/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "fullmetal-alchemist-brotherhood/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "fullmetal-alchemist-brotherhood/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "fullmetal-alchemist-brotherhood/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "fullmetal-alchemist-brotherhood/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "fullmetal-alchemist-brotherhood/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "fullmetal-alchemist-brotherhood/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "fullmetal-alchemist-brotherhood/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "fullmetal-alchemist-brotherhood/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "fullmetal-alchemist-brotherhood/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "fullmetal-alchemist-brotherhood/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "fullmetal-alchemist-brotherhood/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "fullmetal-alchemist-brotherhood/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "fullmetal-alchemist-brotherhood/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "fullmetal-alchemist-brotherhood/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "fullmetal-alchemist-brotherhood/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "fullmetal-alchemist-brotherhood/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "fullmetal-alchemist-brotherhood/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "fullmetal-alchemist-brotherhood/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "fullmetal-alchemist-brotherhood/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "fullmetal-alchemist-brotherhood/ep64/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
