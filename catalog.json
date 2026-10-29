@@ -6836,6 +6836,74 @@
           "playlist": "apocalypse-hotel/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-dress-up-darling",
+      "title": "My Dress-Up Darling",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@249438d40a6807efb8c534b9be545595f5441a5a/my-dress-up-darling/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@249438d40a6807efb8c534b9be545595f5441a5a/my-dress-up-darling/poster.jpg",
+      "synopsis": "High schooler Wakana Gojou cares about one thing: making Hina dolls. With nobody to share his obsession, he has trouble finding friends—or even holding conversation. But after the school’s most popular girl, Marin Kitagawa, reveals a secret of her own, he discovers a new purpose for his sewing skills. Together, they’ll make her cosplay dreams come true! \n\n\n\n(Source: Funimation)",
+      "year": 2022,
+      "score": 8,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "7a77a6bd7b2b94ec97e18a82ab2bd61477a27d46",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-dress-up-darling/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-dress-up-darling/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-dress-up-darling/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-dress-up-darling/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-dress-up-darling/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-dress-up-darling/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-dress-up-darling/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-dress-up-darling/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-dress-up-darling/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-dress-up-darling/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-dress-up-darling/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-dress-up-darling/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
