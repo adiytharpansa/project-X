@@ -105,11 +105,15 @@
         "Supernatural"
       ],
       "repo": "adiytharpansa/gudang-2",
-      "pin": "0287a1ced27b5914e9e08c857838995c0096ae3a",
+      "pin": "2eb0addd21eb81818c698c31733bbb5380881002",
       "episodes": [
         {
           "number": 1,
           "playlist": "chainsaw-man/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "chainsaw-man/ep2/playlist.m3u8"
         }
       ]
     },
