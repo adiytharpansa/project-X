@@ -6146,6 +6146,77 @@
           "playlist": "though-i-am-an-inept-villainess/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "go-for-it-nakamura-kun",
+      "title": "Go For It, Nakamura-kun!!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@381e99958d9b5fdba122bbd1ac1fcb0a1edb63d1/go-for-it-nakamura-kun/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@381e99958d9b5fdba122bbd1ac1fcb0a1edb63d1/go-for-it-nakamura-kun/banner.jpg",
+      "synopsis": "Love at first sight is no myth—just ask Okuto Nakamura. Whenever his dreamy classmate Aiki Hirose enters the room, his heart skips a beat, despite the fact that they’ve never actually spoken. Not to mention, Nakamura is a complete klutz with zero friends. Will he ruin his chance at love before it even begins?\n\n\n\n(Source: Crunchyroll)\n\n\n\nNote: The series streamed a week in advance on Hulu Japan starting with episode 2 released alongside episode 1.",
+      "year": 2026,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "6a6cf4f82d517b48bcd8274ccccba0ca3eefb48b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "go-for-it-nakamura-kun/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "go-for-it-nakamura-kun/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "go-for-it-nakamura-kun/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "go-for-it-nakamura-kun/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "go-for-it-nakamura-kun/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "go-for-it-nakamura-kun/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "go-for-it-nakamura-kun/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "go-for-it-nakamura-kun/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "go-for-it-nakamura-kun/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "go-for-it-nakamura-kun/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "go-for-it-nakamura-kun/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "go-for-it-nakamura-kun/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "go-for-it-nakamura-kun/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
