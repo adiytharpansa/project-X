@@ -1322,6 +1322,131 @@
           "playlist": "bleach-thousand-year-blood-war-the-separation/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "demon-slayer-kimetsu-no-yaiba",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F41370%2Foriginal.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F41370%2Fcover_image%2Flarge-3de3cc6d2b33162c928de10aa201e4ba.jpeg",
+      "synopsis": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 8.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "0ddd87af4ac065b691d34b9dd0e0b381ba97f475",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "demon-slayer-kimetsu-no-yaiba/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
