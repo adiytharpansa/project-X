@@ -3943,6 +3943,28 @@
           "playlist": "hunter-x-hunter-2011/ep148/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "jujutsu-kaisen-0",
+      "title": "Jujutsu Kaisen 0",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F44212%2Fposter_image%2Flarge-025f4587e9eccc77dcb3f204b2a8457c.jpeg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F44212%2Fcover_image%2Flarge-114e5e1e5525f1f8ef2c83a3367baf26.jpeg",
+      "synopsis": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?\n\n\n\n(Source: VIZ Media)",
+      "year": 2021,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "9b6bb21ab6c3d63226ac5a93d245fd8b54bd7ede",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "jujutsu-kaisen-0/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
