@@ -1104,6 +1104,53 @@
           "playlist": "my-hero-academia-final-season/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "false-memory-2026",
+      "title": "False Memory (2026)",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49803%2Fposter_image%2Fdcc52191efbacf0cb5d856fb68ef78a6.png",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49803%2Fposter_image%2Fdcc52191efbacf0cb5d856fb68ef78a6.png",
+      "synopsis": "In order to return to the past, Guan Chao searches for the \"Burning Stone\", the energy source that can activate the Time Gun, but unexpectedly falls into the Memory Administration Bureau. To return to reality, Guan Chao teams up with memory administrators such as Fang Tang and Bai Zhong to recover the BUG Beings in the memory layers level by level. As the battles conclude one after another, what Guan Chao must face is...\n\n\n\n(Source: Bilibili, translated)",
+      "year": null,
+      "score": 8.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "210978eb1f891f37980a39f82421665aca43a0de",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "false-memory-2026/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "false-memory-2026/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "false-memory-2026/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "false-memory-2026/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "false-memory-2026/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "false-memory-2026/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "false-memory-2026/ep7/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
