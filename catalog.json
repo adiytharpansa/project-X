@@ -2588,6 +2588,73 @@
           "playlist": "kingdom-season-6/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "grand-blue-dreaming-season-2",
+      "title": "Grand Blue Dreaming Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49247%2Fposter_image%2Flarge-86ebd97bccad5140d070949606cbfc53.jpeg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49247%2Fposter_image%2Flarge-86ebd97bccad5140d070949606cbfc53.jpeg",
+      "synopsis": "University is back in session for Iori, and so are the booze-fueled parties! Between diving club shenanigans, a surprise from his sister, and wild tests of courage, normal college life is anything but. Dive back into the madness with Iori and his beloved crew of lively splash artists.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 8.4,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "e58b549c37fb908c744456f238216b7beda0d329",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "grand-blue-dreaming-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "grand-blue-dreaming-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "grand-blue-dreaming-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "grand-blue-dreaming-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "grand-blue-dreaming-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "grand-blue-dreaming-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "grand-blue-dreaming-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "grand-blue-dreaming-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "grand-blue-dreaming-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "grand-blue-dreaming-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "grand-blue-dreaming-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "grand-blue-dreaming-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
