@@ -6500,6 +6500,76 @@
           "playlist": "love-chunibyo-other-delusions-take-on-me/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "secrets-of-the-silent-witch",
+      "title": "Secrets of the Silent Witch",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3b1875b41bdec3376b2f1d6b6a153c766fc60ec9/secrets-of-the-silent-witch/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3b1875b41bdec3376b2f1d6b6a153c766fc60ec9/secrets-of-the-silent-witch/banner.jpg",
+      "synopsis": "Monica Everett, the Silent Witch, is the world’s only practitioner of Voiceless Magic, a veritable heroine who single-handedly fended off the Black Dragon of legend. However, the young prodigy is actually…super-duper shy! Yup, turns out she only learned Voiceless Magic to avoid speaking in public. Ignorant of this, the Seven Sages have placed her on a top-secret mission to guard the Second Prince. Can Monica keep it together as she contends with both social interaction and the evils targeting the young royal?\n\n\n(Source: Yen Press, edited)",
+      "year": 2025,
+      "score": 8.1,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "0e6c4caaf9b1fe8336c506edf15bc2167cc68c4f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "secrets-of-the-silent-witch/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "secrets-of-the-silent-witch/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "secrets-of-the-silent-witch/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "secrets-of-the-silent-witch/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "secrets-of-the-silent-witch/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "secrets-of-the-silent-witch/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "secrets-of-the-silent-witch/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "secrets-of-the-silent-witch/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "secrets-of-the-silent-witch/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "secrets-of-the-silent-witch/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "secrets-of-the-silent-witch/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "secrets-of-the-silent-witch/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "secrets-of-the-silent-witch/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
