@@ -6060,6 +6060,30 @@
           "playlist": "blue-box/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-super-broly",
+      "title": "Dragon Ball Super: Broly",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f6511e71a1a62d46af47f60fdc2d0c57eda10f28/dragon-ball-super-broly/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f6511e71a1a62d46af47f60fdc2d0c57eda10f28/dragon-ball-super-broly/banner.jpg",
+      "synopsis": "Earth is at peace after The Tournament of Power but Goku continues to train, knowing there are ever-stronger forces in the universe. With the arrival of a Saiyan warrior named Broly, Goku and Vegeta face their most dangerous challenge yet. The film also chronicles the history of the Saiyans and the background story of these three Saiyans with different destinies connected to the turbulent period of their now extinct race.",
+      "year": 2018,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "354947dc4fc75b53fbe9908df980975c0142752a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-super-broly/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
