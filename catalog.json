@@ -3063,6 +3063,92 @@
           "playlist": "given/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "86-eighty-six",
+      "title": "86 Eighty-Six",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F43066%2Foriginal.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F43066%2Foriginal.jpg",
+      "synopsis": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.\n\n\n\nDetermined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2021,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "29739b3ebcf0058d52d83e4a17f69717e3ffa086",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "86-eighty-six/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "86-eighty-six/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "86-eighty-six/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "86-eighty-six/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "86-eighty-six/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "86-eighty-six/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "86-eighty-six/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "86-eighty-six/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "86-eighty-six/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "86-eighty-six/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "86-eighty-six/ep11/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "100-meters",
+      "title": "100 Meters",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49072%2Fposter_image%2Fca31dd000fc1ba8a1dfd6ef1a8752c49.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49072%2Fcover_image%2Ff29e9f1a739fc66b10e585b8b42e24c9.jpg",
+      "synopsis": "100 METERS follows Togashi, a track star who is born to run. As a kid, he is naturally gifted and wins every 100-meter race without effort. But in sixth grade, he meets Komiya, a transfer student who is full of determination but lacks technique. In teaching him, Togashi gives Komiya a new purpose: to win no matter what. Years pass by, and Togashi and Komiya meet again as rivals on the track and reveal their true selves.\n\n\n\n(Source: GKIDS)",
+      "year": 2025,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "2d6da803765ec642a24bc964ea888d5b25faf756",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "100-meters/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
