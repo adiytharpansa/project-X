@@ -1546,6 +1546,117 @@
           "playlist": "monogatari-series-off-monster-season/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "jujutsu-kaisen-season-2",
+      "title": "JUJUTSU KAISEN Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F45857%2Fposter_image%2F6a6b5472cd1b1414796c70733fe332b3.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F45857%2Fcover_image%2F7628bd46d94b8a96108292aa7e4d5571.jpg",
+      "synopsis": "The past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 8.6,
+      "genres": [
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "1b59b666472e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "jujutsu-kaisen-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "jujutsu-kaisen-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "jujutsu-kaisen-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "jujutsu-kaisen-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "jujutsu-kaisen-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "jujutsu-kaisen-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "jujutsu-kaisen-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "jujutsu-kaisen-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "jujutsu-kaisen-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "jujutsu-kaisen-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "jujutsu-kaisen-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "jujutsu-kaisen-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "jujutsu-kaisen-season-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "jujutsu-kaisen-season-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "jujutsu-kaisen-season-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "jujutsu-kaisen-season-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "jujutsu-kaisen-season-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "jujutsu-kaisen-season-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "jujutsu-kaisen-season-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "jujutsu-kaisen-season-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "jujutsu-kaisen-season-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "jujutsu-kaisen-season-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "jujutsu-kaisen-season-2/ep23/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
