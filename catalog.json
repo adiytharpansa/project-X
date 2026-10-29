@@ -5587,6 +5587,78 @@
           "playlist": "golden-kamuy-final-season/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fire-force-season-3-part-2",
+      "title": "Fire Force Season 3 Part 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@8152c7c9856bb3601e277b01f4e355e4c96527e2/fire-force-season-3-part-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@8152c7c9856bb3601e277b01f4e355e4c96527e2/fire-force-season-3-part-2/banner.jpg",
+      "synopsis": "As chaos spreads, Shinra and Company 8 fight to stop a final, world-ending blaze.\n\n \n\n(Source: Crunchyroll News)",
+      "year": 2026,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "edd3e315862a9cf4bd92a2415bbcd8a4fbb8c180",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fire-force-season-3-part-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fire-force-season-3-part-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fire-force-season-3-part-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fire-force-season-3-part-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fire-force-season-3-part-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fire-force-season-3-part-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fire-force-season-3-part-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fire-force-season-3-part-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fire-force-season-3-part-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fire-force-season-3-part-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fire-force-season-3-part-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fire-force-season-3-part-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fire-force-season-3-part-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
