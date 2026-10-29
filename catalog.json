@@ -5941,6 +5941,125 @@
           "playlist": "dr-stone/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blue-box",
+      "title": "Blue Box",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6f7b3c15278c7722ba2432e17d980f341b17795a/blue-box/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6f7b3c15278c7722ba2432e17d980f341b17795a/blue-box/poster.jpg",
+      "synopsis": "Do these sports-crossed lovers have a chance?\n\n\n\nTaiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!\n\n(Source: TMS Anime)\n\n\nNote: The series streamed a week in advance on Netflix Japan starting with episode 2 released alongside episode 1.",
+      "year": 2024,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Romance",
+        "Slice of Life",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "48598af237db5d01e44453bcc372f4276c003640",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blue-box/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "blue-box/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "blue-box/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "blue-box/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "blue-box/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "blue-box/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "blue-box/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "blue-box/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "blue-box/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "blue-box/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "blue-box/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "blue-box/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "blue-box/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "blue-box/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "blue-box/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "blue-box/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "blue-box/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "blue-box/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "blue-box/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "blue-box/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "blue-box/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "blue-box/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "blue-box/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "blue-box/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "blue-box/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
