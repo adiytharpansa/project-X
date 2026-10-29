@@ -5731,6 +5731,75 @@
           "playlist": "black-butler-emerald-witch-arc/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-summer-hikaru-died",
+      "title": "The Summer Hikaru Died",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2af9b28669acb0a36795b919b55f24a46daf03e8/the-summer-hikaru-died/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2af9b28669acb0a36795b919b55f24a46daf03e8/the-summer-hikaru-died/banner.jpg",
+      "synopsis": "Two best friends living in a rural Japanese village: Yoshiki and Hikaru. Growing up together, they were inseparable… until the day Hikaru came back from the mountains, and was no longer himself. “Something” has taken over Hikaru’s body, memories, feelings… and everything they know begins to unravel.\n\n\n\n(Source: Netflix)",
+      "year": 2025,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "cb4016330f25a6f263d40b2418c6d7924bab8ba5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-summer-hikaru-died/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-summer-hikaru-died/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-summer-hikaru-died/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-summer-hikaru-died/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-summer-hikaru-died/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-summer-hikaru-died/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-summer-hikaru-died/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-summer-hikaru-died/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-summer-hikaru-died/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-summer-hikaru-died/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-summer-hikaru-died/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-summer-hikaru-died/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
