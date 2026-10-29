@@ -2822,6 +2822,72 @@
           "playlist": "nippon-sangoku-the-three-nations-of-the-crimson-sun/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dorohedoro-season-2",
+      "title": "Dorohedoro Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48410%2Fposter_image%2F1fc0c8a4126b8996cf28459ad5a91c80.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48410%2Fposter_image%2F1fc0c8a4126b8996cf28459ad5a91c80.jpg",
+      "synopsis": "The anarchy continues as Caiman inches closer to the truth behind his cursed appearance and the mystery around the Cross-Eyes' boss begins to unravel. \n\n \n\n(Source: Netflix Anime)",
+      "year": 2026,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "6eabcffbd43e60f753b8cd2a4d8cbf6ed2dfb997",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dorohedoro-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dorohedoro-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dorohedoro-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dorohedoro-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dorohedoro-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dorohedoro-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dorohedoro-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dorohedoro-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dorohedoro-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dorohedoro-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dorohedoro-season-2/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
