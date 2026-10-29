@@ -5371,6 +5371,78 @@
           "playlist": "my-dress-up-darling-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "spy-x-family-season-3",
+      "title": "SPY x FAMILY Season 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0405a924db29a72bd0ab2f62993631bc3fec2e14/spy-x-family-season-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0405a924db29a72bd0ab2f62993631bc3fec2e14/spy-x-family-season-3/poster.jpg",
+      "synopsis": "World peace is at stake and secret agent Twilight must undergo his most difficult mission yet—pretend to be a family man. Posing as a loving husband and father, he’ll infiltrate an elite school to get close to a high-profile politician. He has the perfect cover, except his wife’s a deadly assassin and neither knows each other’s identity. But someone does, his adopted daughter who’s a telepath!\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "b6f5be18eb8c4c107bf1c76ce106f8841b9de80f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "spy-x-family-season-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "spy-x-family-season-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "spy-x-family-season-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "spy-x-family-season-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "spy-x-family-season-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "spy-x-family-season-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "spy-x-family-season-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "spy-x-family-season-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "spy-x-family-season-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "spy-x-family-season-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "spy-x-family-season-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "spy-x-family-season-3/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "spy-x-family-season-3/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
