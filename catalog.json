@@ -6402,6 +6402,80 @@
           "playlist": "city-the-animation/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rascal-does-not-dream-of-bunny-girl-senpai",
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f66cd8befd240421093c7226afebd909b6167a27/rascal-does-not-dream-of-bunny-girl-senpai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f66cd8befd240421093c7226afebd909b6167a27/rascal-does-not-dream-of-bunny-girl-senpai/banner.jpg",
+      "synopsis": "There's a rumor about a mysterious phenomenon called \"puberty syndrome.\" For example, Sakuta Azusagawa is a high school student who suddenly sees a bunny girl appear in front of him. The girl is actually a girl named Mai Sakurajima, who is Sakuta's upperclassman who is also a famous actress who has gone on hiatus from the entertainment industry. For some reason, the people around Mai cannot see her bunny-girl figure. Sakuta sets out to solve this mystery, and as he spends time with Mai, he learns her secret feelings. Other heroines who have \"puberty syndrome\" start to appear in front of Sakuta.\n\n\n(Source: Anime News Network)",
+      "year": 2018,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Romance",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "7b2a5fdc0ed9b3c5a43f03b53d206559a98db4b8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "rascal-does-not-dream-of-bunny-girl-senpai/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
