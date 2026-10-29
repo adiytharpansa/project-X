@@ -1797,6 +1797,31 @@
           "playlist": "attack-on-titan-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars",
+      "title": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fposter_images%2F3689%2Flarge.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F3689%2Flarge.jpg",
+      "synopsis": "Seven years have passed after the battle of Teppelin... Humans have since reclaimed the surface of the earth and enjoy an unprecedented period of peace and prosperity. However, humanity's increasing population growth triggers the sudden emergence of an unknown, powerful enemy.\n\n\nThe fearsome, manipulative power of the mysterious Anti-Spiral proves too overwhelming for humans to even fight back. When everyone becomes desperate and loses hope, Team Dai-Gurren members reunite to stand up once again!\n\n\n\n(Source: Official US Website)",
+      "year": 2009,
+      "score": 8.5,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "29d718c9257a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
