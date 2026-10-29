@@ -6332,6 +6332,76 @@
           "playlist": "welcome-to-demon-school-iruma-kun-season-4/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "city-the-animation",
+      "title": "City the Animation",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@7e360abefc48d8e0c8e6cf49b98e556f4716b9eb/city-the-animation/poster.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F49216%2Fcover_image%2F87d7ca37f20fa57743b23bc99fb3dd96.png",
+      "synopsis": "This town, is not just a normal town.\n\nThere's laughter, love and emotional moments.\n\nAn unpredictable ordinary life presented by the residents.\n\nExciting stuffs come one after another. Welcome to CITY. \n\n\n\n(Source: Kyoto Animation)",
+      "year": 2025,
+      "score": 8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "29dd72b0c47d8e49b345df886bd36e35f4833764",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "city-the-animation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "city-the-animation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "city-the-animation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "city-the-animation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "city-the-animation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "city-the-animation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "city-the-animation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "city-the-animation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "city-the-animation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "city-the-animation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "city-the-animation/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "city-the-animation/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "city-the-animation/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
