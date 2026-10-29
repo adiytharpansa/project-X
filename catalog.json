@@ -3197,6 +3197,73 @@
           "playlist": "ne-zha-2/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "you-and-i-are-polar-opposites",
+      "title": "You and I Are Polar Opposites",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F01%2F1768121733-5520-1766667827-8358-154457.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fgogoanime.or.at%2Fwp-content%2Fuploads%2F2026%2F01%2F1768121733-5520-1766667827-8358-154457.jpg",
+      "synopsis": "Suzuki’s a high school girl in love, but the guy she’s fallen for is nothing like her! While she’s cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn’t seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don’t attract?\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "77066267e2eae1b35ae3264a93a54449f29d05e0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "you-and-i-are-polar-opposites/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "you-and-i-are-polar-opposites/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "you-and-i-are-polar-opposites/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "you-and-i-are-polar-opposites/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "you-and-i-are-polar-opposites/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "you-and-i-are-polar-opposites/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "you-and-i-are-polar-opposites/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "you-and-i-are-polar-opposites/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "you-and-i-are-polar-opposites/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "you-and-i-are-polar-opposites/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "you-and-i-are-polar-opposites/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "you-and-i-are-polar-opposites/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
