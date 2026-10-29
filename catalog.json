@@ -6702,6 +6702,73 @@
           "playlist": "blue-exorcist-the-blue-night-saga/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "makeine-too-many-losing-heroines",
+      "title": "Makeine: Too Many Losing Heroines!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e049d4176ea19175031e41a086883e8a99a72fb3/makeine-too-many-losing-heroines/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e049d4176ea19175031e41a086883e8a99a72fb3/makeine-too-many-losing-heroines/banner.jpg",
+      "synopsis": "Kazuhiko Nukumizu is a high school boy content to blend in with the background mob, until he witnessed his more popular classmate Anna Yanami get dumped by her childhood friend. He felt like he had to try to comfort Yanami, but this led him to become entangled with other girls who have met defeat at love?",
+      "year": 2024,
+      "score": 8,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "dc942ed9ddb3380877fa80d87cb7842916547728",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "makeine-too-many-losing-heroines/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "makeine-too-many-losing-heroines/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "makeine-too-many-losing-heroines/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "makeine-too-many-losing-heroines/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "makeine-too-many-losing-heroines/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "makeine-too-many-losing-heroines/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "makeine-too-many-losing-heroines/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "makeine-too-many-losing-heroines/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "makeine-too-many-losing-heroines/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "makeine-too-many-losing-heroines/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "makeine-too-many-losing-heroines/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "makeine-too-many-losing-heroines/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
