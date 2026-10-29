@@ -5303,6 +5303,74 @@
           "playlist": "grand-blue-dreaming-season-3/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-dress-up-darling-season-2",
+      "title": "My Dress-Up Darling Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9cfe21ae4cd76aaf7175255f0b973fa99af7db6b/my-dress-up-darling-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9cfe21ae4cd76aaf7175255f0b973fa99af7db6b/my-dress-up-darling-season-2/banner.jpg",
+      "synopsis": "When Marin Kitagawa and Wakana Gojo met, they grew close over their love for cosplay. Through interacting with classmates and making new cosplay friends, Marin and Wakana’s world keeps growing. New developments arise as Marin’s love for Wakana continues to be filled with endless excitement. In their ever-expanding world, Marin and Wakana’s story of cosplay and thrills continues!\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-9",
+      "pin": "b9278bff641d117f1db8a967b8ce1be6efc246dd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-dress-up-darling-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-dress-up-darling-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-dress-up-darling-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-dress-up-darling-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-dress-up-darling-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-dress-up-darling-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-dress-up-darling-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-dress-up-darling-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-dress-up-darling-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-dress-up-darling-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-dress-up-darling-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-dress-up-darling-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
