@@ -19627,6 +19627,64 @@
           "playlist": "promise-of-wizard/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "strike-world-deadverse-reloaded-the-anime",
+      "title": "Strike World: Deadverse Reloaded the Anime",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ffe44df86f8b8cca105f71ea3c5acac640e68399/strike-world-deadverse-reloaded-the-anime/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ffe44df86f8b8cca105f71ea3c5acac640e68399/strike-world-deadverse-reloaded-the-anime/poster.jpg",
+      "synopsis": "Rinne is a girl who cannot see other people's faces. Born into a family whose job it is to exorcise supernatural beings, she sets out on her first mission, but encounters an enemy of a different nature than she expected, and finds herself in peril.\n\nAfter being saved by a mysterious man named Jugemu, Rinne learns that all worlds, including the one she lives in, known as \"Strike Worlds,\" are under threat.\n\nAs she travels through a number of ending worlds with Jugemu, the girl forms a bond with him...",
+      "year": 2025,
+      "score": 5.1,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-13",
+      "pin": "236ac34e33fdd51dd934c90a66b2fc3f76dda796",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "strike-world-deadverse-reloaded-the-anime/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
