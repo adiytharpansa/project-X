@@ -11807,6 +11807,75 @@
           "playlist": "see-you-tomorrow-at-the-food-court/ep6/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "demon-lord-2099",
+      "title": "Demon Lord 2099",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5790e1aa1273fd11099a8e1ccfb5a55ede17a3ae/demon-lord-2099/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5790e1aa1273fd11099a8e1ccfb5a55ede17a3ae/demon-lord-2099/poster.jpg",
+      "synopsis": "The cyberpunk metropolis Shinjuku—a massive city-state bedecked with neon signs, towering skyscrapers, and the latest cutting-edge technology. It is here, in year 2099 of the Fused Era, where the legendary Demon Lord Veltol has his second coming five centuries in the making. But this landscape is nothing like the one he conquered all those years ago, for the fusion of magic and engineering has elevated civilization to dazzling, unprecedented heights. Veltol may have been reduced to a historical footnote, but make no mistake…this brave new world will be his for the taking!\n\n\n\n(Source: Yen Press)",
+      "year": 2024,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "fd7e20b897d2c3a762377b66f5966a1493dcb09e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "demon-lord-2099/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "demon-lord-2099/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "demon-lord-2099/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "demon-lord-2099/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "demon-lord-2099/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "demon-lord-2099/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "demon-lord-2099/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "demon-lord-2099/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "demon-lord-2099/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "demon-lord-2099/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "demon-lord-2099/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "demon-lord-2099/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
