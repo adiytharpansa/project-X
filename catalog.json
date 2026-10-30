@@ -13422,6 +13422,72 @@
           "playlist": "the-prince-of-tennis-two-samurais-the-first-game/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-do-over-damsel-conquers-the-dragon-emperor",
+      "title": "The Do-Over Damsel Conquers the Dragon Emperor",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@860b732a74c65934778915d954533a93e98a9d3f/the-do-over-damsel-conquers-the-dragon-emperor/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@860b732a74c65934778915d954533a93e98a9d3f/the-do-over-damsel-conquers-the-dragon-emperor/poster.jpg",
+      "synopsis": "Jill breaks out of prison the night before she’s set to be executed by her fiancé, Crown Prince Gerald. She’s struck by an arrow while escaping, but instead of dying, she’s transported six years into the past—to the night she and Gerald met. Desperate to alter fate, she instead proposes to the first man she sees, Hadis Teos Rave, her enemy in the future. This is her last chance to get it right!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2024,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "3b121c2a542edfc62d4d091f9328e31a6c65aba1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
