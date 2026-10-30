@@ -12561,6 +12561,29 @@
           "playlist": "nina-the-starry-bride/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "pok-mon-the-movie-i-choose-you",
+      "title": "Pokémon the Movie: I Choose You!",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx98298-Yqus4jNiTNgf.png",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fbanner%2F98298-GLiqMFmxovDh.jpg",
+      "synopsis": "The film's plot tells the story of how Satoshi (Ash) and Pikachu came to know each other. On the day they set out from Masara Town (Pallet Town), both of them saw a Ho-oh flying and made a vow to someday meet it.\n\n\n\n(Source: Anime News Network, edited)",
+      "year": 2017,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "a3b7ada8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "pok-mon-the-movie-i-choose-you/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
