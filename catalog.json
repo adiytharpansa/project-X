@@ -7057,6 +7057,72 @@
           "playlist": "release-that-witch/ep8/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "world-trigger-2nd-season",
+      "title": "World Trigger 2nd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3ac43f4559406b446c12a20e6079cd230588714c/world-trigger-2nd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3ac43f4559406b446c12a20e6079cd230588714c/world-trigger-2nd-season/poster.jpg",
+      "synopsis": "The border defense organization \"Border\" was established to fight against the attacks of the \"Neighbors\" who possess unknown power. \nOsamu Mikumo, a member of the Border, forms the Mikumo Squad with Yuma Kuga, a Neighbor who he met by chance, and his childhood friend Chika Ametori, and they struggle to win the internal Border rankings in order to join the expeditionary force to the Neighborhood.\n\n\n\n(Source: Toei Animation)",
+      "year": 2021,
+      "score": 8,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "b39e1d66bca0a67e08c611a9bb61993ad78a39c1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
