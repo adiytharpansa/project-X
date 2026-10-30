@@ -12718,6 +12718,28 @@
           "playlist": "my-home-hero-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "lupin-the-3rd-blood-seal-of-the-eternal-mermaid",
+      "title": "Lupin the 3rd: Blood Seal of the Eternal Mermaid",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@a837427b8dacfd2bfcb2affc46b639d734d72f92/lupin-the-3rd-blood-seal-of-the-eternal-mermaid/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@a837427b8dacfd2bfcb2affc46b639d734d72f92/lupin-the-3rd-blood-seal-of-the-eternal-mermaid/banner.jpg",
+      "synopsis": "An Aquamarine gemstone, the Mermaid's Scale, appears in a secret, underground auction. The queen of the underworld (nicknamed the \"Bearslayer\") coerces the professional jewel-lifter Lupin into stealing the rock for her. Lupin swipes the stone, and quickly discovers not only that it's a forgery, but that the real Mermaid's Scale is part of an unsolved riddle that leads to transcending mortality! Soon, the \"Bearslayer\" is found murdered in cold blood! Her seemingly immortal young aide, Misa, is kidnapped by the arms dealer Himuro. The race is on for Lupin and his gang to locate the secret to eternal life... before it's used to send the Earth into a state of endless war!\n\n\n\n(Source: Discotek Media)",
+      "year": 2011,
+      "score": 7,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "5da5bb3e3c680da28d53612d145b592da66c5fbd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "lupin-the-3rd-blood-seal-of-the-eternal-mermaid/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
