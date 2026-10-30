@@ -21065,6 +21065,77 @@
           "playlist": "mob-psycho-100/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia",
+      "title": "My Hero Academia",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bbb9b9a3cf2dffa7ee072c83ff3867b90be0d857/my-hero-academia/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bbb9b9a3cf2dffa7ee072c83ff3867b90be0d857/my-hero-academia/banner.jpg",
+      "synopsis": "What would the world be like if 80 percent of the population manifested extraordinary superpowers called “Quirks” at age four? Heroes and villains would be battling it out everywhere! Becoming a hero would mean learning to use your power, but where would you go to study? U.A. High's Hero Program of course! But what would you do if you were one of the 20 percent who were born Quirkless?\n\nMiddle school student Izuku Midoriya wants to be a hero more than anything, but he hasn't got an ounce of power in him. With no chance of ever getting into the prestigious U.A. High School for budding heroes, his life is looking more and more like a dead end. Then an encounter with All Might, the greatest hero of them all gives him a chance to change his destiny…\n\n(Source: VIZ Media)",
+      "year": 2016,
+      "score": 0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/gudang-28",
+      "pin": "18f5e938cff26a6c5ac58cd50becbb8a0277dc2a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-hero-academia/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-hero-academia/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-hero-academia/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-hero-academia/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-hero-academia/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-hero-academia/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-hero-academia/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-hero-academia/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-hero-academia/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-hero-academia/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-hero-academia/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "my-hero-academia/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
