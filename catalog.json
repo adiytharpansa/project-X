@@ -12494,6 +12494,73 @@
           "playlist": "pok-mon-the-movie-the-power-of-us/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nina-the-starry-bride",
+      "title": "Nina the Starry Bride",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b8d94e7aff765327ddaaceba7a710a7d9529df54/nina-the-starry-bride/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b8d94e7aff765327ddaaceba7a710a7d9529df54/nina-the-starry-bride/poster.jpg",
+      "synopsis": "Nina, a girl living as an orphan in the Fortna Castle Town, happens to have eyes of the same deep blue hue as lapis lazuli—just like the God of the Stars. They’re also the same color as the eyes of the recently deceased Princess Alisha. For that reason, when the second prince of Fortna, Azure, discovers Nina, he ordains that she will live as the princess in Alisha’s place. As substitute princess and Priestess of the Stars, Nina is obligated to become the false bride of Sett, the first prince of the large neighboring nation of Galgada after the third month has passed. Despite being at the mercy of fate, Nina is just happy to feel needed by someone. What is it that her open, honest eyes see? The destinies of all the players on this stage begin to move when they make up their minds to protect the ones they love!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2024,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "4f1536bb7547e1358493aaedfdddf8cf3876a05a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nina-the-starry-bride/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "nina-the-starry-bride/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "nina-the-starry-bride/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "nina-the-starry-bride/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "nina-the-starry-bride/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "nina-the-starry-bride/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "nina-the-starry-bride/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "nina-the-starry-bride/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "nina-the-starry-bride/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "nina-the-starry-bride/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "nina-the-starry-bride/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "nina-the-starry-bride/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
