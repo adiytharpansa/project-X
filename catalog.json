@@ -105,7 +105,7 @@
         "Supernatural"
       ],
       "repo": "adiytharpansa/gudang-2",
-      "pin": "47975979027abcf4634f0c279077bd6dc3bcc0c3",
+      "pin": "8a3dd52f392314ad3303f162fc6b56b738da93a1",
       "episodes": [
         {
           "number": 1,
@@ -122,6 +122,38 @@
         {
           "number": 4,
           "playlist": "chainsaw-man/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "chainsaw-man/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "chainsaw-man/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "chainsaw-man/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "chainsaw-man/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "chainsaw-man/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "chainsaw-man/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "chainsaw-man/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "chainsaw-man/ep12/playlist.m3u8"
         }
       ]
     },
