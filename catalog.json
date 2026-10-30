@@ -13877,6 +13877,74 @@
           "playlist": "solo-camping-for-two/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mechanical-marie",
+      "title": "Mechanical Marie",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@46dda936f80b09686bd544c1e113d79c700944c8/mechanical-marie/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@46dda936f80b09686bd544c1e113d79c700944c8/mechanical-marie/poster.jpg",
+      "synopsis": "“At last, she’s complete. This is Marie, a robot maid.”\n\n\n\nMarie, a former legendary martial artist, now conceals her identity as a human and starts working as a “robot” in the mansion of Arthur, heir to a conglomerate that despises humans. Her human identity must remain hidden—because one slip-up and she’s dead! Her naturally emotionless demeanor helps her maintain her “robot” disguise and flawlessly perform her duties, all while struggling to protect Arthur from assassins sent to take his life. She lives each day on the edge with her heart racing, because Arthur is head over heels for Marie, and her human identity is nearly exposed!\n\n\n\nA maid pretending to be a robot x A young heir who hates humans. Get ready for a heartwarming comedy that’ll make you laugh and cry! What began as a lie between master and maid blossoms into a love neither of them saw coming.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "d9c56c0920da25613c4b8f1fa8e8854344dfee40",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mechanical-marie/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mechanical-marie/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mechanical-marie/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mechanical-marie/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mechanical-marie/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mechanical-marie/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mechanical-marie/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mechanical-marie/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mechanical-marie/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mechanical-marie/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mechanical-marie/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mechanical-marie/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
