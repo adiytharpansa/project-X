@@ -15982,85 +15982,69 @@
       ]
     },
     {
-      "id": "one-way-or-another",
-      "title": "One Way or Another",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f3de8e205482e506ba02ce33b41c892d8966cccc/one-way-or-another/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f3de8e205482e506ba02ce33b41c892d8966cccc/one-way-or-another/poster.jpg",
-      "synopsis": "The invincible young man faced the raging wind and waves with a pounding heart and infinite possibilities. Across the continent under the sky, a ray of light pierced the heavens from the swordmaster of Qingshan Mountain! After Grandmaster Jing Yang ascended, the young man Jiu Jing left his mountain home to head for Gushan Mountain. Famed for his handsome looks and lazy attitude, Jiu Jing took a different path for his cultivation, always looking for shortcuts. There were many suspicious signs behind Jing Yang's ascension. What could be hiding in the fog that surround the peaks of Qingshan Mountain?\n\n\n\n(Source: Bilibili, translated)",
-      "year": null,
+      "id": "kujima-why-sing-when-you-can-warble",
+      "title": "Kujima: Why Sing, When You Can Warble?",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f8db49d8092ef863a62e9cf3d75568eae609841a/kujima-why-sing-when-you-can-warble/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f8db49d8092ef863a62e9cf3d75568eae609841a/kujima-why-sing-when-you-can-warble/poster.jpg",
+      "synopsis": "In the fall of his first year of junior high school, Arata Kouda encountered a strange thing----. In this home comedy, a mysterious creature named “Kujima” brings new life to the Konohda family, where the atmosphere is slightly tense due to the concern for the eldest son, a ronin student who is preparing for the entrance examinations! By the way, the creature, who calls himself Kujima, speaks normal language and eats the same food as humans (or insects). Did he come from outer space, or did he...!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
       "score": 6.3,
       "status": "FINISHED",
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
       ],
-      "repo": "adiytharpansa/gudang-22",
-      "pin": "ad8e7c99118fd02d24dc3563a0a6ee2ed4368b17",
+      "repo": "adiytharpansa/gudang-26",
+      "pin": "3ee3f9be0b0a23ab8bed6a40279c23fdc32ab25c",
       "episodes": [
         {
           "number": 1,
-          "playlist": "one-way-or-another/ep1/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "one-way-or-another/ep2/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "one-way-or-another/ep3/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "one-way-or-another/ep4/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "one-way-or-another/ep5/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "one-way-or-another/ep6/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "one-way-or-another/ep7/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "one-way-or-another/ep8/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "one-way-or-another/ep9/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "one-way-or-another/ep10/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "one-way-or-another/ep11/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "one-way-or-another/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "one-way-or-another/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "one-way-or-another/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "one-way-or-another/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "one-way-or-another/ep16/playlist.m3u8"
+          "playlist": "kujima-why-sing-when-you-can-warble/ep12/playlist.m3u8"
         }
       ]
     }
