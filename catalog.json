@@ -18585,6 +18585,73 @@
           "playlist": "the-world-s-strongest-rearguard/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "necronomico-and-the-cosmic-horror-show",
+      "title": "Necronomico and the Cosmic Horror Show",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@58b84732dedab815d7f7c89ea7c5964b33121296/necronomico-and-the-cosmic-horror-show/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@58b84732dedab815d7f7c89ea7c5964b33121296/necronomico-and-the-cosmic-horror-show/poster.jpg",
+      "synopsis": "We all need a chance to change our lives!\n\nThe story follows Miko Kurono, who began her dream career as a livestreamer under the name \"Necronomico\" after graduating middle school. Amidst spending her days with childhood friend Mayu Mayusaka and rival Kanna Kagurazaka, she's introduced to a new VR game project!? \n\n\n\nUpon encountering the game, the girls start pursuing the 'irreplacable now'.\n\n\n\n(Source: Official site, translated)",
+      "year": 2025,
+      "score": 5.6,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-13",
+      "pin": "10bb0fb02d37e0f16044ef567d5e72273d07ce3d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "necronomico-and-the-cosmic-horror-show/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
