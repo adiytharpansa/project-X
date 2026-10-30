@@ -10145,6 +10145,73 @@
           "playlist": "classroom-of-the-elite/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "goodbye-lara",
+      "title": "Goodbye, Lara",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48880%2Fposter_image%2F59866f73866569654255e7d2901294ab.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@18d6aea3e72f0789e30c03125c823796d442490e/goodbye-lara/banner.jpg",
+      "synopsis": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "42b33de8fd092490be35b04e392120af07a072bd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "goodbye-lara/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "goodbye-lara/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "goodbye-lara/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "goodbye-lara/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "goodbye-lara/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "goodbye-lara/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "goodbye-lara/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "goodbye-lara/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "goodbye-lara/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "goodbye-lara/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "goodbye-lara/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "goodbye-lara/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
