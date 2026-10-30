@@ -20052,6 +20052,28 @@
           "playlist": "xin-yichang-shengwu-jianwen-lu-xu/ep7/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-heart-reikai-tanbouki",
+      "title": "Dragon Heart: Reikai Tanbouki",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@aad61adc7003bb057d0833b9b0aef1beeab4d937/dragon-heart-reikai-tanbouki/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@aad61adc7003bb057d0833b9b0aef1beeab4d937/dragon-heart-reikai-tanbouki/poster.jpg",
+      "synopsis": "",
+      "year": 2025,
+      "score": null,
+      "genres": [
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-26",
+      "pin": "b4674f14d0f59b1def21906f919736f610a606b0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-heart-reikai-tanbouki/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
