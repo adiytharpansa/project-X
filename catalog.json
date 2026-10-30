@@ -8647,6 +8647,58 @@
           "playlist": "naruto/ep220/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-king-of-braves-gaogaigar-final",
+      "title": "The King of Braves: GaoGaiGar Final",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f32115659d2b615875cd8b9379cf1991e450f2b2/the-king-of-braves-gaogaigar-final/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f32115659d2b615875cd8b9379cf1991e450f2b2/the-king-of-braves-gaogaigar-final/banner.jpg",
+      "synopsis": "Following Gutsy Galaxy Guard`s victory over the Zonder Empire and the 31 Primevals, a new threat makes their appearance on Earth. GGG - with Guy Shishio and the newly-constructed GaoFighGar - team up with their French counterpart Chasseur to battle the evil organization BioNet. Among Chasseur`s ranks is Renais Cardiff Shishioh - a former BioNet cyborg with the relentless pursuit of destroying those who took away her humanity. But as GGG and Chasseur fight the BioNet, GGG`s bases around the world are suddenly attacked, and the recently-discovered \"Q-Parts\" and the original Gao Machines are stolen by Mamoru Amami, who has been abducted and cloned by an even greater threat known as the \"Eleven Kings of Sol.\" Evicted from Earth by the United Nations, GGG must now travel to the far reaches of the galaxy to battle the Eleven Kings of Sol and save Mamoru before it`s too late.\n\n\n\n(Source: Anime News Network)",
+      "year": 2000,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "3b2b07b4e1d73e31c62686824c416a8b30c018b3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-king-of-braves-gaogaigar-final/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-king-of-braves-gaogaigar-final/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-king-of-braves-gaogaigar-final/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-king-of-braves-gaogaigar-final/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-king-of-braves-gaogaigar-final/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-king-of-braves-gaogaigar-final/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-king-of-braves-gaogaigar-final/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-king-of-braves-gaogaigar-final/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
