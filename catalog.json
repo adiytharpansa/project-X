@@ -19233,6 +19233,79 @@
           "playlist": "yandere-dark-elf-she-chased-me-all-the-way-from-another-worl/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "momentary-lily",
+      "title": "Momentary Lily",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@34c0f5cf51ce1dae1e5d06da813dc0618f7dd3c4/momentary-lily/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@34c0f5cf51ce1dae1e5d06da813dc0618f7dd3c4/momentary-lily/poster.jpg",
+      "synopsis": "Robotic invaders wiped out all life, but Renge fights to survive using her powers. With no memories, she roams the city until she meets five other young women, each with unique abilities. Together, they make the most of their lives, cooking delicious meals between battles with mechanical monstrosities. As they uncover the secrets of their powers and pasts, they find strength in their friendship.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 5.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-24",
+      "pin": "7bf6d5958986c2ca7a48ef933cccae2d897ec0ef",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "momentary-lily/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "momentary-lily/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "momentary-lily/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "momentary-lily/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "momentary-lily/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "momentary-lily/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "momentary-lily/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "momentary-lily/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "momentary-lily/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "momentary-lily/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "momentary-lily/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "momentary-lily/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "momentary-lily/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
