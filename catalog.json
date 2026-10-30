@@ -10880,6 +10880,104 @@
           "playlist": "fairy-tail-100-years-quest/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-daima",
+      "title": "Dragon Ball DAIMA",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@a2b70f29d5038da1fd1a739a2d7b237fbfe08195/dragon-ball-daima/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@a2b70f29d5038da1fd1a739a2d7b237fbfe08195/dragon-ball-daima/banner.jpg",
+      "synopsis": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2024,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "c031be01715f1f82973b42f9a01c7727b4076fd1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-daima/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dragon-ball-daima/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dragon-ball-daima/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dragon-ball-daima/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dragon-ball-daima/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dragon-ball-daima/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dragon-ball-daima/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dragon-ball-daima/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dragon-ball-daima/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dragon-ball-daima/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dragon-ball-daima/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dragon-ball-daima/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "dragon-ball-daima/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "dragon-ball-daima/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "dragon-ball-daima/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "dragon-ball-daima/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "dragon-ball-daima/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "dragon-ball-daima/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "dragon-ball-daima/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "dragon-ball-daima/ep20/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
