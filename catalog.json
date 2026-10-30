@@ -13556,6 +13556,74 @@
           "playlist": "maebashi-witches/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mobile-suit-gundam-gquuuuuux",
+      "title": "Mobile Suit Gundam GQuuuuuuX",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0ce69d742c19f90b74a3d9e53939d4f73eafad62/mobile-suit-gundam-gquuuuuux/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0ce69d742c19f90b74a3d9e53939d4f73eafad62/mobile-suit-gundam-gquuuuuux/banner.jpg",
+      "synopsis": "Amate Yuzuriha is a high-school student living peacefully in a space colony floating in outer space.\n\n\nWhen she meets a war refugee named Nyaan, Amate is drawn into the illegal mobile suit dueling sport known as Clan Battle.\n\n\nUnder the entry name \"Machu,\" she throws herself into fierce battle day after day, piloting the GQuuuuuuX. Then an unidentified Gundam mobile suit pursued by both the space force and the police appears before her, along with its pilot, a boy named Shuji.\n\n\nNow their world is about to enter a new era.\n\n\n(Source: Official Site)\n\n\nNote: Prior to broadcasting, \"Mobile Suit Gundam GQuuuuuuX -Beginning-\" — a theatrical pre-screening of the first 3 and 8th episodes edited together— debuted in Japan on January 17, 2025 and in North America on February 28, 2025.",
+      "year": 2025,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-15",
+      "pin": "69f9bd3c98f20cfb306c32af58df5709a3056187",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mobile-suit-gundam-gquuuuuux/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
