@@ -22188,6 +22188,123 @@
           "playlist": "pass-the-monster-meat-milady/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "punirunes-puni-2",
+      "title": "Punirunes Puni 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3f0c4f7f639c5ec6e646965f3494be62764d58a5/punirunes-puni-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3f0c4f7f639c5ec6e646965f3494be62764d58a5/punirunes-puni-2/poster.jpg",
+      "synopsis": "Second season of Punirunes.",
+      "year": 2024,
+      "score": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-30",
+      "pin": "c83b8d9b6da9090f4bace2ac40cd261de969574f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "punirunes-puni-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "punirunes-puni-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "punirunes-puni-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "punirunes-puni-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "punirunes-puni-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "punirunes-puni-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "punirunes-puni-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "punirunes-puni-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "punirunes-puni-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "punirunes-puni-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "punirunes-puni-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "punirunes-puni-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "punirunes-puni-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "punirunes-puni-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "punirunes-puni-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "punirunes-puni-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "punirunes-puni-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "punirunes-puni-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "punirunes-puni-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "punirunes-puni-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "punirunes-puni-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "punirunes-puni-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "punirunes-puni-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "punirunes-puni-2/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "punirunes-puni-2/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
