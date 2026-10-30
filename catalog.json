@@ -19020,6 +19020,73 @@
           "playlist": "bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yoroi-shinden-samurai-troopers-cour-2",
+      "title": "Yoroi-Shinden Samurai Troopers Cour 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bab80e594238b56d3fa052d881ce6b195d20a6d6/yoroi-shinden-samurai-troopers-cour-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bab80e594238b56d3fa052d881ce6b195d20a6d6/yoroi-shinden-samurai-troopers-cour-2/poster.jpg",
+      "synopsis": "When the seal of the Demon Realm shatters, demon soldiers surge into the Human World, tearing through everything in their path. Five young warriors rise to meet the invasion, summoning their legendary armor and charging headfirst into battle. With every clash, they cut through the invading demon hordes, unleashing their power to drive the invasion back. They are…the Samurai Troopers!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 5.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-33",
+      "pin": "093d404cebbfbe6b844cbf2b4056809a79542266",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
