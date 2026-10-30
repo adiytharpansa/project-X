@@ -11501,6 +11501,77 @@
           "playlist": "a-wild-last-boss-appeared/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sparks-of-tomorrow",
+      "title": "Sparks of Tomorrow",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2479babbc9d0ea59b399b3932ba3f9663d38235e/sparks-of-tomorrow/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2479babbc9d0ea59b399b3932ba3f9663d38235e/sparks-of-tomorrow/banner.jpg",
+      "synopsis": "The novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. \n\n\n\nThe topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.\n\n\n\n(Source: Anime News Network)",
+      "year": 2026,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "f33372f5013b6e0b0dbf843fb127040467b07756",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sparks-of-tomorrow/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sparks-of-tomorrow/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sparks-of-tomorrow/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sparks-of-tomorrow/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sparks-of-tomorrow/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sparks-of-tomorrow/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sparks-of-tomorrow/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sparks-of-tomorrow/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sparks-of-tomorrow/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sparks-of-tomorrow/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sparks-of-tomorrow/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sparks-of-tomorrow/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "sparks-of-tomorrow/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
