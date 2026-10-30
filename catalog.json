@@ -16890,6 +16890,73 @@
           "playlist": "immoral-guild/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "plus-sized-misadventures-in-love",
+      "title": "Plus-sized Misadventures in Love!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@579a073ff96c8e6c11bcc0bd5332daf980ab2c18/plus-sized-misadventures-in-love/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@579a073ff96c8e6c11bcc0bd5332daf980ab2c18/plus-sized-misadventures-in-love/poster.jpg",
+      "synopsis": "Yumeko is a quiet, downcast office worker, weighed down by crippling insecurities and self-loathing—until a sudden accident leaves her with amnesia…and a sparkling new personality. Her dramatic transformation baffles everyone around her, but with a new zest for life and unshakeable confidence, Yumeko is ready to tackle anything: love, work, friendship…and maybe even an attempted-murder mystery.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 6.2,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-15",
+      "pin": "b1b15caa4c69bfcbb96d18bb7ee45a266ceb2ab7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "plus-sized-misadventures-in-love/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "plus-sized-misadventures-in-love/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "plus-sized-misadventures-in-love/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "plus-sized-misadventures-in-love/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "plus-sized-misadventures-in-love/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "plus-sized-misadventures-in-love/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "plus-sized-misadventures-in-love/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "plus-sized-misadventures-in-love/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "plus-sized-misadventures-in-love/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "plus-sized-misadventures-in-love/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "plus-sized-misadventures-in-love/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "plus-sized-misadventures-in-love/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
