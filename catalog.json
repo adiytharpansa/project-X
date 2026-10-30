@@ -19872,6 +19872,73 @@
           "playlist": "hana-doll-reinterpretation-of-flowering/ep8/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "monster-eater",
+      "title": "Monster Eater",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c9251537acca203582a99eb08876b91f65d40467/monster-eater/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c9251537acca203582a99eb08876b91f65d40467/monster-eater/poster.jpg",
+      "synopsis": "Rude, an E-rank adventurer. His only skill, \"Status Ailment Nullification,\" is a niche ability considered useful only for gathering medicinal herbs in miasma-choked dungeons. With virtually zero combat prowess, his fellow adventurers mock him with the nickname \"Miasma Scavenger.\" In a desperate bid to change his life, Rude ventures into a new dungeon—only to be betrayed by his party and left for dead. With his supplies gone and his life fading, he makes a forbidden choice: to consume the flesh of a monster. So begins the tale of Rude’s \"Monster Devouring\" adventure, where he gains new skills by simply consuming his foes!\n\n\n\n(Source: Ani-One Asia)",
+      "year": 2026,
+      "score": 4.9,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-25",
+      "pin": "76536e2238ac8b2652b87328c760ca27eaa0b75a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "monster-eater/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "monster-eater/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "monster-eater/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "monster-eater/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "monster-eater/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "monster-eater/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "monster-eater/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "monster-eater/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "monster-eater/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "monster-eater/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "monster-eater/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "monster-eater/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
