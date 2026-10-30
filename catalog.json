@@ -15757,6 +15757,53 @@
         12
       ],
       "status": "FINISHED"
+    },
+    {
+      "id": "cang-lan-jue-2",
+      "title": "Cang Lan Jue 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d1667f522efd35f2250fa4341e50518dd550baca/cang-lan-jue-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d1667f522efd35f2250fa4341e50518dd550baca/cang-lan-jue-2/poster.jpg",
+      "synopsis": "",
+      "year": null,
+      "score": 6.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-22",
+      "pin": "c69ee5586940598fe714e893e2f24201b36d9534",
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "status": "FINISHED"
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
