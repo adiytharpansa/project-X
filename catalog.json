@@ -14764,65 +14764,69 @@
       ]
     },
     {
-      "id": "kinnikuman-perfect-origin-arc",
-      "title": "Kinnikuman Perfect Origin Arc",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d8c591bfc2ff45e5c952ee2bcc2fd53a1e9724c2/kinnikuman-perfect-origin-arc/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d8c591bfc2ff45e5c952ee2bcc2fd53a1e9724c2/kinnikuman-perfect-origin-arc/poster.jpg",
-      "synopsis": "Kinnikuman returns to the ring in an epic three-way battle between the Justice, Devil and Perfect Chojin factions, and reveals the roots of the Chojin.\n\n\n(Source: Netflix)\n\n\nNotes:\n\n- New Kinnikuman series to celebrate the 40th anniversary of the original TV anime. Adapts the Perfect Origin arc from the manga.\n\n- Includes Episode 0.",
-      "year": 2024,
+      "id": "my-status-as-an-assassin-obviously-exceeds-the-hero-s",
+      "title": "My Status as an Assassin Obviously Exceeds the Hero’s",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@95b61bbb467f3d2a42eb66586de9c05ae1c41551/my-status-as-an-assassin-obviously-exceeds-the-hero-s/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@95b61bbb467f3d2a42eb66586de9c05ae1c41551/my-status-as-an-assassin-obviously-exceeds-the-hero-s/poster.jpg",
+      "synopsis": "Akira Oda and his high school classmates are summoned to another world! While the other students are granted cheat abilities through the summoning, Akira merely gains the abilities of a mediocre “assassin.” However, his status soon surpasses “hero,” the strongest profession. After Akira becomes suspicious of the King behind the summoning, he is falsely framed for a crime and forced to flee.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
       "score": 6.6,
       "status": "FINISHED",
       "genres": [
         "Action",
-        "Comedy",
-        "Sports"
+        "Adventure",
+        "Fantasy"
       ],
-      "repo": "adiytharpansa/gudang-18",
-      "pin": "ed3373a52af95cf04299ab977c8a91528a458993",
+      "repo": "adiytharpansa/gudang-23",
+      "pin": "97eeaf716077548dc5fe249cc6f52e5e98b21477",
       "episodes": [
         {
           "number": 1,
-          "playlist": "kinnikuman-perfect-origin-arc/ep1/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "kinnikuman-perfect-origin-arc/ep2/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "kinnikuman-perfect-origin-arc/ep3/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "kinnikuman-perfect-origin-arc/ep4/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "kinnikuman-perfect-origin-arc/ep5/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "kinnikuman-perfect-origin-arc/ep6/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "kinnikuman-perfect-origin-arc/ep7/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "kinnikuman-perfect-origin-arc/ep8/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "kinnikuman-perfect-origin-arc/ep9/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "kinnikuman-perfect-origin-arc/ep10/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "kinnikuman-perfect-origin-arc/ep11/playlist.m3u8"
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep12/playlist.m3u8"
         }
       ]
     }
