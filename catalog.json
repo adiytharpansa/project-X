@@ -12650,6 +12650,74 @@
           "playlist": "as-a-reincarnated-aristocrat-i-ll-use-my-appraisal-skill-to-/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-home-hero-2",
+      "title": "My Home Hero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@a4e4f6a3ec540023c547727b71b3b4af9576e3d8/my-home-hero-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@a4e4f6a3ec540023c547727b71b3b4af9576e3d8/my-home-hero-2/banner.jpg",
+      "synopsis": "After killing his daughter’s abusive yakuza boyfriend to save her, ordinary salaryman Tetsuo Tosu becomes embroiled in the dark criminal underworld. The wish for a simple life he and his wife Kasen had for their daughter has been reduced to a wish for survival. Though middle-aged and weak, he’ll put his life on the line using only his wits in order to protect his family.\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Psychological",
+        "Thriller"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "da4e1b0576016a51218b37047f31d2b8109a05c4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-home-hero-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-home-hero-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-home-hero-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-home-hero-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-home-hero-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-home-hero-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-home-hero-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-home-hero-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-home-hero-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-home-hero-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-home-hero-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-home-hero-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
