@@ -16611,6 +16611,30 @@
           "playlist": "high-school-of-the-dead-drifters-of-the-dead/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "assassination-classroom-the-movie-our-time",
+      "title": "Assassination Classroom the Movie: Our Time",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@169a93699172b115614b46f523a270727f6f072d/assassination-classroom-the-movie-our-time/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@169a93699172b115614b46f523a270727f6f072d/assassination-classroom-the-movie-our-time/poster.jpg",
+      "synopsis": "A new movie to commemorate Assassination Classroom's 10th anniversary of the TV anime. It adapts episodes previously omitted in the original anime series.\n\n\n\n As graduation nears, Class 3-E reflects on their year with Koro Sensei and the lessons he'll leave behind.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-30",
+      "pin": "e25aed00a2f127874c8aa8e214e4e79f40f06b53",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "assassination-classroom-the-movie-our-time/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
