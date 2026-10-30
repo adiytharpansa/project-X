@@ -11665,6 +11665,38 @@
         25,
         26
       ]
+    },
+    {
+      "id": "grow-up-show",
+      "title": "Grow Up Show",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0f0ca76f42957f79f462a8f617b18be0724858e3/grow-up-show/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0f0ca76f42957f79f462a8f617b18be0724858e3/grow-up-show/poster.jpg",
+      "synopsis": "The anime's story is set in the late 1950s and early 1960s, during the height of Japan's economic boom, when the circus is a major form of entertainment. Different circus troupes travel throughout Japan to perform and compete for a chance to participate in the world-renowned festival called \"Circus Collection.\" One troupe called the \"Sunflower Circus,\" led by its ringmaster Maria, travels around Japan to perform, despite struggling with financial difficulties. However, they meet a circus prodigy named Mizuka Tsurumaki. This is the story of a one-of-a-kind circus show of young girls with big dreams.\n\n\n(Source: Anime News Network)",
+      "year": 2026,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Slice of Life",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "a5ed47cfd5883b6992d078d165426055588a98bc",
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
