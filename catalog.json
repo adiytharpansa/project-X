@@ -8992,68 +8992,72 @@
       ]
     },
     {
-      "id": "saga-of-tanya-the-evil",
-      "title": "Saga of Tanya the Evil",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1f251dc94ae57ff59bdc7012e4d993886e14c0c9/saga-of-tanya-the-evil/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1f251dc94ae57ff59bdc7012e4d993886e14c0c9/saga-of-tanya-the-evil/poster.jpg",
-      "synopsis": "The novel series centers on a young girl who fights on the frontlines in war. She has blonde hair, blue eyes, and nearly transparent white skin, and she flies through the air and mercilessly strikes down her opponents. Her name is Tanya Degurechaff, and she speaks with a young girl's lisp and commands the army. Tanya used to be one of Japan's elite office workers, but because of a wrathful god, was reborn as a little girl. Tanya prioritizes optimization and career advancement above all, and she will become the most dangerous entity among the Imperial Army's sorcerers.\n\n\n\n(Source: Anime News Network)",
-      "year": 2017,
-      "score": 7.8,
+      "id": "ruri-rocks",
+      "title": "Ruri Rocks",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3b34db98f7694c27b153d52b7593a99129d287a7/ruri-rocks/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3b34db98f7694c27b153d52b7593a99129d287a7/ruri-rocks/poster.jpg",
+      "synopsis": "High schooler Ruri Tanigawa loves shiny things. She loves them so much that she heads into the mountains to search for crystals herself—where she unexpectedly meets Nagi Arato, a graduate student studying mineralogy. As the pair start collecting minerals together, Ruri begins developing a genuine appreciation for science and the beauty of the natural world.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 7.9,
       "status": "FINISHED",
       "genres": [
-        "Action",
-        "Fantasy"
+        "Adventure",
+        "Slice of Life"
       ],
-      "repo": "adiytharpansa/gudang-8",
-      "pin": "d33e300925353282cb02a906f846418da6afbb79",
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "3e502049bfba1aaed185f4608c3ed7fee1a09b62",
       "episodes": [
         {
           "number": 1,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep1/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep2/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep3/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep4/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep5/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep6/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep7/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep8/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep9/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep10/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep11/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-8@d33e300925353282cb02a906f846418da6afbb79/saga-of-tanya-the-evil/ep12/playlist.m3u8"
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-10@3e502049bfba1aaed185f4608c3ed7fee1a09b62/ruri-rocks/ep13/playlist.m3u8"
         }
       ]
     }
