@@ -12471,6 +12471,29 @@
           "playlist": "trillion-game/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "pok-mon-the-movie-the-power-of-us",
+      "title": "Pokémon the Movie: The Power of Us",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6066a56e22addce09bfba021f620debaf84c764f/pok-mon-the-movie-the-power-of-us/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6066a56e22addce09bfba021f620debaf84c764f/pok-mon-the-movie-the-power-of-us/banner.jpg",
+      "synopsis": "The Wind Festival is held once a year in Fula City, where people live together with the wind. Since long ago, on the final day of the festival, the legendary Pokémon Lugia will appear and bestow the blessings of the wind upon the people. This film is about everyone's stories, from Lisa (Risa), a high school girl who is just starting out as a Pokémon trainer, to Callahan (Kagachi), a guy who can't stop lying to Toren (Torito), a researcher who lacks confidence in himself, to Harriet (Hisui), an old lady who hates touching Pokémon, and Margo (Largo), a mysterious young girl who watches over the forest by herself.\n\n\n\n(Source: Anime News Network, edited)",
+      "year": 2018,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "a8b4551f5e90407d652e2db2cbcc9d68733d84f7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "pok-mon-the-movie-the-power-of-us/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
