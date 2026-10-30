@@ -12918,6 +12918,28 @@
           "playlist": "code-geass-akito-the-exiled-the-brightness-falls/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "batman-ninja-vs-yakuza-league",
+      "title": "Batman Ninja vs. Yakuza League",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@320b54d902b2b3e9537f74aadcb208dfb3eed6b6/batman-ninja-vs-yakuza-league/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@320b54d902b2b3e9537f74aadcb208dfb3eed6b6/batman-ninja-vs-yakuza-league/banner.jpg",
+      "synopsis": "In this sequel to Batman Ninja, the Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City. At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it’s up to Batman and his allies to save Gotham!\n\n\n\n(Source: Amazon Prime Video)\n\n\n\nNote: Release date reflects the release in Japan. The film was released in the US on March 18, 2025.",
+      "year": 2025,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-15",
+      "pin": "dbccda99773f663634e9a7b08d8f7ca3b574620e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "batman-ninja-vs-yakuza-league/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
