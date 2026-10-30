@@ -20163,6 +20163,59 @@
           "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "zhongguo-qitan-2",
+      "title": "Zhongguo Qitan 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@99026eb86655d3d6e9eabe9ba06832235e15861c/zhongguo-qitan-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@99026eb86655d3d6e9eabe9ba06832235e15861c/zhongguo-qitan-2/poster.jpg",
+      "synopsis": "The second season of Zhongguo Qitan.\n\n\n\nA collection of 9 short movies about Chinese folklore \"monsters\".",
+      "year": null,
+      "score": null,
+      "genres": [
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-33",
+      "pin": "666117d511c08bba719d58c5e75e565cdf1723b4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "zhongguo-qitan-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "zhongguo-qitan-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "zhongguo-qitan-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "zhongguo-qitan-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "zhongguo-qitan-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "zhongguo-qitan-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "zhongguo-qitan-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "zhongguo-qitan-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "zhongguo-qitan-2/ep9/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
