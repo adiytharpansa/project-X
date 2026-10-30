@@ -17113,6 +17113,72 @@
           "playlist": "why-the-hell-are-you-here-teacher/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "with-vengeance-sincerely-your-broken-saintess",
+      "title": "With Vengeance, Sincerely, Your Broken Saintess",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3659eeef4a24e1070ceb4c5b9228f2a4886f88a1/with-vengeance-sincerely-your-broken-saintess/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3659eeef4a24e1070ceb4c5b9228f2a4886f88a1/with-vengeance-sincerely-your-broken-saintess/poster.jpg",
+      "synopsis": "Lua is a saintess candidate who possesses the power of healing. But her ability had one flaw: she could only heal others by transferring their wounds onto herself. Because of this, others bullied her, calling her the \"Fallen Saintess.\" But it didn't bother Lua because her best friend Arianne always stood up for her.\n\n\n\nOne day, Lua's crush, Commander Garrett, was on the brink of death from a beast attack. Lua healed him, which left her on the verge of death. When she woke up, she learned that all the credit was given to Arianne, and she finally saw her best friend's true color. Devastated, Lua is lost and helpless when the second prince appears in front of her with a tempting offer. What would happen to Lua as she begins her new life as a villainess?\n\n\n\n(Source: NHN comico Corp.)",
+      "year": 2025,
+      "score": 6.2,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-16",
+      "pin": "31d9dd5c4ee16d6bcddd821b19cdda6fde2ca0a4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "with-vengeance-sincerely-your-broken-saintess/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
