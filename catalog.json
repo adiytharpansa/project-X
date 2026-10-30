@@ -19562,6 +19562,71 @@
           "playlist": "thunder-3/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "promise-of-wizard",
+      "title": "Promise of Wizard",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0626dcd2caadb97790594e64541798bbae42acd4/promise-of-wizard/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0626dcd2caadb97790594e64541798bbae42acd4/promise-of-wizard/poster.jpg",
+      "synopsis": "On a moonlit night, Akira Masaki finds herself in a magical world where wizards and humans coexist. Every year, they must face an enormous, deadly moon that attacks the planet. Their only hope lies with the Wizards of the Sage, appointed to fight the supernatural threat. But Akira soon discovers she wasn’t summoned by chance—she was chosen to lead them in battle.\n\n\n\n(Source: Crunchyroll)\n\n\n\nNote: Animation project for Mahoutsukai no Yakusoku announced during the stream event \"Mahoutsukai no Yakusoku 4-Shuunen Kinen Tokuban: Mahoyaku 4-Shuunen Goukon\" held on Nov 12, 2023.",
+      "year": 2025,
+      "score": 5.2,
+      "genres": [
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "f7b76875de476cb353ffa02861c1a2ae9e0820bd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "promise-of-wizard/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "promise-of-wizard/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "promise-of-wizard/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "promise-of-wizard/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "promise-of-wizard/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "promise-of-wizard/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "promise-of-wizard/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "promise-of-wizard/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "promise-of-wizard/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "promise-of-wizard/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "promise-of-wizard/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "promise-of-wizard/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
