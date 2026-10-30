@@ -7195,6 +7195,121 @@
           "playlist": "kamisama-kiss/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blue-lock",
+      "title": "Blue Lock",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@831f52c833f5efd95f5e5f40e1346ad024b81a8d/blue-lock/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@831f52c833f5efd95f5e5f40e1346ad024b81a8d/blue-lock/banner.jpg",
+      "synopsis": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?\n\n\n\n(Source: Crunchyroll)",
+      "year": 2022,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "c58ec8d3c06cbbe36efc25e9be8ce68efb31dcef",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blue-lock/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "blue-lock/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "blue-lock/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "blue-lock/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "blue-lock/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "blue-lock/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "blue-lock/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "blue-lock/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "blue-lock/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "blue-lock/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "blue-lock/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "blue-lock/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "blue-lock/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "blue-lock/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "blue-lock/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "blue-lock/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "blue-lock/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "blue-lock/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "blue-lock/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "blue-lock/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "blue-lock/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "blue-lock/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "blue-lock/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "blue-lock/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
