@@ -11413,6 +11413,27 @@
           "playlist": "cang-yuan-tu-2/ep36/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cocoon-one-summer-of-girlhood",
+      "title": "cocoon – One Summer of Girlhood",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@05e5d0451a60f5cb80c746d0059b1c294698bf7c/cocoon-one-summer-of-girlhood/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@05e5d0451a60f5cb80c746d0059b1c294698bf7c/cocoon-one-summer-of-girlhood/poster.jpg",
+      "synopsis": "San and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield.",
+      "year": 2025,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Drama"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "0b484c3e8a8b794f5fd15258432d5873c12aed20",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cocoon-one-summer-of-girlhood/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
