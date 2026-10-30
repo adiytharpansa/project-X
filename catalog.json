@@ -12163,6 +12163,124 @@
         11,
         12
       ]
+    },
+    {
+      "id": "the-seven-deadly-sins",
+      "title": "The Seven Deadly Sins",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e8855120d2646c983002123d4f23ae74a20d2a43/the-seven-deadly-sins/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e8855120d2646c983002123d4f23ae74a20d2a43/the-seven-deadly-sins/poster.jpg",
+      "synopsis": "When they were accused of trying to overthrow the monarchy, the feared warriors the Seven Deadly Sins were sent into exile. Princess Elizabeth discovers the truth - the Sins were framed by the king's guard, the Holy Knights - too late to prevent them from assassinating her father and seizing the throne!\n\nNow the princess is on the run, seeking the Sins to help her reclaim the kingdom. But the first Sin she meets, Meliodas, is a little innkeeper with a talking pig. He doesn't even have a real sword! Have the legends of the Sins' strength been exaggerated?\n\n\n\n(Source: Anime News Network)",
+      "year": 2014,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Ecchi",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "3629beee81e65caaa543bc5e997326830d922a1e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-seven-deadly-sins/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-seven-deadly-sins/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-seven-deadly-sins/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-seven-deadly-sins/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-seven-deadly-sins/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-seven-deadly-sins/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-seven-deadly-sins/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-seven-deadly-sins/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-seven-deadly-sins/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-seven-deadly-sins/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-seven-deadly-sins/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-seven-deadly-sins/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-seven-deadly-sins/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "the-seven-deadly-sins/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "the-seven-deadly-sins/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "the-seven-deadly-sins/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "the-seven-deadly-sins/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "the-seven-deadly-sins/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "the-seven-deadly-sins/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "the-seven-deadly-sins/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "the-seven-deadly-sins/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "the-seven-deadly-sins/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "the-seven-deadly-sins/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "the-seven-deadly-sins/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
