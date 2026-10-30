@@ -11765,6 +11765,48 @@
         12,
         13
       ]
+    },
+    {
+      "id": "see-you-tomorrow-at-the-food-court",
+      "title": "See You Tomorrow at the Food Court",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@324b7bbd4b7bb5c71e64a197aa892d718a9cabda/see-you-tomorrow-at-the-food-court/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@324b7bbd4b7bb5c71e64a197aa892d718a9cabda/see-you-tomorrow-at-the-food-court/poster.jpg",
+      "synopsis": "Meet Wada, who gives off an unapproachable vibe, and Yamamoto, who strikes fear into those around her because of her looks. Though the two girls attend separate high schools, they meet up at a shopping center’s food court almost every day. Take a little peek at the laid-back afternoons Wada and Yamamoto share as they reflect on the ups and downs of high school life together.\n\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "2a9cbcb1550fece4978a45b98483ed0c5a248c70",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "see-you-tomorrow-at-the-food-court/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "see-you-tomorrow-at-the-food-court/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "see-you-tomorrow-at-the-food-court/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "see-you-tomorrow-at-the-food-court/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "see-you-tomorrow-at-the-food-court/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "see-you-tomorrow-at-the-food-court/ep6/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
