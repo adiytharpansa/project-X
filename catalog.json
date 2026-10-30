@@ -14447,6 +14447,73 @@
           "playlist": "a-couple-of-cuckoos/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rent-a-girlfriend-season-3",
+      "title": "Rent-a-Girlfriend Season 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@867912e62546ce045c5d2de3285ac51b50e699ab/rent-a-girlfriend-season-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@867912e62546ce045c5d2de3285ac51b50e699ab/rent-a-girlfriend-season-3/poster.jpg",
+      "synopsis": "Kazuya begins producing a movie with Chizuru, and when things start to become close, a new girlfriend enters the mix! \n\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-15",
+      "pin": "543784b137ceaada300708547f9acaab98aa921c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rent-a-girlfriend-season-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "rent-a-girlfriend-season-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "rent-a-girlfriend-season-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "rent-a-girlfriend-season-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "rent-a-girlfriend-season-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "rent-a-girlfriend-season-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "rent-a-girlfriend-season-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "rent-a-girlfriend-season-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "rent-a-girlfriend-season-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "rent-a-girlfriend-season-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "rent-a-girlfriend-season-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "rent-a-girlfriend-season-3/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
