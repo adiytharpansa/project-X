@@ -13488,6 +13488,74 @@
           "playlist": "the-do-over-damsel-conquers-the-dragon-emperor/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "maebashi-witches",
+      "title": "Maebashi Witches",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@cc50b4b7f8670f73e0bf187d3d0ecfe5b73f92f2/maebashi-witches/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@cc50b4b7f8670f73e0bf187d3d0ecfe5b73f92f2/maebashi-witches/poster.jpg",
+      "synopsis": "Welcome to Maebashi City, Gunma Prefecture. For first-year high school student Yuina Akagi, her middling life takes a wild turn the moment a mysterious frog named Keroppe shows up and asks her, “Why don’t you become a witch?” Alongside Azu Niisato, Kyouka Kitahara, Choco Mitsumata, and Mai Kamiizumi, Yuina and her friends are excited to make people’s dreams come true as the Maebashi Witches.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Mahou Shoujo",
+        "Music",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-14",
+      "pin": "9813bac7330747230644f7fa851512cf686eb4e2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "maebashi-witches/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "maebashi-witches/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "maebashi-witches/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "maebashi-witches/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "maebashi-witches/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "maebashi-witches/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "maebashi-witches/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "maebashi-witches/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "maebashi-witches/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "maebashi-witches/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "maebashi-witches/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "maebashi-witches/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
