@@ -16501,6 +16501,93 @@
           "playlist": "reborn-as-a-cat/ep36/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "shenguo-zhi-shang",
+      "title": "Shenguo Zhi Shang",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@da03e1dcf4c8f4ccbc9458133caa1031b3cb6607/shenguo-zhi-shang/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@da03e1dcf4c8f4ccbc9458133caa1031b3cb6607/shenguo-zhi-shang/poster.jpg",
+      "synopsis": "Six days and nights, a strange case, and the boy returning to twelve years ago, can he break the shackles of the Kingdom of God this time?",
+      "year": null,
+      "score": 6.3,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-32",
+      "pin": "55332e41306155c3ddb1c05e8320f429d64e646d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "shenguo-zhi-shang/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "shenguo-zhi-shang/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "shenguo-zhi-shang/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "shenguo-zhi-shang/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "shenguo-zhi-shang/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "shenguo-zhi-shang/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "shenguo-zhi-shang/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "shenguo-zhi-shang/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "shenguo-zhi-shang/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "shenguo-zhi-shang/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "shenguo-zhi-shang/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "shenguo-zhi-shang/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "shenguo-zhi-shang/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "shenguo-zhi-shang/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "shenguo-zhi-shang/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "shenguo-zhi-shang/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "shenguo-zhi-shang/ep17/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
