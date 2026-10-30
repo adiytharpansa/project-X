@@ -9938,6 +9938,81 @@
           "playlist": "toilet-bound-hanako-kun/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "agents-of-the-four-seasons-dance-of-spring",
+      "title": "Agents of the Four Seasons: Dance of Spring",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@864bf406d9bee5d76aac401ffc8f3ee2420ebfed/agents-of-the-four-seasons-dance-of-spring/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@864bf406d9bee5d76aac401ffc8f3ee2420ebfed/agents-of-the-four-seasons-dance-of-spring/poster.jpg",
+      "synopsis": "When the Agent of Spring, Hinagiku Kayo, is abducted, spring itself vanishes—plunging the world into unending winter. Refusing to give up, her devoted guard, Sakura Himedaka, searches for her for years. When Hinagiku suddenly returns, the two set out to restore the lost season, face the past that tore them apart, and reclaim the warmth they refuse to lose again.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "c3eeb9924f167a90b8f22f1fb19d859b45296269",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "agents-of-the-four-seasons-dance-of-spring/ep14/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
