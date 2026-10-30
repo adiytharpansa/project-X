@@ -22539,6 +22539,126 @@
           "playlist": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sword-art-online-2",
+      "title": "Sword Art Online",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cee7fe35c8fe0501d4dd881c9b8b52985ac8c5c/sword-art-online/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cee7fe35c8fe0501d4dd881c9b8b52985ac8c5c/sword-art-online/banner.jpg",
+      "synopsis": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...\n(Source: Crunchyroll)",
+      "year": 2012,
+      "score": 0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-26",
+      "pin": "b2bcd8db216f42b4dd24821101c533276310aced",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sword-art-online-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sword-art-online-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sword-art-online-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sword-art-online-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sword-art-online-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sword-art-online-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sword-art-online-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sword-art-online-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sword-art-online-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sword-art-online-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sword-art-online-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sword-art-online-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "sword-art-online-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "sword-art-online-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "sword-art-online-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "sword-art-online-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "sword-art-online-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "sword-art-online-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "sword-art-online-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "sword-art-online-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "sword-art-online-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "sword-art-online-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "sword-art-online-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "sword-art-online-2/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "sword-art-online-2/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
