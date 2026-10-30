@@ -9362,6 +9362,66 @@
           "playlist": "an-observation-log-of-my-fianc-e-who-calls-herself-a-villainess/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "arknights-rise-from-ember",
+      "title": "Arknights: RISE FROM EMBER",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b7547532b6b56732d580805e53dbe15ceab0911c/arknights-rise-from-ember/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b7547532b6b56732d580805e53dbe15ceab0911c/arknights-rise-from-ember/poster.jpg",
+      "synopsis": "\"She\" was supposed to be a beacon of hope. But now her anger and hatred have turned into flames of war and are about to engulf the people.\n\n\n\nOnly Rhodes Island, a neutral organization, can stop Reunion's rampage and the conspiracy behind it. Amiya and the others head towards Chernobog's Core City, which is on a collision course with Lungmen. What fate awaits them there...\n\n\n\n(Source: Official Site, translated, edited)",
+      "year": 2025,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "f73856753f7aa42c33d6068a0ec3b6e53b7bbb30",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "arknights-rise-from-ember/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "arknights-rise-from-ember/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "arknights-rise-from-ember/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "arknights-rise-from-ember/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "arknights-rise-from-ember/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "arknights-rise-from-ember/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "arknights-rise-from-ember/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "arknights-rise-from-ember/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "arknights-rise-from-ember/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "arknights-rise-from-ember/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
