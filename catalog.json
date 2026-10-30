@@ -17737,6 +17737,72 @@
           "playlist": "turkey-time-to-strike/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "uglymug-epicfighter",
+      "title": "Uglymug, Epicfighter",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@a47e8666c1348d524196f51c2fda12fa9c95b688/uglymug-epicfighter/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@a47e8666c1348d524196f51c2fda12fa9c95b688/uglymug-epicfighter/poster.jpg",
+      "synopsis": "After a false accusation, Shigeru Yoshioka becomes an unemployed recluse. By choosing to remain ugly in another world, Shigeru gains higher status. He begins his second life as an absolute god with cheat-level stats. At first, Shigeru tags along with Seika, Seiji, and Leeds, but due to a weakness caused by direct contact with a girl, he considers breaking away from the party. However…\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 6.1,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-26",
+      "pin": "301d8184fdb3bca9888d2dcb8602e5e19b12c4df",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "uglymug-epicfighter/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "uglymug-epicfighter/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "uglymug-epicfighter/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "uglymug-epicfighter/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "uglymug-epicfighter/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "uglymug-epicfighter/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "uglymug-epicfighter/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "uglymug-epicfighter/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "uglymug-epicfighter/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "uglymug-epicfighter/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "uglymug-epicfighter/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "uglymug-epicfighter/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
