@@ -15595,6 +15595,27 @@
       "episodes": [
         1
       ]
+    },
+    {
+      "id": "dragon-ball-mystical-adventure",
+      "title": "Dragon Ball: Mystical Adventure",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9df54d634dafac35f7a2852fafa7350c85035a47/dragon-ball-mystical-adventure/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9df54d634dafac35f7a2852fafa7350c85035a47/dragon-ball-mystical-adventure/poster.jpg",
+      "synopsis": "A retelling of the meeting of Goku, Tenshinhan, and Chiaotzu. Also of the 23rd Tenkaichi Budokai.\n\n\n\n(Source: Anime News Network)",
+      "year": 1988,
+      "score": 6.4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-26",
+      "pin": "cf18b83cf231a6e31150b416e00f1f4aaa4deeb5",
+      "episodes": [
+        1
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
