@@ -7607,6 +7607,123 @@
           "playlist": "trigun/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "daemons-of-the-shadow-realm",
+      "title": "Daemons of the Shadow Realm",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1712e9e260c5d68ac0bc1d195fd3648fdbbf4856/daemons-of-the-shadow-realm/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1712e9e260c5d68ac0bc1d195fd3648fdbbf4856/daemons-of-the-shadow-realm/banner.jpg",
+      "synopsis": "Yuru, a young hunter who lives in a small village deep in the mountains, hunts wild game and leads a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them? Enter a breathtaking mystical fantasy as exciting Daemon battles intertwine the mysterious and supernatural.\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "ae8059f9a75689e1e12d2a1badf37ba89a6618ed",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "daemons-of-the-shadow-realm/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "daemons-of-the-shadow-realm/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "daemons-of-the-shadow-realm/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "daemons-of-the-shadow-realm/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "daemons-of-the-shadow-realm/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "daemons-of-the-shadow-realm/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "daemons-of-the-shadow-realm/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "daemons-of-the-shadow-realm/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "daemons-of-the-shadow-realm/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "daemons-of-the-shadow-realm/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "daemons-of-the-shadow-realm/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "daemons-of-the-shadow-realm/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "daemons-of-the-shadow-realm/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "daemons-of-the-shadow-realm/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "daemons-of-the-shadow-realm/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "daemons-of-the-shadow-realm/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "daemons-of-the-shadow-realm/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "daemons-of-the-shadow-realm/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "daemons-of-the-shadow-realm/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "daemons-of-the-shadow-realm/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "daemons-of-the-shadow-realm/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "daemons-of-the-shadow-realm/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "daemons-of-the-shadow-realm/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "daemons-of-the-shadow-realm/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
