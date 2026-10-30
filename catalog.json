@@ -8990,6 +8990,29 @@
           "playlist": "evangelion-30th-anniversary-special-screening/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "detective-conan-captured-in-her-eyes",
+      "title": "Detective Conan: Captured in Her Eyes",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c1d0c1f635d56bb43c821d8a310916acc40e4229/detective-conan-captured-in-her-eyes/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c1d0c1f635d56bb43c821d8a310916acc40e4229/detective-conan-captured-in-her-eyes/banner.jpg",
+      "synopsis": "A series of murders have occurred with police officers as victims. One of the officers is shot right in front of Ran's eyes, and the shock of the incident causes Ran to lose her memory of everyone and everything around her. Now Conan must help Ran regain her lost memories, while also protecting her from the murderer, who is targeting Ran for witnessing the crime.\n\n\n\n(Source: Anime News Network)",
+      "year": 2000,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "f20e97db8946f061a5e28530e050ebaaf452359e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@f20e97db8946f061a5e28530e050ebaaf452359e/detective-conan-captured-in-her-eyes/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
