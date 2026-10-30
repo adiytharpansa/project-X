@@ -14669,6 +14669,28 @@
           "playlist": "teogonia/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fureru",
+      "title": "Fureru",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@209821d574b83af958341c13c83a4c1654ff0a2b/fureru/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@209821d574b83af958341c13c83a4c1654ff0a2b/fureru/poster.jpg",
+      "synopsis": "Aki, Ryou, and Yuuta grew up on a tiny Japanese island with Fureru, a small yellow hedgehog with mysterious powers. Now in their 20s and chasing a fresh start in Tokyo, the trio tries to build new lives while keeping their unusual companion out of sight. But as Fureru’s powers awaken, buried emotions and old tensions reemerge, pushing their friendship into unpredictable new territory. \n\n\n(Source: Crunchyroll, edited)",
+      "year": 2024,
+      "score": 6.5,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-32",
+      "pin": "a36c40303c5c0910ffa80cd1a9e2106a21c74432",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fureru/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
