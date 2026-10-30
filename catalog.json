@@ -8722,6 +8722,29 @@
           "playlist": "tonikawa-over-the-moon-for-you-sns/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rascal-does-not-dream-of-a-sister-venturing-out",
+      "title": "Rascal Does Not Dream of a Sister Venturing Out",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2805ed88f4e0f0e0fbd0af1fc66c7d53074b95f8/rascal-does-not-dream-of-a-sister-venturing-out/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2805ed88f4e0f0e0fbd0af1fc66c7d53074b95f8/rascal-does-not-dream-of-a-sister-venturing-out/poster.jpg",
+      "synopsis": "WHAT WILL IT TAKE TO MAKE HER WISH COME TRUE?\n\n\n\nAfter a draining December, Sakuta is quickly nearing the end of his second year of high school. Since Mai is a third-year student, they don’t have much time left together before graduation rolls around. Meanwhile, his sister, Kaede, is slowly but steadily venturing outdoors again. Just as she begins to find her footing, she announces her most ambitious goal yet—attending her brother’s high school! Sakuta knows better than anyone how difficult this will be for Kaede, and he’s ready to support her however he can. He’s just not sure if that’s what’s best for her…or what she really wants…\n\n\n\n(Source: Yen Press)",
+      "year": 2023,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "a8d9def0bd20d2118051323bfbefc478003f088d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rascal-does-not-dream-of-a-sister-venturing-out/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
