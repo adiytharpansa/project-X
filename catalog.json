@@ -17402,6 +17402,74 @@
           "playlist": "good-bye-dragon-life/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hero-without-a-class-who-even-needs-skills",
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@36c77929306938b809283a489975888b503ab77f/hero-without-a-class-who-even-needs-skills/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@36c77929306938b809283a489975888b503ab77f/hero-without-a-class-who-even-needs-skills/poster.jpg",
+      "synopsis": "In a world where one’s class determines everything, Arel, the son of a Sword Princess and an Archmage, was expected to inherit greatness. But when he discovers he’s classless, everything changes. Now he’s determined to prove that hard work and dedication are enough to not just succeed, but to excel as an adventurer!\n\n\n\n(Source: HIDIVE)\n\n\n\nNote: Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga was streamed a week in advance of the TV broadcast on dAnimestore, ABEMA and HIDIVE beginning September 24, 2025. Regular broadcasting began on October 1, 2025.",
+      "year": 2025,
+      "score": 6.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-21",
+      "pin": "228b398a8ca6205fcbd6d5734aecaf3a97d77e27",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hero-without-a-class-who-even-needs-skills/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
