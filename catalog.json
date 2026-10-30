@@ -20563,6 +20563,74 @@
           "playlist": "wo-wei-dao-zong/ep16/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "from-old-country-bumpkin-to-master-swordsman-ii-2",
+      "title": "From Old Country Bumpkin to Master Swordsman II",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@532fb276d87f009e7bd847e925d569dd4451ae78/from-old-country-bumpkin-to-master-swordsman-ii-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@532fb276d87f009e7bd847e925d569dd4451ae78/from-old-country-bumpkin-to-master-swordsman-ii-2/poster.jpg",
+      "synopsis": "Beryl Gardenant, a swordmaster from the countryside, is settling into his new life as a special instructor for the Royal Order of Knights and the guardian of an orphan. A peaceful life is not in the cards, however, and Beryl is confronted with new obstacles. At the magic institute, in his hometown, at the kingdom's border, away in a foreign land... It's time for Beryl to face new battles.\n\n(Source: Prime Video)",
+      "year": 2026,
+      "score": 0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-26",
+      "pin": "200f89691c27e152e1872c26241e74006278e561",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
