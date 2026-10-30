@@ -21943,6 +21943,185 @@
           "playlist": "one-punch-man-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tun-tian-ji",
+      "title": "Tun Tian Ji",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d86944b28988219b20806628d70093cb5452b436/tun-tian-ji/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d86944b28988219b20806628d70093cb5452b436/tun-tian-ji/poster.jpg",
+      "synopsis": "Adapted from the novel of the same name by Feng Qingyang, it chronicles the legendary metamorphosis of Wu Yu - from an ordinary mortal to an immortal Buddha.",
+      "year": null,
+      "score": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-24",
+      "pin": "a3e7e24ab56dafb0ea94087b5796ddbbbdf0d168",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tun-tian-ji/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tun-tian-ji/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tun-tian-ji/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tun-tian-ji/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tun-tian-ji/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tun-tian-ji/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tun-tian-ji/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tun-tian-ji/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tun-tian-ji/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tun-tian-ji/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tun-tian-ji/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tun-tian-ji/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "tun-tian-ji/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "tun-tian-ji/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "tun-tian-ji/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "tun-tian-ji/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "tun-tian-ji/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "tun-tian-ji/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "tun-tian-ji/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "tun-tian-ji/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "tun-tian-ji/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "tun-tian-ji/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "tun-tian-ji/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "tun-tian-ji/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "tun-tian-ji/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "tun-tian-ji/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "tun-tian-ji/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "tun-tian-ji/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "tun-tian-ji/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "tun-tian-ji/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "tun-tian-ji/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "tun-tian-ji/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "tun-tian-ji/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "tun-tian-ji/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "tun-tian-ji/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "tun-tian-ji/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "tun-tian-ji/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "tun-tian-ji/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "tun-tian-ji/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "tun-tian-ji/ep40/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
