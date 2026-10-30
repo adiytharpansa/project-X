@@ -13400,6 +13400,28 @@
           "playlist": "hell-teacher-jigoku-sensei-nube-2025-part-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-prince-of-tennis-two-samurais-the-first-game",
+      "title": "The Prince of Tennis: Two Samurais, The First Game",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@486a2d04749474009972d75ff24bd19121294e80/the-prince-of-tennis-two-samurais-the-first-game/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@486a2d04749474009972d75ff24bd19121294e80/the-prince-of-tennis-two-samurais-the-first-game/poster.jpg",
+      "synopsis": "The regular players from Seigaku participates in an exhibition game aboard a cruise ship. However, they discover that the event is being run by a corrupt millionaire heavily involved in illegal gambling and betting, who demands that they lose the match on purpose. To add to the confusion, one of the players on the rival team introduces himself as Ryoma's brother.\n\n\n\n(Source: Anime News Network)",
+      "year": 2005,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "8f015d9f9e35c6f7e6111e28ee601a91d6e6cfbf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-prince-of-tennis-two-samurais-the-first-game/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
