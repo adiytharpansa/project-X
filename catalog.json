@@ -10147,138 +10147,68 @@
       ]
     },
     {
-      "id": "goodbye-lara",
-      "title": "Goodbye, Lara",
-      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48880%2Fposter_image%2F59866f73866569654255e7d2901294ab.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@18d6aea3e72f0789e30c03125c823796d442490e/goodbye-lara/banner.jpg",
-      "synopsis": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.\n\n\n(Source: Crunchyroll)",
+      "id": "the-elusive-samurai-season-2",
+      "title": "The Elusive Samurai Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0d79b3d2782c18e2544758e7df1fe8a3d4a00dc4/the-elusive-samurai-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0d79b3d2782c18e2544758e7df1fe8a3d4a00dc4/the-elusive-samurai-season-2/poster.jpg",
+      "synopsis": "After the tragic events in Kamakura, Tokiyuki Houjou has overcome the worst and started restoring his noble family. His next goal is incredibly ambitious—retaking Kamakura, no matter the cost. However, achieving his goal proves difficult as the region goes through turbulent times while its people are exhausted from their uneasy lives.\n\n\n\nTo make matters worse, some of the current rule's higher-ups are hot on Tokiyuki's trail and hope to expose him. But alongside his skilled and treasured retainers, Tokiyuki will do anything to rebuild his realm as he utilizes his elusiveness in both combat and speech.\n\n\n\n(Source: MAL Rewrite)",
       "year": 2026,
       "score": 7.6,
       "status": "FINISHED",
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
+        "Action",
+        "Adventure"
       ],
-      "repo": "adiytharpansa/gudang-6",
-      "pin": "42b33de8fd092490be35b04e392120af07a072bd",
+      "repo": "adiytharpansa/gudang-10",
+      "pin": "ca47a27560024252b93f815f1c72b051beb21881",
       "episodes": [
         {
           "number": 1,
-          "playlist": "goodbye-lara/ep1/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "goodbye-lara/ep2/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "goodbye-lara/ep3/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "goodbye-lara/ep4/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "goodbye-lara/ep5/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "goodbye-lara/ep6/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "goodbye-lara/ep7/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "goodbye-lara/ep8/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "goodbye-lara/ep9/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "goodbye-lara/ep10/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "goodbye-lara/ep11/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "goodbye-lara/ep12/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "mf-ghost-season-3",
-      "title": "MF GHOST Season 3",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@747d4edf338ffdc48da7976c48f2738abed06438/mf-ghost-season-3/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@747d4edf338ffdc48da7976c48f2738abed06438/mf-ghost-season-3/banner.jpg",
-      "synopsis": "Round 3 of the MFG competition is heating up on the final race day at the Peninsula Manazuru track. Despite starting at the very front of the pack, MFG rookie Kanata Katagiri has difficulty getting the most out of his Toyota 86 GT due to an injury unknown to his competitors. Falling further behind, Kanata finds himself in a desperate situation that only stirs up unwanted memories.\n\n\n\nAt the head of the race, a vicious battle takes place between the two top drivers in the competition—Michael Beckenbauer and Kouki Sawatari—for the first spot on the podium. Given their aggressive and absurd driving, anyone daring to surpass either of them will have to match their level of pride until the very end. But when all hope seems lost for Kanata, a legendary competitive spirit awakens within him, and it may just push him to overcome his physical limitations and climb back to the top.\n\n\n\n(Source: MAL Rewrite)\n\n\n\nNote: Each episode streams 3 days early on Prime Video. The original TV broadcast started on January 4, 2026.",
-      "year": 2026,
-      "score": 7.6,
-      "status": "FINISHED",
-      "genres": [
-        "Sports"
-      ],
-      "repo": "adiytharpansa/gudang-8",
-      "pin": "6ed75815dd08cf75076d07ba0666185e563f6a03",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "mf-ghost-season-3/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "mf-ghost-season-3/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "mf-ghost-season-3/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "mf-ghost-season-3/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "mf-ghost-season-3/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "mf-ghost-season-3/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "mf-ghost-season-3/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "mf-ghost-season-3/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "mf-ghost-season-3/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "mf-ghost-season-3/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "mf-ghost-season-3/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "mf-ghost-season-3/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "mf-ghost-season-3/ep13/playlist.m3u8"
+          "playlist": "the-elusive-samurai-season-2/ep12/playlist.m3u8"
         }
       ]
     }
