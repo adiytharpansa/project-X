@@ -385,7 +385,7 @@
         "Sci-Fi"
       ],
       "repo": "adiytharpansa/gudang-3",
-      "pin": "afcc4d3c2152b99c2fd5f55c13d552f2b634fc87",
+      "pin": "b7fc565362d2429995fdcd5f85bf873a062b4101",
       "episodes": [
         {
           "number": 1,
@@ -418,6 +418,22 @@
         {
           "number": 8,
           "playlist": "kaiju-no-8/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kaiju-no-8/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kaiju-no-8/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kaiju-no-8/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kaiju-no-8/ep12/playlist.m3u8"
         }
       ]
     },
