@@ -17803,6 +17803,74 @@
           "playlist": "uglymug-epicfighter/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-gatherer-s-adventure-in-isekai",
+      "title": "A Gatherer's Adventure in Isekai",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5301df160017b7d07a3fa7a2bf02a76413419895/a-gatherer-s-adventure-in-isekai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5301df160017b7d07a3fa7a2bf02a76413419895/a-gatherer-s-adventure-in-isekai/poster.jpg",
+      "synopsis": "Kamishiro Takeru was just an ordinary guy with an ordinary office job, until he’s suddenly summoned to Madeus, a world with swords and magic. Life as he knew it is over, but he’s starting his new one with powerful abilities: enhanced strength, overwhelming magic, and a “search” skill that allows him to find valuable items! Armed with his new cheat skills, Takeru begins his isekai journey!\n\n\n\n\n(Source: Crunchyroll) \n\n\nNote: Each episode streams 1 week early on some streaming services. The original TV broadcast starts on October 7th, 2025.",
+      "year": 2025,
+      "score": 6,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-16",
+      "pin": "7b4827d79196c302dee328e1298fc48a8b81b5d1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-gatherer-s-adventure-in-isekai/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
