@@ -15574,6 +15574,27 @@
         25,
         26
       ]
+    },
+    {
+      "id": "meitantei-conan-30-gou-satsujin-jiken",
+      "title": "Meitantei Conan: 30-Gou Satsujin Jiken",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@563c4950bb90510a1e39e79ed64269eb17f6bf43/meitantei-conan-30-gou-satsujin-jiken/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@563c4950bb90510a1e39e79ed64269eb17f6bf43/meitantei-conan-30-gou-satsujin-jiken/poster.jpg",
+      "synopsis": "A special commemorating the 30th anniversary of the anime series.\n\n\nAs a new 10,000-yen banknote featuring the Touto Tower design is issued and the nation is swept up in excitement, Conan and the Junior Detective League, accompanied by Professor Agasa, Ran, and Sonoko, visit the Nagano factory of the Japan Banknote Printing Bureau.\n\n\n\nMeanwhile, counterfeit money is discovered at the scene of a murder in Tokyo, prompting the Metropolitan Police Department to establish an investigation headquarters. As the unprecedented circulation of counterfeit new banknotes throws the public into confusion, Conan and Heiji head to Osaka, where the counterfeit money is believed to have been printed.",
+      "year": 2026,
+      "score": 6.4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-25",
+      "pin": "234f655af9cd578cac9fd81b120787a2cad182ac",
+      "episodes": [
+        1
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
