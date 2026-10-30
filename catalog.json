@@ -21136,6 +21136,68 @@
           "playlist": "my-hero-academia/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "red-fox",
+      "title": "Red Fox",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bb78c1ef2d70df7327a1befd7c72c40be5b53a50/red-fox/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bb78c1ef2d70df7327a1befd7c72c40be5b53a50/red-fox/poster.jpg",
+      "synopsis": "Welcome to Ibana, a beautiful country also known as the red country. Here, lives the red fox, a wily beast who takes on the form of a human and feasts on the livers of humans. For hundreds of years, the fox kills without hesitation until, thanks to one human woman, it comes to know what that human emotion called \"love\", truly is. Out of the land of fire, erupts the cruel yet tragic love story of one evil spirit who yearns to possess the heart of one human woman.\n\nsource: ANN\n\nnote: The first episode was aired on youtube one day before the official Laftel release on 19.05.2025.",
+      "year": null,
+      "score": null,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Romance",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-29",
+      "pin": "74a9804af12bf3788458c9f667c80480884e9336",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "red-fox/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "red-fox/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "red-fox/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "red-fox/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "red-fox/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "red-fox/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "red-fox/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "red-fox/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "red-fox/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "red-fox/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
