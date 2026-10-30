@@ -22122,6 +22122,72 @@
           "playlist": "tun-tian-ji/ep40/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "pass-the-monster-meat-milady",
+      "title": "Pass the Monster Meat, Milady!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3a1336bca5cba9f8ff938f9be4212d54ee324782/pass-the-monster-meat-milady/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3a1336bca5cba9f8ff938f9be4212d54ee324782/pass-the-monster-meat-milady/poster.jpg",
+      "synopsis": "Any proper noble lady must cultivate refined tastes, and Lady Melphiera’s delicacy of choice is…monsters! Unfortunately, society frowns upon such unladylike cravings and brands her the “Voracious Villainess.” At a banquet, she’s attacked by a monster, only to be saved by the feared “Blood-Mad Duke.” He’s brutal, mysterious, and charming. Could he be the one to appreciate her monstrous appetite?\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 0,
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-27",
+      "pin": "774e6030abc7a8e3433681eed9ab26c715ae770f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "pass-the-monster-meat-milady/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "pass-the-monster-meat-milady/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "pass-the-monster-meat-milady/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "pass-the-monster-meat-milady/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "pass-the-monster-meat-milady/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "pass-the-monster-meat-milady/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "pass-the-monster-meat-milady/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "pass-the-monster-meat-milady/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "pass-the-monster-meat-milady/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "pass-the-monster-meat-milady/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "pass-the-monster-meat-milady/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "pass-the-monster-meat-milady/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
