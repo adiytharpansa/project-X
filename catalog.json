@@ -7745,6 +7745,908 @@
           "playlist": "bang-dream-episode-of-roselia-ii-song-i-am/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "naruto",
+      "title": "Naruto",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2b3606271f553361c1eb2053366d9d07e8e0e732/naruto/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2b3606271f553361c1eb2053366d9d07e8e0e732/naruto/banner.jpg",
+      "synopsis": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. \nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. \n(Source: MAL Rewrite)",
+      "year": 2002,
+      "score": 8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-7",
+      "pin": "1323cdc6396116c58c47c0c816ea1583e2ba110b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "naruto/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "naruto/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "naruto/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "naruto/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "naruto/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "naruto/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "naruto/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "naruto/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "naruto/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "naruto/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "naruto/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "naruto/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "naruto/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "naruto/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "naruto/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "naruto/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "naruto/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "naruto/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "naruto/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "naruto/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "naruto/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "naruto/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "naruto/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "naruto/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "naruto/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "naruto/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "naruto/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "naruto/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "naruto/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "naruto/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "naruto/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "naruto/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "naruto/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "naruto/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "naruto/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "naruto/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "naruto/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "naruto/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "naruto/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "naruto/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "naruto/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "naruto/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "naruto/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "naruto/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "naruto/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "naruto/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "naruto/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "naruto/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "naruto/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "naruto/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "naruto/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "naruto/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "naruto/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "naruto/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "naruto/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "naruto/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "naruto/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "naruto/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "naruto/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "naruto/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "naruto/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "naruto/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "naruto/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "naruto/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "naruto/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "naruto/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "naruto/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "naruto/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "naruto/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "naruto/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "naruto/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "naruto/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "naruto/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "naruto/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "naruto/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "naruto/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "naruto/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "naruto/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "naruto/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "naruto/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "naruto/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "naruto/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "naruto/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "naruto/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "naruto/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "naruto/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "naruto/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "naruto/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "naruto/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "naruto/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "naruto/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "naruto/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "naruto/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "naruto/ep94/playlist.m3u8"
+        },
+        {
+          "number": 95,
+          "playlist": "naruto/ep95/playlist.m3u8"
+        },
+        {
+          "number": 96,
+          "playlist": "naruto/ep96/playlist.m3u8"
+        },
+        {
+          "number": 97,
+          "playlist": "naruto/ep97/playlist.m3u8"
+        },
+        {
+          "number": 98,
+          "playlist": "naruto/ep98/playlist.m3u8"
+        },
+        {
+          "number": 99,
+          "playlist": "naruto/ep99/playlist.m3u8"
+        },
+        {
+          "number": 100,
+          "playlist": "naruto/ep100/playlist.m3u8"
+        },
+        {
+          "number": 101,
+          "playlist": "naruto/ep101/playlist.m3u8"
+        },
+        {
+          "number": 102,
+          "playlist": "naruto/ep102/playlist.m3u8"
+        },
+        {
+          "number": 103,
+          "playlist": "naruto/ep103/playlist.m3u8"
+        },
+        {
+          "number": 104,
+          "playlist": "naruto/ep104/playlist.m3u8"
+        },
+        {
+          "number": 105,
+          "playlist": "naruto/ep105/playlist.m3u8"
+        },
+        {
+          "number": 106,
+          "playlist": "naruto/ep106/playlist.m3u8"
+        },
+        {
+          "number": 107,
+          "playlist": "naruto/ep107/playlist.m3u8"
+        },
+        {
+          "number": 108,
+          "playlist": "naruto/ep108/playlist.m3u8"
+        },
+        {
+          "number": 109,
+          "playlist": "naruto/ep109/playlist.m3u8"
+        },
+        {
+          "number": 110,
+          "playlist": "naruto/ep110/playlist.m3u8"
+        },
+        {
+          "number": 111,
+          "playlist": "naruto/ep111/playlist.m3u8"
+        },
+        {
+          "number": 112,
+          "playlist": "naruto/ep112/playlist.m3u8"
+        },
+        {
+          "number": 113,
+          "playlist": "naruto/ep113/playlist.m3u8"
+        },
+        {
+          "number": 114,
+          "playlist": "naruto/ep114/playlist.m3u8"
+        },
+        {
+          "number": 115,
+          "playlist": "naruto/ep115/playlist.m3u8"
+        },
+        {
+          "number": 116,
+          "playlist": "naruto/ep116/playlist.m3u8"
+        },
+        {
+          "number": 117,
+          "playlist": "naruto/ep117/playlist.m3u8"
+        },
+        {
+          "number": 118,
+          "playlist": "naruto/ep118/playlist.m3u8"
+        },
+        {
+          "number": 119,
+          "playlist": "naruto/ep119/playlist.m3u8"
+        },
+        {
+          "number": 120,
+          "playlist": "naruto/ep120/playlist.m3u8"
+        },
+        {
+          "number": 121,
+          "playlist": "naruto/ep121/playlist.m3u8"
+        },
+        {
+          "number": 122,
+          "playlist": "naruto/ep122/playlist.m3u8"
+        },
+        {
+          "number": 123,
+          "playlist": "naruto/ep123/playlist.m3u8"
+        },
+        {
+          "number": 124,
+          "playlist": "naruto/ep124/playlist.m3u8"
+        },
+        {
+          "number": 125,
+          "playlist": "naruto/ep125/playlist.m3u8"
+        },
+        {
+          "number": 126,
+          "playlist": "naruto/ep126/playlist.m3u8"
+        },
+        {
+          "number": 127,
+          "playlist": "naruto/ep127/playlist.m3u8"
+        },
+        {
+          "number": 128,
+          "playlist": "naruto/ep128/playlist.m3u8"
+        },
+        {
+          "number": 129,
+          "playlist": "naruto/ep129/playlist.m3u8"
+        },
+        {
+          "number": 130,
+          "playlist": "naruto/ep130/playlist.m3u8"
+        },
+        {
+          "number": 131,
+          "playlist": "naruto/ep131/playlist.m3u8"
+        },
+        {
+          "number": 132,
+          "playlist": "naruto/ep132/playlist.m3u8"
+        },
+        {
+          "number": 133,
+          "playlist": "naruto/ep133/playlist.m3u8"
+        },
+        {
+          "number": 134,
+          "playlist": "naruto/ep134/playlist.m3u8"
+        },
+        {
+          "number": 135,
+          "playlist": "naruto/ep135/playlist.m3u8"
+        },
+        {
+          "number": 136,
+          "playlist": "naruto/ep136/playlist.m3u8"
+        },
+        {
+          "number": 137,
+          "playlist": "naruto/ep137/playlist.m3u8"
+        },
+        {
+          "number": 138,
+          "playlist": "naruto/ep138/playlist.m3u8"
+        },
+        {
+          "number": 139,
+          "playlist": "naruto/ep139/playlist.m3u8"
+        },
+        {
+          "number": 140,
+          "playlist": "naruto/ep140/playlist.m3u8"
+        },
+        {
+          "number": 141,
+          "playlist": "naruto/ep141/playlist.m3u8"
+        },
+        {
+          "number": 142,
+          "playlist": "naruto/ep142/playlist.m3u8"
+        },
+        {
+          "number": 143,
+          "playlist": "naruto/ep143/playlist.m3u8"
+        },
+        {
+          "number": 144,
+          "playlist": "naruto/ep144/playlist.m3u8"
+        },
+        {
+          "number": 145,
+          "playlist": "naruto/ep145/playlist.m3u8"
+        },
+        {
+          "number": 146,
+          "playlist": "naruto/ep146/playlist.m3u8"
+        },
+        {
+          "number": 147,
+          "playlist": "naruto/ep147/playlist.m3u8"
+        },
+        {
+          "number": 148,
+          "playlist": "naruto/ep148/playlist.m3u8"
+        },
+        {
+          "number": 149,
+          "playlist": "naruto/ep149/playlist.m3u8"
+        },
+        {
+          "number": 150,
+          "playlist": "naruto/ep150/playlist.m3u8"
+        },
+        {
+          "number": 151,
+          "playlist": "naruto/ep151/playlist.m3u8"
+        },
+        {
+          "number": 152,
+          "playlist": "naruto/ep152/playlist.m3u8"
+        },
+        {
+          "number": 153,
+          "playlist": "naruto/ep153/playlist.m3u8"
+        },
+        {
+          "number": 154,
+          "playlist": "naruto/ep154/playlist.m3u8"
+        },
+        {
+          "number": 155,
+          "playlist": "naruto/ep155/playlist.m3u8"
+        },
+        {
+          "number": 156,
+          "playlist": "naruto/ep156/playlist.m3u8"
+        },
+        {
+          "number": 157,
+          "playlist": "naruto/ep157/playlist.m3u8"
+        },
+        {
+          "number": 158,
+          "playlist": "naruto/ep158/playlist.m3u8"
+        },
+        {
+          "number": 159,
+          "playlist": "naruto/ep159/playlist.m3u8"
+        },
+        {
+          "number": 160,
+          "playlist": "naruto/ep160/playlist.m3u8"
+        },
+        {
+          "number": 161,
+          "playlist": "naruto/ep161/playlist.m3u8"
+        },
+        {
+          "number": 162,
+          "playlist": "naruto/ep162/playlist.m3u8"
+        },
+        {
+          "number": 163,
+          "playlist": "naruto/ep163/playlist.m3u8"
+        },
+        {
+          "number": 164,
+          "playlist": "naruto/ep164/playlist.m3u8"
+        },
+        {
+          "number": 165,
+          "playlist": "naruto/ep165/playlist.m3u8"
+        },
+        {
+          "number": 166,
+          "playlist": "naruto/ep166/playlist.m3u8"
+        },
+        {
+          "number": 167,
+          "playlist": "naruto/ep167/playlist.m3u8"
+        },
+        {
+          "number": 168,
+          "playlist": "naruto/ep168/playlist.m3u8"
+        },
+        {
+          "number": 169,
+          "playlist": "naruto/ep169/playlist.m3u8"
+        },
+        {
+          "number": 170,
+          "playlist": "naruto/ep170/playlist.m3u8"
+        },
+        {
+          "number": 171,
+          "playlist": "naruto/ep171/playlist.m3u8"
+        },
+        {
+          "number": 172,
+          "playlist": "naruto/ep172/playlist.m3u8"
+        },
+        {
+          "number": 173,
+          "playlist": "naruto/ep173/playlist.m3u8"
+        },
+        {
+          "number": 174,
+          "playlist": "naruto/ep174/playlist.m3u8"
+        },
+        {
+          "number": 175,
+          "playlist": "naruto/ep175/playlist.m3u8"
+        },
+        {
+          "number": 176,
+          "playlist": "naruto/ep176/playlist.m3u8"
+        },
+        {
+          "number": 177,
+          "playlist": "naruto/ep177/playlist.m3u8"
+        },
+        {
+          "number": 178,
+          "playlist": "naruto/ep178/playlist.m3u8"
+        },
+        {
+          "number": 179,
+          "playlist": "naruto/ep179/playlist.m3u8"
+        },
+        {
+          "number": 180,
+          "playlist": "naruto/ep180/playlist.m3u8"
+        },
+        {
+          "number": 181,
+          "playlist": "naruto/ep181/playlist.m3u8"
+        },
+        {
+          "number": 182,
+          "playlist": "naruto/ep182/playlist.m3u8"
+        },
+        {
+          "number": 183,
+          "playlist": "naruto/ep183/playlist.m3u8"
+        },
+        {
+          "number": 184,
+          "playlist": "naruto/ep184/playlist.m3u8"
+        },
+        {
+          "number": 185,
+          "playlist": "naruto/ep185/playlist.m3u8"
+        },
+        {
+          "number": 186,
+          "playlist": "naruto/ep186/playlist.m3u8"
+        },
+        {
+          "number": 187,
+          "playlist": "naruto/ep187/playlist.m3u8"
+        },
+        {
+          "number": 188,
+          "playlist": "naruto/ep188/playlist.m3u8"
+        },
+        {
+          "number": 189,
+          "playlist": "naruto/ep189/playlist.m3u8"
+        },
+        {
+          "number": 190,
+          "playlist": "naruto/ep190/playlist.m3u8"
+        },
+        {
+          "number": 191,
+          "playlist": "naruto/ep191/playlist.m3u8"
+        },
+        {
+          "number": 192,
+          "playlist": "naruto/ep192/playlist.m3u8"
+        },
+        {
+          "number": 193,
+          "playlist": "naruto/ep193/playlist.m3u8"
+        },
+        {
+          "number": 194,
+          "playlist": "naruto/ep194/playlist.m3u8"
+        },
+        {
+          "number": 195,
+          "playlist": "naruto/ep195/playlist.m3u8"
+        },
+        {
+          "number": 196,
+          "playlist": "naruto/ep196/playlist.m3u8"
+        },
+        {
+          "number": 197,
+          "playlist": "naruto/ep197/playlist.m3u8"
+        },
+        {
+          "number": 198,
+          "playlist": "naruto/ep198/playlist.m3u8"
+        },
+        {
+          "number": 199,
+          "playlist": "naruto/ep199/playlist.m3u8"
+        },
+        {
+          "number": 200,
+          "playlist": "naruto/ep200/playlist.m3u8"
+        },
+        {
+          "number": 201,
+          "playlist": "naruto/ep201/playlist.m3u8"
+        },
+        {
+          "number": 202,
+          "playlist": "naruto/ep202/playlist.m3u8"
+        },
+        {
+          "number": 203,
+          "playlist": "naruto/ep203/playlist.m3u8"
+        },
+        {
+          "number": 204,
+          "playlist": "naruto/ep204/playlist.m3u8"
+        },
+        {
+          "number": 205,
+          "playlist": "naruto/ep205/playlist.m3u8"
+        },
+        {
+          "number": 206,
+          "playlist": "naruto/ep206/playlist.m3u8"
+        },
+        {
+          "number": 207,
+          "playlist": "naruto/ep207/playlist.m3u8"
+        },
+        {
+          "number": 208,
+          "playlist": "naruto/ep208/playlist.m3u8"
+        },
+        {
+          "number": 209,
+          "playlist": "naruto/ep209/playlist.m3u8"
+        },
+        {
+          "number": 210,
+          "playlist": "naruto/ep210/playlist.m3u8"
+        },
+        {
+          "number": 211,
+          "playlist": "naruto/ep211/playlist.m3u8"
+        },
+        {
+          "number": 212,
+          "playlist": "naruto/ep212/playlist.m3u8"
+        },
+        {
+          "number": 213,
+          "playlist": "naruto/ep213/playlist.m3u8"
+        },
+        {
+          "number": 214,
+          "playlist": "naruto/ep214/playlist.m3u8"
+        },
+        {
+          "number": 215,
+          "playlist": "naruto/ep215/playlist.m3u8"
+        },
+        {
+          "number": 216,
+          "playlist": "naruto/ep216/playlist.m3u8"
+        },
+        {
+          "number": 217,
+          "playlist": "naruto/ep217/playlist.m3u8"
+        },
+        {
+          "number": 218,
+          "playlist": "naruto/ep218/playlist.m3u8"
+        },
+        {
+          "number": 219,
+          "playlist": "naruto/ep219/playlist.m3u8"
+        },
+        {
+          "number": 220,
+          "playlist": "naruto/ep220/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
