@@ -15165,6 +15165,38 @@
           "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-rising-of-the-shield-hero-season-2",
+      "title": "The Rising of the Shield Hero Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@93a8fb5c3af358542289ae8b4606415000c61d81/the-rising-of-the-shield-hero-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@93a8fb5c3af358542289ae8b4606415000c61d81/the-rising-of-the-shield-hero-season-2/poster.jpg",
+      "synopsis": "With another Wave happening in a week, Naofumi Iwatani and his party have no time to waste. However, when bat familiars raid Lurolona Village and the Wave countdown comes to a halt, the Four Cardinal Heroes reconvene with the queen, Mirelia Q Melromarc, for a quick briefing. The queen presumes that the odd occurrences are linked to the Spirit Tortoise—a threatening creature that has awakened from its slumber, back to cause havoc once again. A plan to put the Spirit Tortoise to rest is devised—but out of the four men, only the cursed Shield Hero agrees to help.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2022,
+      "score": 6.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "1ac2efe3f4ad2fb1d7ea1f03527e93fe36bf2734",
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
