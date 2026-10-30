@@ -16757,6 +16757,71 @@
           "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dark-moon-the-blood-altar",
+      "title": "Dark Moon: the Blood Altar",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@971f2d6171323bb849d9e1124e055d841db36474/dark-moon-the-blood-altar/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@971f2d6171323bb849d9e1124e055d841db36474/dark-moon-the-blood-altar/poster.jpg",
+      "synopsis": "In the seaside city of Riverfield stands Decelis Academy, home to seven mysterious boys sharing the same secret: They’re vampires, hiding their murky pasts. When Sooha, a female student who hates vampires, transfers to the academy, the boys find themselves irresistibly drawn to her. As strange events shake the city, old sins and buried secrets resurface, and their world begins to fracture.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 6.2,
+      "status": "FINISHED",
+      "genres": [
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-13",
+      "pin": "0cf8a5b192fe43a2a472a53711bd90876f186db7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dark-moon-the-blood-altar/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dark-moon-the-blood-altar/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dark-moon-the-blood-altar/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dark-moon-the-blood-altar/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dark-moon-the-blood-altar/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dark-moon-the-blood-altar/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dark-moon-the-blood-altar/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dark-moon-the-blood-altar/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dark-moon-the-blood-altar/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dark-moon-the-blood-altar/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dark-moon-the-blood-altar/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dark-moon-the-blood-altar/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
