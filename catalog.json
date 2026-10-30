@@ -16822,6 +16822,74 @@
           "playlist": "dark-moon-the-blood-altar/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "immoral-guild",
+      "title": "Immoral Guild",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2f9df9ddacfacde980e148ae5410e20b79334f9b/immoral-guild/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2f9df9ddacfacde980e148ae5410e20b79334f9b/immoral-guild/poster.jpg",
+      "synopsis": "Determined to retire but unwilling to leave his guild without a successor, Kikuru trains a few heroines as apprentices. But between their personalities and monsters with an… unusual interest in women? His retirement is getting further away every day.\n\n\n(Source: HIDIVE)",
+      "year": 2022,
+      "score": 6.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "b6e2aa15223d0e285382fe44b4e5731068e0ce96",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "immoral-guild/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "immoral-guild/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "immoral-guild/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "immoral-guild/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "immoral-guild/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "immoral-guild/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "immoral-guild/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "immoral-guild/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "immoral-guild/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "immoral-guild/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "immoral-guild/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "immoral-guild/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
