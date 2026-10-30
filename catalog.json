@@ -9869,6 +9869,75 @@
           "playlist": "campfire-cooking-in-another-world-with-my-absurd-skill-seaso/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "toilet-bound-hanako-kun",
+      "title": "Toilet-bound Hanako-kun",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@dd45b0e19e14869aefdca365aeb48d0c3ab59403/toilet-bound-hanako-kun/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@dd45b0e19e14869aefdca365aeb48d0c3ab59403/toilet-bound-hanako-kun/poster.jpg",
+      "synopsis": "\"Hanako-san, Hanako-san... are you there?\"\n\n\n\nAt Kamome Academy, rumors abound about the school's Seven Mysteries, one of which is Hanako-san. Said to occupy the third stall of the third floor girls' bathroom in the old school building, Hanako-san grants any wish when summoned. Nene Yashiro, an occult-loving high school girl who dreams of romance, ventures into this haunted bathroom... but the Hanako-san she meets there is nothing like she imagined! Kamome Academy's Hanako-san... is a boy!\n\n\n\n(Source: Yen Press)",
+      "year": 2020,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "68ababfd361aa6827bb90129f0babec0e8103bdc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "toilet-bound-hanako-kun/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "toilet-bound-hanako-kun/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "toilet-bound-hanako-kun/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "toilet-bound-hanako-kun/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "toilet-bound-hanako-kun/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "toilet-bound-hanako-kun/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "toilet-bound-hanako-kun/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "toilet-bound-hanako-kun/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "toilet-bound-hanako-kun/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "toilet-bound-hanako-kun/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "toilet-bound-hanako-kun/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "toilet-bound-hanako-kun/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
