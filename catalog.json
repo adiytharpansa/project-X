@@ -21306,6 +21306,125 @@
           "playlist": "your-lie-in-april/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-season-2",
+      "title": "My Hero Academia Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f9e8e1cb44359d42488484ec9028cc57af1d0f4c/my-hero-academia-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f9e8e1cb44359d42488484ec9028cc57af1d0f4c/my-hero-academia-season-2/banner.jpg",
+      "synopsis": "Taking off right after the last episode of the first season. The school is temporarily closed due to security. When U.A. restarts, it is announced that the highly anticipated School Sports Festival will soon be taking place. All classes: Hero, Support, General and Business will be participating. Tournaments all round will decide who is the top Hero in training.(Source: Anime News Network)",
+      "year": 2017,
+      "score": 0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/gudang-31",
+      "pin": "6dceb4d846e8a18321fddb461ced41419b9d3fed",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-hero-academia-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-hero-academia-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-hero-academia-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-hero-academia-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-hero-academia-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-hero-academia-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-hero-academia-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-hero-academia-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-hero-academia-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-hero-academia-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-hero-academia-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "my-hero-academia-season-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "my-hero-academia-season-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "my-hero-academia-season-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "my-hero-academia-season-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "my-hero-academia-season-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "my-hero-academia-season-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "my-hero-academia-season-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "my-hero-academia-season-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "my-hero-academia-season-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "my-hero-academia-season-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "my-hero-academia-season-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "my-hero-academia-season-2/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "my-hero-academia-season-2/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
