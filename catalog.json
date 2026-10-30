@@ -19939,6 +19939,72 @@
           "playlist": "monster-eater/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "high-school-kimengumi-2026",
+      "title": "High School! Kimengumi (2026)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@32dd7dba0cd02b536892da77e600feca95e4f6c8/high-school-kimengumi-2026/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@32dd7dba0cd02b536892da77e600feca95e4f6c8/high-school-kimengumi-2026/poster.jpg",
+      "synopsis": "Rei Ichidou, Gou Reietsu, Kiyoshi Shusse, Jin Daima, and Dai Monohoshi are five students attending Ichio Junior High. With their unique quirks, eccentric personalities, and feats like repeating grades in junior high, they have earned a reputation among their peers as the infamous group, \"Kimengumi.\"\n\n\n\n(Source: Amazon Prime Video)",
+      "year": 2026,
+      "score": 4.8,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-28",
+      "pin": "ad286c8c15e8bca612912665e1dde8ec534b292c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "high-school-kimengumi-2026/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "high-school-kimengumi-2026/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "high-school-kimengumi-2026/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "high-school-kimengumi-2026/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "high-school-kimengumi-2026/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "high-school-kimengumi-2026/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "high-school-kimengumi-2026/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "high-school-kimengumi-2026/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "high-school-kimengumi-2026/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "high-school-kimengumi-2026/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "high-school-kimengumi-2026/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "high-school-kimengumi-2026/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
