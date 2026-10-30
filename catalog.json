@@ -19087,6 +19087,84 @@
           "playlist": "yoroi-shinden-samurai-troopers-cour-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "embers",
+      "title": "Embers",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1d3e4e30f336d92aafb6f57edb82bc7004a31333/embers/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1d3e4e30f336d92aafb6f57edb82bc7004a31333/embers/poster.jpg",
+      "synopsis": "In a quiet village, a young boy named Duanmu Yeyu was once saved by the elite “Hell Hunters” of Ember City. Deeply inspired by these heroes, he vowed to one day become a Hell Hunter himself. As he boards a bus to Ember City to chase his dream, Yeyu is unknowingly swept into a storm of chaos. The main antagonist, Lucifer, sends a bioengineered operative named MIKO-Taiyi to infiltrate Ember City and steal classified data. During a fierce battle with the Hell Hunters, Taiyi is severely injured and falls unconscious. Yeyu stumbles upon Taiyi and, unaware of Taiyi's identity, brings Taiyi back to the Hell Hunters’ base for treatment. In the process, Yeyu unintentionally takes a critical mission device from Taiyi. As Yeyu begins his long-awaited trial to join the Hell Hunters, his innocent act sets off a chain reaction. Taiyi, desperate to avoid detection by Ember City forces, must covertly approach Yeyu and retrieve the device. Meanwhile, Lucifer dispatches tens of thousands of minions to locate the missing Taiyi. Thus begins a citywide conflict, sparked by a small act of kindness, that threatens to become a battle for Ember City’s very survival.\n\n\n\n(Source: iQIYI)",
+      "year": null,
+      "score": 5.5,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-19",
+      "pin": "4b7186a830baed8fff9b792beccb16461b819855",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "embers/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "embers/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "embers/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "embers/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "embers/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "embers/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "embers/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "embers/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "embers/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "embers/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "embers/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "embers/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "embers/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "embers/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "embers/ep15/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
