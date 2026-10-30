@@ -19754,6 +19754,73 @@
           "playlist": "classic-stars/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "farmagia",
+      "title": "Farmagia",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@85b54e488e98118559429bbfa2ba09049898563a/farmagia/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@85b54e488e98118559429bbfa2ba09049898563a/farmagia/banner.jpg",
+      "synopsis": "In Felicidad, farmers known as the Farmagia raise monsters under the peaceful rule of the Magus Diluculum. After the Magus passes, a power struggle erupts among forces using monsters to seize control. In the town of Centvelt, Farmagia Ten and his friends band together against the despotic new ruler, Glaza. Ten, his friends, and their home-grown monsters must stay strong to defend their freedom. \n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-18",
+      "pin": "66a9801478cfd4ff2568ac621bd891589678d867",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "farmagia/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "farmagia/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "farmagia/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "farmagia/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "farmagia/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "farmagia/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "farmagia/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "farmagia/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "farmagia/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "farmagia/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "farmagia/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "farmagia/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
