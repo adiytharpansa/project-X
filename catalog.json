@@ -19495,6 +19495,73 @@
           "playlist": "recommendations-from-iwamoto-senpai/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "thunder-3",
+      "title": "Thunder 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ee6369ed7ef9b69c54368cb963c9f0dc4bf15dcf/thunder-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ee6369ed7ef9b69c54368cb963c9f0dc4bf15dcf/thunder-3/poster.jpg",
+      "synopsis": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\n\n\n\n(Source: Kodansha USA)",
+      "year": 2026,
+      "score": 5.2,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-32",
+      "pin": "696b9586f6456e52e1a6e1354c26f69f9c038ff4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "thunder-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "thunder-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "thunder-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "thunder-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "thunder-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "thunder-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "thunder-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "thunder-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "thunder-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "thunder-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "thunder-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "thunder-3/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
