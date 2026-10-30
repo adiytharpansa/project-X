@@ -22685,6 +22685,76 @@
           "playlist": "howl-s-moving-castle/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tokyo-ghoul-3",
+      "title": "Tokyo Ghoul",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@67632f5ef904b13c71a6e2bdb83a1536936d4a40/tokyo-ghoul-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@67632f5ef904b13c71a6e2bdb83a1536936d4a40/tokyo-ghoul-3/banner.jpg",
+      "synopsis": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious \"ghouls\" who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the café he frequents. Little does he realize that his fate will change overnight.\n\n(Source: Anime News Network)",
+      "year": 2014,
+      "score": 0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-29",
+      "pin": "5ddbf3c167da20c4119fc66eb1bff8552d25275f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-ghoul-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tokyo-ghoul-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tokyo-ghoul-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tokyo-ghoul-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tokyo-ghoul-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tokyo-ghoul-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tokyo-ghoul-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tokyo-ghoul-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tokyo-ghoul-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tokyo-ghoul-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tokyo-ghoul-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tokyo-ghoul-3/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
