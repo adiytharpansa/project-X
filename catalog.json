@@ -9489,6 +9489,28 @@
           "playlist": "clevatess/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "detective-conan-the-million-dollar-pentagram",
+      "title": "Detective Conan: The Million-dollar Pentagram",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@7215a634e8d149ee8b08f1e56ebaa3e93ac41255/detective-conan-the-million-dollar-pentagram/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@7215a634e8d149ee8b08f1e56ebaa3e93ac41255/detective-conan-the-million-dollar-pentagram/poster.jpg",
+      "synopsis": "A message has arrived from Kid the Phantom Thief, that he will steal a Japanese sword belonging to the wealthy Onoe Family in Hakodate, Hokkaido. Conan and Heiji Hattori, who happened to be in Hakodate, are on the case to capture Kid. Onoe Family's collections are associated with Toshizo Hijikata, a historic figure who perished in Hakodate. Why is Kid, who specializes in jewels, going after a Japanese sword?\n\n\n\nCoincidentally the family lawyer of Onoe is found murdered in the warehouse district, apparently slaughtered by a Japanese sword. The suspect is an investor/arms dealer who is said to be after Onoe family's hidden treasure.\n\n\n\nThe grandfather of Onoe family's patriarch was deeply involved with the army industry during wartime, and it was rumored he hid some powerful weapon that could “change the course of war” somewhere in Hakodate. Is Kid after that weapon? Meanwhile, Heiji is trying to find a perfect viewpoint to declare his love to Kazuha…\n\n\n\nIn the North among cherry blossoms, the exciting hunt for treasure begins!\n\n\n(Source: TMS Entertainment USA)",
+      "year": 2024,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "b69b0f1293653692d57834d8d37d8c3b799042a9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "detective-conan-the-million-dollar-pentagram/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
