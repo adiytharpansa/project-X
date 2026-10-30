@@ -10079,6 +10079,72 @@
           "playlist": "baki-hanma/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "classroom-of-the-elite",
+      "title": "Classroom of the Elite",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9c8afa1894128d3d926d106c6750357fd020d6a9/classroom-of-the-elite/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9c8afa1894128d3d926d106c6750357fd020d6a9/classroom-of-the-elite/banner.jpg",
+      "synopsis": "Koudo Ikusei Senior High School is a leading school with state-of-the-art facilities. The students there have the freedom to wear any hairstyle and bring any personal effects they desire. Koudo Ikusei is like a utopia, but the truth is that only the most superior students receive favorable treatment.\n\n\n\nKiyotaka Ayanokouji is a student of D-class, which is where the school dumps its \"inferior\" students in order to ridicule them. For a certain reason, Kiyotaka was careless on his entrance examination, and was put in D-class. After meeting Suzune Horikita and Kikyou Kushida, two other students in his class, Kiyotaka's situation begins to change. \n\n\n(Source: Anime News Network, edited)",
+      "year": 2017,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "34c4218ad2da0b0abe8625311401d7c0dfe9cc2a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "classroom-of-the-elite/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "classroom-of-the-elite/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "classroom-of-the-elite/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "classroom-of-the-elite/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "classroom-of-the-elite/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "classroom-of-the-elite/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "classroom-of-the-elite/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "classroom-of-the-elite/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "classroom-of-the-elite/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "classroom-of-the-elite/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "classroom-of-the-elite/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "classroom-of-the-elite/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
