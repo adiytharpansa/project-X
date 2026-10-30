@@ -16635,6 +16635,61 @@
           "playlist": "assassination-classroom-the-movie-our-time/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "above-myriads",
+      "title": "Above Myriads",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6081a9b32df0e7da811f01fa0f1dea1950850c27/above-myriads/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6081a9b32df0e7da811f01fa0f1dea1950850c27/above-myriads/poster.jpg",
+      "synopsis": "Yi Feng traveled to the Xianjiang Continent. Since he was born without spiritual roots, he could only survive by relying on the \"essential life skills\" given by the system. Little did he know that in the eyes of those practitioners, his strength was already at the god level, and his every move affected the entire pattern of the Xianjiang Continent. Yi Feng easily resolved many crises without knowing it, which also brought about many passionate and hilarious scenes, and brought new opportunities and choices to the people living on this continent.\n\n\n\n(Source: iQIYI, Google translated)",
+      "year": null,
+      "score": 6.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "c7d66458b8af2c56fe557fe6c2352a0bb339d44e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "above-myriads/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "above-myriads/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "above-myriads/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "above-myriads/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "above-myriads/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "above-myriads/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "above-myriads/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "above-myriads/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "above-myriads/ep9/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
