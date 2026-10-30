@@ -20216,6 +20216,131 @@
           "playlist": "zhongguo-qitan-2/ep9/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fruits-basket",
+      "title": "Fruits Basket",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ccd66090ca46248a20d57fcd34a860076472e72f/fruits-basket/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ccd66090ca46248a20d57fcd34a860076472e72f/fruits-basket/banner.jpg",
+      "synopsis": "Tohru Honda is 16 year old orphaned girl who gets invited to live in the house of her classmate, the handsome boy Sohma Yuki, and his cousins, 16 year old Kyo and 27 year old Shigure. However, these young men and parts of the rest of their family (both close and distant) hold a curse; if they are hugged by the opposite gender, they transform into animals of the Chinese Zodiac. Everyday is an adventure for sweet Tohru, as she gets to know everyone in the large family better (especially Yuki and Kyo), in both common and bizarre situations. But, the Sohma Family curse is certainly no laughing matter... it also holds horrible cruelty and heartbreak.",
+      "year": 2001,
+      "score": 0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-14",
+      "pin": "81cb20369d99b43b38f8eeb9650b7924c0c82bc1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fruits-basket/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fruits-basket/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fruits-basket/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fruits-basket/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fruits-basket/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fruits-basket/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fruits-basket/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fruits-basket/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fruits-basket/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fruits-basket/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fruits-basket/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fruits-basket/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fruits-basket/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "fruits-basket/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "fruits-basket/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "fruits-basket/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "fruits-basket/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "fruits-basket/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "fruits-basket/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "fruits-basket/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "fruits-basket/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "fruits-basket/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "fruits-basket/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "fruits-basket/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "fruits-basket/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "fruits-basket/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
