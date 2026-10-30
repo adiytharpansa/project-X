@@ -16690,6 +16690,73 @@
           "playlist": "above-myriads/ep9/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cardfight-vanguard-divinez-parallactic-clash",
+      "title": "CARDFIGHT!! VANGUARD Divinez Parallactic Clash",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f0f065d502a95ee500f816bec9dc377cc3c72a1d/cardfight-vanguard-divinez-parallactic-clash/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f0f065d502a95ee500f816bec9dc377cc3c72a1d/cardfight-vanguard-divinez-parallactic-clash/poster.jpg",
+      "synopsis": "Akina and his friends, having strayed into the Fantasma, find their path blocked by \"Fantôme Fighters\". The only ones who can stand against them are the special \"Mythisch Fighters\" chosen by the cards.\n\n\n\nWhat is a Fantôme Fighter— The collective name for those who confront reality and fight to protect the fabricated.\n\n\n\nWhat is a Mythisch Fighter— The collective name for those who withstand the Fantôme and fight to protect the real. Will the parallactic be erased, or will it become the verity? —Stand up and fight with your existence on the line.\n\n\n\n(Source: Official Site)",
+      "year": 2026,
+      "score": 6.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-27",
+      "pin": "7915690acd99a188ec3cc9fae6f99ad886e25afe",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "cardfight-vanguard-divinez-parallactic-clash/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
