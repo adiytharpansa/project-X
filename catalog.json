@@ -21198,6 +21198,114 @@
           "playlist": "red-fox/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "your-lie-in-april",
+      "title": "Your lie in April",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b679c53a657ad194327639867a67e9616de1cfc6/your-lie-in-april/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b679c53a657ad194327639867a67e9616de1cfc6/your-lie-in-april/banner.jpg",
+      "synopsis": "Piano prodigy Arima Kousei dominated the competition and all child musicians knew his name. But after his mother, who was also his instructor, passed away, he had a mental breakdown while performing at a recital. This resulted in him no longer being able to hear the sound of his piano playing. Two years later, Kousei hasn’t touched the piano and views the world without any flair or color. He was content at living out his life with his good friends Tsubaki and Watari until, one day, a girl changed everything. Miyazono Kaori is a pretty, free spirited violinist whose playing style reflects her personality. Kaori helps Kousei return to the music world and show that it should be free and mold breaking unlike the structured and rigid style Kousei was used to.",
+      "year": 2014,
+      "score": 0,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-22",
+      "pin": "ebec823aec295b7733845d50b0d2408051a13963",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "your-lie-in-april/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "your-lie-in-april/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "your-lie-in-april/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "your-lie-in-april/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "your-lie-in-april/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "your-lie-in-april/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "your-lie-in-april/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "your-lie-in-april/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "your-lie-in-april/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "your-lie-in-april/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "your-lie-in-april/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "your-lie-in-april/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "your-lie-in-april/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "your-lie-in-april/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "your-lie-in-april/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "your-lie-in-april/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "your-lie-in-april/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "your-lie-in-april/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "your-lie-in-april/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "your-lie-in-april/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "your-lie-in-april/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "your-lie-in-april/ep22/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
