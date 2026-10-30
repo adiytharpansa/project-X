@@ -8882,6 +8882,68 @@
           "playlist": "clevatess-season-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kaiju-no-8-season-2",
+      "title": "Kaiju No. 8 Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0ea6a18b4e1a6fb478b746e4e72465747b670e56/kaiju-no-8-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0ea6a18b4e1a6fb478b746e4e72465747b670e56/kaiju-no-8-season-2/banner.jpg",
+      "synopsis": "Following the massive operation that led to the confinement of recent recruit Kafka Hibino, otherwise known as Kaiju No. 8, the Defense Force has been puzzled by how to deal with him. Kafka is the first kaiju to side with humans, and after careful consideration, he is eventually transferred to the Defense Force's First Division in the hope of adding his power to the strongest division, capable of handling any threat. However, some people are still doubtful about Kafka, and he must prove his worth in the next mission.\n\n\n\nKafka and the First Division are soon dispatched when a massive horde of ant-like kaiju begins wreaking havoc. Thanks to the combined strength of Kafka's friend Kikoru Shinomiya and their captain, Gen Narumi, the mission seems to progress as it should. However, when Kafka fails to transform into his kaiju form, the dreadful Kaiju No. 9 joins the battle with only one goal—to eliminate him and steal his power. Although the situation is looking grim, Kafka must overcome his most difficult trial yet with the others if he wants to keep pursuing his dream: fighting side by side with his childhood friend and Third Division captain, Mina Ashiro.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2025,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "272721fecfa7545ec3d675229c49a1831cae9f50",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kaiju-no-8-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kaiju-no-8-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kaiju-no-8-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kaiju-no-8-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kaiju-no-8-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kaiju-no-8-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kaiju-no-8-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kaiju-no-8-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kaiju-no-8-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kaiju-no-8-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kaiju-no-8-season-2/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
