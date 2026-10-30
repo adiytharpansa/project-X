@@ -9571,6 +9571,110 @@
           "playlist": "the-ghost-in-the-shell/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gnosia",
+      "title": "Gnosia",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@7ce4385bb0ea2d6493f1a61ace6900e47cf88168/gnosia/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@7ce4385bb0ea2d6493f1a61ace6900e47cf88168/gnosia/poster.jpg",
+      "synopsis": "The story of GNOSIA takes place on a ship drifting through space. Gnosia is an enemy that disguises itself as a human and attacks them. It is now on the spaceship, causing everyone onboard to be suspicious of each other. The crew decides to vote on the most suspicious-looking person every day and put them into a cold sleep.\n\n\n\nIf the humans succeed in putting Gnosia to sleep, they'll win. On the other hand, if they don't, everyone on board is in danger. The right decision must be made. No matter what decision is made by the main character, Yuri, she finds herself in a time loop that returns her to the first day of the crisis. \n\n\n\nWill the crew on board make the right decision? What is the secret behind the time loop? What secrets hide behind the faces of everyone on board?\n\n\n\nGNOSIA begins now – a story of looping, fleeting moments that feels like an eternity but passes by in an instant.\n\n\n\nHave a pleasant journey.\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "b36b5c81efa138e549d4c4e3a4fc0f5b22086628",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gnosia/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gnosia/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gnosia/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gnosia/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gnosia/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gnosia/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gnosia/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gnosia/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gnosia/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gnosia/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gnosia/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gnosia/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "gnosia/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "gnosia/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "gnosia/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "gnosia/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "gnosia/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "gnosia/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "gnosia/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "gnosia/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "gnosia/ep21/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
