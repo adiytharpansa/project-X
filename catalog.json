@@ -18137,6 +18137,39 @@
         11,
         12
       ]
+    },
+    {
+      "id": "cats-eye",
+      "title": "Cats Eye",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d2ec2aaf76acd5aead20ab0a7d431fd821d81098/cats-eye/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d2ec2aaf76acd5aead20ab0a7d431fd821d81098/cats-eye/banner.jpg",
+      "synopsis": "Cat’s Eye is a secretive trio of art thieves relentlessly pursued by Detective Toshio. Unbeknownst to him, the middle sister of the elusive thieves is none other than his girlfriend, Hitomi.\n\n\n(Source: Disney+)",
+      "year": 1997,
+      "score": 6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Mystery",
+        "Romance"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-13",
+      "pin": "28eb7e1b30b50fbe3248bfa9f067d92f61840c8c",
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
