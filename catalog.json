@@ -18518,6 +18518,73 @@
           "playlist": "please-put-them-on-takamine-san/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-world-s-strongest-rearguard",
+      "title": "The World's Strongest Rearguard",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx198409-EiWJXfYnvfu4.png",
+      "banner": "",
+      "synopsis": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 5.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-32",
+      "pin": "1cbe768a27e97a5640ac4514670a22854cbc8d35",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-world-s-strongest-rearguard/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-world-s-strongest-rearguard/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-world-s-strongest-rearguard/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-world-s-strongest-rearguard/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-world-s-strongest-rearguard/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-world-s-strongest-rearguard/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-world-s-strongest-rearguard/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-world-s-strongest-rearguard/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-world-s-strongest-rearguard/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-world-s-strongest-rearguard/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-world-s-strongest-rearguard/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-world-s-strongest-rearguard/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
