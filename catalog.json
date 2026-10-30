@@ -13144,6 +13144,76 @@
           "playlist": "hana-kimi/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "16bit-sensation-another-layer",
+      "title": "16bit Sensation: Another Layer",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@fc9718e219f592e50544aca883d753a95d0bfa62/16bit-sensation-another-layer/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@fc9718e219f592e50544aca883d753a95d0bfa62/16bit-sensation-another-layer/banner.jpg",
+      "synopsis": "Konoha Akisato is an illustrator that loves beautiful girls and bishojo games. Her dream is to become a super-popular illustrator, so she is working hard at a bishojo game production company, but reality isn't that kind... With the golden age of social network games in full force, Konoha's company isn't doing well, and she works as a sub illustrator, spending her days painting the backs of random background characters. \n\n   One day, the owner of a game shop gives her a classic bishojo game. With all her excitement over the golden age of bishojo games, she opens the package to \"Dokyusei,\" and is enveloped by a bright light. Konoha then realizes that she just traveled back in time!  \n\n  She ends up in the year 1992! It's the dawn of the bishojo game era! Konoha ends up working at a company called Alcohol Soft. Will she be able to think about, draw, and create all the beautiful girls she’s ever wanted?! \n\n   A story about a girl and her overwhelming love for beautiful girls—\"Now, let's begin!\" \n\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-14",
+      "pin": "94ca719ac8474ecd410160c7249e0286fb07f43a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "16bit-sensation-another-layer/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "16bit-sensation-another-layer/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "16bit-sensation-another-layer/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "16bit-sensation-another-layer/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "16bit-sensation-another-layer/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "16bit-sensation-another-layer/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "16bit-sensation-another-layer/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "16bit-sensation-another-layer/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "16bit-sensation-another-layer/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "16bit-sensation-another-layer/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "16bit-sensation-another-layer/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "16bit-sensation-another-layer/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "16bit-sensation-another-layer/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
