@@ -13214,6 +13214,120 @@
           "playlist": "16bit-sensation-another-layer/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-terrified-teacher-at-ghoul-school",
+      "title": "A Terrified Teacher at Ghoul School!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@46e6473e4d05877eb1f9957332e9c2228b27ccf2/a-terrified-teacher-at-ghoul-school/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@46e6473e4d05877eb1f9957332e9c2228b27ccf2/a-terrified-teacher-at-ghoul-school/poster.jpg",
+      "synopsis": "Rookie teacher Haruaki Abe is as cowardly as they come. It's hard enough for him to handle human students without whimpering-and now he's going to be teaching at a school full of monsters?! It's a classroom of horrors for Haruaki, as his mischievous students use every means at their disposal to prank him! Will this poor teacher be able to get his group of ghouls under control, or is this class destined for failure?\n\n\n\n(Source: Yen Press)",
+      "year": 2024,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-16",
+      "pin": "29a8d64d34ad7617abbf3ba24556f5cc12b8ef91",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "a-terrified-teacher-at-ghoul-school/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
