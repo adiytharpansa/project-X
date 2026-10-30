@@ -14896,6 +14896,73 @@
           "playlist": "leviathan/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-dark-history-of-the-reincarnated-villainess",
+      "title": "The Dark History of the Reincarnated Villainess",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@8b15468704f717e12e5098ab6e954ad86ad02b7f/the-dark-history-of-the-reincarnated-villainess/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@8b15468704f717e12e5098ab6e954ad86ad02b7f/the-dark-history-of-the-reincarnated-villainess/poster.jpg",
+      "synopsis": "Konoha Satou’s dark fictional past becomes her reality when she’s reincarnated as Iana Magnolia, the villainess of her own adolescent fantasy. Now as a role she meticulously designed to be despicable, remembering every last detail is a matter of life and death. Will she be able to rewrite her character’s fate into something peaceful?\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-16",
+      "pin": "a55749ec8563ded81373b437775cd76fa6c7df11",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-dark-history-of-the-reincarnated-villainess/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
