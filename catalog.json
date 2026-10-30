@@ -19821,6 +19821,57 @@
           "playlist": "farmagia/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hana-doll-reinterpretation-of-flowering",
+      "title": "HANA-Doll*: Reinterpretation of Flowering",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f88ba89a2a550fb93551d1b30db28b1ecd00c119/hana-doll-reinterpretation-of-flowering/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f88ba89a2a550fb93551d1b30db28b1ecd00c119/hana-doll-reinterpretation-of-flowering/poster.jpg",
+      "synopsis": "Anime adaptation of Hana-Doll*, a 2.5D idol franchise. In the story of the idol project, the \"Hana Ningyou Project\" (Flower Doll Project) exists to artificially create the \"perfect idol\" by implanting a special flower seed inside a body. The franchise follows the growth of young men who dedicate their lives to the project. The anime will adapt the \"first season\" of the drama CD series, titled \"Flowering\". \n\n\n(Source: Anime News Network, edited)",
+      "year": 2025,
+      "score": 5,
+      "genres": [
+        "Music",
+        "Mystery",
+        "Psychological"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-22",
+      "pin": "b71c856ebcc61533867898682f62a3aed6782a32",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hana-doll-reinterpretation-of-flowering/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hana-doll-reinterpretation-of-flowering/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hana-doll-reinterpretation-of-flowering/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hana-doll-reinterpretation-of-flowering/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hana-doll-reinterpretation-of-flowering/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hana-doll-reinterpretation-of-flowering/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hana-doll-reinterpretation-of-flowering/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hana-doll-reinterpretation-of-flowering/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
