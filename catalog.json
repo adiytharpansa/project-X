@@ -13624,6 +13624,73 @@
           "playlist": "mobile-suit-gundam-gquuuuuux/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "i-parry-everything",
+      "title": "I Parry Everything",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c4b6013437e728d65d8c08e47593ceea6f8ec11f/i-parry-everything/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c4b6013437e728d65d8c08e47593ceea6f8ec11f/i-parry-everything/banner.jpg",
+      "synopsis": "The Kingdom of Clays faces a dire crisis: an assassination attempt has just been made on its own Princess Lynneburg, and its neighboring countries eye the aftermath like starving vultures, plotting the Kingdom’s downfall. The ensuing conflict will shape the face of the continent for centuries to come...but Noor doesn’t have a clue about any of that! Having freshly arrived at the royal capital after over a decade of rigorous, isolated training at his mountain home, he’s dead set on achieving his childhood dream of becoming an adventurer, even if the only skills he possesses are useless ones. Sure, he can [Parry] thousands of swords in the span of a single breath, but everybody knows you need more than that if you want to be an adventurer! Our hero’s road to making his dream come true will be long(?) and arduous(?)—but if there’s one thing Noor’s not afraid of, it’s some good ol’ fashioned hard work!\n\n\n\n(Source: J-Novel Club)",
+      "year": 2024,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "94875b129f3e791b46c0b8a8282bfe52e892056f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "i-parry-everything/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "i-parry-everything/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "i-parry-everything/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "i-parry-everything/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "i-parry-everything/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "i-parry-everything/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "i-parry-everything/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "i-parry-everything/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "i-parry-everything/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "i-parry-everything/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "i-parry-everything/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "i-parry-everything/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
