@@ -11250,6 +11250,169 @@
           "playlist": "i-have-a-crush-at-work/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cang-yuan-tu-2",
+      "title": "Cang Yuan Tu 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@439129377f094f36d00d98e3f8c3f7779c7b8507/cang-yuan-tu-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@439129377f094f36d00d98e3f8c3f7779c7b8507/cang-yuan-tu-2/poster.jpg",
+      "synopsis": "The second season of Cang Yuan Tu.",
+      "year": null,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "4ebbe6f4ee09eb22d211709a59a4021765e3ed91",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cang-yuan-tu-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "cang-yuan-tu-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "cang-yuan-tu-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "cang-yuan-tu-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "cang-yuan-tu-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "cang-yuan-tu-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "cang-yuan-tu-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "cang-yuan-tu-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "cang-yuan-tu-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "cang-yuan-tu-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "cang-yuan-tu-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "cang-yuan-tu-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "cang-yuan-tu-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "cang-yuan-tu-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "cang-yuan-tu-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "cang-yuan-tu-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "cang-yuan-tu-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "cang-yuan-tu-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "cang-yuan-tu-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "cang-yuan-tu-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "cang-yuan-tu-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "cang-yuan-tu-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "cang-yuan-tu-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "cang-yuan-tu-2/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "cang-yuan-tu-2/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "cang-yuan-tu-2/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "cang-yuan-tu-2/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "cang-yuan-tu-2/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "cang-yuan-tu-2/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "cang-yuan-tu-2/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "cang-yuan-tu-2/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "cang-yuan-tu-2/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "cang-yuan-tu-2/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "cang-yuan-tu-2/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "cang-yuan-tu-2/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "cang-yuan-tu-2/ep36/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
