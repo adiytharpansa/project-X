@@ -10561,6 +10561,73 @@
           "playlist": "the-100-girlfriends-who-really-really-really-really-really-l/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mission-yozakura-family-season-2",
+      "title": "Mission: Yozakura Family Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@10c2c462b03047c5be16bdaf20138a0ee19c1586/mission-yozakura-family-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@10c2c462b03047c5be16bdaf20138a0ee19c1586/mission-yozakura-family-season-2/poster.jpg",
+      "synopsis": "Taiyou Asano has settled into his career, having married into the Yozakura spy family. While he still struggles to control the powers granted to him by his wife, Mutsumi Yozakura, Taiyou works hard to complete missions alongside his new siblings. After taking down the organization Tanpopo, Taiyou and the Yozakuras agree to look after six-year-old Ai, one of Tanpopo's test subjects.\n\nHowever, Taiyou's health soon begins to decline due to the Yozakura blood within his body. He dreams that the first head of the family, Tsubomi Yozakura, gives him a new mission: to kill her. To that end, he will have to learn more about his new family, become a silver-ranked spy, and push himself even more to succeed and continue protecting his family.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2026,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "f33b466f738860c8e8e0453a27f07af8be8d6c34",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mission-yozakura-family-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mission-yozakura-family-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mission-yozakura-family-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mission-yozakura-family-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mission-yozakura-family-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mission-yozakura-family-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mission-yozakura-family-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mission-yozakura-family-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mission-yozakura-family-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mission-yozakura-family-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mission-yozakura-family-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mission-yozakura-family-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
