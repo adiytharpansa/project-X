@@ -12940,6 +12940,74 @@
           "playlist": "batman-ninja-vs-yakuza-league/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "magilumiere-magical-girls-inc",
+      "title": "Magilumiere Magical Girls Inc.",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@62da6364144498154be4002ecaf01948dc98c735/magilumiere-magical-girls-inc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@62da6364144498154be4002ecaf01948dc98c735/magilumiere-magical-girls-inc/banner.jpg",
+      "synopsis": "Kana Sakuragi is an excellent candidate for the job. Any job! She’s motivated and organized, and has a fantastic memory. So why has she interviewed at over 15 companies without receiving a single offer? She’s trying to keep a positive attitude, but it seems like her bad luck is only getting worse when a monster crashes her latest interview. As havoc ensues, she finds herself helping the magical girl who comes to their rescue and ends up with more than just her life in return. Meet the newest magical girl at Magilumiere Magical Girls Inc.!\n\n\n\n(Source: VIZ Media)",
+      "year": 2024,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy",
+        "Mahou Shoujo"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "1389beaa50b46290aa59ef918dc173cd0d29056d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "magilumiere-magical-girls-inc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "magilumiere-magical-girls-inc/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "magilumiere-magical-girls-inc/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "magilumiere-magical-girls-inc/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "magilumiere-magical-girls-inc/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "magilumiere-magical-girls-inc/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "magilumiere-magical-girls-inc/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "magilumiere-magical-girls-inc/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "magilumiere-magical-girls-inc/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "magilumiere-magical-girls-inc/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "magilumiere-magical-girls-inc/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "magilumiere-magical-girls-inc/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
