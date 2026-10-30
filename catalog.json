@@ -21425,6 +21425,127 @@
           "playlist": "my-hero-academia-season-2/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "punirunes-puni-3",
+      "title": "Punirunes Puni 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bc2ce028df9079a0667c712719db641d848bd576/punirunes-puni-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bc2ce028df9079a0667c712719db641d848bd576/punirunes-puni-3/poster.jpg",
+      "synopsis": "Third season of Punirunes.",
+      "year": 2025,
+      "score": null,
+      "genres": [
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "d173bc19b4e2381075093a4fb4af4238a3807aac",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "punirunes-puni-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "punirunes-puni-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "punirunes-puni-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "punirunes-puni-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "punirunes-puni-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "punirunes-puni-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "punirunes-puni-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "punirunes-puni-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "punirunes-puni-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "punirunes-puni-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "punirunes-puni-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "punirunes-puni-3/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "punirunes-puni-3/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "punirunes-puni-3/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "punirunes-puni-3/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "punirunes-puni-3/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "punirunes-puni-3/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "punirunes-puni-3/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "punirunes-puni-3/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "punirunes-puni-3/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "punirunes-puni-3/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "punirunes-puni-3/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "punirunes-puni-3/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "punirunes-puni-3/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "punirunes-puni-3/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "punirunes-puni-3/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
