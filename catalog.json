@@ -11116,6 +11116,73 @@
           "playlist": "i-want-to-love-you-till-your-dying-day/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blue-exorcist-beyond-the-snow-saga",
+      "title": "Blue Exorcist -Beyond the Snow Saga-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c8bef47d02c32b1c8938e96eda5b48803760534c/blue-exorcist-beyond-the-snow-saga/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c8bef47d02c32b1c8938e96eda5b48803760534c/blue-exorcist-beyond-the-snow-saga/poster.jpg",
+      "synopsis": "Uncover the dark side of the Knights of the True Cross and the mystery of the \"Blue Night\"!\n\n\n\nBrothers Rin and Yukio head to Lake Towada in Aomori to search for Shura, who had suddenly disappeared. There, they find Shura’s birthplace – the place where Shiro became her guardian. As their search continues, Rin and Yukio discover the fate that awaits Shura.\n\n\n\nMeanwhile, Lightning, one of the Arch Knights, arrives at the Japan Branch of the Knights of the True Cross and begins his investigation into the Illuminati. Lightning deduces that everything began on the “Blue Night,” as he gradually steps into the dark side of the Knights of the True Cross….\n\n\n\n(Source: Aniplex USA)",
+      "year": 2024,
+      "score": 7.4,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "e58fe6147d9973d9fd45358a54d091bb53ab7f5b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "blue-exorcist-beyond-the-snow-saga/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
