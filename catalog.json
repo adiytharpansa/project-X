@@ -7482,6 +7482,131 @@
           "playlist": "quanzhi-gaoshou-specials/ep3/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "trigun",
+      "title": "Trigun",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@127d3d5cf59a7c976194aae0ae3443202ad0f1da/trigun/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@127d3d5cf59a7c976194aae0ae3443202ad0f1da/trigun/poster.jpg",
+      "synopsis": "Vash the Stampede is a wanted man with a habit of turning entire towns into rubble. The price on his head is a fortune, and his path of destruction reaches across the arid wastelands of a desert planet. Unfortunately, most encounters with the spiky-haired gunslinger don't end well for the bounty hunters who catch up with him; someone almost always gets hurt - and it's never Vash.\n\n\n\nOddly enough, for such an infamous fugitive, there's no proof that he's ever taken a life. In fact, he's a pacifist with a doughnut obsession who's more doofus than desperado. There's a whole lot more to him than his reputation lets on - Vash the Stampede definitely ain't your typical outlaw.\n\n\n\n(Source: Funimation)",
+      "year": 1998,
+      "score": 8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "b7491cde461ad34491ea5d4f43bbd596312747fd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "trigun/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "trigun/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "trigun/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "trigun/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "trigun/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "trigun/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "trigun/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "trigun/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "trigun/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "trigun/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "trigun/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "trigun/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "trigun/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "trigun/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "trigun/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "trigun/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "trigun/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "trigun/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "trigun/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "trigun/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "trigun/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "trigun/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "trigun/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "trigun/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "trigun/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "trigun/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
