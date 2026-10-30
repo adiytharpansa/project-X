@@ -17335,6 +17335,73 @@
           "playlist": "from-overshadowed-to-overpowered-second-reincarnation-of-a-t/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "good-bye-dragon-life",
+      "title": "Good Bye, Dragon Life",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@40b70658cad02508af63352b2537ece19ea0ece7/good-bye-dragon-life/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@40b70658cad02508af63352b2537ece19ea0ece7/good-bye-dragon-life/banner.jpg",
+      "synopsis": "Long ago, the most ancient of divine dragons was slain by a human. The mighty dragon accepted its death when suddenly, it was reborn as Dolan, a man who lives in a quiet village. While spending another peaceful day toiling in the fields, he meets Celina, a half-human, half-snake creature looking for a partner. The unlikely duo become friends, but challenges lie ahead that threaten their new bond.\n\n\n\n(Source: Cunchyroll)",
+      "year": 2024,
+      "score": 6.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-24",
+      "pin": "90fd583f43bac17e3baf461d366a75fb805581c0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "good-bye-dragon-life/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "good-bye-dragon-life/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "good-bye-dragon-life/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "good-bye-dragon-life/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "good-bye-dragon-life/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "good-bye-dragon-life/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "good-bye-dragon-life/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "good-bye-dragon-life/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "good-bye-dragon-life/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "good-bye-dragon-life/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "good-bye-dragon-life/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "good-bye-dragon-life/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
