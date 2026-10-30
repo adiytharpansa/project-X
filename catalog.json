@@ -11183,6 +11183,73 @@
           "playlist": "blue-exorcist-beyond-the-snow-saga/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "i-have-a-crush-at-work",
+      "title": "I Have a Crush at Work",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ba4fc62516b3b1439072a2bacec666809d2f8906/i-have-a-crush-at-work/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ba4fc62516b3b1439072a2bacec666809d2f8906/i-have-a-crush-at-work/poster.jpg",
+      "synopsis": "Yui Mitsuya and Masugu Tateishi aren't just any coworkers-they totally have the hots for each other. His helpful yet humble attitude makes her giddy, and her cuteness leaves him grinning like a fool. Problem is, they're trying to keep their new relationship under wraps to avoid making things awkward at work. But seeing how they can't keep their hands off each other, they run the risk of spilling their little secret with each passing day at the office.\n\n\n\n(Source: Kodansha US)",
+      "year": 2025,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "3bdfa1a570eee43af90169e71b625cea971fd781",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "i-have-a-crush-at-work/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "i-have-a-crush-at-work/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "i-have-a-crush-at-work/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "i-have-a-crush-at-work/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "i-have-a-crush-at-work/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "i-have-a-crush-at-work/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "i-have-a-crush-at-work/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "i-have-a-crush-at-work/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "i-have-a-crush-at-work/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "i-have-a-crush-at-work/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "i-have-a-crush-at-work/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "i-have-a-crush-at-work/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
