@@ -16094,6 +16094,29 @@
           "playlist": "i-want-to-eat-your-pancreas/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-curse-of-the-blood-rubies",
+      "title": "Dragon Ball: Curse of the Blood Rubies",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2c3b9077c18faf48d478833b5e7fc3ad0c56abe8/dragon-ball-curse-of-the-blood-rubies/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2c3b9077c18faf48d478833b5e7fc3ad0c56abe8/dragon-ball-curse-of-the-blood-rubies/banner.jpg",
+      "synopsis": "A retelling of Dragon Ball's origins, this is a different version of the meeting of Goku, Bulma, Oolong, and Yamucha. They are all looking for the dragon balls for different reasons when they cross paths with an evil king named Gourmeth, who is also looking for the dragon balls.\n\n\n\n(Source: Anime News Network)",
+      "year": 1986,
+      "score": 6.3,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "0f7bc5592122898d43c025260db59de8c46be3e7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-curse-of-the-blood-rubies/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
