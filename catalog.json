@@ -14829,6 +14829,73 @@
           "playlist": "my-status-as-an-assassin-obviously-exceeds-the-hero-s/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "leviathan",
+      "title": "Leviathan",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1e0625b7e7718d4153b154c3f86ff6cf793a0174/leviathan/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@1e0625b7e7718d4153b154c3f86ff6cf793a0174/leviathan/poster.jpg",
+      "synopsis": "Set in a war-torn reimagining of 1914, Leviathan follows Alek, a fugitive prince of the Austro-Hungarian Empire, and Deryn Sharp, a daring young girl disguised as a boy to serve in the British Air Service. When fate throws them together aboard the HMS Leviathan, a massive, living airship made from genetically engineered creatures, they embark on a world-changing adventure that will challenge everything they know about war, loyalty, and identity.\n\n\n\n(Source: Netflix)",
+      "year": 2025,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "adef05cef641e5929158eac19137ec1944a5627d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "leviathan/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "leviathan/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "leviathan/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "leviathan/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "leviathan/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "leviathan/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "leviathan/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "leviathan/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "leviathan/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "leviathan/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "leviathan/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "leviathan/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
