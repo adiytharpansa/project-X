@@ -8944,6 +8944,28 @@
           "playlist": "kaiju-no-8-season-2/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "evangelion-30th-anniversary-special-screening",
+      "title": "Evangelion 30th Anniversary Special Screening",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@52ed1672316014bf00f1853489f96de0cbd5f5cd/evangelion-30th-anniversary-special-screening/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@52ed1672316014bf00f1853489f96de0cbd5f5cd/evangelion-30th-anniversary-special-screening/poster.jpg",
+      "synopsis": "A new short animation for the Evangelion series that debuted at the “EVANGELION:30+；30th ANNIVERSARY OF EVANGELION”  fes. in Yokohama Arena.",
+      "year": 2026,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "62091f419d842f8d51f95aeb8c5b3abc0334bd08",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "evangelion-30th-anniversary-special-screening/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
