@@ -7452,6 +7452,36 @@
           "playlist": "call-of-the-night/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "quanzhi-gaoshou-specials",
+      "title": "Quanzhi Gaoshou Specials",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ddb79da3870db39045213b530b30425fc5bd9537/quanzhi-gaoshou-specials/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ddb79da3870db39045213b530b30425fc5bd9537/quanzhi-gaoshou-specials/poster.jpg",
+      "synopsis": "The All-Star Tournament is a three-day event that allows e-sports participants from various professional clubs to display their skills, while also giving casual Glory players the chance to interact with pros in the flesh.\n\n\n\nRetired top-tier Glory player Ye Xiu agrees to watch the tournament together with Tang Rou and Chen Guo after the latter manages to get ahold of three tickets. It is a strange sensation for Ye Xiu, as unlike previous occasions, this time he attends the tournament as a spectator, not a participant. However, despite his attempts to keep a low profile, events in the All-Star Tournament may force the former Glory legend back into the limelight.",
+      "year": 2018,
+      "score": 7.9,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "43db0dc287510858a7bdf57b624d0980d7d085bc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "quanzhi-gaoshou-specials/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "quanzhi-gaoshou-specials/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "quanzhi-gaoshou-specials/ep3/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
