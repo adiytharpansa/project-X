@@ -8811,6 +8811,77 @@
           "playlist": "i-made-friends-with-the-second-prettiest-girl-in-my-class/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "clevatess-season-2",
+      "title": "Clevatess Season 2",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx198946-IGXmbqBEYRYD.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fbanner%2F198946-mtAaOmyKraEE.jpg",
+      "synopsis": "The war is over, but General Drel's secrets remain. As visitors from Hiden, Boelate, and Eslinn converge on Solsein, Boelate's divine academy, the search for Drel's hidden room begins. Among those drawn into the mystery is Klen, now serving as Luna's magic teacher. But what truth lies at the heart of Drel's secret?\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "e65f7f1adbfaf3bc168ee3943c7b93d4245a8bb7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "clevatess-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "clevatess-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "clevatess-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "clevatess-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "clevatess-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "clevatess-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "clevatess-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "clevatess-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "clevatess-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "clevatess-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "clevatess-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "clevatess-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "clevatess-season-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
