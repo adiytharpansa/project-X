@@ -20745,6 +20745,74 @@
           "playlist": "aoashi/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "one-punch-man",
+      "title": "One-Punch Man",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2FextraLarge%2Fbx21087-B5DHjqZ3kW4b.jpg",
+      "banner": "",
+      "synopsis": "Saitama has a rather peculiar hobby, being a superhero, but despite his heroic deeds and superhuman abilities, a shadow looms over his life. He's become much too powerful, to the point that every opponent ends up defeated with a single punch.\n\nThe lack of challenge has driven him into a state of apathy, as he watches his life pass by having lost all enthusiasm, at least until he's unwillingly thrust in the role of being a mentor to the young and revenge-driven Genos.",
+      "year": 2015,
+      "score": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-32",
+      "pin": "326e8d632adab288c82b224bf7762f6138ba0fb8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "one-punch-man/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "one-punch-man/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "one-punch-man/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "one-punch-man/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "one-punch-man/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "one-punch-man/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "one-punch-man/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "one-punch-man/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "one-punch-man/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "one-punch-man/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "one-punch-man/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "one-punch-man/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
