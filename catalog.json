@@ -14762,6 +14762,69 @@
           "playlist": "cardfight-vanguard-divinez-deluxe-arc/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kinnikuman-perfect-origin-arc",
+      "title": "Kinnikuman Perfect Origin Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d8c591bfc2ff45e5c952ee2bcc2fd53a1e9724c2/kinnikuman-perfect-origin-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d8c591bfc2ff45e5c952ee2bcc2fd53a1e9724c2/kinnikuman-perfect-origin-arc/poster.jpg",
+      "synopsis": "Kinnikuman returns to the ring in an epic three-way battle between the Justice, Devil and Perfect Chojin factions, and reveals the roots of the Chojin.\n\n\n(Source: Netflix)\n\n\nNotes:\n\n- New Kinnikuman series to celebrate the 40th anniversary of the original TV anime. Adapts the Perfect Origin arc from the manga.\n\n- Includes Episode 0.",
+      "year": 2024,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-18",
+      "pin": "ed3373a52af95cf04299ab977c8a91528a458993",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kinnikuman-perfect-origin-arc/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kinnikuman-perfect-origin-arc/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kinnikuman-perfect-origin-arc/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kinnikuman-perfect-origin-arc/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kinnikuman-perfect-origin-arc/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kinnikuman-perfect-origin-arc/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kinnikuman-perfect-origin-arc/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kinnikuman-perfect-origin-arc/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kinnikuman-perfect-origin-arc/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kinnikuman-perfect-origin-arc/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kinnikuman-perfect-origin-arc/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
