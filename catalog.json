@@ -10628,6 +10628,71 @@
           "playlist": "mission-yozakura-family-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mf-ghost-season-2",
+      "title": "MF GHOST Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3aeacbc45de60d1946d4074c63087bbb4ee01202/mf-ghost-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3aeacbc45de60d1946d4074c63087bbb4ee01202/mf-ghost-season-2/poster.jpg",
+      "synopsis": "The second race in the MFG tournament at the notoriously difficult Lake Ashinoko track is underway. Though his car is severely disadvantaged in terms of horsepower, tune-ups to Kanata Katagiri's Toyota 86 GT allow him to quickly soar into a qualifying position. However, torrential downpour on the final day of racing brings tire traction woes and causes all drivers to struggle.\n\n\n\nThanks to the environment he grew up in and his extensive training, Kanata surprises everyone when he is able to pull ahead of the pack—albeit with some very risky maneuvers. However, there are still two formidable competitors ahead of Kanata: last race's winner Michael Beckenbauer and Lake Ashinoko record holder Kouki Sawatari. But even if Kanata can close the gap, he still needs to watch out for the drivers in his rearview preying on even a single mistake that they can take advantage of.\n\n\n\n(Source: MAL Rewrite)",
+      "year": 2024,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "d5a34972b9cbf8787d0a102dc6f799655af6a860",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mf-ghost-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mf-ghost-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mf-ghost-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mf-ghost-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mf-ghost-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mf-ghost-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mf-ghost-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mf-ghost-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mf-ghost-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mf-ghost-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mf-ghost-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mf-ghost-season-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
