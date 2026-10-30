@@ -10147,148 +10147,69 @@
       ]
     },
     {
-      "id": "the-elusive-samurai-season-2",
-      "title": "The Elusive Samurai Season 2",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0d79b3d2782c18e2544758e7df1fe8a3d4a00dc4/the-elusive-samurai-season-2/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0d79b3d2782c18e2544758e7df1fe8a3d4a00dc4/the-elusive-samurai-season-2/poster.jpg",
-      "synopsis": "After the tragic events in Kamakura, Tokiyuki Houjou has overcome the worst and started restoring his noble family. His next goal is incredibly ambitious—retaking Kamakura, no matter the cost. However, achieving his goal proves difficult as the region goes through turbulent times while its people are exhausted from their uneasy lives.\n\n\n\nTo make matters worse, some of the current rule's higher-ups are hot on Tokiyuki's trail and hope to expose him. But alongside his skilled and treasured retainers, Tokiyuki will do anything to rebuild his realm as he utilizes his elusiveness in both combat and speech.\n\n\n\n(Source: MAL Rewrite)",
+      "id": "goodbye-lara",
+      "title": "Goodbye, Lara",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2F48880%2Fposter_image%2F59866f73866569654255e7d2901294ab.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@18d6aea3e72f0789e30c03125c823796d442490e/goodbye-lara/banner.jpg",
+      "synopsis": "Once upon a time, a mermaid princess named Lara fell in love with a human prince. To be with him, she used a witch’s potion to become human—but the magic came at a cost: If she failed to find true love, she would vanish into sea foam forever. Now, 200 years later, Lara awakens in Lake Biwa with one final chance at life and love.\n\n\n(Source: Crunchyroll)",
       "year": 2026,
       "score": 7.6,
       "status": "FINISHED",
       "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "repo": "adiytharpansa/gudang-10",
-      "pin": "ca47a27560024252b93f815f1c72b051beb21881",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "the-elusive-samurai-season-2/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "the-elusive-samurai-season-2/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "the-elusive-samurai-season-2/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "the-elusive-samurai-season-2/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "the-elusive-samurai-season-2/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "the-elusive-samurai-season-2/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "the-elusive-samurai-season-2/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "the-elusive-samurai-season-2/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "the-elusive-samurai-season-2/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "the-elusive-samurai-season-2/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "the-elusive-samurai-season-2/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "the-elusive-samurai-season-2/ep12/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "record-of-ragnarok-iii",
-      "title": "Record of Ragnarok III",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@02dc367296411a64e279e7604caf25d2e1a1c40e/record-of-ragnarok-iii/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@02dc367296411a64e279e7604caf25d2e1a1c40e/record-of-ragnarok-iii/poster.jpg",
-      "synopsis": "Based on the hit manga of the same name, the Record of Ragnarok saga continues with 13 one-on-one battles for the survival of humanity, pitting gods against humans from across the world. Witness the fateful seventh battle: the final fight to break the 3-3 tie between the gods and humans.\n\n\n(Source: Netflix)",
-      "year": 2025,
-      "score": 7.7,
-      "status": "FINISHED",
-      "genres": [
-        "Action",
         "Drama",
         "Fantasy",
-        "Supernatural"
+        "Romance"
       ],
-      "repo": "adiytharpansa/gudang-12",
-      "pin": "01ce2fa3975b40104dcfe907574eca2155eb4816",
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "42b33de8fd092490be35b04e392120af07a072bd",
       "episodes": [
         {
           "number": 1,
-          "playlist": "record-of-ragnarok-iii/ep1/playlist.m3u8"
+          "playlist": "goodbye-lara/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "record-of-ragnarok-iii/ep2/playlist.m3u8"
+          "playlist": "goodbye-lara/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "record-of-ragnarok-iii/ep3/playlist.m3u8"
+          "playlist": "goodbye-lara/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "record-of-ragnarok-iii/ep4/playlist.m3u8"
+          "playlist": "goodbye-lara/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "record-of-ragnarok-iii/ep5/playlist.m3u8"
+          "playlist": "goodbye-lara/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "record-of-ragnarok-iii/ep6/playlist.m3u8"
+          "playlist": "goodbye-lara/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "record-of-ragnarok-iii/ep7/playlist.m3u8"
+          "playlist": "goodbye-lara/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "record-of-ragnarok-iii/ep8/playlist.m3u8"
+          "playlist": "goodbye-lara/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "record-of-ragnarok-iii/ep9/playlist.m3u8"
+          "playlist": "goodbye-lara/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "record-of-ragnarok-iii/ep10/playlist.m3u8"
+          "playlist": "goodbye-lara/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "record-of-ragnarok-iii/ep11/playlist.m3u8"
+          "playlist": "goodbye-lara/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "record-of-ragnarok-iii/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "record-of-ragnarok-iii/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "record-of-ragnarok-iii/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "record-of-ragnarok-iii/ep15/playlist.m3u8"
+          "playlist": "goodbye-lara/ep12/playlist.m3u8"
         }
       ]
     }
