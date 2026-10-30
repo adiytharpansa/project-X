@@ -9511,6 +9511,66 @@
           "playlist": "detective-conan-the-million-dollar-pentagram/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-ghost-in-the-shell",
+      "title": "The Ghost in the Shell",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5c349e782d3378440756d54d54b81ca82ac8a94b/the-ghost-in-the-shell/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5c349e782d3378440756d54d54b81ca82ac8a94b/the-ghost-in-the-shell/poster.jpg",
+      "synopsis": "The year is 2029. In near-future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it. But the nation-state and ethnic groups still survive.  \n\n Motoko Kusanagi, a full-body cyborg, leads an elite combat unit, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Internal Affairs, who had been planning to establish a similar unit, recruited Kusanagi and her team. Together, they begin operations as Public Security Section 9—an offensive tactical unit known as “Shell Squad.” As they confront complex cybercrimes and international conspiracies, the existence of a mysterious, unidentified hacker known as The “Puppet Master” emerges on the horizon of their investigation. \n\n What fate awaits Kusanagi? And what is the Puppet Master’s true objective? A new era of cyberpunk action begins.  \n\n\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
+      "year": 2026,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Ecchi",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "cfc13810dba79acd01c91d6029c710f61c944ad7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-ghost-in-the-shell/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-ghost-in-the-shell/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-ghost-in-the-shell/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-ghost-in-the-shell/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-ghost-in-the-shell/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-ghost-in-the-shell/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-ghost-in-the-shell/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-ghost-in-the-shell/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-ghost-in-the-shell/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-ghost-in-the-shell/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
