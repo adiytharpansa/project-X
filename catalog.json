@@ -10693,6 +10693,73 @@
           "playlist": "mf-ghost-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-daily-life-of-the-immortal-king-season-5",
+      "title": "The Daily Life of the Immortal King Season 5",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3e267949f6c36de2f40e1266411c3d6e8211fdff/the-daily-life-of-the-immortal-king-season-5/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@3e267949f6c36de2f40e1266411c3d6e8211fdff/the-daily-life-of-the-immortal-king-season-5/poster.jpg",
+      "synopsis": "Wang Ling, a dry noodle-loving immortal king, now faces his greatest challenge yet! With a novelist dad, a mysterious mom, a brand-new little sister, and the sudden arrival of a powerful little sister, Wang Nuan, the Wang family’s ordinary life is turned upside down. And figuring out how to be a good older brother becomes the latest challenge for the mighty immortal king. Surprisingly, Wang Nuan’s extraordinary power doesn’t shock the Wang family. Wang Ling starts early, teaching his sister to control her immense abilities. But her power catches the attention of the sinister organization Ye Kui and Bai Zhe, a top-tier prisoner from Enchanted Prison. Faced with threats from evil cultivators, Wang Ling makes a decision that defies tradition: he’ll take his sister along to teach these villains a lesson! This season, join the immortal king and his little sister as they dive into a life filled with humor and unexpected adventures!\n\n(Source: Bilibili)",
+      "year": null,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "1d709ea78787a68b5ae5076bfedd7c834555122f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-daily-life-of-the-immortal-king-season-5/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
