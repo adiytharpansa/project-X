@@ -11622,21 +11622,21 @@
       ]
     },
     {
-      "id": "grow-up-show",
-      "title": "Grow Up Show",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0f0ca76f42957f79f462a8f617b18be0724858e3/grow-up-show/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@0f0ca76f42957f79f462a8f617b18be0724858e3/grow-up-show/poster.jpg",
-      "synopsis": "The anime's story is set in the late 1950s and early 1960s, during the height of Japan's economic boom, when the circus is a major form of entertainment. Different circus troupes travel throughout Japan to perform and compete for a chance to participate in the world-renowned festival called \"Circus Collection.\" One troupe called the \"Sunflower Circus,\" led by its ringmaster Maria, travels around Japan to perform, despite struggling with financial difficulties. However, they meet a circus prodigy named Mizuka Tsurumaki. This is the story of a one-of-a-kind circus show of young girls with big dreams.\n\n\n(Source: Anime News Network)",
-      "year": 2026,
+      "id": "kakuriyo-bed-breakfast-for-spirits",
+      "title": "Kakuriyo -Bed & Breakfast for Spirits-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@62a2936912899c407dcfbf78bdd4dfa66762ffed/kakuriyo-bed-breakfast-for-spirits/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@62a2936912899c407dcfbf78bdd4dfa66762ffed/kakuriyo-bed-breakfast-for-spirits/banner.jpg",
+      "synopsis": "The series centers on a female college student named Aoi, who inherited the ability to see spirits from her late grandfather. Aoi prides herself on her cooking, and one day she's feeding some agricultural spirits when suddenly a god and the master of the \"Tenshinya\" (Heavenly Inn) appears and takes Aoi away. He says that due to her grandfather's debts, she must become his bride. Aoi hates this idea and instead declares that she will pay back her grandfather's debt by working at the Tenshinya. \n\n\n\n(Source: Anime News Network)",
+      "year": 2018,
       "score": 7.3,
       "status": "FINISHED",
       "genres": [
-        "Adventure",
-        "Slice of Life",
-        "Sports"
+        "Drama",
+        "Romance",
+        "Supernatural"
       ],
-      "repo": "adiytharpansa/gudang-5",
-      "pin": "a5ed47cfd5883b6992d078d165426055588a98bc",
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "ab2934e0149bcf5cffff44cbd929cc285c3bc37e",
       "episodes": [
         1,
         2,
@@ -11650,7 +11650,20 @@
         10,
         11,
         12,
-        13
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
       ]
     }
   ],
