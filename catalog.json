@@ -14965,75 +14965,68 @@
       ]
     },
     {
-      "id": "magia-record-puella-magi-madoka-magica-side-story",
-      "title": "Magia Record: Puella Magi Madoka Magica Side Story",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@099812bdc036f2ff0504d21fe5555e095fc6dc47/magia-record-puella-magi-madoka-magica-side-story/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@099812bdc036f2ff0504d21fe5555e095fc6dc47/magia-record-puella-magi-madoka-magica-side-story/banner.jpg",
-      "synopsis": "In exchange for the fulfillment of a wish, Magical Girls keep fighting, unbeknownst to the rest of the world. But Iroha Tamaki can’t seem to remember her wish. A rumor begins to spread among Magical Girls. “Magical Girls can be saved if they go to Kamihama.” Kamihama City, the city where Magical Girls and Uwasa are gathering. The story of Iroha Tamaki, in search for her lost wish, begins…\n\n(Source: Aniplex of America)",
-      "year": 2020,
-      "score": 6.6,
+      "id": "dead-account",
+      "title": "Dead Account",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6a9a09c8101fed3ec3eee31e70c50cdbeba5c452/dead-account/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6a9a09c8101fed3ec3eee31e70c50cdbeba5c452/dead-account/poster.jpg",
+      "synopsis": "Always ready for a fight! Destruction for destruction’s sake! The online streamer Aoringo is a troll, making the worst of the worst of boundary-pushing flamebait content and raking in the revenue from the hate-watchers. You may think he’s nothing more than a bottom feeder and a drain on society, but in reality, he’s high school dropout Souji Enishiro, a caring older brother with a sweet tooth who loves nothing more than his little sister. His viral videos? Just a way to pay his sister’s medical bills. And even if all of humanity hates him, he doesn’t care, so long as his little sister gets better. But then, something very strange begins to happen...\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 6.5,
       "status": "FINISHED",
       "genres": [
-        "Drama",
-        "Mahou Shoujo",
-        "Mystery",
-        "Psychological",
-        "Thriller"
+        "Action",
+        "Supernatural"
       ],
-      "repo": "adiytharpansa/gudang-21",
-      "pin": "116ffb080984e7b1d08f5221fdcd343fefef1c16",
+      "repo": "adiytharpansa/gudang-28",
+      "pin": "24cf7814d7a09cec47b3959227460105bf99431d",
       "episodes": [
         {
           "number": 1,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep1/playlist.m3u8"
+          "playlist": "dead-account/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep2/playlist.m3u8"
+          "playlist": "dead-account/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep3/playlist.m3u8"
+          "playlist": "dead-account/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep4/playlist.m3u8"
+          "playlist": "dead-account/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep5/playlist.m3u8"
+          "playlist": "dead-account/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep6/playlist.m3u8"
+          "playlist": "dead-account/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep7/playlist.m3u8"
+          "playlist": "dead-account/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep8/playlist.m3u8"
+          "playlist": "dead-account/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep9/playlist.m3u8"
+          "playlist": "dead-account/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep10/playlist.m3u8"
+          "playlist": "dead-account/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep11/playlist.m3u8"
+          "playlist": "dead-account/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep13/playlist.m3u8"
+          "playlist": "dead-account/ep12/playlist.m3u8"
         }
       ]
     }
