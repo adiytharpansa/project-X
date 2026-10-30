@@ -17871,6 +17871,122 @@
           "playlist": "a-gatherer-s-adventure-in-isekai/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "me-and-the-alien-mumu",
+      "title": "Me and the Alien MuMu",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@260550f97e060916575e3f636cc6ba4876813614/me-and-the-alien-mumu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@260550f97e060916575e3f636cc6ba4876813614/me-and-the-alien-mumu/poster.jpg",
+      "synopsis": "A cat-like alien from a distant galaxy, MuMu, arrives on Earth. His goal is to learn about home appliance technology on Earth to recover the technology his species has lost. The protagonist, Sakurako, has a typical university life, but everything changes with MuMu's arrival! What begins as an unexpected cohabitation quickly turns into a whirlwind of chaotic events. The chemistry between Sakurako and MuMu leads to a super-spectacular, appliance-filled, and cat comedy adventure.\n\n\n\n(Source: Pony Canyon)",
+      "year": 2025,
+      "score": 6.3,
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "2365eed6451f4f9a1609e28053910f7316fc3e27",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "me-and-the-alien-mumu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "me-and-the-alien-mumu/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "me-and-the-alien-mumu/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "me-and-the-alien-mumu/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "me-and-the-alien-mumu/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "me-and-the-alien-mumu/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "me-and-the-alien-mumu/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "me-and-the-alien-mumu/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "me-and-the-alien-mumu/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "me-and-the-alien-mumu/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "me-and-the-alien-mumu/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "me-and-the-alien-mumu/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "me-and-the-alien-mumu/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "me-and-the-alien-mumu/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "me-and-the-alien-mumu/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "me-and-the-alien-mumu/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "me-and-the-alien-mumu/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "me-and-the-alien-mumu/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "me-and-the-alien-mumu/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "me-and-the-alien-mumu/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "me-and-the-alien-mumu/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "me-and-the-alien-mumu/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "me-and-the-alien-mumu/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "me-and-the-alien-mumu/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
