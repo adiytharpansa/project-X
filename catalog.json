@@ -13691,6 +13691,78 @@
           "playlist": "i-parry-everything/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "needy-girl-overdose",
+      "title": "Needy Girl Overdose",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4b1c07b905a54dd25b9a554282eb3f4fc025e301/needy-girl-overdose/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4b1c07b905a54dd25b9a554282eb3f4fc025e301/needy-girl-overdose/poster.jpg",
+      "synopsis": "OMGkawaiiAngel, affectionately known as \"KAngel\", is the top streamer girl with 10 million subscribers, and not a day goes by without seeing her in action. Whether online, on TV, or at a live show, she is always surrounded by her cheering fans.\n\n\n\nStriving to catch up with KAngel's popularity is a three-girl streaming unit called Karamazov.\n\n\n\nAnd far removed from the world of these streamers is Kache, a girl who lives with her freeloader boyfriend while working at a theme cafe.\n\n\n\nThe story of the \"Internet Angel\" who captivated the world, woven by a girl who shines like a star and girls who reach for that brilliance, and the story of \"you\" on the other side of the screen, begins here.\n\n\n\n(Source: Official Site)\n\n\n\nNote: Prior to broadcasting, \"NEEDY GIRL OVERDOSE -OVERTURE-\" — a theatrical pre-screening of the first 3 episodes rearranged and edited together— debuted in Japan on March 6, 2026.",
+      "year": 2026,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Psychological",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-16",
+      "pin": "4ec5e068705992645aa49a1f8f72525f97215a6b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "needy-girl-overdose/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "needy-girl-overdose/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "needy-girl-overdose/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "needy-girl-overdose/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "needy-girl-overdose/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "needy-girl-overdose/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "needy-girl-overdose/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "needy-girl-overdose/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "needy-girl-overdose/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "needy-girl-overdose/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "needy-girl-overdose/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "needy-girl-overdose/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "needy-girl-overdose/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
