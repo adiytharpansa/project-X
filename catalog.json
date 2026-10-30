@@ -7724,6 +7724,27 @@
           "playlist": "daemons-of-the-shadow-realm/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bang-dream-episode-of-roselia-ii-song-i-am",
+      "title": "BanG Dream! Episode of Roselia II: Song I am",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@39ad611b08bd271df50a8bcf1c81d8cf87efdd1c/bang-dream-episode-of-roselia-ii-song-i-am/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@39ad611b08bd271df50a8bcf1c81d8cf87efdd1c/bang-dream-episode-of-roselia-ii-song-i-am/banner.jpg",
+      "synopsis": "After overcoming numerous tribulations, the members of Roselia promised to appear on FUTURE WORLD FES.\n\nIt is now Autumn...\n\n\n\nThrough writing the lyrics of \"Promise,\" Lisa has matured. Watching the change of color in the autumn leaves, Yukina and Sayo expressed their resolve in a picture letter to their future selves. Driven by the wish to do something for Roselia, Rinko has started to compose a new song. \"The remaining quests are the contest, the tournament, and FUTURE WORLD FES...\" Reflecting on their goals, Ako starts to feel anxious.\n\n\n\nWhat view will the five of them see beyond FUTURE WORLD FES? \n\n\n\n(Source: Bang Dream Official Site)",
+      "year": 2021,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Music"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "39459060dbaff34ad3c90f4e8128ac9fd0ccdc37",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bang-dream-episode-of-roselia-ii-song-i-am/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
