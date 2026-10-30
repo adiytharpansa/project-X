@@ -20631,6 +20631,120 @@
           "playlist": "from-old-country-bumpkin-to-master-swordsman-ii-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "aoashi",
+      "title": "Aoashi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ecdd386a801d321b920d445d8ad605c60a5c1709/aoashi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ecdd386a801d321b920d445d8ad605c60a5c1709/aoashi/banner.jpg",
+      "synopsis": "Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?(Source: Shogakukan Asia)",
+      "year": 2022,
+      "score": 0,
+      "genres": [
+        "Drama",
+        "Sports"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-27",
+      "pin": "24ae2e58f5805ff66cb63ca6a413de50677bd293",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "aoashi/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "aoashi/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "aoashi/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "aoashi/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "aoashi/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "aoashi/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "aoashi/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "aoashi/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "aoashi/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "aoashi/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "aoashi/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "aoashi/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "aoashi/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "aoashi/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "aoashi/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "aoashi/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "aoashi/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "aoashi/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "aoashi/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "aoashi/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "aoashi/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "aoashi/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "aoashi/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "aoashi/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
