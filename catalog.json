@@ -17470,6 +17470,73 @@
           "playlist": "hero-without-a-class-who-even-needs-skills/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "reborn-as-a-vending-machine-i-now-wander-the-dungeon",
+      "title": "Reborn as a Vending Machine, I Now Wander the Dungeon",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@21ca5987cf3a3b2b18bb077d168c57459af5cbd3/reborn-as-a-vending-machine-i-now-wander-the-dungeon/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@21ca5987cf3a3b2b18bb077d168c57459af5cbd3/reborn-as-a-vending-machine-i-now-wander-the-dungeon/banner.jpg",
+      "synopsis": "The future of this fantasy world now lies in the hands of…a vending machine! Boxxo was once a human, until he died in an accident and was reincarnated as a sentient piece of machinery. While he can still hear and see, there’s no way for him to move by himself or speak more than his programmed phrases. How can he make the most of this strange new life?\n\n\n(Source: Crunchyroll)",
+      "year": 2023,
+      "score": 6.2,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-23",
+      "pin": "2d747ba6079eafe2f7e2314a150928a9f01147d5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
