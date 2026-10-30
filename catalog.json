@@ -13008,6 +13008,74 @@
           "playlist": "magilumiere-magical-girls-inc/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "from-old-country-bumpkin-to-master-swordsman",
+      "title": "From Old Country Bumpkin to Master Swordsman",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@64b83f6c5dfa88dd2c7292a402343091694b5017/from-old-country-bumpkin-to-master-swordsman/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@64b83f6c5dfa88dd2c7292a402343091694b5017/from-old-country-bumpkin-to-master-swordsman/banner.jpg",
+      "synopsis": "Beryl Gardinant, a self-proclaimed “humble old man,” is a sword instructor at his dojo in a rural, backwater village. In his younger years, he dreamed of glory as a master swordsman, but those days are long behind him. Out of the blue, he receives a visit from a famous former pupil who brings him world-shattering news—he's been appointed as special instructor for the knights of the Liberion Order! With his life now turned upside down, Beryl travels to the capital and reunites with some of his former students: elite knights, an ace wizard, and even an adventurer who's attained the highest guild rank possible. But why do they all want his tutelage?! As far as he's concerned, they clearly don't need him anymore.\n\n\n\nCan Beryl live up to his new position? And will he ever get a moment's peace away from his adoring students?!\n\n\n\n(Source: J-Novel Club)",
+      "year": 2025,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "b605d52d90ae996f0a262249b4253b3fd33741dd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "from-old-country-bumpkin-to-master-swordsman/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
