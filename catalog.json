@@ -14267,6 +14267,72 @@
           "playlist": "blue-miburo-season-2/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "magical-sisters-luluttolilly",
+      "title": "Magical Sisters LuluttoLilly",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2Flarge%2Fbx178749-2TRwfr1T7jzI.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fbanner%2F178749-55kXPhUDKYvQ.jpg",
+      "synopsis": "Fuu and Rui are two sisters who used to be close, but have been a bit distant from each other recently. One day, Fuu encounters a mysterious spaceship and gains magical powers. At that same time, Rui also gains magical powers, and both transform into the adults they dream to be. The sisters' powers come with two conditions: their magic powers can only be used in one year, and no one must know about it. Unaware of each other's secrets, Fuu and Rui become active as idols. \n\n\n\n(Source: Anime News Network, edited)",
+      "year": 2026,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Mahou Shoujo",
+        "Music"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "6b2c67d32f7ec9ffd609b1ee71855904085e8a4a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "magical-sisters-luluttolilly/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "magical-sisters-luluttolilly/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "magical-sisters-luluttolilly/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "magical-sisters-luluttolilly/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "magical-sisters-luluttolilly/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "magical-sisters-luluttolilly/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "magical-sisters-luluttolilly/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "magical-sisters-luluttolilly/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "magical-sisters-luluttolilly/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "magical-sisters-luluttolilly/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "magical-sisters-luluttolilly/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "magical-sisters-luluttolilly/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
