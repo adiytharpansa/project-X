@@ -14963,6 +14963,79 @@
           "playlist": "the-dark-history-of-the-reincarnated-villainess/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "magia-record-puella-magi-madoka-magica-side-story",
+      "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@099812bdc036f2ff0504d21fe5555e095fc6dc47/magia-record-puella-magi-madoka-magica-side-story/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@099812bdc036f2ff0504d21fe5555e095fc6dc47/magia-record-puella-magi-madoka-magica-side-story/banner.jpg",
+      "synopsis": "In exchange for the fulfillment of a wish, Magical Girls keep fighting, unbeknownst to the rest of the world. But Iroha Tamaki can’t seem to remember her wish. A rumor begins to spread among Magical Girls. “Magical Girls can be saved if they go to Kamihama.” Kamihama City, the city where Magical Girls and Uwasa are gathering. The story of Iroha Tamaki, in search for her lost wish, begins…\n\n(Source: Aniplex of America)",
+      "year": 2020,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Mahou Shoujo",
+        "Mystery",
+        "Psychological",
+        "Thriller"
+      ],
+      "repo": "adiytharpansa/gudang-21",
+      "pin": "116ffb080984e7b1d08f5221fdcd343fefef1c16",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "magia-record-puella-magi-madoka-magica-side-story/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
