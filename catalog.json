@@ -10013,6 +10013,72 @@
           "playlist": "agents-of-the-four-seasons-dance-of-spring/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "baki-hanma",
+      "title": "Baki Hanma",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4b77d41568fe076dc0a583023b286a1c6dda25c9/baki-hanma/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4b77d41568fe076dc0a583023b286a1c6dda25c9/baki-hanma/banner.jpg",
+      "synopsis": "To gain the skills he needs to surpass his powerful father, Baki enters Arizona State Prison to take on the notorious inmate known as Mr. Unchained.\n\n\n\n(Source: Netflix)",
+      "year": 2021,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Sports"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "aba9397307b0604824a6b9634fce2fdf6a3db240",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "baki-hanma/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "baki-hanma/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "baki-hanma/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "baki-hanma/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "baki-hanma/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "baki-hanma/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "baki-hanma/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "baki-hanma/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "baki-hanma/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "baki-hanma/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "baki-hanma/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "baki-hanma/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
