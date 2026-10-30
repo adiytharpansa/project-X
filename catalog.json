@@ -20341,6 +20341,76 @@
           "playlist": "fruits-basket/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tokyo-ghoul-2",
+      "title": "Tokyo Ghoul",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2FextraLarge%2Fb20605-k665mVkSug8D.jpg",
+      "banner": "",
+      "synopsis": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious \"ghouls\" who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the café he frequents. Little does he realize that his fate will change overnight.\n\n(Source: Anime News Network)",
+      "year": 2014,
+      "score": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-18",
+      "pin": "8e186f1932a93e14d027f13fd660d1a8d67a1dce",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-ghoul-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tokyo-ghoul-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tokyo-ghoul-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tokyo-ghoul-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tokyo-ghoul-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tokyo-ghoul-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tokyo-ghoul-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tokyo-ghoul-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tokyo-ghoul-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tokyo-ghoul-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tokyo-ghoul-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tokyo-ghoul-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
