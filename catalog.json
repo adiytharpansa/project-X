@@ -10427,6 +10427,73 @@
           "playlist": "record-of-ragnarok-iii/ep15/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "pseudo-harem",
+      "title": "Pseudo Harem",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@676aaff852536bd669db9e38823f73d39e41b858/pseudo-harem/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@676aaff852536bd669db9e38823f73d39e41b858/pseudo-harem/poster.jpg",
+      "synopsis": "Eiji Kitahama joins the drama club with dreams of having a harem like the ones from his favorite manga. Rin Nanakura, an underclassman, finds herself crushing hard on Eiji and tries on different personas in his presence to win him over. No matter how she acts, one thing is certain—her feelings for Eiji continue to grow stronger. Will she ever be able to tell him the truth and be herself?\n\n\n(Source: Crunchyroll)",
+      "year": 2024,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-5",
+      "pin": "1aceb44695c484f48c6d0f5dab0bc0eacaf4297c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "pseudo-harem/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "pseudo-harem/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "pseudo-harem/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "pseudo-harem/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "pseudo-harem/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "pseudo-harem/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "pseudo-harem/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "pseudo-harem/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "pseudo-harem/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "pseudo-harem/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "pseudo-harem/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "pseudo-harem/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
