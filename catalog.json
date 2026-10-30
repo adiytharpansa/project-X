@@ -19306,6 +19306,129 @@
           "playlist": "momentary-lily/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "shen-kong-bian",
+      "title": "Shen Kong Bian",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@81982abc9cf5491d2dd2a7cbf075039caf7437ec/shen-kong-bian/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@81982abc9cf5491d2dd2a7cbf075039caf7437ec/shen-kong-bian/poster.jpg",
+      "synopsis": "The new art of cultivating immortals with technology is rising, while the old art of cultivating immortals that has been passed down for thousands of years is gradually declining. Wang Xuan, a genius boy of the old art, accidentally joins the mysterious organization Secret Road. He seizes treasures, fights new art, fights immortals, and in a series of thrilling adventures, he peeks into the big secrets hidden in the old art. In order to cope with the huge crisis that is about to come, Wang Xuan does not hesitate to go deep into the universe and challenge the limits of his growth.",
+      "year": null,
+      "score": 6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-27",
+      "pin": "7a001d3c292620c0c69090f8806e3a931724a0c6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "shen-kong-bian/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "shen-kong-bian/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "shen-kong-bian/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "shen-kong-bian/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "shen-kong-bian/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "shen-kong-bian/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "shen-kong-bian/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "shen-kong-bian/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "shen-kong-bian/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "shen-kong-bian/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "shen-kong-bian/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "shen-kong-bian/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "shen-kong-bian/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "shen-kong-bian/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "shen-kong-bian/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "shen-kong-bian/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "shen-kong-bian/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "shen-kong-bian/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "shen-kong-bian/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "shen-kong-bian/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "shen-kong-bian/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "shen-kong-bian/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "shen-kong-bian/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "shen-kong-bian/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "shen-kong-bian/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "shen-kong-bian/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
