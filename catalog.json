@@ -21664,122 +21664,25 @@
       ]
     },
     {
-      "id": "sword-art-online",
-      "title": "Sword Art Online",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cee7fe35c8fe0501d4dd881c9b8b52985ac8c5c/sword-art-online/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cee7fe35c8fe0501d4dd881c9b8b52985ac8c5c/sword-art-online/banner.jpg",
-      "synopsis": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...\n(Source: Crunchyroll)",
-      "year": 2012,
+      "id": "your-name-2",
+      "title": "Your Name.",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cba9b55261ee1785cc58a92e4f7a968199a4c5d/your-name-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cba9b55261ee1785cc58a92e4f7a968199a4c5d/your-name-2/banner.jpg",
+      "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n(Source: MAL Rewrite)",
+      "year": 2016,
       "score": 0,
       "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Romance"
+        "Drama",
+        "Romance",
+        "Supernatural"
       ],
       "status": "FINISHED",
-      "repo": "adiytharpansa/gudang-17",
-      "pin": "33bccd2ec51be942e0537de19d853de85d3c9921",
+      "repo": "adiytharpansa/gudang-18",
+      "pin": "52ce2151596baa63028fc7b3793c4224f18269e6",
       "episodes": [
         {
           "number": 1,
-          "playlist": "sword-art-online/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "sword-art-online/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "sword-art-online/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "sword-art-online/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "sword-art-online/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "sword-art-online/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "sword-art-online/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "sword-art-online/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "sword-art-online/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "sword-art-online/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "sword-art-online/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "sword-art-online/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "sword-art-online/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "sword-art-online/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "sword-art-online/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "sword-art-online/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "sword-art-online/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "sword-art-online/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "sword-art-online/ep19/playlist.m3u8"
-        },
-        {
-          "number": 20,
-          "playlist": "sword-art-online/ep20/playlist.m3u8"
-        },
-        {
-          "number": 21,
-          "playlist": "sword-art-online/ep21/playlist.m3u8"
-        },
-        {
-          "number": 22,
-          "playlist": "sword-art-online/ep22/playlist.m3u8"
-        },
-        {
-          "number": 23,
-          "playlist": "sword-art-online/ep23/playlist.m3u8"
-        },
-        {
-          "number": 24,
-          "playlist": "sword-art-online/ep24/playlist.m3u8"
-        },
-        {
-          "number": 25,
-          "playlist": "sword-art-online/ep25/playlist.m3u8"
+          "playlist": "your-name-2/ep1/playlist.m3u8"
         }
       ]
     }
