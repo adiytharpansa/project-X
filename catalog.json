@@ -20928,6 +20928,73 @@
           "playlist": "jujutsu-kaisen/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tian-xiang",
+      "title": "Tian Xiang",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@cb10d3d6368816eac310f9650b0219e3002ab3a7/tian-xiang/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@cb10d3d6368816eac310f9650b0219e3002ab3a7/tian-xiang/poster.jpg",
+      "synopsis": "15 years ago, an eerie catastrophe struck Luofeng City, reducing it to a lifeless ruin overnight. Ding Xiao—once hailed as a prodigy for forming his spirit embryo at the age of seven—joined the Spirit Suppression Sect, only to fall from grace after shattering his own embryo. Cast out, he was forced to serve as a coffin bearer in the Guibu Division, enduring five long years of hardship and scorn. Against all odds, he awakened his power anew, stunning everyone during the Sect's advancement trials and rising as a force to be reckoned with—a growing threat to the Lingbu Division. Nowadays, as sinister omens spread and supernatural threats loomed, Ding Xiao embarked on a perilous quest to save his ailing sister. But the path ahead drew him into a web of power struggles and hidden truths. As the tragedy of Luofeng City gradually came to light, he discovered that his fate was bound inseparably to the destiny of the spirits themselves.....",
+      "year": null,
+      "score": null,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-20",
+      "pin": "f65b1935f7f8d4099714af83fac850b6ef4b994a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tian-xiang/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tian-xiang/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tian-xiang/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tian-xiang/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tian-xiang/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tian-xiang/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tian-xiang/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tian-xiang/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tian-xiang/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tian-xiang/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tian-xiang/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tian-xiang/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
