@@ -15679,6 +15679,24 @@
         12
       ],
       "status": "FINISHED"
+    },
+    {
+      "id": "loca",
+      "title": "Loca!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@25710fa27922a2dfc07c3f1fe4a7696ed97c3c2c/loca/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@25710fa27922a2dfc07c3f1fe4a7696ed97c3c2c/loca/poster.jpg",
+      "synopsis": "The story takes place in a world where human civilization has collapsed and fallen into ruin.\n\n\nIn this world, there are people who live in groups and people who live individually, moving around. – a world of freedom, so to speak.\n\n\nTwo girls, Haru and Tamo, who live in such a world, board an old train they come across by chance and travel through the decadent world day by day.\n\n\n\n(Source: Niigata International Animation Film Festival)\n\n\n\nNotes:\n\n- Initially pre-screened at the Niigata International Animation Film Festival on March 15, 2025, as well as at the Fantasia Film Festival on July 19, 2025.\n\n- Selected for the Fantasia Film Festival Anime no Bento official selection highlighting indie talent, as well as winning the audience award and gold award in the Animated Short category at the Fantasia Film Festival 2025.",
+      "year": 2025,
+      "score": 6.4,
+      "genres": [
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-14",
+      "pin": "a994c5bd54736ddd0eaad0d64ee099acfc0e4e71",
+      "episodes": [
+        1
+      ],
+      "status": "FINISHED"
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
