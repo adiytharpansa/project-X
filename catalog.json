@@ -14079,6 +14079,121 @@
           "playlist": "dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tougen-anki",
+      "title": "Tougen Anki",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@30b5daeda6414e4b4c80a0e038d90cb0b284d0e4/tougen-anki/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@30b5daeda6414e4b4c80a0e038d90cb0b284d0e4/tougen-anki/poster.jpg",
+      "synopsis": "The bloodlines of “Oni” and “Momotarou” have been passed down among certain humans for generations.\n\n\n\nLong ago, the Oni, aware of their own ferocity, lived in seclusion. However, their peace was shattered by an invasion led by Momotarou.\nOver thousands of years, these two factions formed the “Momotarou Agency” and the “Oni Agency,” respectively, and have been locked in conflict ever since.\n\n\n\nThe protagonist, Shiki Ichinose, suddenly learns of his Oni lineage following an unexpected attack by Momotarou. This revelation sets Shiki on a path to discover the destiny that lies within his blood — a meeting with the Oni dwelling within him.\n\n\n\n—A new generation of dark heroics begins here in this tale of demons!\n\n\n\n\n(Source: Official Site)",
+      "year": 2025,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "e5fea0afa6665f4fb5b8dfaa23ee0ec48d3026a2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tougen-anki/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tougen-anki/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tougen-anki/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tougen-anki/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tougen-anki/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tougen-anki/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tougen-anki/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tougen-anki/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tougen-anki/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tougen-anki/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tougen-anki/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tougen-anki/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "tougen-anki/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "tougen-anki/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "tougen-anki/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "tougen-anki/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "tougen-anki/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "tougen-anki/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "tougen-anki/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "tougen-anki/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "tougen-anki/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "tougen-anki/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "tougen-anki/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "tougen-anki/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
