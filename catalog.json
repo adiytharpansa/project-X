@@ -105,7 +105,7 @@
         "Supernatural"
       ],
       "repo": "adiytharpansa/gudang-2",
-      "pin": "8a3dd52f392314ad3303f162fc6b56b738da93a1",
+      "pin": "47975979027abcf4634f0c279077bd6dc3bcc0c3",
       "episodes": [
         {
           "number": 1,
@@ -122,38 +122,6 @@
         {
           "number": 4,
           "playlist": "chainsaw-man/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "chainsaw-man/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "chainsaw-man/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "chainsaw-man/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "chainsaw-man/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "chainsaw-man/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "chainsaw-man/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "chainsaw-man/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "chainsaw-man/ep12/playlist.m3u8"
         }
       ]
     },
@@ -255,7 +223,7 @@
         "Fantasy"
       ],
       "repo": "adiytharpansa/gudang-3",
-      "pin": "0c121a3ae59dc9d90a205d5c00d8f90992e37e20",
+      "pin": "2a8536675aab90814a9320f7a71e71f0d1417ebe",
       "episodes": [
         {
           "number": 1,
@@ -268,6 +236,42 @@
         {
           "number": 3,
           "playlist": "mashle/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mashle/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mashle/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mashle/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mashle/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mashle/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mashle/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mashle/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mashle/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mashle/ep12/playlist.m3u8"
         }
       ]
     },
