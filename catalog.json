@@ -17179,6 +17179,73 @@
           "playlist": "with-vengeance-sincerely-your-broken-saintess/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bai-yao-pu-luoyang-pian",
+      "title": "Bai Yao Pu: Luoyang Pian",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cf3ba2b4ee1b44664db9b2bf8ca5d63f522844e/bai-yao-pu-luoyang-pian/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cf3ba2b4ee1b44664db9b2bf8ca5d63f522844e/bai-yao-pu-luoyang-pian/poster.jpg",
+      "synopsis": "The fifth season of Bai Yao Pu.",
+      "year": null,
+      "score": 6.1,
+      "genres": [
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-28",
+      "pin": "b982e9f678856def922f0c7c52847865397494a7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bai-yao-pu-luoyang-pian/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bai-yao-pu-luoyang-pian/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bai-yao-pu-luoyang-pian/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bai-yao-pu-luoyang-pian/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bai-yao-pu-luoyang-pian/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bai-yao-pu-luoyang-pian/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bai-yao-pu-luoyang-pian/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bai-yao-pu-luoyang-pian/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bai-yao-pu-luoyang-pian/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bai-yao-pu-luoyang-pian/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bai-yao-pu-luoyang-pian/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bai-yao-pu-luoyang-pian/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
