@@ -18324,6 +18324,73 @@
         11,
         12
       ]
+    },
+    {
+      "id": "killed-again-mr-detective",
+      "title": "Killed again, Mr. Detective.",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@cb08c5a063b880d398c7ad5c1f8b231498565e81/killed-again-mr-detective/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@cb08c5a063b880d398c7ad5c1f8b231498565e81/killed-again-mr-detective/poster.jpg",
+      "synopsis": "Sakuya Otsuki is the son of a legendary detective, working to follow in his father's footsteps with his assistant, Lilithea. However, something's different about this high-school sleuth. Wherever he goes, he always manages to get himself entangled in his cases—as a murder victim! When Sakuya is tasked to infiltrate a luxury cruise ship, he finds himself killed once again. But every time he reopens his eyes, Lilithea is there by his side, ready to help him get to the bottom of the mystery…\n\n\n(Source: Yen Press)",
+      "year": 2026,
+      "score": 6,
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "75458761b87ade3701e79e342ec7df7b03db8552",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "killed-again-mr-detective/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "killed-again-mr-detective/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "killed-again-mr-detective/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "killed-again-mr-detective/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "killed-again-mr-detective/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "killed-again-mr-detective/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "killed-again-mr-detective/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "killed-again-mr-detective/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "killed-again-mr-detective/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "killed-again-mr-detective/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "killed-again-mr-detective/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "killed-again-mr-detective/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
