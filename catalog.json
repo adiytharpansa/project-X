@@ -11434,6 +11434,73 @@
           "playlist": "cocoon-one-summer-of-girlhood/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-wild-last-boss-appeared",
+      "title": "A Wild Last Boss Appeared!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e2be58177c28f32fb88713cc4445d7f5fed68d6c/a-wild-last-boss-appeared/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e2be58177c28f32fb88713cc4445d7f5fed68d6c/a-wild-last-boss-appeared/poster.jpg",
+      "synopsis": "An MMO gamer awakens as the Black-Winged Tyrant, Lufas Maphaahl, rising from her sealed fate—only to find this is very real. Her defeat 200 years ago unleashed monsters of death, and the legend is one of terror. Now, trapped in the body of history’s most feared conqueror, he must survive a world that wants her dead…and uncover why he’s here.\n\n\n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "a7ceb44653904d27f4c1a01819ed1f8792f0da41",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-wild-last-boss-appeared/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-wild-last-boss-appeared/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-wild-last-boss-appeared/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-wild-last-boss-appeared/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-wild-last-boss-appeared/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-wild-last-boss-appeared/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-wild-last-boss-appeared/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-wild-last-boss-appeared/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-wild-last-boss-appeared/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-wild-last-boss-appeared/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-wild-last-boss-appeared/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-wild-last-boss-appeared/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
