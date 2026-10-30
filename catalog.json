@@ -18882,6 +18882,77 @@
           "playlist": "rakshasa-street-s4/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mr-osomatsu-4th-season",
+      "title": "Mr. Osomatsu 4th season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e4a78ee9d6d4358b87347f91af3e290f63d29aaf/mr-osomatsu-4th-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e4a78ee9d6d4358b87347f91af3e290f63d29aaf/mr-osomatsu-4th-season/banner.jpg",
+      "synopsis": "The sextuplets run amok for a fourth time! Now adults in their 20s, they are still unemployed, undertrained, and single…but there’s something lovable about Japan’s most famous sextuplets. As a new chaotic adventure begins, what’s next? New friends? New trouble? And perhaps a new side to the sextuplets? Let’s all laugh together with these brothers who are beyond any hope.\n\n\n\n(Source: Crunchyroll)\n\n\n\nNotes:\n\n- Initially meant to air its episode 13 on October 1st, 2025, though instead aired an episode 12.5. After airing episode 12.5, the production stated the actual episode 13 was in production, however delayed indefinitely. \n\n- The 13th episode was later announced as a part of the Osomatsu-san 10th anniversary event in 2026, where it first received a limited theatrical pre-screening between June 6th to June 11th, with a later early streaming release taking place from June 12th. It was then finally broadcast on June 13th, 2026.",
+      "year": 2025,
+      "score": 5.8,
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-25",
+      "pin": "c53333c1e4c52e2246333d3974184f50d9c40524",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mr-osomatsu-4th-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mr-osomatsu-4th-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mr-osomatsu-4th-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mr-osomatsu-4th-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mr-osomatsu-4th-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mr-osomatsu-4th-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mr-osomatsu-4th-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mr-osomatsu-4th-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mr-osomatsu-4th-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mr-osomatsu-4th-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mr-osomatsu-4th-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mr-osomatsu-4th-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "mr-osomatsu-4th-season/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
