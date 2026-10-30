@@ -10211,6 +10211,86 @@
           "playlist": "the-elusive-samurai-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "record-of-ragnarok-iii",
+      "title": "Record of Ragnarok III",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@02dc367296411a64e279e7604caf25d2e1a1c40e/record-of-ragnarok-iii/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@02dc367296411a64e279e7604caf25d2e1a1c40e/record-of-ragnarok-iii/poster.jpg",
+      "synopsis": "Based on the hit manga of the same name, the Record of Ragnarok saga continues with 13 one-on-one battles for the survival of humanity, pitting gods against humans from across the world. Witness the fateful seventh battle: the final fight to break the 3-3 tie between the gods and humans.\n\n\n(Source: Netflix)",
+      "year": 2025,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "01ce2fa3975b40104dcfe907574eca2155eb4816",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "record-of-ragnarok-iii/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "record-of-ragnarok-iii/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "record-of-ragnarok-iii/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "record-of-ragnarok-iii/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "record-of-ragnarok-iii/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "record-of-ragnarok-iii/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "record-of-ragnarok-iii/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "record-of-ragnarok-iii/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "record-of-ragnarok-iii/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "record-of-ragnarok-iii/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "record-of-ragnarok-iii/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "record-of-ragnarok-iii/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "record-of-ragnarok-iii/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "record-of-ragnarok-iii/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "record-of-ragnarok-iii/ep15/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
