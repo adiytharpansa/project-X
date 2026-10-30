@@ -12873,6 +12873,28 @@
           "playlist": "my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "boruto-naruto-the-movie-the-day-naruto-became-hokage",
+      "title": "Boruto: Naruto the Movie - The Day Naruto Became Hokage",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bed7d4f63bc18c9b968a2c5da8ee6102a4561135/boruto-naruto-the-movie-the-day-naruto-became-hokage/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@bed7d4f63bc18c9b968a2c5da8ee6102a4561135/boruto-naruto-the-movie-the-day-naruto-became-hokage/poster.jpg",
+      "synopsis": "Bundled with the perfect limited edition DVD/BD Boruto: Naruto the Movie.",
+      "year": 2016,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "ba472ed3a4f1d16098542a1a3fd4cb25a7a8ea85",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "boruto-naruto-the-movie-the-day-naruto-became-hokage/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
