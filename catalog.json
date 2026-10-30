@@ -20097,6 +20097,72 @@
           "playlist": "your-name/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "oedo-fire-slayer-the-legend-of-phoenix",
+      "title": "Oedo Fire Slayer -The Legend of Phoenix-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@09bea90c8f3b9d904e74edaa3065eae58da63b28/oedo-fire-slayer-the-legend-of-phoenix/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@09bea90c8f3b9d904e74edaa3065eae58da63b28/oedo-fire-slayer-the-legend-of-phoenix/poster.jpg",
+      "synopsis": "The fire extinguishing samurai who stopped the great fire was called \"The fire-eating bird\". Matsunaga Gengo, once known as the \"Fire-eating Bird\", was the best fire-fighting samurai in Edo. He had resigned from the fire brigade for a reason but suddenly received an invitation to serve in the Shinjo clan.\n\n \n\nThe Shinjo clan's fire-fighting team had no money and no personnel and was looked down upon by those around them. With the encouragement of his wife, Miyuki, Gengo decides to rebuild the collapsed fire-fighting clan as its chairman. Gengo and his friends, all of whom have their own peculiarities, struggle to \"save any life\", despite being ridiculed as \"ragged steeplejacks\"(= the 'Boro-Tobi-Gumi'.), In Edo, a mysterious series of suspicious fires called \"foxfires\" continue.\n\n\n\nAn entertaining action drama opens, with the firefighters scrambling to save lives in the face of the approaching disaster!\n\n\n\n(Source: Amuse Creative Studio)",
+      "year": 2026,
+      "score": 4.5,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "9246f138d0a55483835b35a3b494c1f9ff94e2a6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "oedo-fire-slayer-the-legend-of-phoenix/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
