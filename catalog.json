@@ -12740,6 +12740,72 @@
           "playlist": "lupin-the-3rd-blood-seal-of-the-eternal-mermaid/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "flower-and-asura",
+      "title": "Flower and Asura",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@03b9b970b0ffa0d4520f079c2650555bdc55ec23/flower-and-asura/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@03b9b970b0ffa0d4520f079c2650555bdc55ec23/flower-and-asura/poster.jpg",
+      "synopsis": "On the picturesque island of Tonakijima with a population of only 600, Hana’s favorite pastime is reading literature to the island’s children. Her narration skills are second to none, and Mizuki, the president of the school’s broadcasting club immediately recognizes Hana’s ability to engage with others and draw them into her recitations. Invited by Mizuki to join the club, Hana embarks on a journey to discover her true love of reading — and maybe even change the course of her life along the way.\n\n\n\n(Source: HIDIVE)",
+      "year": 2025,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "78ab371beeef58be658ef1da12bfa02ecb404ad9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "flower-and-asura/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "flower-and-asura/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "flower-and-asura/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "flower-and-asura/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "flower-and-asura/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "flower-and-asura/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "flower-and-asura/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "flower-and-asura/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "flower-and-asura/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "flower-and-asura/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "flower-and-asura/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "flower-and-asura/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
