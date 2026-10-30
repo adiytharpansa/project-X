@@ -20411,6 +20411,76 @@
           "playlist": "tokyo-ghoul-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-promised-neverland",
+      "title": "The Promised Neverland",
+      "poster": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fs4.anilist.co%2Ffile%2Fanilistcdn%2Fmedia%2Fanime%2Fcover%2FextraLarge%2Fbx101759-8UR7r9MNVpz2.jpg",
+      "banner": "",
+      "synopsis": "Emma, Norman and Ray are the brightest kids at the Grace Field House orphanage. And under the care of the woman they refer to as “Mom,” all the kids have enjoyed a comfortable life. Good food, clean clothes and the perfect environment to learn—what more could an orphan ask for? One day, though, Emma and Norman uncover the dark truth of the outside world they are forbidden from seeing.\n\n(Source: VIZ Media)",
+      "year": 2019,
+      "score": 0,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Thriller"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-19",
+      "pin": "5ad08cd907f638d46674d0d4ac456bf5d2de7012",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-promised-neverland/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-promised-neverland/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-promised-neverland/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-promised-neverland/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-promised-neverland/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-promised-neverland/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-promised-neverland/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-promised-neverland/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-promised-neverland/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-promised-neverland/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-promised-neverland/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-promised-neverland/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
