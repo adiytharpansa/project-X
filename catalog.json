@@ -17537,6 +17537,72 @@
           "playlist": "reborn-as-a-vending-machine-i-now-wander-the-dungeon/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "style-of-hiroshi-nohara-s-lunch",
+      "title": "Style of Hiroshi Nohara's Lunch",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ffd58f14b4367eafdce33da153de89825cf2dbc2/style-of-hiroshi-nohara-s-lunch/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ffd58f14b4367eafdce33da153de89825cf2dbc2/style-of-hiroshi-nohara-s-lunch/poster.jpg",
+      "synopsis": "Hiroshi Nohara, Japan's ultimate family man, is obsessed with lunch in order to work hard in the afternoon! The official spin-off gourmet manga of the popular \"Crayon Shin-chan\"!\n\n\n\n(Source: Comic Action, translated)",
+      "year": 2025,
+      "score": 6.2,
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-20",
+      "pin": "c37b6c348f3a8c0dbe41a31787527e728278a402",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "style-of-hiroshi-nohara-s-lunch/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
