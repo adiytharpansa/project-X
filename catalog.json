@@ -13945,6 +13945,73 @@
           "playlist": "mechanical-marie/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "jack-of-all-trades-party-of-none",
+      "title": "Jack-of-All-Trades, Party of None",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f95b95b989414ec44d76d28f3fb671c77adfd6cf/jack-of-all-trades-party-of-none/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@f95b95b989414ec44d76d28f3fb671c77adfd6cf/jack-of-all-trades-party-of-none/poster.jpg",
+      "synopsis": "Betrayed by his childhood friend and cast out of the Hero Party, Orhun Dura—once their loyal Enchanter—is branded by his former comrades as “a jack-of-all-trades but a master of none.” Alone, he sets out to forge a new path as a solo adventurer. His journey sparks explosive battles, deadly rivals, and unexpected allies—and he’ll rise to shatter every expectation. The ultimate solo comeback begins!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-15",
+      "pin": "838497579fa7267b7ffb82442d4a3940b0148a99",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "jack-of-all-trades-party-of-none/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "jack-of-all-trades-party-of-none/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "jack-of-all-trades-party-of-none/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "jack-of-all-trades-party-of-none/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "jack-of-all-trades-party-of-none/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "jack-of-all-trades-party-of-none/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "jack-of-all-trades-party-of-none/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "jack-of-all-trades-party-of-none/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "jack-of-all-trades-party-of-none/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "jack-of-all-trades-party-of-none/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "jack-of-all-trades-party-of-none/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "jack-of-all-trades-party-of-none/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
