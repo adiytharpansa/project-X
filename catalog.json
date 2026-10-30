@@ -17023,6 +17023,29 @@
           "playlist": "rent-a-girlfriend-season-5/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-rose-of-versailles",
+      "title": "The Rose of Versailles",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@44082ba646a3f816300645a036ebb68a698682ed/the-rose-of-versailles/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@44082ba646a3f816300645a036ebb68a698682ed/the-rose-of-versailles/poster.jpg",
+      "synopsis": "Movie project commemorating the 50th anniversary of the Versailles no Bara manga's publication. \n\n\nHoping to unite their countries with an alliance, The Empress of Austria arranges her daughter, the delightful yet spoiled Marie Antoinette, to marry the crown prince of France, Louis XVI. Upon arriving in Versailles, the Austrian princess meets Oscar Francois de Jarjayes, Captain of the Royal Guards—a seemingly dashing young man—but to Antoinette's astonishment, he is in fact a woman!\n \n\n\nThe youngest daughter of a noble family with a prominent lack of a male heir, Oscar was raised as a boy to continue the family's military legacy. Suffocated by the rigid rules associated with her new position and longing for companionship, Antoinette immediately takes a liking to this intriguing young woman, and wastes no time befriending her. However, as the childish new queen foolishly abuses her power, Oscar is conflicted between maintaining her loyalty to the royal family and addressing the growing concern of poverty among the common people.\n \n\n\nRecalling the events of the French Revolution, Versailles no Bara depicts the struggles of two women unjustly burdened by family expectations. Yet, despite being forced to deny their identities at the expense of personal happiness, they march on to become key players in the annals of history.\n \n\n\n(Source: MAL Rewrite)",
+      "year": 2025,
+      "score": 6.1,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-29",
+      "pin": "ccc0050093ccb361018ae3df2da5bafcad8e3aa3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-rose-of-versailles/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
