@@ -19685,6 +19685,75 @@
           "playlist": "strike-world-deadverse-reloaded-the-anime/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "classic-stars",
+      "title": "Classic★Stars",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c8dd16fd02ead279c5af00a8e3826dbcbd9a8c72/classic-stars/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@c8dd16fd02ead279c5af00a8e3826dbcbd9a8c72/classic-stars/poster.jpg",
+      "synopsis": "At Gloria Private Academy, where stars are born, Beethoven was a fighter, until music chose him. In the prestigious music department, students who match the talent of legendary musicians inherit their gifts and names. Trading his gloves for melodies, he steps into a world where notes hit harder than fists, determined to win the ultimate competition.\n\n \n\n(Source: Crunchyroll)",
+      "year": 2025,
+      "score": 5,
+      "genres": [
+        "Music"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-17",
+      "pin": "3811a52e3e1707f127490eaacd694f780ad44dc6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "classic-stars/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "classic-stars/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "classic-stars/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "classic-stars/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "classic-stars/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "classic-stars/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "classic-stars/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "classic-stars/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "classic-stars/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "classic-stars/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "classic-stars/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "classic-stars/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "classic-stars/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
