@@ -10760,6 +10760,73 @@
           "playlist": "the-daily-life-of-the-immortal-king-season-5/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-happy-marriage",
+      "title": "My Happy Marriage",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@066c9f747466eddf5b104612f42f3a428386a0d8/my-happy-marriage/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@066c9f747466eddf5b104612f42f3a428386a0d8/my-happy-marriage/poster.jpg",
+      "synopsis": "Despite being born into a noble family, Miyo lost her birth mother at a young age and grew up being abused by her stepmother, stepsister, and father.\n\n\n\nWhen she finally receives news that she's to be married off, she finds out that her husband-to-be is Kiyoka, a soldier with a reputation for being cruel and heartless. In fact, he's had numerous previous fiancées who have all fled his household; none lasting even a mere three days. \n\n Resigned to the fact that her family had abandoned her, Miyo knocks on the gate of the Kudou household to find herself greeted by a beautiful man with pale skin. Despite the poor treatment she receives from her husband-to-be during their first meeting, Miyo is unable to return to her old home and spends her time cooking and doing chores. However, as the days pass, Miyo and Kiyoka being to slowly open their hearts to each other... \n\n\n\n(Source: KADOKAWA, edited)",
+      "year": 2023,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-6",
+      "pin": "fe9102372e33c8168dcf5fb16b7fd84f1a75fcf9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-happy-marriage/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-happy-marriage/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-happy-marriage/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-happy-marriage/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-happy-marriage/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-happy-marriage/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-happy-marriage/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-happy-marriage/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-happy-marriage/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-happy-marriage/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-happy-marriage/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-happy-marriage/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
