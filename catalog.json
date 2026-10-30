@@ -16957,6 +16957,72 @@
           "playlist": "plus-sized-misadventures-in-love/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rent-a-girlfriend-season-5",
+      "title": "Rent-a-Girlfriend Season 5",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5b46792a67cb583f715a5136323136b3c9f5cb6e/rent-a-girlfriend-season-5/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5b46792a67cb583f715a5136323136b3c9f5cb6e/rent-a-girlfriend-season-5/poster.jpg",
+      "synopsis": "With his family's traditional spa resort trip underway, Kazuya Kinoshita has been unable to take his relationship further with his rental girlfriend Chizuru Ichinose. After receiving mixed signals from her, Kazuya comes to the decision to finally end their long-lasting facade upon returning to Tokyo.\n\n\n\nMeanwhile, Kazuya's ex-girlfriend Mami Nanami is willing to do anything to break Chizuru's pretense with him. As Mami abruptly causes the couple's fake relationship to collapse in front of his family and friends, Kazuya will have to take immediate action if he wants to save his social life.\n\n\n\n(Source: MAL Rewrite)\n\n\n\nNote: Kanojo, Okarishimasu 5th Season was streamed 2 days in advance of the TV broadcast on DMM TV beginning April 8, 2026. Regular broadcasting began on April 11, 2026.",
+      "year": 2026,
+      "score": 6.2,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-14",
+      "pin": "cf4c344c0f072651a41c12c24653275dd0a5923e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rent-a-girlfriend-season-5/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "rent-a-girlfriend-season-5/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "rent-a-girlfriend-season-5/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "rent-a-girlfriend-season-5/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "rent-a-girlfriend-season-5/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "rent-a-girlfriend-season-5/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "rent-a-girlfriend-season-5/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "rent-a-girlfriend-season-5/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "rent-a-girlfriend-season-5/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "rent-a-girlfriend-season-5/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "rent-a-girlfriend-season-5/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "rent-a-girlfriend-season-5/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
