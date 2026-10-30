@@ -21662,6 +21662,126 @@
           "playlist": "that-time-i-got-reincarnated-as-a-slime-season-4/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sword-art-online",
+      "title": "Sword Art Online",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cee7fe35c8fe0501d4dd881c9b8b52985ac8c5c/sword-art-online/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4cee7fe35c8fe0501d4dd881c9b8b52985ac8c5c/sword-art-online/banner.jpg",
+      "synopsis": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...\n(Source: Crunchyroll)",
+      "year": 2012,
+      "score": 0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-17",
+      "pin": "33bccd2ec51be942e0537de19d853de85d3c9921",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sword-art-online/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sword-art-online/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sword-art-online/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sword-art-online/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sword-art-online/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sword-art-online/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sword-art-online/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sword-art-online/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sword-art-online/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sword-art-online/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sword-art-online/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sword-art-online/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "sword-art-online/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "sword-art-online/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "sword-art-online/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "sword-art-online/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "sword-art-online/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "sword-art-online/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "sword-art-online/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "sword-art-online/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "sword-art-online/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "sword-art-online/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "sword-art-online/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "sword-art-online/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "sword-art-online/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
