@@ -15885,6 +15885,33 @@
         13
       ],
       "status": "FINISHED"
+    },
+    {
+      "id": "tenpuru-no-way-why-is-it-so-big-you-mustn-t-touch-that",
+      "title": "TenPuru: No Way, Why Is It So Big… / You Mustn’t Touch That",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@62524bbbc6b79d1d0265b3d8eef02abf8815fd93/tenpuru-no-way-why-is-it-so-big-you-mustn-t-touch-that/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@62524bbbc6b79d1d0265b3d8eef02abf8815fd93/tenpuru-no-way-why-is-it-so-big-you-mustn-t-touch-that/poster.jpg",
+      "synopsis": "Unaired episodes included on the anime's Blu-ray volumes.\n\n\nEpisode 1: \"No Way, Why Is It So Big...\" (Uso, Nande Konnani Okkiku…/うそ、何でこんなにおっきく…)\n\nEpisode 2: \"You Mustn't Touch That...\" (Sonna Tokoro o Sawararete wa…/そんなところを触られては…)",
+      "year": 2023,
+      "score": 6.3,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/gudang-14",
+      "pin": "82219356bafe247dd18c9940c9add8fc9478d33d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tenpuru-no-way-why-is-it-so-big-you-mustn-t-touch-that/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tenpuru-no-way-why-is-it-so-big-you-mustn-t-touch-that/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
