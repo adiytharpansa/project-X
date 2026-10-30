@@ -17603,6 +17603,73 @@
           "playlist": "style-of-hiroshi-nohara-s-lunch/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-dinner-table-detective",
+      "title": "The Dinner Table Detective",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ab052f9cb61787d29c20655d3c46608542ee33d7/the-dinner-table-detective/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@ab052f9cb61787d29c20655d3c46608542ee33d7/the-dinner-table-detective/poster.jpg",
+      "synopsis": "Rich heiress Reiko Hosho lives a double life as a novice detective, fighting crime under Inspector Kazamatsuri—also from a wealthy family. After work, Reiko sheds her pantsuit to don a lovely dress for dinner each day. Difficult cases force her to confide in her butler Kageyama, who proceeds to savagely ridicule her inability to solve mysteries, all while brilliantly unraveling each case himself.\n\n\n\n(Source: Amazon Prime Video)",
+      "year": 2025,
+      "score": 6.1,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-32",
+      "pin": "79a9c5207510f1482ba315b0e7936f828c3e57df",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-dinner-table-detective/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-dinner-table-detective/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-dinner-table-detective/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-dinner-table-detective/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-dinner-table-detective/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-dinner-table-detective/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-dinner-table-detective/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-dinner-table-detective/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-dinner-table-detective/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-dinner-table-detective/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-dinner-table-detective/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-dinner-table-detective/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
