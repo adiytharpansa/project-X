@@ -22513,6 +22513,32 @@
           "playlist": "my-hero-academia-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@902f3898fb2b58793c8aacadf869bf0d5b7527e3/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@902f3898fb2b58793c8aacadf869bf0d5b7527e3/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/banner.jpg",
+      "synopsis": "Falling forever into an endless dream... Tanjiro and the group have completed their rehabilitation training at the Butterfly Mansion, and they arrive at their next mission on the Mugen Train, where over 40 people have disappeared in a very short period of time. Tanjiro and Nezuko, along with Zenitsu and Inosuke, join one of the most powerful swordsmen within the Demon Slayer Corps, Flame Hashira Kyojuro Rengoku, to face the demon aboard the Mugen Train on track to despair.\n\n(Source: Crunchyroll)",
+      "year": 2020,
+      "score": 8.7,
+      "status": "FINISHED",
+      "genres": [
+        "Historical",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-17",
+      "pin": "f4dcba8fb294f486faaf053b12951e9ebebc2cb3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
