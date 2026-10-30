@@ -21875,6 +21875,74 @@
           "playlist": "mob-psycho-100-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "one-punch-man-2",
+      "title": "One-Punch Man",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@09adef606ad70f9b34203383ea6f8679d8c942b0/one-punch-man-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@09adef606ad70f9b34203383ea6f8679d8c942b0/one-punch-man-2/banner.jpg",
+      "synopsis": "Saitama has a rather peculiar hobby, being a superhero, but despite his heroic deeds and superhuman abilities, a shadow looms over his life. He's become much too powerful, to the point that every opponent ends up defeated with a single punch.\n\nThe lack of challenge has driven him into a state of apathy, as he watches his life pass by having lost all enthusiasm, at least until he's unwillingly thrust in the role of being a mentor to the young and revenge-driven Genos.",
+      "year": 2015,
+      "score": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-21",
+      "pin": "c56139c02d7c73e87aae1b711e336aa536b5092a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "one-punch-man-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "one-punch-man-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "one-punch-man-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "one-punch-man-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "one-punch-man-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "one-punch-man-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "one-punch-man-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "one-punch-man-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "one-punch-man-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "one-punch-man-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "one-punch-man-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "one-punch-man-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
