@@ -18652,6 +18652,49 @@
           "playlist": "necronomico-and-the-cosmic-horror-show/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "in-search-of-gods",
+      "title": "In Search of Gods",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@63341290dc40c53f1bec391d8cd90126b09c7d79/in-search-of-gods/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@63341290dc40c53f1bec391d8cd90126b09c7d79/in-search-of-gods/poster.jpg",
+      "synopsis": "",
+      "year": null,
+      "score": 5.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-14",
+      "pin": "57b78d1be649d6be2aae1f841122d74f79004c45",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "in-search-of-gods/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "in-search-of-gods/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "in-search-of-gods/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "in-search-of-gods/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "in-search-of-gods/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "in-search-of-gods/ep6/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
