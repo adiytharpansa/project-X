@@ -12283,126 +12283,68 @@
       ]
     },
     {
-      "id": "trillion-game",
-      "title": "Trillion Game",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@93090893059376048e6240825da4569c13b75f0d/trillion-game/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@93090893059376048e6240825da4569c13b75f0d/trillion-game/poster.jpg",
-      "synopsis": "Old schoolmates Haru and Gaku will do anything to achieve success. And success to them means earning a trillion dollars! But to do so, they’ll need to take full advantage of their own unique skills. Haru is a persuasive and confident speaker who can connect with anyone, while Gaku, although awkward, is an expert programmer. Will their combined talents be enough to make their dream a reality?\n\n\n\n(Source: Crunchyroll)",
-      "year": 2024,
+      "id": "restaurant-to-another-world",
+      "title": "Restaurant to Another World",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@103f93690719e03c19cb3990386962ef356420aa/restaurant-to-another-world/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@103f93690719e03c19cb3990386962ef356420aa/restaurant-to-another-world/poster.jpg",
+      "synopsis": "There is a certain restaurant in the first basement level of a multi-tenant building in one corner of a shopping street near the office district. The historical restaurant, marked by a sign with a picture of a cat, is called \"Western Cuisine Nekoya.\" This restaurant looks completely normal through the week, but on Saturdays, it opens in secret exclusively to some very unique guests. During these hours, doors in various areas of a parallel world open to allow customers of many different races and cultures into the restaurant.\n\n\n\n\n(Source: Crunchyroll)",
+      "year": 2017,
       "score": 7.2,
       "status": "FINISHED",
       "genres": [
-        "Action",
-        "Comedy",
-        "Drama",
-        "Psychological"
+        "Fantasy",
+        "Slice of Life"
       ],
-      "repo": "adiytharpansa/gudang-5",
-      "pin": "cac014e43586d92958d2eba29b03ff52f9c6de42",
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "798daf984696fc167d9694b9eaae5cae14998366",
       "episodes": [
         {
           "number": 1,
-          "playlist": "trillion-game/ep1/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "trillion-game/ep2/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "trillion-game/ep3/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "trillion-game/ep4/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "trillion-game/ep5/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "trillion-game/ep6/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "trillion-game/ep7/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "trillion-game/ep8/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "trillion-game/ep9/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "trillion-game/ep10/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "trillion-game/ep11/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "trillion-game/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "trillion-game/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "trillion-game/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "trillion-game/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "trillion-game/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "trillion-game/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "trillion-game/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "trillion-game/ep19/playlist.m3u8"
-        },
-        {
-          "number": 20,
-          "playlist": "trillion-game/ep20/playlist.m3u8"
-        },
-        {
-          "number": 21,
-          "playlist": "trillion-game/ep21/playlist.m3u8"
-        },
-        {
-          "number": 22,
-          "playlist": "trillion-game/ep22/playlist.m3u8"
-        },
-        {
-          "number": 23,
-          "playlist": "trillion-game/ep23/playlist.m3u8"
-        },
-        {
-          "number": 24,
-          "playlist": "trillion-game/ep24/playlist.m3u8"
-        },
-        {
-          "number": 25,
-          "playlist": "trillion-game/ep25/playlist.m3u8"
-        },
-        {
-          "number": 26,
-          "playlist": "trillion-game/ep26/playlist.m3u8"
+          "playlist": "restaurant-to-another-world/ep12/playlist.m3u8"
         }
       ]
     }
