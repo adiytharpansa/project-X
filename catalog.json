@@ -19429,6 +19429,72 @@
           "playlist": "shen-kong-bian/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "recommendations-from-iwamoto-senpai",
+      "title": "Recommendations from Iwamoto-Senpai",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9e66420aa5a7f664b579c809514992fff5f1f63c/recommendations-from-iwamoto-senpai/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@9e66420aa5a7f664b579c809514992fff5f1f63c/recommendations-from-iwamoto-senpai/poster.jpg",
+      "synopsis": "The year 1910. Iwamoto Kodou is a young boy who has successfully carried out many curious missions under the military's directive. His destinations lead to encounters with the strange, weaving tales of history that have yet to be told.",
+      "year": 2026,
+      "score": 5.4,
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-29",
+      "pin": "fea799bd9e2338963c5727c18132a2689f301d62",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "recommendations-from-iwamoto-senpai/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "recommendations-from-iwamoto-senpai/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "recommendations-from-iwamoto-senpai/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "recommendations-from-iwamoto-senpai/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "recommendations-from-iwamoto-senpai/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "recommendations-from-iwamoto-senpai/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "recommendations-from-iwamoto-senpai/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "recommendations-from-iwamoto-senpai/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "recommendations-from-iwamoto-senpai/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "recommendations-from-iwamoto-senpai/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "recommendations-from-iwamoto-senpai/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "recommendations-from-iwamoto-senpai/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
