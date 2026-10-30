@@ -17246,6 +17246,28 @@
           "playlist": "bai-yao-pu-luoyang-pian/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-plan-to-eradicate-the-super-saiyans",
+      "title": "Dragon Ball: Plan to Eradicate the Super Saiyans",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e9deba768168d62e0447f2e9997e02edf6e93b03/dragon-ball-plan-to-eradicate-the-super-saiyans/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@e9deba768168d62e0447f2e9997e02edf6e93b03/dragon-ball-plan-to-eradicate-the-super-saiyans/poster.jpg",
+      "synopsis": "Remake of Dragon Ball Z: Plan to Destroy the Saiyajin. Extra on Dragonball Raging Blast 2 game on X360/PS3.",
+      "year": 2010,
+      "score": 6,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/gudang-15",
+      "pin": "13cb6388aa9faef5ca50af300d5838bf9ef441ed",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-plan-to-eradicate-the-super-saiyans/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
