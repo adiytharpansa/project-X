@@ -22767,6 +22767,32 @@
           "playlist": "sword-art-online-2/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "howl-s-moving-castle",
+      "title": "Howl's Moving Castle",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2368e0b4008cfcebac9f9f8d944f719a59c53270/howl-s-moving-castle/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@2368e0b4008cfcebac9f9f8d944f719a59c53270/howl-s-moving-castle/banner.jpg",
+      "synopsis": "Sophie, a quiet girl working in a hat shop, finds her life thrown into turmoil when she is literally swept off her feet by a handsome but mysterious wizard named Howl. The vain and vengeful Witch of the Waste, jealous of their friendship, puts a spell on Sophie. In a life-changing adventure, Sophie climbs aboard Howl's magnificent flying castle and enters a magical world on a quest to break the spell.\n\n(Source: Disney)",
+      "year": 2004,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Air Force",
+        "Magic",
+        "Fantasy World",
+        "Demon",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/gudang-28",
+      "pin": "c8bc73c8ef637e29764cc7f5ed79be702350fe3d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "howl-s-moving-castle/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
