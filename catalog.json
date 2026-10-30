@@ -13076,6 +13076,74 @@
           "playlist": "from-old-country-bumpkin-to-master-swordsman/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hana-kimi",
+      "title": "Hana-Kimi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@32b5b55ce908757eb005995144664843d55fe455/hana-kimi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@32b5b55ce908757eb005995144664843d55fe455/hana-kimi/poster.jpg",
+      "synopsis": "Mizuki Ashiya is on a mission: disguise herself as a boy and enroll in a male boarding school to meet her idol, high jump star Izumi Sano. But after successfully infiltrating the school, she discovers he’s suddenly quit the sport! Now Mizuki must dodge suspicion, protect her cover, and somehow reach the boy she came all this way for—all while surviving the chaos of an all-boys dorm!\n\n\n\n(Source: Crunchyroll)",
+      "year": 2026,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-13",
+      "pin": "7bea066c8f2b9fabc42d74e37e69d5d72ba673b3",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hana-kimi/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hana-kimi/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hana-kimi/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hana-kimi/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hana-kimi/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hana-kimi/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hana-kimi/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hana-kimi/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hana-kimi/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hana-kimi/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hana-kimi/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hana-kimi/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
