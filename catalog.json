@@ -8699,6 +8699,29 @@
           "playlist": "the-king-of-braves-gaogaigar-final/ep8/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tonikawa-over-the-moon-for-you-sns",
+      "title": "TONIKAWA: Over The Moon For You ~SNS~",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5c9882be0e57ff1c9f8bf0f0208042dc34dcd298/tonikawa-over-the-moon-for-you-sns/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@5c9882be0e57ff1c9f8bf0f0208042dc34dcd298/tonikawa-over-the-moon-for-you-sns/banner.jpg",
+      "synopsis": "When Nasa is suddenly called in for some work, Tsukasa spends her first night alone since their marriage began. As the loneliness pulls at her, she takes the smartphone that Nasa got her as a gift in hand and continues to wait. Messaging allows the two of them to stay connected, even while separated. \n\n\n(Source: Crunchyroll)",
+      "year": 2021,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/gudang-12",
+      "pin": "7e3e44a6742955533ae90193b95006b960b87925",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tonikawa-over-the-moon-for-you-sns/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
