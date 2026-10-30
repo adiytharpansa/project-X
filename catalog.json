@@ -7123,6 +7123,78 @@
           "playlist": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-6@b39e1d66bca0a67e08c611a9bb61993ad78a39c1/world-trigger-2nd-season/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kamisama-kiss",
+      "title": "Kamisama Kiss",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b3f1b12b24059d3294bd56e7d210802b7ce8d1c8/kamisama-kiss/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@b3f1b12b24059d3294bd56e7d210802b7ce8d1c8/kamisama-kiss/banner.jpg",
+      "synopsis": "Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! \n\n\nNanami has all kinda of new responsibilities she doesn't understand, dangers she's unaware of, and a cranky ex-familiar who's... actually pretty hot. What's a new-fledged godling to do? \n\n\n(Source: VIZ Media)",
+      "year": 2012,
+      "score": 8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-8",
+      "pin": "7334e651cd9b579220577b76dcac52c70f7d3b0a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kamisama-kiss/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kamisama-kiss/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kamisama-kiss/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kamisama-kiss/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kamisama-kiss/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kamisama-kiss/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kamisama-kiss/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kamisama-kiss/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kamisama-kiss/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kamisama-kiss/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kamisama-kiss/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kamisama-kiss/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kamisama-kiss/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
