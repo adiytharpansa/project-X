@@ -9573,107 +9573,24 @@
       ]
     },
     {
-      "id": "one-piece-log-fish-man-island-saga",
-      "title": "One Piece Log: Fish-Man Island Saga",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6800a8f1513da927162e94d8e7514c248e3b24ff/one-piece-log-fish-man-island-saga/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@6800a8f1513da927162e94d8e7514c248e3b24ff/one-piece-log-fish-man-island-saga/poster.jpg",
-      "synopsis": "The Straw Hats reunite at Sabaody! The promised day has arrived. The Straw Hats have made it back to Sabaody Archipelago after two arduous years of separation. In the very same place where they once lost to Pacifista, the Straw Hats have proven themselves to be stronger and ready to begin their journey to the New World. With the Thousand Sunny now equipped to travel underwater, the next stop is the Fish-Man Island. “One Piece Log: Fish-Man Island Saga” is a special edited version of the original arc from “One Piece”, in an abridged 21-episode story with an enhanced contemporary visual look.\n\n\n\n(Source: Crunchyroll)\n\n\n\nNote: A condensed and remastered reairing of the Fish-Man Island Saga (episodes 517-574) from ONE PIECE, with updated visuals, a new ending song, and brand-new episode previews.",
-      "year": 2024,
+      "id": "love-live-nijigasaki-gakuen-school-idol-doukoukai-kanketsu-h",
+      "title": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4ca747f0f75d140ceb0d56697e1148e910688057/love-live-nijigasaki-gakuen-school-idol-doukoukai-kanketsu-h/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4ca747f0f75d140ceb0d56697e1148e910688057/love-live-nijigasaki-gakuen-school-idol-doukoukai-kanketsu-h/poster.jpg",
+      "synopsis": "The second in the trilogy of Love Live! Nijigasaki Gakuen School Idol Doukoukai films that continues the story beyond season two and the OVA.",
+      "year": 2025,
       "score": 7.7,
       "status": "FINISHED",
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Drama",
-        "Fantasy"
+        "Music",
+        "Slice of Life"
       ],
-      "repo": "adiytharpansa/gudang-10",
-      "pin": "fabc7f9107605cbd172237fd11806bdf5d94f506",
+      "repo": "adiytharpansa/gudang-11",
+      "pin": "306edac484f00342e1604e0a05e11cae0a00ee6c",
       "episodes": [
         {
           "number": 1,
-          "playlist": "one-piece-log-fish-man-island-saga/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "one-piece-log-fish-man-island-saga/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "one-piece-log-fish-man-island-saga/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "one-piece-log-fish-man-island-saga/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "one-piece-log-fish-man-island-saga/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "one-piece-log-fish-man-island-saga/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "one-piece-log-fish-man-island-saga/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "one-piece-log-fish-man-island-saga/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "one-piece-log-fish-man-island-saga/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "one-piece-log-fish-man-island-saga/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "one-piece-log-fish-man-island-saga/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "one-piece-log-fish-man-island-saga/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "one-piece-log-fish-man-island-saga/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "one-piece-log-fish-man-island-saga/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "one-piece-log-fish-man-island-saga/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "one-piece-log-fish-man-island-saga/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "one-piece-log-fish-man-island-saga/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "one-piece-log-fish-man-island-saga/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "one-piece-log-fish-man-island-saga/ep19/playlist.m3u8"
-        },
-        {
-          "number": 20,
-          "playlist": "one-piece-log-fish-man-island-saga/ep20/playlist.m3u8"
-        },
-        {
-          "number": 21,
-          "playlist": "one-piece-log-fish-man-island-saga/ep21/playlist.m3u8"
+          "playlist": "love-live-nijigasaki-gakuen-school-idol-doukoukai-kanketsu-h/ep1/playlist.m3u8"
         }
       ]
     }
