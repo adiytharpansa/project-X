@@ -20995,6 +20995,76 @@
           "playlist": "tian-xiang/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mob-psycho-100",
+      "title": "Mob Psycho 100",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4a27448ff679401e772834125c2b5e72b2c8d495/mob-psycho-100/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@4a27448ff679401e772834125c2b5e72b2c8d495/mob-psycho-100/banner.jpg",
+      "synopsis": "The story revolves around \"Mob,\" a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname \"Mob\" because he does not stand out among other people. He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body.\n\n(Source: Anime News Network)",
+      "year": 2016,
+      "score": 0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Psychological",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-25",
+      "pin": "3148c5a874e4982b96addb546154764fa1ffbb15",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mob-psycho-100/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mob-psycho-100/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mob-psycho-100/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mob-psycho-100/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mob-psycho-100/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mob-psycho-100/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mob-psycho-100/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mob-psycho-100/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mob-psycho-100/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mob-psycho-100/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mob-psycho-100/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mob-psycho-100/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
