@@ -41019,6 +41019,128 @@
           "playlist": "shirobako/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bakuman",
+      "title": "Bakuman.",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8791bbb8f800b8131b2e4dbe099c100beb2c5b3/bakuman/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8791bbb8f800b8131b2e4dbe099c100beb2c5b3/bakuman/banner.jpg",
+      "synopsis": "As a child, Moritaka Mashiro dreamt of becoming a mangaka, just like his childhood hero and uncle, Tarou Kawaguchi, creator of a popular gag manga. But when tragedy strikes, he gives up on his dream and spends his middle school days studying, aiming to become a salaryman instead.\nOne day, his classmate Akito Takagi, the school's top student and aspiring writer, notices the detailed drawings in Moritaka's notebook. Seeing the vast potential of his artistic talent, Akito approaches Moritaka, proposing that they become mangaka together. After much convincing, Moritaka realizes that if he is able to create a popular manga series, he may be able to get the girl he has a crush on, Miho Azuki, to take part in the anime adaptation as a voice actor. Thus the pair begins creating manga under the pen name Muto Ashirogi, hoping to become the greatest mangaka in Japan, the likes of which no one has ever seen.\n[Written by MAL Rewrite]",
+      "year": 2010,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xg8xosu0mqzx",
+      "pin": "8c92205d85ad25517b594ee78f919ffaf2cff95a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bakuman/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bakuman/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bakuman/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bakuman/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bakuman/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bakuman/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bakuman/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bakuman/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bakuman/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bakuman/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bakuman/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bakuman/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "bakuman/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "bakuman/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "bakuman/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "bakuman/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "bakuman/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "bakuman/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "bakuman/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "bakuman/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "bakuman/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "bakuman/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "bakuman/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "bakuman/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "bakuman/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
