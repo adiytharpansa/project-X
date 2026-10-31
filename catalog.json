@@ -29442,6 +29442,76 @@
           "playlist": "hellsing-ultimate/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-stay-night-unlimited-blade-works",
+      "title": "Fate/stay night [Unlimited Blade Works]",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@006f50baa76016c1ab45761b4cc7b085730c5012/fate-stay-night-unlimited-blade-works/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@006f50baa76016c1ab45761b4cc7b085730c5012/fate-stay-night-unlimited-blade-works/banner.jpg",
+      "synopsis": "Fuyuki City—a city surrounded by the ocean and the mountains becomes the setting for an age-old ritual. To realize the mythical Holy Grail, which is said to grant any wish from its possessor, seven masters are given seven heroic spirits chosen by the Grail... Each master will enter into a contract with their assigned servants and battle the other masters and servants to the death until only one pair remains… This is the “Holy Grail War.”\n\n(Source: Aniplex of America)",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Battle Royale",
+        "Super Power",
+        "Contemporary Fantasy",
+        "Violence",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "f6b6b2e4b5d7884d80e58bce7eba5575618d806c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fate-stay-night-unlimited-blade-works/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
