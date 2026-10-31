@@ -24463,6 +24463,124 @@
           "playlist": "anohana-the-flower-we-saw-that-day/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "food-wars-shokugeki-no-soma",
+      "title": "Food Wars! Shokugeki no Soma",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0a0370b860dcb19c210cd663c8a7001e16faaed5/food-wars-shokugeki-no-soma/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0a0370b860dcb19c210cd663c8a7001e16faaed5/food-wars-shokugeki-no-soma/banner.jpg",
+      "synopsis": "Ever since he was a child, fifteen-year-old Souma Yukihira has helped his father by working as the sous chef in the restaurant his father runs and owns. Throughout the years, Souma developed a passion for entertaining his customers with his creative, skilled, and daring culinary creations. His dream is to someday own his family's restaurant as its head chef.\nYet when his father suddenly decides to close the restaurant to test his cooking abilities in restaurants around the world, he sends Souma to Tootsuki Culinary Academy, an elite cooking school where only 10 percent of the students graduate. The institution is famous for its \"Shokugeki\" or \"food wars,\" where students face off in intense, high-stakes cooking showdowns.\nAs Souma and his new schoolmates struggle to survive the extreme lifestyle of Tootsuki, more and greater challenges await him, putting his years of learning under his father to the test.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Cooking",
+        "Present",
+        "Japan",
+        "Comedy",
+        "Ecchi",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xh77dsh966ju",
+      "pin": "426936ef056ff73fe9e3453f15906429a8893e41",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "food-wars-shokugeki-no-soma/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "food-wars-shokugeki-no-soma/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "food-wars-shokugeki-no-soma/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "food-wars-shokugeki-no-soma/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "food-wars-shokugeki-no-soma/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "food-wars-shokugeki-no-soma/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "food-wars-shokugeki-no-soma/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "food-wars-shokugeki-no-soma/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "food-wars-shokugeki-no-soma/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "food-wars-shokugeki-no-soma/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "food-wars-shokugeki-no-soma/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "food-wars-shokugeki-no-soma/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "food-wars-shokugeki-no-soma/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "food-wars-shokugeki-no-soma/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "food-wars-shokugeki-no-soma/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "food-wars-shokugeki-no-soma/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "food-wars-shokugeki-no-soma/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "food-wars-shokugeki-no-soma/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "food-wars-shokugeki-no-soma/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "food-wars-shokugeki-no-soma/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "food-wars-shokugeki-no-soma/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "food-wars-shokugeki-no-soma/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "food-wars-shokugeki-no-soma/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "food-wars-shokugeki-no-soma/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
