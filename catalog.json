@@ -24031,6 +24031,128 @@
           "playlist": "noragami-aragoto/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "toradora",
+      "title": "Toradora!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@67529fe12181fdf959060c711aa9573d9fccc6de/toradora/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@67529fe12181fdf959060c711aa9573d9fccc6de/toradora/banner.jpg",
+      "synopsis": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!Toradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n[Written by MAL Rewrite]",
+      "year": 2008,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Love Polygon"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "a1352845d1fa3755790de1a596d69b901dd2c21f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "toradora/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "toradora/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "toradora/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "toradora/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "toradora/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "toradora/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "toradora/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "toradora/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "toradora/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "toradora/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "toradora/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "toradora/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "toradora/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "toradora/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "toradora/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "toradora/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "toradora/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "toradora/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "toradora/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "toradora/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "toradora/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "toradora/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "toradora/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "toradora/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "toradora/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
