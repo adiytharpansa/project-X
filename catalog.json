@@ -32081,6 +32081,124 @@
           "playlist": "clannad/ep23/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yona-of-the-dawn",
+      "title": "Yona of the Dawn",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2f8a06d5367152ad1feda91365288fa2b40d59ef/yona-of-the-dawn/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2f8a06d5367152ad1feda91365288fa2b40d59ef/yona-of-the-dawn/banner.jpg",
+      "synopsis": "Upon her sixteenth birthday, the cheerful Princess Yona intended to tell her doting father of her love for Su-Won, but her life was turned upside down after witnessing him cruelly assassinating her father. Heartbroken by this painful betrayal, Princess Yona fled the palace with her loyal servant Hak. Now, she will go on a quest to gain new allies and protect her beloved people.\n\n(Source: FUNimation)",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "Dragon",
+        "Violence",
+        "Plot Continuity",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "f8128f4a44789108586a8f7441f385928b5dc9fc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yona-of-the-dawn/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yona-of-the-dawn/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yona-of-the-dawn/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yona-of-the-dawn/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yona-of-the-dawn/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yona-of-the-dawn/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yona-of-the-dawn/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yona-of-the-dawn/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yona-of-the-dawn/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yona-of-the-dawn/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yona-of-the-dawn/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yona-of-the-dawn/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "yona-of-the-dawn/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "yona-of-the-dawn/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "yona-of-the-dawn/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "yona-of-the-dawn/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "yona-of-the-dawn/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "yona-of-the-dawn/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "yona-of-the-dawn/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "yona-of-the-dawn/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "yona-of-the-dawn/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "yona-of-the-dawn/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "yona-of-the-dawn/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "yona-of-the-dawn/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
