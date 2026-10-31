@@ -43862,6 +43862,43 @@
           "playlist": "k-on-season-2/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kamisama-hajimemashita-kako-hen",
+      "title": "Kamisama Hajimemashita: Kako-hen",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@210ebead03e9fe345b58bfad842b8842f645671d/kamisama-hajimemashita-kako-hen/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@210ebead03e9fe345b58bfad842b8842f645671d/kamisama-hajimemashita-kako-hen/banner.jpg",
+      "synopsis": "OVAs based on the \"past arc\" of the series, which spans the 14th through 17th volumes of the manga.\n(Source: MAL News)",
+      "year": 2015,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Fantasy",
+        "Comedy",
+        "Romance",
+        "Shoujo"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "24877e29d3d6e09189072cd505d408e68ca95d08",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kamisama-hajimemashita-kako-hen/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kamisama-hajimemashita-kako-hen/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kamisama-hajimemashita-kako-hen/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kamisama-hajimemashita-kako-hen/ep4/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
