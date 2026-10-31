@@ -30736,102 +30736,120 @@
       ]
     },
     {
-      "id": "the-girl-who-leapt-through-time",
-      "title": "The Girl Who Leapt Through Time",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/banner.jpg",
-      "synopsis": "Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time.Toki wo Kakeru Shoujo follows Makoto as she plays around with her newfound power. However, she soon learns the hard way that every choice has a consequence, and time is a lot more complicated than it may seem.\n[Written by MAL Rewrite]",
-      "year": 2006,
-      "score": 8.2,
-      "status": "FINISHED",
-      "genres": [
-        "High School",
-        "Present",
-        "Earth",
-        "Time Travel",
-        "Japan",
-        "Plot Continuity"
-      ],
-      "repo": "adiytharpansa/xc0i4ysbjp2q",
-      "pin": "5da6e55e4cc311962029319e8242869d865510dd",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "the-girl-who-leapt-through-time/ep1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "charlotte",
-      "title": "Charlotte",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c4483057ef1025fad7285ec47d0b07fd4f24999e/charlotte/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c4483057ef1025fad7285ec47d0b07fd4f24999e/charlotte/banner.jpg",
-      "synopsis": "Very few adolescent boys and girls have an onset of special abilities. Yu Otosaka is one such man who uses his ability unbeknownst to others in order to lead a satisfying school life. Then one day, a girl named Nao Tomori suddenly appears before him. Their encounter reveals the destiny for wielders of special abilities.\n\n(Source: Aniplex USA)",
-      "year": 2015,
+      "id": "black-butler",
+      "title": "Black Butler",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@970880ce4360564cb83d1eb8b964f128207ffdc4/black-butler/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@970880ce4360564cb83d1eb8b964f128207ffdc4/black-butler/banner.jpg",
+      "synopsis": "Young Ciel Phantomhive is known as \"the Queen's Guard Dog,\" taking care of the many unsettling events that occur in Victorian England for Her Majesty. Aided by Sebastian Michaelis, his loyal butler with seemingly inhuman abilities, Ciel uses whatever means necessary to get the job done. But is there more to this black-clad butler than meets the eye?\nIn Ciel's past lies a secret tragedy that enveloped him in perennial darkness—during one of his bleakest moments, he formed a contract with Sebastian, a demon, bargaining his soul in exchange for vengeance upon those who wronged him. Today, not only is Sebastian one hell of a butler, but he is also the perfect servant to carry out his master's orders—all the while anticipating the delicious meal he will eventually make of Ciel's soul. As the two work to unravel the mystery behind Ciel's chain of misfortunes, a bond forms between them that neither heaven nor hell can tear apart.\n[Written by MAL Rewrite]",
+      "year": 2008,
       "score": 7.7,
       "status": "FINISHED",
       "genres": [
         "Super Power",
-        "Present",
-        "Earth",
-        "Japan",
-        "Violence",
-        "Asia"
+        "Historical",
+        "Demon",
+        "Victorian Period",
+        "United Kingdom",
+        "Action"
       ],
       "repo": "adiytharpansa/xn4zeky5id7v",
-      "pin": "660dd4f32e08990ec0a15a9aa0fe079ef743790f",
+      "pin": "a3885b9fc427d33d7ee78d7f0ed6ebba2bc43731",
       "episodes": [
         {
           "number": 1,
-          "playlist": "charlotte/ep1/playlist.m3u8"
+          "playlist": "black-butler/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "charlotte/ep2/playlist.m3u8"
+          "playlist": "black-butler/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "charlotte/ep3/playlist.m3u8"
+          "playlist": "black-butler/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "charlotte/ep4/playlist.m3u8"
+          "playlist": "black-butler/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "charlotte/ep5/playlist.m3u8"
+          "playlist": "black-butler/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "charlotte/ep6/playlist.m3u8"
+          "playlist": "black-butler/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "charlotte/ep7/playlist.m3u8"
+          "playlist": "black-butler/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "charlotte/ep8/playlist.m3u8"
+          "playlist": "black-butler/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "charlotte/ep9/playlist.m3u8"
+          "playlist": "black-butler/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "charlotte/ep10/playlist.m3u8"
+          "playlist": "black-butler/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "charlotte/ep11/playlist.m3u8"
+          "playlist": "black-butler/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "charlotte/ep12/playlist.m3u8"
+          "playlist": "black-butler/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "charlotte/ep13/playlist.m3u8"
+          "playlist": "black-butler/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "black-butler/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "black-butler/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "black-butler/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "black-butler/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "black-butler/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "black-butler/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "black-butler/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "black-butler/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "black-butler/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "black-butler/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "black-butler/ep24/playlist.m3u8"
         }
       ]
     }
