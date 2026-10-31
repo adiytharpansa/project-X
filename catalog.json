@@ -24153,6 +24153,128 @@
           "playlist": "toradora/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haikyu-2nd-season",
+      "title": "Haikyu!! 2nd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@23f907a329261c5e61a3f7514cd4f9a184dda8af/haikyu-2nd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@23f907a329261c5e61a3f7514cd4f9a184dda8af/haikyu-2nd-season/banner.jpg",
+      "synopsis": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead. \n\nWhen they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing with some of the toughest teams in Japan, they hope not only to sharpen their skills, but also come up with new attacks that would strengthen them. Moreover, Hinata and Kageyama attempt to devise a more powerful weapon, one that could possibly break the sturdiest of blocks. \n\nFacing what may be their last chance at victory before the senior players graduate, the members of Karasuno's volleyball team must learn to settle their differences and train harder than ever if they hope to overcome formidable opponents old and new—including their archrival Aoba Jousai and its world-class setter Tooru Oikawa.\n\n(Source: MAL)",
+      "year": 2015,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Volleyball",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "652a2734ef9cdb339ac1791c8b21af11ce25a47d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haikyu-2nd-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "haikyu-2nd-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "haikyu-2nd-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "haikyu-2nd-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "haikyu-2nd-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "haikyu-2nd-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "haikyu-2nd-season/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "haikyu-2nd-season/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "haikyu-2nd-season/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "haikyu-2nd-season/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "haikyu-2nd-season/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "haikyu-2nd-season/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "haikyu-2nd-season/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "haikyu-2nd-season/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "haikyu-2nd-season/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "haikyu-2nd-season/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "haikyu-2nd-season/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "haikyu-2nd-season/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "haikyu-2nd-season/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "haikyu-2nd-season/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "haikyu-2nd-season/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "haikyu-2nd-season/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "haikyu-2nd-season/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "haikyu-2nd-season/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "haikyu-2nd-season/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
