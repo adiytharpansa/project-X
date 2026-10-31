@@ -24919,64 +24919,702 @@
       ]
     },
     {
-      "id": "konosuba-god-s-blessing-on-this-wonderful-world",
-      "title": "KonoSuba: God's Blessing on This Wonderful World!",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2135571a200135edc63efc5bb4f9232816375371/konosuba-god-s-blessing-on-this-wonderful-world/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2135571a200135edc63efc5bb4f9232816375371/konosuba-god-s-blessing-on-this-wonderful-world/banner.jpg",
-      "synopsis": "After a traffic accident, Kazuma Sato's disappointingly brief life was supposed to be over, but he wakes up to see a beautiful girl before him. She claims to be a goddess, Aqua, and asks if he would like to go to another world and bring only one thing with him. Kazuma decides to bring the goddess herself, and they are transported to a fantasy world filled with adventure, ruled by a demon king. Now Kazuma only wants to live in peace, but Aqua wants to solve many of this world's problems, and the demon king will only turn a blind eye for so long...\n\n(Source: Crunchyroll)",
-      "year": 2016,
-      "score": 8.2,
+      "id": "black-clover",
+      "title": "Black Clover",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8d510a068012d0ab14ae2965c90602e6a194f0f4/black-clover/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8d510a068012d0ab14ae2965c90602e6a194f0f4/black-clover/banner.jpg",
+      "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n(Source: Crunchyroll)",
+      "year": 2017,
+      "score": 0,
       "status": "FINISHED",
       "genres": [
-        "Deity",
-        "Parody",
-        "Parallel Universe",
-        "Fantasy",
+        "Action",
         "Adventure",
-        "Comedy"
+        "Comedy",
+        "Fantasy"
       ],
-      "repo": "adiytharpansa/xrd5u319ewdz",
-      "pin": "15ed136290e0dc8838de9fa96b158ebc36dc3e22",
+      "repo": "adiytharpansa/xe5zul7gia6i",
+      "pin": "26f2eee83979a40fd0ae961c22b2396d6146fbf6",
       "episodes": [
         {
           "number": 1,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep1/playlist.m3u8"
+          "playlist": "black-clover/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep2/playlist.m3u8"
+          "playlist": "black-clover/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep3/playlist.m3u8"
+          "playlist": "black-clover/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep4/playlist.m3u8"
+          "playlist": "black-clover/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep5/playlist.m3u8"
+          "playlist": "black-clover/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep6/playlist.m3u8"
+          "playlist": "black-clover/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep7/playlist.m3u8"
+          "playlist": "black-clover/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep8/playlist.m3u8"
+          "playlist": "black-clover/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep9/playlist.m3u8"
+          "playlist": "black-clover/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world/ep10/playlist.m3u8"
+          "playlist": "black-clover/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "black-clover/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "black-clover/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "black-clover/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "black-clover/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "black-clover/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "black-clover/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "black-clover/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "black-clover/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "black-clover/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "black-clover/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "black-clover/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "black-clover/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "black-clover/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "black-clover/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "black-clover/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "black-clover/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "black-clover/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "black-clover/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "black-clover/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "black-clover/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "black-clover/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "black-clover/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "black-clover/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "black-clover/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "black-clover/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "black-clover/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "black-clover/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "black-clover/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "black-clover/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "black-clover/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "black-clover/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "black-clover/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "black-clover/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "black-clover/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "black-clover/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "black-clover/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "black-clover/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "black-clover/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "black-clover/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "black-clover/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "black-clover/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "black-clover/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "black-clover/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "black-clover/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "black-clover/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "black-clover/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "black-clover/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "black-clover/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "black-clover/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "black-clover/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "black-clover/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "black-clover/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "black-clover/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "black-clover/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "black-clover/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "black-clover/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "black-clover/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "black-clover/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "black-clover/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "black-clover/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "black-clover/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "black-clover/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "black-clover/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "black-clover/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "black-clover/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "black-clover/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "black-clover/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "black-clover/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "black-clover/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "black-clover/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "black-clover/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "black-clover/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "black-clover/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "black-clover/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "black-clover/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "black-clover/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "black-clover/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "black-clover/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "black-clover/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "black-clover/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "black-clover/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "black-clover/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "black-clover/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "black-clover/ep94/playlist.m3u8"
+        },
+        {
+          "number": 95,
+          "playlist": "black-clover/ep95/playlist.m3u8"
+        },
+        {
+          "number": 96,
+          "playlist": "black-clover/ep96/playlist.m3u8"
+        },
+        {
+          "number": 97,
+          "playlist": "black-clover/ep97/playlist.m3u8"
+        },
+        {
+          "number": 98,
+          "playlist": "black-clover/ep98/playlist.m3u8"
+        },
+        {
+          "number": 99,
+          "playlist": "black-clover/ep99/playlist.m3u8"
+        },
+        {
+          "number": 100,
+          "playlist": "black-clover/ep100/playlist.m3u8"
+        },
+        {
+          "number": 101,
+          "playlist": "black-clover/ep101/playlist.m3u8"
+        },
+        {
+          "number": 102,
+          "playlist": "black-clover/ep102/playlist.m3u8"
+        },
+        {
+          "number": 103,
+          "playlist": "black-clover/ep103/playlist.m3u8"
+        },
+        {
+          "number": 104,
+          "playlist": "black-clover/ep104/playlist.m3u8"
+        },
+        {
+          "number": 105,
+          "playlist": "black-clover/ep105/playlist.m3u8"
+        },
+        {
+          "number": 106,
+          "playlist": "black-clover/ep106/playlist.m3u8"
+        },
+        {
+          "number": 107,
+          "playlist": "black-clover/ep107/playlist.m3u8"
+        },
+        {
+          "number": 108,
+          "playlist": "black-clover/ep108/playlist.m3u8"
+        },
+        {
+          "number": 109,
+          "playlist": "black-clover/ep109/playlist.m3u8"
+        },
+        {
+          "number": 110,
+          "playlist": "black-clover/ep110/playlist.m3u8"
+        },
+        {
+          "number": 111,
+          "playlist": "black-clover/ep111/playlist.m3u8"
+        },
+        {
+          "number": 112,
+          "playlist": "black-clover/ep112/playlist.m3u8"
+        },
+        {
+          "number": 113,
+          "playlist": "black-clover/ep113/playlist.m3u8"
+        },
+        {
+          "number": 114,
+          "playlist": "black-clover/ep114/playlist.m3u8"
+        },
+        {
+          "number": 115,
+          "playlist": "black-clover/ep115/playlist.m3u8"
+        },
+        {
+          "number": 116,
+          "playlist": "black-clover/ep116/playlist.m3u8"
+        },
+        {
+          "number": 117,
+          "playlist": "black-clover/ep117/playlist.m3u8"
+        },
+        {
+          "number": 118,
+          "playlist": "black-clover/ep118/playlist.m3u8"
+        },
+        {
+          "number": 119,
+          "playlist": "black-clover/ep119/playlist.m3u8"
+        },
+        {
+          "number": 120,
+          "playlist": "black-clover/ep120/playlist.m3u8"
+        },
+        {
+          "number": 121,
+          "playlist": "black-clover/ep121/playlist.m3u8"
+        },
+        {
+          "number": 122,
+          "playlist": "black-clover/ep122/playlist.m3u8"
+        },
+        {
+          "number": 123,
+          "playlist": "black-clover/ep123/playlist.m3u8"
+        },
+        {
+          "number": 124,
+          "playlist": "black-clover/ep124/playlist.m3u8"
+        },
+        {
+          "number": 125,
+          "playlist": "black-clover/ep125/playlist.m3u8"
+        },
+        {
+          "number": 126,
+          "playlist": "black-clover/ep126/playlist.m3u8"
+        },
+        {
+          "number": 127,
+          "playlist": "black-clover/ep127/playlist.m3u8"
+        },
+        {
+          "number": 128,
+          "playlist": "black-clover/ep128/playlist.m3u8"
+        },
+        {
+          "number": 129,
+          "playlist": "black-clover/ep129/playlist.m3u8"
+        },
+        {
+          "number": 130,
+          "playlist": "black-clover/ep130/playlist.m3u8"
+        },
+        {
+          "number": 131,
+          "playlist": "black-clover/ep131/playlist.m3u8"
+        },
+        {
+          "number": 132,
+          "playlist": "black-clover/ep132/playlist.m3u8"
+        },
+        {
+          "number": 133,
+          "playlist": "black-clover/ep133/playlist.m3u8"
+        },
+        {
+          "number": 134,
+          "playlist": "black-clover/ep134/playlist.m3u8"
+        },
+        {
+          "number": 135,
+          "playlist": "black-clover/ep135/playlist.m3u8"
+        },
+        {
+          "number": 136,
+          "playlist": "black-clover/ep136/playlist.m3u8"
+        },
+        {
+          "number": 137,
+          "playlist": "black-clover/ep137/playlist.m3u8"
+        },
+        {
+          "number": 138,
+          "playlist": "black-clover/ep138/playlist.m3u8"
+        },
+        {
+          "number": 139,
+          "playlist": "black-clover/ep139/playlist.m3u8"
+        },
+        {
+          "number": 140,
+          "playlist": "black-clover/ep140/playlist.m3u8"
+        },
+        {
+          "number": 141,
+          "playlist": "black-clover/ep141/playlist.m3u8"
+        },
+        {
+          "number": 142,
+          "playlist": "black-clover/ep142/playlist.m3u8"
+        },
+        {
+          "number": 143,
+          "playlist": "black-clover/ep143/playlist.m3u8"
+        },
+        {
+          "number": 144,
+          "playlist": "black-clover/ep144/playlist.m3u8"
+        },
+        {
+          "number": 145,
+          "playlist": "black-clover/ep145/playlist.m3u8"
+        },
+        {
+          "number": 146,
+          "playlist": "black-clover/ep146/playlist.m3u8"
+        },
+        {
+          "number": 147,
+          "playlist": "black-clover/ep147/playlist.m3u8"
+        },
+        {
+          "number": 148,
+          "playlist": "black-clover/ep148/playlist.m3u8"
+        },
+        {
+          "number": 149,
+          "playlist": "black-clover/ep149/playlist.m3u8"
+        },
+        {
+          "number": 150,
+          "playlist": "black-clover/ep150/playlist.m3u8"
+        },
+        {
+          "number": 151,
+          "playlist": "black-clover/ep151/playlist.m3u8"
+        },
+        {
+          "number": 152,
+          "playlist": "black-clover/ep152/playlist.m3u8"
+        },
+        {
+          "number": 153,
+          "playlist": "black-clover/ep153/playlist.m3u8"
+        },
+        {
+          "number": 154,
+          "playlist": "black-clover/ep154/playlist.m3u8"
+        },
+        {
+          "number": 155,
+          "playlist": "black-clover/ep155/playlist.m3u8"
+        },
+        {
+          "number": 156,
+          "playlist": "black-clover/ep156/playlist.m3u8"
+        },
+        {
+          "number": 157,
+          "playlist": "black-clover/ep157/playlist.m3u8"
+        },
+        {
+          "number": 158,
+          "playlist": "black-clover/ep158/playlist.m3u8"
+        },
+        {
+          "number": 159,
+          "playlist": "black-clover/ep159/playlist.m3u8"
+        },
+        {
+          "number": 160,
+          "playlist": "black-clover/ep160/playlist.m3u8"
+        },
+        {
+          "number": 161,
+          "playlist": "black-clover/ep161/playlist.m3u8"
+        },
+        {
+          "number": 162,
+          "playlist": "black-clover/ep162/playlist.m3u8"
+        },
+        {
+          "number": 163,
+          "playlist": "black-clover/ep163/playlist.m3u8"
+        },
+        {
+          "number": 164,
+          "playlist": "black-clover/ep164/playlist.m3u8"
+        },
+        {
+          "number": 165,
+          "playlist": "black-clover/ep165/playlist.m3u8"
+        },
+        {
+          "number": 166,
+          "playlist": "black-clover/ep166/playlist.m3u8"
+        },
+        {
+          "number": 167,
+          "playlist": "black-clover/ep167/playlist.m3u8"
+        },
+        {
+          "number": 168,
+          "playlist": "black-clover/ep168/playlist.m3u8"
+        },
+        {
+          "number": 169,
+          "playlist": "black-clover/ep169/playlist.m3u8"
+        },
+        {
+          "number": 170,
+          "playlist": "black-clover/ep170/playlist.m3u8"
         }
       ]
     }
