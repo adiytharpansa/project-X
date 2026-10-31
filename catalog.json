@@ -27265,76 +27265,52 @@
       ]
     },
     {
-      "id": "made-in-abyss",
-      "title": "Made in Abyss",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0cb8d9e375783c11f0faa1e0cbd34be5dd773cc3/made-in-abyss/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0cb8d9e375783c11f0faa1e0cbd34be5dd773cc3/made-in-abyss/banner.jpg",
-      "synopsis": "The enormous cave system, known as the Abyss, is the only unexplored place in the world. Nobody knows how deep down goes this titanic pit, inhabited by strange and wondrous creatures and full of mysterious ancient relics which purpose in unknown to modern man. Generations of bold adventurers have been drawn by the cryptic depths of the Abyss. In course of time those bold enough to explore the dangerous pit came to be known as \"Cave Raiders.\"\n\nIn Oosu, the town at the edge of the Abyss, there lives a little orphan named Rico, who dreams of becoming as great a cave raider as her mother was and solving the great mystery of the pit. One day exploring the murky depths she stumbles upon a little boy, who turns out to be a robot...",
-      "year": 2017,
-      "score": 8.2,
+      "id": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc",
+      "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9c27fdb221860141062fd4dfb336360eae89f8cf/demon-slayer-kimetsu-no-yaiba-mugen-train-arc/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9c27fdb221860141062fd4dfb336360eae89f8cf/demon-slayer-kimetsu-no-yaiba-mugen-train-arc/banner.jpg",
+      "synopsis": "The TV version of Kimetsu no Yaiba Movie: Mugen Ressha-hen including an entirely new first episode. The first episode depicts Rengoku as he embarks on his journey to the Mugen Train. The remaining episodes will add about 70 new animation cuts and new background music, as well as a new trailer.\n\n(Source: Anime News Network)",
+      "year": 2021,
+      "score": 8.7,
       "genres": [
-        "Android",
-        "Human Enhancement",
-        "Dark Fantasy",
-        "Science Fiction",
+        "Swordplay",
+        "Historical",
+        "Demon",
+        "Action",
         "Fantasy",
         "Adventure"
       ],
       "status": "FINISHED",
-      "repo": "adiytharpansa/x3btmvhqb8dh",
-      "pin": "7d448526a752e4ee08c2b45f242a2a1289fb6128",
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "5bc2b2aed9818615c2f2d395685ccc81289fb7e6",
       "episodes": [
         {
           "number": 1,
-          "playlist": "made-in-abyss/ep1/playlist.m3u8"
+          "playlist": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "made-in-abyss/ep2/playlist.m3u8"
+          "playlist": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "made-in-abyss/ep3/playlist.m3u8"
+          "playlist": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "made-in-abyss/ep4/playlist.m3u8"
+          "playlist": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "made-in-abyss/ep5/playlist.m3u8"
+          "playlist": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "made-in-abyss/ep6/playlist.m3u8"
+          "playlist": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "made-in-abyss/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "made-in-abyss/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "made-in-abyss/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "made-in-abyss/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "made-in-abyss/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "made-in-abyss/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "made-in-abyss/ep13/playlist.m3u8"
+          "playlist": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc/ep7/playlist.m3u8"
         }
       ]
     }
