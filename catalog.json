@@ -34184,6 +34184,32 @@
           "playlist": "fairy-tail/ep175/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "one-piece-episode-of-east-blue",
+      "title": "One Piece: Episode of East Blue",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7bb6104c889e9e9dfb633b258de5b0a2f68ae635/one-piece-episode-of-east-blue/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7bb6104c889e9e9dfb633b258de5b0a2f68ae635/one-piece-episode-of-east-blue/poster.jpg",
+      "synopsis": "The special will be a completely new work, featuring reanimated scenes from the beginning of the series through when the crew enters the Grand Line.\n\nThe special is commemorating the manga's 20th anniversary, and will also feature anime versions of the original manga's chapter cover stories as part of the special's ending credits. The staff haven't yet clarified which cover story or stories will be animated. Additionally, the anime will feature a special 20th anniversary commemoration version of the original opening theme song \"We Are!\".",
+      "year": 2017,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Pirate",
+        "Super Power",
+        "Fantasy World",
+        "Action",
+        "Adventure",
+        "Friendship"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "cb2c06775fe3adce539a56e7d5932f6c52291214",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "one-piece-episode-of-east-blue/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
