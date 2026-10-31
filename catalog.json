@@ -32343,6 +32343,52 @@
           "playlist": "neon-genesis-evangelion-the-end-of-evangelion/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "flcl",
+      "title": "FLCL",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@31b5b8bd9e7217c823fb975c396e2a9795666134/flcl/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@31b5b8bd9e7217c823fb975c396e2a9795666134/flcl/banner.jpg",
+      "synopsis": "Nothing interesting happens in Naota's life since his brother left for America, leaving him with his grandfather and father in their boring little town. On his way home with Mamimi—his brother's ex-girlfriend—a pink-haired, crazy woman riding a Vespa, named Haruko, suddenly slams into him, kisses him, and then bashes him in the head with her guitar before riding off. The next thing he knows, the crazy girl is working as his housekeeper, two robots sprout from his forehead to do battle, and the surviving one starts living with him as well. I think it's fair to say that Naota has parted ways with his old mundane life.FLCL is a kooky coming-of-age story with surprisingly deep undertones as the twelve-year-old Naota develops through the wild antics of Haruko and matures along the way into adulthood.",
+      "year": 2000,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Present",
+        "Earth",
+        "Mecha",
+        "Alternative Present",
+        "Slapstick"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "a86a602a44bf173d0c22b477933f811b72aa02fa",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "flcl/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "flcl/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "flcl/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "flcl/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "flcl/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "flcl/ep6/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
