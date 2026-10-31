@@ -31266,124 +31266,80 @@
       ]
     },
     {
-      "id": "kimi-ni-todoke-from-me-to-you",
-      "title": "Kimi ni Todoke: From Me to You",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2d813631eb45ca53f0409bfee3df4c8725441d26/kimi-ni-todoke-from-me-to-you/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2d813631eb45ca53f0409bfee3df4c8725441d26/kimi-ni-todoke-from-me-to-you/banner.jpg",
-      "synopsis": "Kuronuma Sawako is completely misunderstood by her classmates. Her timid and sweet demeanor is often mistaken for malicious behavior. This is due to her resemblance to the ghost girl from \"The Ring,\" which has led her peers to give her the nickname Sadako. Longing to make friends and live a normal life, she is naturally drawn to Kazehaya Shouta, the most popular guy in class, whose \"100% refreshing\" personality earns him great admiration from Sawako. So when Kazehaya starts talking to her, maybe there is hope for the friendships Sawako has always longed for. Maybe... there is even a little hope for some romance in her future.\n[Written by MAL Rewrite]",
-      "year": 2009,
-      "score": 8.1,
+      "id": "the-melancholy-of-haruhi-suzumiya",
+      "title": "The Melancholy of Haruhi Suzumiya",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a6f4c093b9472098c28e4b0cf8d8d15b04dfa4b7/the-melancholy-of-haruhi-suzumiya/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a6f4c093b9472098c28e4b0cf8d8d15b04dfa4b7/the-melancholy-of-haruhi-suzumiya/banner.jpg",
+      "synopsis": "Kyon, your typical high school student, has long given up his belief in the supernatural. However, upon meeting Haruhi Suzumiya, he quickly finds out that it is the supernatural that she is interested in—aliens, time travelers, and espers among other things. When Haruhi laments about the lack of intriguing clubs around school, Kyon inspires Haruhi to form her own club. As a result, the SOS Brigade is formed, a club which specializes in all that is the supernatural.\nMuch to his chagrin, Kyon, along with the silent bookworm, Yuki Nagato, the shy and timid Mikuru Asahina, and the perpetually smiling Itsuki Koizumi, are recruited as members. The story follows the crazy adventures that these four endure under their whimsical leader, Haruhi. The story is based on the light novels by Nagaru Tanigawa.\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 7.9,
       "status": "FINISHED",
       "genres": [
         "High School",
         "Present",
         "Earth",
-        "Japan",
-        "Plot Continuity",
-        "Asia"
+        "Parody",
+        "School Clubs",
+        "Japan"
       ],
-      "repo": "adiytharpansa/xacok2204muc",
-      "pin": "7ce866fa98568dadd2b0867e7a208861a577375f",
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "22659bca0f97a1b45e4a7774044d2ea89246993f",
       "episodes": [
         {
           "number": 1,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep1/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep2/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep3/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep4/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep5/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep6/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep7/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep8/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep9/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep10/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep11/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep12/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep13/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep13/playlist.m3u8"
         },
         {
           "number": 14,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep19/playlist.m3u8"
-        },
-        {
-          "number": 20,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep20/playlist.m3u8"
-        },
-        {
-          "number": 21,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep21/playlist.m3u8"
-        },
-        {
-          "number": 22,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep22/playlist.m3u8"
-        },
-        {
-          "number": 23,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep23/playlist.m3u8"
-        },
-        {
-          "number": 24,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep24/playlist.m3u8"
-        },
-        {
-          "number": 25,
-          "playlist": "kimi-ni-todoke-from-me-to-you/ep25/playlist.m3u8"
+          "playlist": "the-melancholy-of-haruhi-suzumiya/ep14/playlist.m3u8"
         }
       ]
     }
