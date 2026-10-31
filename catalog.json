@@ -36131,6 +36131,124 @@
           "playlist": "kizumonogatari-part-1-tekketsu/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "welcome-to-the-n-h-k",
+      "title": "Welcome to the N.H.K.",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a5f3f55a86060d8f985a13ca8d46bc17453573ef/welcome-to-the-n-h-k/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a5f3f55a86060d8f985a13ca8d46bc17453573ef/welcome-to-the-n-h-k/banner.jpg",
+      "synopsis": "Twenty-two-year-old college dropout Tatsuhiro Satou has been a hikikomori for almost four years now. In his isolation, he has come to believe in many obscure conspiracy theories, but there is one in particular which he holds unshakable faith in: the theory that the evil conspirator behind his shut-in NEET (Not in Employment, Education or Training) status is the Nihon Hikikomori Kyokai (NHK)—an evil and secret organization dedicated to fostering the spread of hikikomori culture.\n\nNHK ni Youkoso! is a psychological dramedy that follows Tatsuhiro as he strives to escape from the NHK's wicked machinations and the disease of self-wrought isolation, while struggling to even just leave his apartment and find a job. His unexpected encounter with the mysterious Misaki Nakahara might signal a reversal of fortune for Tatsuhiro, but with this meeting comes the inevitable cost of having to face his greatest fear—society.\n\n(Source: MAL Rewrite)",
+      "year": 2006,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Angst"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "375dfcfe27025db240b1bc641d6108d20aeb8a12",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "welcome-to-the-n-h-k/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "welcome-to-the-n-h-k/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "welcome-to-the-n-h-k/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "welcome-to-the-n-h-k/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "welcome-to-the-n-h-k/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "welcome-to-the-n-h-k/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "welcome-to-the-n-h-k/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "welcome-to-the-n-h-k/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "welcome-to-the-n-h-k/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "welcome-to-the-n-h-k/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "welcome-to-the-n-h-k/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "welcome-to-the-n-h-k/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "welcome-to-the-n-h-k/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "welcome-to-the-n-h-k/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "welcome-to-the-n-h-k/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "welcome-to-the-n-h-k/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "welcome-to-the-n-h-k/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "welcome-to-the-n-h-k/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "welcome-to-the-n-h-k/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "welcome-to-the-n-h-k/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "welcome-to-the-n-h-k/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "welcome-to-the-n-h-k/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "welcome-to-the-n-h-k/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "welcome-to-the-n-h-k/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
