@@ -34924,6 +34924,80 @@
           "playlist": "kuroko-s-basketball-2/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bungo-stray-dogs-2",
+      "title": "Bungo Stray Dogs 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@93a9b90dd749ac6d2d4661ed3dd9c930118c8695/bungo-stray-dogs-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@93a9b90dd749ac6d2d4661ed3dd9c930118c8695/bungo-stray-dogs-2/banner.jpg",
+      "synopsis": "Guild has entered Yokohoma city. Along with the city, they want Atsushi of The Armed Detective Agency too. As Port Mafia want the city for themselves, a three way war seems unavoidable. While fighting, Atsushi &amp; Akutagawa find help in strange places. And in the background, Dazai continues his endless scheming.\n\n(Source: ANN)",
+      "year": 2016,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Historical",
+        "Mafia",
+        "Action",
+        "Crime",
+        "Conspiracy"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "882ca1619e1eb93e4c7d8fcec223f10950825195",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bungo-stray-dogs-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bungo-stray-dogs-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bungo-stray-dogs-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bungo-stray-dogs-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bungo-stray-dogs-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bungo-stray-dogs-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bungo-stray-dogs-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bungo-stray-dogs-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bungo-stray-dogs-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bungo-stray-dogs-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bungo-stray-dogs-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bungo-stray-dogs-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "bungo-stray-dogs-2/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
