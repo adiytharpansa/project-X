@@ -41705,6 +41705,77 @@
           "playlist": "grand-blue-dreaming/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cells-at-work",
+      "title": "Cells at Work!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1590585e541e827c4a9d4bd694c09c77c721d7da/cells-at-work/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1590585e541e827c4a9d4bd694c09c77c721d7da/cells-at-work/banner.jpg",
+      "synopsis": "This is a story about you. A tale about the inside of your body... According to a new study, the human body consists of approximately 37 trillion cells. These cells are hard at work every day within a world that is your body. From the oxygen-carrying red blood cells to the bacteria-fighting white blood cells, get to know the unsung heroes and the drama that unfolds inside of you! It's the oddly relatable and interesting story that is the life of cells! \n\n(Source: Aniplex USA)",
+      "year": 2018,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Violence",
+        "Action",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "64a41d4e9999da4c2becdc86a66a9cb1cfb94045",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cells-at-work/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "cells-at-work/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "cells-at-work/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "cells-at-work/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "cells-at-work/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "cells-at-work/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "cells-at-work/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "cells-at-work/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "cells-at-work/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "cells-at-work/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "cells-at-work/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "cells-at-work/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "cells-at-work/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
