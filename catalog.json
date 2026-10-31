@@ -34236,6 +34236,80 @@
           "playlist": "5-centimeters-per-second/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "danganronpa-the-animation",
+      "title": "Danganronpa: The Animation",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39b31b5f11b1da474c62b40eeea8c047dbddb9e8/danganronpa-the-animation/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39b31b5f11b1da474c62b40eeea8c047dbddb9e8/danganronpa-the-animation/banner.jpg",
+      "synopsis": "Hope's Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enroll receive their own unique titles, suitably reflective of their skills and traits. Of the fifteen candidates admitted to the peculiar school that year, Makoto Naegi is a completely ordinary individual who has been accepted by sheer chance, with the title of \"Super High School-Level Luck.\"\nNaegi and his fellow classmates are initially ecstatic to be chosen to study at this prestigious institution, but these feelings of happiness are short-lived. They are soon confronted by Monokuma, the principal and resident bear, who traps them inside the school. The pupils' hopes of escape and graduation hinge on one of them successfully murdering one of their peers without being discovered. However, if the killer is caught, he or she will be executed, and the remaining survivors will be left to continue the deathmatch until only a single victor remains.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Battle Royale",
+        "Stereotypes",
+        "Action",
+        "Horror",
+        "Thriller",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "993a7ee01b31721d97f925523f6b4af4ad281214",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "danganronpa-the-animation/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "danganronpa-the-animation/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "danganronpa-the-animation/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "danganronpa-the-animation/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "danganronpa-the-animation/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "danganronpa-the-animation/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "danganronpa-the-animation/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "danganronpa-the-animation/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "danganronpa-the-animation/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "danganronpa-the-animation/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "danganronpa-the-animation/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "danganronpa-the-animation/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "danganronpa-the-animation/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
