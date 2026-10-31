@@ -33030,6 +33030,124 @@
           "playlist": "mushi-shi/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "accel-world",
+      "title": "Accel World",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@74cc3f5931ac122fb3ca5d2b5d902b542f9fb4e4/accel-world/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@74cc3f5931ac122fb3ca5d2b5d902b542f9fb4e4/accel-world/banner.jpg",
+      "synopsis": "Haruyuki Arita is an overweight, bullied middle schooler who finds solace in playing online games. But his life takes a drastic turn one day, when he finds that all his high scores have been topped by Kuroyukihime, the popular vice president of the student council. She then invites him to the student lounge and introduces him to \"Brain Burst,\" a program which allows the users to accelerate their brain waves to the point where time seems to stop. Brain Burst also functions as an augmented reality fighting game, and in order to get more points to accelerate, users must win duels against other players. However, if a user loses all their points, they will also lose access to Brain Burst forever.\nKuroyukihime explains that she chose to show Haruyuki the program because she needs his help. She wants to meet the creator of Brain Burst and uncover the reason of why it was created, but that's easier said than done; to do so, she must defeat the \"Six Kings of Pure Color,\" powerful faction leaders within the game, and reach level 10, the highest level attainable. After the girl helps Haruyuki overcome the bullies that torment him, he vows to help her realize her goal, and so begins the duo's fight to reach the top.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Middle School",
+        "Future",
+        "Fantasy World",
+        "Virtual Reality",
+        "Action",
+        "Science Fiction"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "f47a385e4a25e2a2e6978f93464b27f429967921",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "accel-world/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "accel-world/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "accel-world/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "accel-world/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "accel-world/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "accel-world/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "accel-world/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "accel-world/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "accel-world/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "accel-world/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "accel-world/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "accel-world/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "accel-world/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "accel-world/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "accel-world/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "accel-world/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "accel-world/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "accel-world/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "accel-world/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "accel-world/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "accel-world/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "accel-world/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "accel-world/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "accel-world/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
