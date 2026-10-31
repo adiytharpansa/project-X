@@ -47095,6 +47095,76 @@
           "playlist": "eureka-seven/ep50/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kiss-x-sis-tv",
+      "title": "Kiss x Sis (TV)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f32e59258f09b46f9d086bc4b2e0e1c3e18339cb/kiss-x-sis-tv/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f32e59258f09b46f9d086bc4b2e0e1c3e18339cb/kiss-x-sis-tv/banner.jpg",
+      "synopsis": "After Keita Suminoe's mother passed away, his father promptly remarried, introducing two step-sisters into Keita's life: twins Ako and Riko. But since their fateful first encounter, a surge of incestuous love for their younger brother overcame the girls, beginning a lifelong feud for his heart.\n\nNow at the end of his middle school career, Keita studies fervently to be able to attend Ako and Riko's high school. While doing so however, he must resolve his conflicting feelings for his siblings and either reject or succumb to his sisters' intimate advances. Fortunately—or perhaps unfortunately for Keita—his sisters aren't the only women lusting after him, and there's no telling when the allure of temptation will get the better of the boy as well.\n\n[Written by MAL Rewrite]",
+      "year": 2010,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Ecchi"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "6f0e9bb5143489fdc756ed7ce0f95d829bae9396",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kiss-x-sis-tv/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kiss-x-sis-tv/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kiss-x-sis-tv/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kiss-x-sis-tv/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kiss-x-sis-tv/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kiss-x-sis-tv/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kiss-x-sis-tv/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kiss-x-sis-tv/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kiss-x-sis-tv/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kiss-x-sis-tv/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kiss-x-sis-tv/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kiss-x-sis-tv/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
