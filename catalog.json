@@ -42376,6 +42376,31 @@
           "playlist": "ghost-in-the-shell-stand-alone-complex/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball-z",
+      "title": "Dragon Ball Z",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8f289cd746e9861b03757c5af04d0d7a698ae801/dragon-ball-z/poster.jpg",
+      "banner": "https://my-anime-app.adiyth-arpansa.workers.dev/api/img?u=https%3A%2F%2Fmedia.kitsu.app%2Fanime%2Fcover_images%2F720%2Foriginal.png",
+      "synopsis": "Goku is back with his new son, Gohan, but just when things are getting settled down, the adventures continue. Whether he is facing enemies such as Freeza, Cell, or Boo, Goku is proven to be an elite of his own and discovers his race, Saiyan. He meets many new people, gaining allies as well as enemies, as he still finds time to raise a family and be the happy-go-lucky Saiyan he is.\n\n\n(Source: Anime News Network)",
+      "year": 1989,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "4c9efcaadb87d1689a009d95087a8dc4aa576395",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball-z/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
