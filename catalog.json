@@ -30068,26 +30068,71 @@
       ]
     },
     {
-      "id": "attack-on-titan-roar-of-awakening",
-      "title": "Attack on Titan: Roar of Awakening",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
-      "synopsis": "Eren Yeager and others of the 104th Training Corps have just begun to become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose—but all is not as it seems as more mysteries are unraveled. As the Survey Corps races to save the wall, they uncover more about the invading Titans and the dark secrets of their own members.\n\n(Source: MAL Rewrite)",
-      "year": 2018,
+      "id": "kaguya-sama-love-is-war-2",
+      "title": "Kaguya-sama: Love is War?",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0b15ce5a672ad1c6fe9a29cb0886b8636f2854b8/kaguya-sama-love-is-war-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0b15ce5a672ad1c6fe9a29cb0886b8636f2854b8/kaguya-sama-love-is-war-2/banner.jpg",
+      "synopsis": "After a slow but eventful summer vacation, Shuchiin Academy's second term is now starting in full force. As August transitions into September, Miyuki Shirogane's birthday looms ever closer, leaving Kaguya Shinomiya in a serious predicament as to how to celebrate it. Furthermore, the tenure of the school's 67th student council is coming to an end. Due to the council members being in different classes, the only time Kaguya and Miyuki have to be together will soon disappear, putting all of their cunning plans at risk.\n\nA long and difficult election that will decide the fate of the new student council awaits, as multiple challengers fight for the coveted title of president.\n\n[Written by MAL Rewrite]",
+      "year": 2020,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
-        "Super Power",
-        "Action",
-        "Fantasy",
-        "Shounen"
+        "Comedy",
+        "Romance",
+        "School Life",
+        "Psychological",
+        "Seinen"
       ],
-      "repo": "adiytharpansa/xe5zul7gia6i",
-      "pin": "52fc6341b45d07ff123d8228db67e78900ab9075",
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "f3b56ea321036f5bed31f327d4352121cd34a7aa",
       "episodes": [
         {
           "number": 1,
-          "playlist": "attack-on-titan-roar-of-awakening/ep1/playlist.m3u8"
+          "playlist": "kaguya-sama-love-is-war-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kaguya-sama-love-is-war-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kaguya-sama-love-is-war-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kaguya-sama-love-is-war-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kaguya-sama-love-is-war-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kaguya-sama-love-is-war-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kaguya-sama-love-is-war-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kaguya-sama-love-is-war-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kaguya-sama-love-is-war-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kaguya-sama-love-is-war-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kaguya-sama-love-is-war-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kaguya-sama-love-is-war-2/ep12/playlist.m3u8"
         }
       ]
     }
