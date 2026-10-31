@@ -43592,6 +43592,32 @@
           "playlist": "mayo-chiki/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-butler-book-of-the-atlantic",
+      "title": "Black Butler: Book of the Atlantic",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@57107851d34f3e451645c2937c025045119d10d4/black-butler-book-of-the-atlantic/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@57107851d34f3e451645c2937c025045119d10d4/black-butler-book-of-the-atlantic/banner.jpg",
+      "synopsis": "Whispers turn into screaming headlines in Earl Ciel Phantomhive's morning paper as word of the dead being resurrected takes society by storm. But when the unsavoury details of the business reach Ciel's ear, he and his superlative butler, Sebastian, book themselves on a luxury liner to look into these alleged miracles and the \"Aurora Society\" conducting them. As the waters lap and crash all around the vessel, mysterious individuals gather under the banner of the \"Phoenix.\" Ciel and Sebastian may be one step closer to the truth, but have they sealed their fates by conducting an investigation on what could easily become a floating coffin...?\n(Source: Yen Press)",
+      "year": 2017,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Historical",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "dbe75ca7d338f13af46aecae6e18e3d885bc02fc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "black-butler-book-of-the-atlantic/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
