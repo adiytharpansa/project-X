@@ -30736,52 +30736,76 @@
       ]
     },
     {
-      "id": "attack-on-titan-roar-of-awakening",
-      "title": "Attack on Titan: Roar of Awakening",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
-      "synopsis": "Eren Yeager and others of the 104th Training Corps have just begun to become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose—but all is not as it seems as more mysteries are unraveled. As the Survey Corps races to save the wall, they uncover more about the invading Titans and the dark secrets of their own members.\n\n(Source: MAL Rewrite)",
-      "year": 2018,
-      "score": 8.2,
-      "status": "FINISHED",
-      "genres": [
-        "Super Power",
-        "Action",
-        "Fantasy",
-        "Shounen"
-      ],
-      "repo": "adiytharpansa/xe5zul7gia6i",
-      "pin": "52fc6341b45d07ff123d8228db67e78900ab9075",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "attack-on-titan-roar-of-awakening/ep1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "the-girl-who-leapt-through-time",
-      "title": "The Girl Who Leapt Through Time",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/banner.jpg",
-      "synopsis": "Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time.Toki wo Kakeru Shoujo follows Makoto as she plays around with her newfound power. However, she soon learns the hard way that every choice has a consequence, and time is a lot more complicated than it may seem.\n[Written by MAL Rewrite]",
-      "year": 2006,
-      "score": 8.2,
+      "id": "my-teen-romantic-comedy-snafu",
+      "title": "My Teen Romantic Comedy SNAFU",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b816eb2bbc6437cf93da4e33bdb456199fdfbdc2/my-teen-romantic-comedy-snafu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b816eb2bbc6437cf93da4e33bdb456199fdfbdc2/my-teen-romantic-comedy-snafu/banner.jpg",
+      "synopsis": "So exactly what’s going to happen when Hachiman Hikigaya, an isolated high school student with no friends, no interest in making any and a belief that everyone else’s supposedly great high school experiences are either delusions or outright lies, is coerced by a well meaning faculty member into joining the one member “Services Club” run by Yukino Yukinoshita, who’s smart, attractive and generally considers everyone in her school to be her complete inferior?\n\n(Source: Crunchyroll)",
+      "year": 2013,
+      "score": 8.0,
       "status": "FINISHED",
       "genres": [
         "High School",
         "Present",
         "Earth",
-        "Time Travel",
+        "School Clubs",
         "Japan",
-        "Plot Continuity"
+        "Comedy"
       ],
-      "repo": "adiytharpansa/xc0i4ysbjp2q",
-      "pin": "5da6e55e4cc311962029319e8242869d865510dd",
+      "repo": "adiytharpansa/x110nbooz5mb",
+      "pin": "97519542668128c4cbb651f32a1f31d56186143c",
       "episodes": [
         {
           "number": 1,
-          "playlist": "the-girl-who-leapt-through-time/ep1/playlist.m3u8"
+          "playlist": "my-teen-romantic-comedy-snafu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-teen-romantic-comedy-snafu/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-teen-romantic-comedy-snafu/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-teen-romantic-comedy-snafu/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-teen-romantic-comedy-snafu/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-teen-romantic-comedy-snafu/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-teen-romantic-comedy-snafu/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-teen-romantic-comedy-snafu/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-teen-romantic-comedy-snafu/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-teen-romantic-comedy-snafu/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-teen-romantic-comedy-snafu/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-teen-romantic-comedy-snafu/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "my-teen-romantic-comedy-snafu/ep13/playlist.m3u8"
         }
       ]
     }
