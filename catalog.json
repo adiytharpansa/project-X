@@ -23266,6 +23266,121 @@
           "playlist": "assassination-classroom/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "jujutsu-kaisen-2",
+      "title": "Jujutsu Kaisen",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@77c7e2224d3a4d14091dcc044c20915ea1f0dced/jujutsu-kaisen/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@77c7e2224d3a4d14091dcc044c20915ea1f0dced/jujutsu-kaisen/banner.jpg",
+      "synopsis": "A boy fights... for \"the right death.\"\n\nHardship, regret, shame: the negative feelings that humans feel become Curses that lurk in our everyday lives. The Curses run rampant throughout the world, capable of leading people to terrible misfortune and even death. What's more, the Curses can only be exorcised by another Curse.\n\nItadori Yuji is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a friend who has been attacked by Curses, he eats the finger of the Double-Faced Specter, taking the Curse into his own soul. From then on, he shares one body with the Double-Faced Specter. Guided by the most powerful of sorcerers, Gojou Satoru, Itadori is admitted to the Tokyo Metropolitan Technical High School of Sorcery, an organization that fights the Curses... and thus begins the heroic tale of a boy who became a Curse to exorcise a Curse, a life from which he could never turn back.\n\n(Source: Crunchyroll)\n\nNote: The first episode received an early web premiere on September 19th, 2020. The regular TV broadcast started on October 3rd, 2020.",
+      "year": 2020,
+      "score": 0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-25",
+      "pin": "e7ce28518301de59bef71247c00608e174b28fb2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "jujutsu-kaisen-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "jujutsu-kaisen-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "jujutsu-kaisen-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "jujutsu-kaisen-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "jujutsu-kaisen-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "jujutsu-kaisen-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "jujutsu-kaisen-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "jujutsu-kaisen-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "jujutsu-kaisen-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "jujutsu-kaisen-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "jujutsu-kaisen-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "jujutsu-kaisen-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "jujutsu-kaisen-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "jujutsu-kaisen-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "jujutsu-kaisen-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "jujutsu-kaisen-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "jujutsu-kaisen-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "jujutsu-kaisen-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "jujutsu-kaisen-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "jujutsu-kaisen-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "jujutsu-kaisen-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "jujutsu-kaisen-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "jujutsu-kaisen-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "jujutsu-kaisen-2/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
