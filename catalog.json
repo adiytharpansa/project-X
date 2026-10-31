@@ -23451,6 +23451,128 @@
           "playlist": "noragami/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-season-3",
+      "title": "My Hero Academia Season 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1c0719f2d94c7185c6d4f0094adbf4bf823b8412/my-hero-academia-season-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1c0719f2d94c7185c6d4f0094adbf4bf823b8412/my-hero-academia-season-3/banner.jpg",
+      "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Comedy",
+        "School Life",
+        "Superhero",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/gudang-31",
+      "pin": "8c55c21ae64a44fdf7fc2b18b3994989bacefcbe",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-season-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-hero-academia-season-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-hero-academia-season-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-hero-academia-season-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-hero-academia-season-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-hero-academia-season-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-hero-academia-season-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-hero-academia-season-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-hero-academia-season-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-hero-academia-season-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-hero-academia-season-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-hero-academia-season-3/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "my-hero-academia-season-3/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "my-hero-academia-season-3/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "my-hero-academia-season-3/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "my-hero-academia-season-3/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "my-hero-academia-season-3/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "my-hero-academia-season-3/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "my-hero-academia-season-3/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "my-hero-academia-season-3/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "my-hero-academia-season-3/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "my-hero-academia-season-3/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "my-hero-academia-season-3/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "my-hero-academia-season-3/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "my-hero-academia-season-3/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
