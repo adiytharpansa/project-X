@@ -23575,146 +23575,242 @@
       ]
     },
     {
-      "id": "fate-zero",
-      "title": "Fate/Zero",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b2323ffa7741e2e8d5cf1059d50ae9640180d32/fate-zero/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b2323ffa7741e2e8d5cf1059d50ae9640180d32/fate-zero/banner.jpg",
-      "synopsis": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated \"Magus Killer\" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.\nKiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.\nBased on the light novel written by Gen Urobuchi, Fate/Zero depicts the events of the Fourth Holy Grail War—10 years prior to Fate/stay night. Witness a battle royale in which no one is guaranteed to survive.\n[Written by MAL Rewrite]",
-      "year": 2011,
+      "id": "the-seven-deadly-sins-revival-of-the-commandments",
+      "title": "The Seven Deadly Sins: Revival of the Commandments",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4d27e43d7301d7621eaa21b373c4368d71526187/the-seven-deadly-sins-revival-of-the-commandments/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4d27e43d7301d7621eaa21b373c4368d71526187/the-seven-deadly-sins-revival-of-the-commandments/banner.jpg",
+      "synopsis": "Melodias, Hawk, and Elizabeth retook the Kingdom of Leones from the Holy Knights. The festival went off without a hitch and the crew enjoyed their well-earned peace. And yet, another threat looms on the horizon. The Ten Commandments, a group of elite demon clan warriors, have their sights set on the kingdom.\n\n(Source: Anime News Network)",
+      "year": 2018,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
-        "Magic",
-        "Battle Royale",
-        "Swordplay",
-        "Present",
-        "Earth",
-        "Alternative Present"
+        "Super Power",
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Ecchi"
       ],
-      "repo": "adiytharpansa/x44hq4epzll7",
-      "pin": "67d31082550b92a72a644d6e50ebd6dd15c515b3",
+      "repo": "adiytharpansa/xn4zeky5id7v",
+      "pin": "a562e526c53d551e6240bff7b32aaf5bc3236625",
       "episodes": [
         {
           "number": 1,
-          "playlist": "fate-zero/ep1/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "fate-zero/ep2/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "fate-zero/ep3/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "fate-zero/ep4/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "fate-zero/ep5/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "fate-zero/ep6/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "fate-zero/ep7/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "fate-zero/ep8/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "fate-zero/ep9/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "fate-zero/ep10/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "fate-zero/ep11/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "fate-zero/ep12/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "fate-zero/ep13/playlist.m3u8"
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "the-seven-deadly-sins-revival-of-the-commandments/ep24/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "erased",
-      "title": "ERASED",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1178dd096c70ab621e8650879d410feca3cee45e/erased/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1178dd096c70ab621e8650879d410feca3cee45e/erased/banner.jpg",
-      "synopsis": "When tragedy is about to strike, Satoru Fujinuma finds himself sent back several minutes before the accident occurs. The detached, 29-year-old manga artist has taken advantage of this powerful yet mysterious phenomenon, which he calls \"Revival,\" to save many lives.\nHowever, when he is wrongfully accused of murdering someone close to him, Satoru is sent back to the past once again, but this time to 1988, 18 years in the past. Soon, he realizes that the murder may be connected to the abduction and killing of one of his classmates, the solitary and mysterious Kayo Hinazuki, that took place when he was a child. This is his chance to make things right.Boku dake ga Inai Machi follows Satoru in his mission to uncover what truly transpired 18 years ago and prevent the death of his classmate while protecting those he cares about in the present.\n[Written by MAL Rewrite]",
+      "id": "re-zero-starting-life-in-another-world",
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2e77c5df5be3472e2f8c30df05b9c2ddf5da9600/re-zero-starting-life-in-another-world/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2e77c5df5be3472e2f8c30df05b9c2ddf5da9600/re-zero-starting-life-in-another-world/banner.jpg",
+      "synopsis": "When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren't looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. Armed with only a bag of groceries and a now useless cell phone, he is quickly beaten to a pulp. Fortunately, a mysterious beauty named Satella, in hot pursuit after the one who stole her insignia, happens upon Subaru and saves him. In order to thank the honest and kindhearted girl, Subaru offers to help in her search, and later that night, he even finds the whereabouts of that which she seeks. But unbeknownst to them, a much darker force stalks the pair from the shadows, and just minutes after locating the insignia, Subaru and Satella are brutally murdered.\n\nHowever, Subaru immediately reawakens to a familiar scene—confronted by the same group of thugs, meeting Satella all over again—the enigma deepens as history inexplicably repeats itself.\n\n(Source: MAL Rewrite)",
       "year": 2016,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
-        "Present",
-        "Past",
-        "Time Travel",
-        "Plot Continuity",
-        "Angst",
-        "Thriller"
+        "Magic",
+        "Violence",
+        "Parallel Universe",
+        "Fantasy",
+        "Thriller",
+        "Drama"
       ],
-      "repo": "adiytharpansa/xrld3r9mhojh",
-      "pin": "c073b4ca0ebdec9e5cd9b363e812597c246f2991",
+      "repo": "adiytharpansa/xy0lkr9xlzqf",
+      "pin": "ec8b2403a26da997e58512e557a1f94bc149ad42",
       "episodes": [
         {
           "number": 1,
-          "playlist": "erased/ep1/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "erased/ep2/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "erased/ep3/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "erased/ep4/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "erased/ep5/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "erased/ep6/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "erased/ep7/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "erased/ep8/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "erased/ep9/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "erased/ep10/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "erased/ep11/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "erased/ep12/playlist.m3u8"
+          "playlist": "re-zero-starting-life-in-another-world/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "re-zero-starting-life-in-another-world/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "re-zero-starting-life-in-another-world/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "re-zero-starting-life-in-another-world/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "re-zero-starting-life-in-another-world/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "re-zero-starting-life-in-another-world/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "re-zero-starting-life-in-another-world/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "re-zero-starting-life-in-another-world/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "re-zero-starting-life-in-another-world/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "re-zero-starting-life-in-another-world/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "re-zero-starting-life-in-another-world/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "re-zero-starting-life-in-another-world/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "re-zero-starting-life-in-another-world/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "re-zero-starting-life-in-another-world/ep25/playlist.m3u8"
         }
       ]
     }
