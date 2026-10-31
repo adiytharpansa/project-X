@@ -23158,6 +23158,114 @@
           "playlist": "that-time-i-got-reincarnated-as-a-slime-season-4-2/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "assassination-classroom",
+      "title": "Assassination Classroom",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@683360881b1805e0b4acb84e6fed81c9f046515b/assassination-classroom/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@683360881b1805e0b4acb84e6fed81c9f046515b/assassination-classroom/banner.jpg",
+      "synopsis": "The students of class 3-E have a mission: kill their teacher before graduation. He has already destroyed the moon, and has promised to destroy the Earth if he can not be killed within a year. But how can this class of misfits kill a tentacled monster, capable of reaching Mach 20 speed, who may be the best teacher any of them have ever had?",
+      "year": 2015,
+      "score": 0,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/gudang-22",
+      "pin": "8d7bf09734bcb12b578f9a88b5292174cc63bb9e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "assassination-classroom/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "assassination-classroom/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "assassination-classroom/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "assassination-classroom/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "assassination-classroom/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "assassination-classroom/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "assassination-classroom/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "assassination-classroom/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "assassination-classroom/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "assassination-classroom/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "assassination-classroom/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "assassination-classroom/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "assassination-classroom/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "assassination-classroom/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "assassination-classroom/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "assassination-classroom/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "assassination-classroom/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "assassination-classroom/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "assassination-classroom/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "assassination-classroom/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "assassination-classroom/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "assassination-classroom/ep22/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
