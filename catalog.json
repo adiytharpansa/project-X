@@ -29512,6 +29512,76 @@
           "playlist": "fate-stay-night-unlimited-blade-works/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "spy-x-family",
+      "title": "SPY x FAMILY",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ca6adfcccc7177a1ce8b365a5a72a8d534a9f3e3/spy-x-family/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ca6adfcccc7177a1ce8b365a5a72a8d534a9f3e3/spy-x-family/banner.jpg",
+      "synopsis": "Everyone has a part of themselves they cannot show to anyone else.\n\nAt a time when all nations of the world were involved in a fierce war of information happening behind closed doors, Ostania and Westalis had been in a state of cold war against one another for decades. The Westalis Intelligence Services' Eastern-Focused Division (WISE) sends their most talented spy, \"Twilight,\" on a top-secret mission to investigate the movements of Donovan Desmond, the chairman of Ostania's National Unity Party, who is threatening peace efforts between the two nations.\n\nThis mission is known as \"Operation Strix.\" It consists of \"putting together a family in one week in order to infiltrate social gatherings organized by the elite school that Desmond's son attends.\"\n\n\"Twilight\" takes on the identity of psychiatrist Loid Forger and starts looking for family members. But Anya, the daughter he adopts, turns out to have the ability to read people's minds, while his wife, Yor, is an assassin! With it being in each of their own interests to keep these facts hidden, they start living together while concealing their true identities from one another.\nWorld peace is now in the hands of this brand-new family as they embark on an adventure full of surprises.\n\n(Source: Crunchyroll)",
+      "year": 2022,
+      "score": 8.5,
+      "status": "FINISHED",
+      "genres": [
+        "Assassin",
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural",
+        "Family"
+      ],
+      "repo": "adiytharpansa/x06snbltj7lb",
+      "pin": "d23edd5c789bf444c57d1583c5e92db5c334fb6c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "spy-x-family/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "spy-x-family/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "spy-x-family/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "spy-x-family/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "spy-x-family/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "spy-x-family/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "spy-x-family/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "spy-x-family/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "spy-x-family/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "spy-x-family/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "spy-x-family/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "spy-x-family/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
