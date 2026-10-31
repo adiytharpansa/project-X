@@ -29310,6 +29310,76 @@
           "playlist": "sword-art-online-ii/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "beyond-the-boundary",
+      "title": "Beyond the Boundary",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2f964f625d8738b24350a98e7c0a99428b1d94df/beyond-the-boundary/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2f964f625d8738b24350a98e7c0a99428b1d94df/beyond-the-boundary/banner.jpg",
+      "synopsis": "Mirai Kuriyama is the sole survivor of a clan of Spirit World warriors with the power to employ their blood as weapons. As such, Mirai is tasked with hunting down and killing \"youmu\"—creatures said to be the manifestation of negative human emotions. One day, while deep in thought on the school roof, Mirai comes across Akihito Kanbara, a rare half-breed of youmu in human form. In a panicked state, she plunges her blood saber into him only to realize that he's an immortal being. From then on, the two form an impromptu friendship that revolves around Mirai constantly trying to kill Akihito, in an effort to boost her own wavering confidence as a Spirit World warrior. Eventually, Akihito also manages to convince her to join the Literary Club, which houses two other powerful Spirit World warriors, Hiroomi and Mitsuki Nase.\nAs the group's bond strengthens, however, so does the tenacity of the youmu around them. Their misadventures will soon turn into a fight for survival as the inevitable release of the most powerful youmu, Beyond the Boundary, approaches.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Swordplay",
+        "Earth",
+        "Demon",
+        "Contemporary Fantasy",
+        "Japan",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/x110nbooz5mb",
+      "pin": "3d2a35f7f18f80f8ae782814de07fae79245c637",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "beyond-the-boundary/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "beyond-the-boundary/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "beyond-the-boundary/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "beyond-the-boundary/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "beyond-the-boundary/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "beyond-the-boundary/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "beyond-the-boundary/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "beyond-the-boundary/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "beyond-the-boundary/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "beyond-the-boundary/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "beyond-the-boundary/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "beyond-the-boundary/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
