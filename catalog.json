@@ -40688,6 +40688,128 @@
           "playlist": "trinity-seven/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "chihayafuru",
+      "title": "Chihayafuru",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e98524c1c10addf127265570aff7e1640d9b4ecd/chihayafuru/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e98524c1c10addf127265570aff7e1640d9b4ecd/chihayafuru/banner.jpg",
+      "synopsis": "Chihaya Ayase, a strong-willed and tomboyish girl, grows up under the shadow of her older sister. With no dreams of her own, she is contented with her share in life till she meets Arata Wataya. The quiet transfer student in her elementary class introduces her to competitive karuta, a physically and mentally demanding card game inspired by the classic Japanese anthology of Hundred Poets. Captivated by Arata's passion for the game and inspired by the possibility of becoming the best in Japan, Chihaya quickly falls in love with the world of karuta. Along with the prodigy Arata and her haughty but hard-working friend Taichi Mashima, she joins the local Shiranami Society. The trio spends their idyllic childhood days playing together, until circumstances split them up.\nNow in high school, Chihaya has grown into a karuta freak. She aims to establish the Municipal Mizusawa High Competitive Karuta Club, setting her sights on the national championship at Omi Jingu. Reunited with the now indifferent Taichi, Chihaya's dream of establishing a karuta team is only one step away from becoming true: she must bring together members with a passion for the game that matches her own.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "b633911a634b0f108f8ffb1284fe48560a4818d0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "chihayafuru/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "chihayafuru/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "chihayafuru/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "chihayafuru/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "chihayafuru/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "chihayafuru/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "chihayafuru/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "chihayafuru/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "chihayafuru/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "chihayafuru/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "chihayafuru/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "chihayafuru/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "chihayafuru/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "chihayafuru/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "chihayafuru/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "chihayafuru/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "chihayafuru/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "chihayafuru/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "chihayafuru/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "chihayafuru/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "chihayafuru/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "chihayafuru/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "chihayafuru/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "chihayafuru/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "chihayafuru/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
