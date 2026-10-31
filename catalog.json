@@ -44931,6 +44931,74 @@
           "playlist": "fighting-spirit/ep75/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "masamune-kun-s-revenge",
+      "title": "Masamune-kun's Revenge",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c919c7fbeb413f17d66516a01e22160d081c506d/masamune-kun-s-revenge/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c919c7fbeb413f17d66516a01e22160d081c506d/masamune-kun-s-revenge/banner.jpg",
+      "synopsis": "As a child, Masamune Makabe was mercilessly teased about his weight and cruelly nicknamed “Pig’s Foot” by a young girl named Aki Adagaki. Years later, Masamune continues to hold resentment and decides to seek revenge against his tormenter. Now, handsome and in top shape, he returns to exact vengeance on Aki! But as he gets closer to her, he finds his heart desires something other than revenge.\n\n(Source: Funimation)",
+      "year": 2017,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "956e65005433767e669fbcb9d153bcfe49a929d5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "masamune-kun-s-revenge/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "masamune-kun-s-revenge/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "masamune-kun-s-revenge/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "masamune-kun-s-revenge/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "masamune-kun-s-revenge/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "masamune-kun-s-revenge/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "masamune-kun-s-revenge/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "masamune-kun-s-revenge/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "masamune-kun-s-revenge/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "masamune-kun-s-revenge/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "masamune-kun-s-revenge/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "masamune-kun-s-revenge/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
