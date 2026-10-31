@@ -49380,6 +49380,75 @@
           "playlist": "kino-s-journey/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "land-of-the-lustrous-tv",
+      "title": "Land of the Lustrous (TV)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c68b676dcd3619152a4968cfb86b0aadd05b2583/land-of-the-lustrous-tv/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c68b676dcd3619152a4968cfb86b0aadd05b2583/land-of-the-lustrous-tv/banner.jpg",
+      "synopsis": "In the distant future, a new immortal and genderless life form called Gems populate the Earth. The 28 Gems must fight against the Moon Dwellers, who attack them regularly to abduct them and to turn them into decorations. Each Gem is assigned a role, such as a fighter or a medic.\n\nBeing only 300 years old, Phosphophyllite is the youngest of the Gems and has no assignment yet. They want to help to fight the Moon Dwellers, but is too weak and brittle for battle. One day the master of Gems, Adamantine, assigns them the task of creating a natural history encyclopedia.\n\n(Source: MAL News)",
+      "year": 2017,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Mystery",
+        "Seinen"
+      ],
+      "repo": "adiytharpansa/xs4dfmpt2u3u",
+      "pin": "391e165c843be935dba8b136385400d4e1b58ff1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "land-of-the-lustrous-tv/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "land-of-the-lustrous-tv/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "land-of-the-lustrous-tv/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "land-of-the-lustrous-tv/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "land-of-the-lustrous-tv/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "land-of-the-lustrous-tv/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "land-of-the-lustrous-tv/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "land-of-the-lustrous-tv/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "land-of-the-lustrous-tv/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "land-of-the-lustrous-tv/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "land-of-the-lustrous-tv/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "land-of-the-lustrous-tv/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
