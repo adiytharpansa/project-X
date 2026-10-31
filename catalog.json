@@ -41141,6 +41141,32 @@
           "playlist": "bakuman/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "evangelion-1-0-you-are-not-alone",
+      "title": "Evangelion: 1.0 You Are (Not) Alone",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@52a84a5ca38f050795c1a6b04b5ce9e2ff378868/evangelion-1-0-you-are-not-alone/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@52a84a5ca38f050795c1a6b04b5ce9e2ff378868/evangelion-1-0-you-are-not-alone/banner.jpg",
+      "synopsis": "After the second impact, all that remains of Japan is Tokyo-3, a city that's being attacked by giant creatures that seek to eradicate the human kind, called Angels. After not seeing his father for more than eight years, Shinji Ikari receives a phone call in which he is told to urgently come to the NERV Headquarters, an organization that deals with the destruction of the Angels through the use of giant mechs called Evas. Shinji's objective is to pilot the Eva Unit 01 while teaming up with the Eva Unit 00 pilot, Ayanami Rei.",
+      "year": 2007,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/xg8xosu0mqzx",
+      "pin": "72443e2fb58ca6e26cc6edc50d561ac167bae273",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "evangelion-1-0-you-are-not-alone/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
