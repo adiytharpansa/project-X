@@ -49873,6 +49873,76 @@
           "playlist": "btooom/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gate-part-2",
+      "title": "GATE Part 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8a4ba81f593c28b0db9f26955b18a8d0c0bb2526/gate-part-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8a4ba81f593c28b0db9f26955b18a8d0c0bb2526/gate-part-2/banner.jpg",
+      "synopsis": "The second half of the Gate: Jieitai Kanochi nite, Kaku Tatakaeri anime which will cover the Fire Dragon Arc.\n\nSeveral months have passed since the infamous Ginza Incident, with tensions between the Empire and JSDF escalating in the vast and mysterious \"Special Region\" over peace negotiations. The greed and curiosity of the global powers have also begun to grow, as reports about the technological limitations of the magical realm's archaic civilizations come to light.\n\nMeanwhile, Lieutenant Youji Itami and his merry band of female admirers struggle to navigate the complex political intrigue that plagues the Empire's court. Despite her best efforts, Princess Piña Co Lada faces difficulties attempting to convince her father that the JSDF has no intention of conquering their kingdom. Pressured from both sides of the Gate, Itami must consider even more drastic measures to fulfill his mission.",
+      "year": 2016,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Fantasy World",
+        "Violence",
+        "Plot Continuity",
+        "Parallel Universe",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "b1e1af6733621cab3e226af4ef9f0a37c62c1134",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gate-part-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gate-part-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gate-part-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gate-part-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gate-part-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gate-part-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gate-part-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gate-part-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gate-part-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gate-part-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gate-part-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gate-part-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
