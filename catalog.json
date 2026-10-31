@@ -30257,6 +30257,124 @@
           "playlist": "magi-the-kingdom-of-magic/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "darling-in-the-franxx",
+      "title": "DARLING in the FRANXX",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e30ace867b23df4269bb8de15cb8dbc3363213fc/darling-in-the-franxx/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e30ace867b23df4269bb8de15cb8dbc3363213fc/darling-in-the-franxx/banner.jpg",
+      "synopsis": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the “Birdcage.” That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these still unseen enemies. Among them was a boy who was once called a child prodigy: Code number 016, Hiro. One day, a mysterious girl called Zero Two appears in front of Hiro. “I’ve found you, my Darling.”\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Mecha",
+        "Piloted Robot",
+        "Slow When It Comes To Love",
+        "Love Polygon",
+        "Stereotypes",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "c9cb830894ba8ba286dd1e63d14257ccadf73ffa",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "darling-in-the-franxx/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "darling-in-the-franxx/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "darling-in-the-franxx/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "darling-in-the-franxx/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "darling-in-the-franxx/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "darling-in-the-franxx/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "darling-in-the-franxx/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "darling-in-the-franxx/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "darling-in-the-franxx/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "darling-in-the-franxx/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "darling-in-the-franxx/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "darling-in-the-franxx/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "darling-in-the-franxx/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "darling-in-the-franxx/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "darling-in-the-franxx/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "darling-in-the-franxx/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "darling-in-the-franxx/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "darling-in-the-franxx/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "darling-in-the-franxx/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "darling-in-the-franxx/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "darling-in-the-franxx/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "darling-in-the-franxx/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "darling-in-the-franxx/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "darling-in-the-franxx/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
