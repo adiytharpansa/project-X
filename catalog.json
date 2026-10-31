@@ -34684,6 +34684,124 @@
           "playlist": "guilty-crown/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-disastrous-life-of-saiki-k-2",
+      "title": "The Disastrous Life of Saiki K. 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3ee897d5eb079d27e1620eaae4c66e348f051cdc/the-disastrous-life-of-saiki-k-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3ee897d5eb079d27e1620eaae4c66e348f051cdc/the-disastrous-life-of-saiki-k-2/banner.jpg",
+      "synopsis": "Sequel to Saiki Kusuo no Ψ-nan (TV).",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Super Power",
+        "Absurdist Humour",
+        "Breaking The Fourth Wall",
+        "Comedy",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "a180c16087f360dfde16aab6274961ca07737d86",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "the-disastrous-life-of-saiki-k-2/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
