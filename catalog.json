@@ -43899,6 +43899,80 @@
           "playlist": "kamisama-hajimemashita-kako-hen/ep4/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rosario-vampire",
+      "title": "Rosario + Vampire",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@19524f94fa346b56f317c7f41f49e796470f6738/rosario-vampire/poster.jpg",
+      "banner": "https://media.kitsu.app/anime/cover_images/2706/large.jpg",
+      "synopsis": "Youkai Academy is a seemingly normal boarding school, except that its pupils are monsters learning to coexist with humans. All students attend in human form and take normal academic subjects, such as literature, gym, foreign language, and mathematics. However, there is one golden rule at Youkai Academy—all humans found on school grounds are to be executed immediately!\nTsukune Aono is an average teenager who is unable to get into any high school because of his bad grades. His parents inadvertently enroll him into Youkai Academy as a last-ditch effort to secure his education. As Tsukune unknowingly enters this new world, he has a run-in with the most attractive girl on campus, Moka Akashiya. Deciding to stay in the perilous realm in order to further his relationship with Moka, he does not realize that beneath her beauty lies a menacing monster—a vampire.Rosario to Vampire is a supernatural school comedy that explores Tsukune's romantic exploits, experiences, and misadventures with a bevy of beautiful but dangerous creatures.\n[Written by MAL Rewrite]",
+      "year": 2008,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "High School",
+        "Super Power",
+        "Present",
+        "Fantasy World",
+        "Earth"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "8db50877a0421b7105fd42345141e19040309b10",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rosario-vampire/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "rosario-vampire/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "rosario-vampire/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "rosario-vampire/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "rosario-vampire/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "rosario-vampire/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "rosario-vampire/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "rosario-vampire/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "rosario-vampire/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "rosario-vampire/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "rosario-vampire/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "rosario-vampire/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "rosario-vampire/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
