@@ -44134,6 +44134,32 @@
           "playlist": "nisemonogatari/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "one-piece-film-z",
+      "title": "One Piece Film: Z",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9ae4e735130619496b2b78f5f0d1479efe290b6c/one-piece-film-z/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9ae4e735130619496b2b78f5f0d1479efe290b6c/one-piece-film-z/banner.jpg",
+      "synopsis": "The Straw Hat Pirates enter the rough seas of the New World in search of the hidden treasures of the Pirate King, Gol D. Roger－One Piece. On their voyage, the pirates come across a terrifying, powerful man, former Marine Admiral Z.\nZ is accused of having stolen the \"Dyna Stones\", weapons believed to have the power to shake up the New World. The Marine Headquarters believes Z is about to use it to end the pirate era, and with it, the lives of many innocent people. In fear of such a phenomenal event, marines start to take action against the former admiral.\nEven if it means stumbling upon marines and the navy, the Straw Hat Pirates decided to chase after Z and stop him from causing havoc. As they continue to embark on their ventures, the pirates bump into new and familiar acquaintances.",
+      "year": 2012,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Pirate",
+        "Fantasy World",
+        "Stereotypes",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "ba225a159848f95321184b4dd04bc76c64eca0ec",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "one-piece-film-z/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
