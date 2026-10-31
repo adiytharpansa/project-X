@@ -46143,6 +46143,76 @@
           "playlist": "school-live/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-familiar-of-zero-knight-of-the-twin-moons",
+      "title": "The Familiar of Zero: Knight of the Twin Moons",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@909848db4253d36f6759944f4aea640a6dffbdf5/the-familiar-of-zero-knight-of-the-twin-moons/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@909848db4253d36f6759944f4aea640a6dffbdf5/the-familiar-of-zero-knight-of-the-twin-moons/banner.jpg",
+      "synopsis": "Revered as heroes for their role in defending Tristain, Louise and her familiar Saito face heavy pressure to continue protecting the Kingdom. With an uneasy peace now established within Albion, the newly crowned Queen Henrietta must deal with a political struggle brewing on the horizon. To make matters worse, a new villain has begun plotting in the shadows against the Crown.\nWith the continuing threats that face the Kingdom, Louise and Saito are compelled to work together once more. No longer \"Louise the Zero,\" the young mage's newfound aptitude for Void magic gives her enough power to wipe out an entire village; however, wielding these abilities comes with its share of challenges. As more conflicts arise, the idea of placing honor above oneself is put into question—regardless of their answer, their only choice is to see it through until the end.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Dragon",
+        "Past",
+        "Fantasy World",
+        "Slapstick",
+        "Violent Retribution For Accidental Infringement"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "5c49ff23666fe9bb01d3f50723e8ca9becdd99c2",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-familiar-of-zero-knight-of-the-twin-moons/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
