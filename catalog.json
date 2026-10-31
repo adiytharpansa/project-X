@@ -28527,6 +28527,124 @@
           "playlist": "neon-genesis-evangelion/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sword-art-online-ii",
+      "title": "Sword Art Online II",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4dde522b86e3e850adbcb0358bb6161e986cb784/sword-art-online-ii/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4dde522b86e3e850adbcb0358bb6161e986cb784/sword-art-online-ii/banner.jpg",
+      "synopsis": "A year after escaping Sword Art Online, Kazuto Kirigaya has been settling back into the real world. However, his peace is short-lived as a new incident occurs in a game called Gun Gale Online, where a player by the name of Death Gun appears to be killing people in the real world by shooting them in-game. Approached by officials to assist in investigating the murders, Kazuto assumes his persona of Kirito once again and logs into Gun Gale Online, intent on stopping the killer.\n\nOnce inside, Kirito meets Sinon, a highly skilled sniper afflicted by a traumatic past. She is soon dragged in his chase after Death Gun, and together they enter the Bullet of Bullets, a tournament where their target is sure to appear. Uncertain of Death Gun's real powers, Kirito and Sinon race to stop him before he has the chance to claim another life. Not everything goes smoothly, however, as scars from the past impede their progress. In a high-stakes game where the next victim could easily be one of them, Kirito puts his life on the line in the virtual world once more.\n\n(Source: MAL Rewrite)",
+      "year": 2014,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Swordplay",
+        "Future",
+        "Fantasy World",
+        "Plot Continuity",
+        "Virtual Reality",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "0e3ba6d786257b5475cee46650eb11c17d4b4d7b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sword-art-online-ii/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sword-art-online-ii/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sword-art-online-ii/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sword-art-online-ii/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sword-art-online-ii/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sword-art-online-ii/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sword-art-online-ii/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sword-art-online-ii/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sword-art-online-ii/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sword-art-online-ii/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sword-art-online-ii/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sword-art-online-ii/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "sword-art-online-ii/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "sword-art-online-ii/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "sword-art-online-ii/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "sword-art-online-ii/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "sword-art-online-ii/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "sword-art-online-ii/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "sword-art-online-ii/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "sword-art-online-ii/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "sword-art-online-ii/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "sword-art-online-ii/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "sword-art-online-ii/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "sword-art-online-ii/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
