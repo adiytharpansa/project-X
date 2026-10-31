@@ -50957,6 +50957,76 @@
           "playlist": "kuroko-s-basketball-3/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "new-game",
+      "title": "New Game!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d405b6b11663c1d03fcb6f4f307c97dbf5d4ab0c/new-game/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d405b6b11663c1d03fcb6f4f307c97dbf5d4ab0c/new-game/banner.jpg",
+      "synopsis": "The main character Suzukaze Aoba graduates from high school and joins a game company. The person who made the game that Aoba loved as a grade-schooler just happens to be Aoba's senior at the company. The story follows girls who work and aspire at the Eaglejump company.\n(Source: ANN)",
+      "year": 2016,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "6f9d92a7a64fbf9dd3e798b6ac0bd1bbec1b8ea7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "new-game/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "new-game/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "new-game/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "new-game/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "new-game/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "new-game/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "new-game/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "new-game/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "new-game/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "new-game/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "new-game/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "new-game/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
