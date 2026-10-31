@@ -48582,6 +48582,76 @@
           "playlist": "kaze-no-stigma/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dagashi-kashi",
+      "title": "Dagashi Kashi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b1cf496b34bf4c2c5b44185af6de290499d274d1/dagashi-kashi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b1cf496b34bf4c2c5b44185af6de290499d274d1/dagashi-kashi/banner.jpg",
+      "synopsis": "Out in the countryside stands a sweet shop run by the Shikada family for nine generations: Shikada Dagashi, a small business selling traditional Japanese candy. However, despite his father's pleas, Kokonotsu Shikada, an aspiring manga artist, adamantly refuses to inherit the family business.\nHowever, this may start to change with the arrival of the eccentric Hotaru Shidare. Hotaru is in search of Kokonotsu's father, with the goal of bringing him back to work for her family's company, Shidare Corporation, a world famous sweets manufacturer. Although the senior Shikada initially refuses, he states that he will change his mind on one condition: if Hotaru can convince Kokonotsu to take over the family shop. And so begins Hotaru's mission to enlighten the boy on the true joy of delicious and nostalgic dagashi!\n[Written by MAL Rewrite]",
+      "year": 2016,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Earth",
+        "Countryside",
+        "Parody",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x110nbooz5mb",
+      "pin": "2eb4594fd556b6ee106a71936a61590bf3846821",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dagashi-kashi/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dagashi-kashi/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dagashi-kashi/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dagashi-kashi/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dagashi-kashi/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dagashi-kashi/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dagashi-kashi/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dagashi-kashi/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dagashi-kashi/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dagashi-kashi/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dagashi-kashi/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dagashi-kashi/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
