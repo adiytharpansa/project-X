@@ -47191,6 +47191,80 @@
           "playlist": "my-hero-academia-the-movie-two-heroes/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-god-of-high-school",
+      "title": "The God of High School",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@66e017e70e364a75327a15057955c301287f39a9/the-god-of-high-school/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@66e017e70e364a75327a15057955c301287f39a9/the-god-of-high-school/banner.jpg",
+      "synopsis": "Jin Mori has proclaimed himself the strongest high schooler. His life changes when he's invited to participate in \"God of High School,\" a tournament to determine the strongest high schooler of all. He's told that if he wins, any wish he makes will be granted... All the participants are powerful contenders who fight their hardest for their own wishes. What awaits them at the end of the tournament? A chaotic battle between unbelievably strong high school students is about to begin! \n\n(Source: Crunchyroll)",
+      "year": 2020,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "f07ab18bbf4e77343e6411bfa1e483fe98defdec",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-god-of-high-school/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-god-of-high-school/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-god-of-high-school/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-god-of-high-school/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-god-of-high-school/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-god-of-high-school/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-god-of-high-school/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-god-of-high-school/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-god-of-high-school/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-god-of-high-school/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-god-of-high-school/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-god-of-high-school/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-god-of-high-school/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
