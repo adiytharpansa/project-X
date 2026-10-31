@@ -42787,6 +42787,77 @@
           "playlist": "attack-on-titan-chronicle/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "a-place-further-than-the-universe",
+      "title": "A Place Further Than the Universe",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8ffdfacac3a4a9746e5781986c7b25564c0cdeed/a-place-further-than-the-universe/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8ffdfacac3a4a9746e5781986c7b25564c0cdeed/a-place-further-than-the-universe/banner.jpg",
+      "synopsis": "Scenery that we have never seen. Sounds that we have never heard. Scent that we have never smelled. Food that we have never tasted. And the surge of emotion that we have never experienced. This is the expedition of recollecting the pieces torn apart and sensation left alone. When we reach that place, what will we think? Howling, 40 degree angle. Raging, 50 degree angle. Shouting, 60 degree angle. A wilderness beyond the heavy sea. The furthest south, far from civilization. At the top of the Earth. We will find lights through the girls' eyes to live tomorrow. \n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Friendship",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "e3fdd1f593d687ff856d50dd84c46ca93f00cb6a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "a-place-further-than-the-universe/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "a-place-further-than-the-universe/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "a-place-further-than-the-universe/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "a-place-further-than-the-universe/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "a-place-further-than-the-universe/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "a-place-further-than-the-universe/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "a-place-further-than-the-universe/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "a-place-further-than-the-universe/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "a-place-further-than-the-universe/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "a-place-further-than-the-universe/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "a-place-further-than-the-universe/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "a-place-further-than-the-universe/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "a-place-further-than-the-universe/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
