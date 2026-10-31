@@ -50559,6 +50559,76 @@
           "playlist": "the-tatami-galaxy/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "yosuga-no-sora",
+      "title": "Yosuga no Sora",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fbfe3a2ebb9fc438b989f954300bbad198e80829/yosuga-no-sora/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fbfe3a2ebb9fc438b989f954300bbad198e80829/yosuga-no-sora/banner.jpg",
+      "synopsis": "After losing both of their parents in an accident, Haruka and his twin sister Sora move out of the city to the rural town where they spent their childhood summers. In their new home, everything seems peaceful until Haruka discovers a special, forbidden love that may disrupt the entire town!\n\n(Source: Crunchyroll)",
+      "year": 2010,
+      "score": 6.7,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Ecchi",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "f37e834085b31611ee85b9b1172ab5bfe8fcc787",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "yosuga-no-sora/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "yosuga-no-sora/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "yosuga-no-sora/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "yosuga-no-sora/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "yosuga-no-sora/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "yosuga-no-sora/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "yosuga-no-sora/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "yosuga-no-sora/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "yosuga-no-sora/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "yosuga-no-sora/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "yosuga-no-sora/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "yosuga-no-sora/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
