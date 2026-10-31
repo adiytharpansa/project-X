@@ -32389,6 +32389,119 @@
           "playlist": "flcl/ep6/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "steins-gate-0",
+      "title": "Steins;Gate 0",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@774564df58d3d9f88ef8a6738b756e3b159ace8f/steins-gate-0/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@774564df58d3d9f88ef8a6738b756e3b159ace8f/steins-gate-0/banner.jpg",
+      "synopsis": "A divergent continuation of the original Steins;Gate ending, Steins;Gate 0 explores an alternate worldline where Okabe abandons time travel. While attempting to forget past traumas and get his life back on track, he meets an AI that re-opens old wounds.\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Time Travel",
+        "Angst",
+        "Science Fiction",
+        "Thriller",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "e6a6f1fe8d33d9bff0fa5057c94a9f48c49e0296",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "steins-gate-0/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "steins-gate-0/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "steins-gate-0/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "steins-gate-0/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "steins-gate-0/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "steins-gate-0/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "steins-gate-0/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "steins-gate-0/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "steins-gate-0/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "steins-gate-0/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "steins-gate-0/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "steins-gate-0/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "steins-gate-0/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "steins-gate-0/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "steins-gate-0/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "steins-gate-0/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "steins-gate-0/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "steins-gate-0/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "steins-gate-0/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "steins-gate-0/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "steins-gate-0/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "steins-gate-0/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "steins-gate-0/ep23/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
