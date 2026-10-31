@@ -34574,6 +34574,116 @@
           "playlist": "great-teacher-onizuka/ep43/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "guilty-crown",
+      "title": "Guilty Crown",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ed3c5423e955998d79d30afa5a03a00424ee131a/guilty-crown/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ed3c5423e955998d79d30afa5a03a00424ee131a/guilty-crown/banner.jpg",
+      "synopsis": "Japan, 2039. Ten years after the outbreak of the \"Apocalypse Virus,\" an event solemnly regarded as \"Lost Christmas,\" the once proud nation has fallen under the rule of the GHQ, an independent military force dedicated to restoring order. Funeral Parlor, a guerilla group led by the infamous Gai Tsutsugami, act as freedom fighters, offering the only resistance to GHQ's cruel despotism.\nInori Yuzuriha, a key member of Funeral Parlor, runs into the weak and unsociable Shuu Ouma during a crucial operation, which results in him obtaining the \"Power of Kings\"—an ability which allows the wielder to draw out the manifestations of an individual's personality, or \"voids.\" Now an unwilling participant in the struggle against GHQ, Shuu must learn to control his newfound power if he is to help take back Japan once and for all.Guilty Crown follows the action-packed story of a young high school student who is dragged into a war, possessing an ability that will help him uncover the secrets of the GHQ, Funeral Parlor, and Lost Christmas. However, he will soon learn that the truth comes at a far greater price than he could have ever imagined.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Idol",
+        "Super Power",
+        "Future",
+        "Earth",
+        "Mecha",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "08055e2c3bc02a31ff94839e1bed71bbc47c7d37",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "guilty-crown/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "guilty-crown/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "guilty-crown/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "guilty-crown/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "guilty-crown/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "guilty-crown/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "guilty-crown/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "guilty-crown/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "guilty-crown/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "guilty-crown/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "guilty-crown/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "guilty-crown/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "guilty-crown/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "guilty-crown/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "guilty-crown/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "guilty-crown/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "guilty-crown/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "guilty-crown/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "guilty-crown/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "guilty-crown/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "guilty-crown/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "guilty-crown/ep22/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
