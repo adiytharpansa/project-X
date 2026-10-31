@@ -30852,6 +30852,76 @@
           "playlist": "black-butler/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "seraph-of-the-end-vampire-reign",
+      "title": "Seraph of the End: Vampire Reign",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80e94878d7798b98e7ee4bea2380e5160ae11973/seraph-of-the-end-vampire-reign/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80e94878d7798b98e7ee4bea2380e5160ae11973/seraph-of-the-end-vampire-reign/banner.jpg",
+      "synopsis": "With the appearance of a mysterious virus that kills everyone above the age of 13, mankind becomes enslaved by previously hidden, power-hungry vampires who emerge in order to subjugate society with the promise of protecting the survivors, in exchange for donations of their blood.\nAmong these survivors are Yuuichirou and Mikaela Hyakuya, two young boys who are taken captive from an orphanage, along with other children whom they consider family. Discontent with being treated like livestock under the vampires' cruel reign, Mikaela hatches a rebellious escape plan that is ultimately doomed to fail. The only survivor to come out on the other side is Yuuichirou, who is found by the Moon Demon Company, a military unit dedicated to exterminating the vampires in Japan.\nMany years later, now a member of the Japanese Imperial Demon Army, Yuuichirou is determined to take revenge on the creatures that slaughtered his family, but at what cost?Owari no Seraph is a post-apocalyptic supernatural shounen anime that follows a young man's search for retribution, all the while battling for friendship and loyalty against seemingly impossible odds.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Asia",
+        "Action"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "53e70b2c56d65b4b8942ddc034746e652360c805",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "seraph-of-the-end-vampire-reign/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "seraph-of-the-end-vampire-reign/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "seraph-of-the-end-vampire-reign/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "seraph-of-the-end-vampire-reign/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "seraph-of-the-end-vampire-reign/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "seraph-of-the-end-vampire-reign/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "seraph-of-the-end-vampire-reign/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "seraph-of-the-end-vampire-reign/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "seraph-of-the-end-vampire-reign/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "seraph-of-the-end-vampire-reign/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "seraph-of-the-end-vampire-reign/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "seraph-of-the-end-vampire-reign/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
