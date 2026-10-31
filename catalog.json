@@ -32904,6 +32904,132 @@
           "playlist": "ghost-in-the-shell/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mushi-shi",
+      "title": "Mushi-Shi",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c72c3a334983ce0ee722e9e24098dfc468ba5528/mushi-shi/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c72c3a334983ce0ee722e9e24098dfc468ba5528/mushi-shi/banner.jpg",
+      "synopsis": "\"Mushi\": the most basic forms of life in the world. They exist without any goals or purposes aside from simply \"being.\" They are beyond the shackles of the words \"good\" and \"evil.\" Mushi can exist in countless forms and are capable of mimicking things from the natural world such as plants, diseases, and even phenomena like rainbows.\nThis is, however, just a vague definition of these entities that inhabit the vibrant world of Mushishi, as to even call them a form of life would be an oversimplification. Detailed information on Mushi is scarce because the majority of humans are unaware of their existence.\nSo what are Mushi and why do they exist? This is the question that a \"Mushi-shi,\" Ginko, ponders constantly. Mushi-shi are those who research Mushi in hopes of understanding their place in the world's hierarchy of life.\nGinko chases rumors of occurrences that could be tied to Mushi, all for the sake of finding an answer.\nIt could, after all, lead to the meaning of life itself.\n[Written by MAL Rewrite]",
+      "year": 2005,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Past",
+        "Earth",
+        "Countryside",
+        "Alternative Past",
+        "Historical",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "465d6d64ed19c7bd48faae341852521f67b14290",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mushi-shi/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mushi-shi/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mushi-shi/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mushi-shi/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mushi-shi/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mushi-shi/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mushi-shi/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mushi-shi/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mushi-shi/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mushi-shi/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mushi-shi/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mushi-shi/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "mushi-shi/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "mushi-shi/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "mushi-shi/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "mushi-shi/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "mushi-shi/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "mushi-shi/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "mushi-shi/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "mushi-shi/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "mushi-shi/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "mushi-shi/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "mushi-shi/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "mushi-shi/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "mushi-shi/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "mushi-shi/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
