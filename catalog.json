@@ -49803,6 +49803,76 @@
           "playlist": "the-boy-and-the-beast/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "btooom",
+      "title": "BTOOOM!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3bc4dad9ddc1982bddb76840dcb45faad88ea120/btooom/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3bc4dad9ddc1982bddb76840dcb45faad88ea120/btooom/banner.jpg",
+      "synopsis": "Ryouta Sakamoto is unemployed and lives with his mother, his only real achievement being that he is Japan's top player of the popular online video game, \"Btooom!\" However, his peaceful life is about to change when he finds himself stranded on an island in the middle of nowhere, with a small, green crystal embedded in his left hand and no memory of how he got there. To his shock, someone has decided to recreate the game he is so fond of in real life, with the stakes being life or death.\nArmed with a bag full of unique bombs known as \"BIM,\" the players are tasked with killing seven of their fellow participants to obtain their green crystals, used as proof of their victory, in order to return home. Initially condemning any form of violence, Ryouta is forced to fight when he realizes that many of the other players are not as welcoming as they may seem. Teaming up with Himiko, a fellow Btooom! player who turns out to be his in-game wife, they attempt to get off of the island together, slowly coming closer and closer to the truth behind this contest of death.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Battle Royale",
+        "Present",
+        "Earth",
+        "Island",
+        "Violence",
+        "Combat"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "c7c0c5c23d7a56230b2c76c269ecf4057c677e31",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "btooom/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "btooom/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "btooom/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "btooom/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "btooom/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "btooom/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "btooom/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "btooom/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "btooom/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "btooom/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "btooom/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "btooom/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
