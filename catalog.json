@@ -26503,98 +26503,28 @@
       ]
     },
     {
-      "id": "no-game-no-life-zero",
-      "title": "No Game No Life: Zero",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bf39188ecd25b9fcdfffd9049c84e8ada4efb684/no-game-no-life-zero/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bf39188ecd25b9fcdfffd9049c84e8ada4efb684/no-game-no-life-zero/banner.jpg",
-      "synopsis": "Six thousand years before Sora and Shiro were even a blink in the history of Disboard, war consumed the land, tearing apart the heavens, destroying stars, and even threatening to wipe out the human race. Amid the chaos and destruction, a young man named Riku leads humanity toward the tomorrow his heart believed in. One day, in the ruins of an Elf city, he meets Shuvi, a female exiled \"Ex-machina\" android who asks him to teach her what it means to have a human heart.\n\n(Source: Sentai Filmworks)",
-      "year": 2017,
-      "score": 8.2,
-      "status": "FINISHED",
-      "genres": [
-        "Android",
-        "Elf",
-        "Fantasy World",
-        "Virtual Reality",
-        "Fantasy",
-        "Adventure"
-      ],
-      "repo": "adiytharpansa/xi9uivufxysw",
-      "pin": "db349eee4594b543d666a0b9e534201740a8b28f",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "no-game-no-life-zero/ep1/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "death-parade",
-      "title": "Death Parade",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f63e6ab49f200d7b3ce008710d1207f0179f29b7/death-parade/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f63e6ab49f200d7b3ce008710d1207f0179f29b7/death-parade/banner.jpg",
-      "synopsis": "After death, there is no heaven or hell, only a bar that stands between reincarnation and oblivion. There the attendant will, one after another, challenge pairs of the recently deceased to a random game in which their fate of either ascending into reincarnation or falling into the void will be wagered. Whether it's bowling, darts, air hockey, or anything in between, each person's true nature will be revealed in a ghastly parade of death and memories, dancing to the whims of the bar's master. Welcome to Quindecim, where Decim, arbiter of the afterlife, awaits!\n\nDeath Parade expands upon the original one-shot intended to train young animators. It follows yet more people receiving judgment—until a strange, black-haired guest causes Decim to begin questioning his own rulings.\n\n(Source: MAL Rewrite)",
-      "year": 2015,
+      "id": "wolf-children",
+      "title": "Wolf Children",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7ce39ef739c64fb8e29dd7f237bd7cbc38e2c2e7/wolf-children/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7ce39ef739c64fb8e29dd7f237bd7cbc38e2c2e7/wolf-children/banner.jpg",
+      "synopsis": "Hana, a hard-working college student, falls in love with a mysterious man who attends one of her classes though he is not an actual student. As it turns out, he is not truly human either. On a full moon night, he transforms, revealing that he is the last werewolf alive. Despite this, Hana's love remains strong, and the two ultimately decide to start a family.\nHana gives birth to two healthy children—Ame, born during rainfall, and Yuki, born during snowfall—both possessing the ability to turn into wolves, a trait inherited from their father. All too soon, however, the sudden death of her lover devastates Hana's life, leaving her to raise a peculiar family completely on her own. The stress of raising her wild-natured children in a densely populated city, all while keeping their identity a secret, culminates in a decision to move to the countryside, where she hopes Ame and Yuki can live a life free from the judgments of society. Wolf Children is the heartwarming story about the challenges of being a single mother in an unforgiving modern world.\n[Written by MAL Rewrite]",
+      "year": 2012,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
         "Present",
-        "Thriller",
-        "Drama",
-        "Psychological",
-        "Supernatural",
-        "Mystery"
+        "Countryside",
+        "Contemporary Fantasy",
+        "Japan",
+        "Fantasy",
+        "Slice of Life"
       ],
-      "repo": "adiytharpansa/x44hq4epzll7",
-      "pin": "d27e72569634d98e48b961d8870b520af257c136",
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "4675b85322b361a6a7323386bf695e872bee71bc",
       "episodes": [
         {
           "number": 1,
-          "playlist": "death-parade/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "death-parade/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "death-parade/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "death-parade/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "death-parade/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "death-parade/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "death-parade/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "death-parade/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "death-parade/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "death-parade/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "death-parade/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "death-parade/ep12/playlist.m3u8"
+          "playlist": "wolf-children/ep1/playlist.m3u8"
         }
       ]
     }
