@@ -30444,6 +30444,60 @@
           "playlist": "tokyo-ghoul-re/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hunter-x-hunter-greed-island",
+      "title": "Hunter x Hunter: Greed Island",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@927c3dad99e515c89d81cdd3be413ab0743df497/hunter-x-hunter-greed-island/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@927c3dad99e515c89d81cdd3be413ab0743df497/hunter-x-hunter-greed-island/banner.jpg",
+      "synopsis": "After the battle with the Spiders, the search for Ging continues as Gon and Killua decided to once again attempt to purchase the rare game \"Greed Island\". However, Gon came up with a better plan, which was to volunteer to complete the game for the billionaire who owned it. But some training must be done, as Gon and Killua's abilities are still at a developing stage and \"Greed Island\" is no simple game for anyone to play with. It is the infamous game that could easily lead to one's death. Based on the manga by Togashi Yoshihiro. ",
+      "year": 2003,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Fantasy World",
+        "Alternative Present",
+        "Virtual Reality",
+        "Action"
+      ],
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "43ebcc05958e1af66b49fd2ebcca9be8a9611792",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hunter-x-hunter-greed-island/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hunter-x-hunter-greed-island/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hunter-x-hunter-greed-island/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hunter-x-hunter-greed-island/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hunter-x-hunter-greed-island/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hunter-x-hunter-greed-island/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hunter-x-hunter-greed-island/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hunter-x-hunter-greed-island/ep8/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
