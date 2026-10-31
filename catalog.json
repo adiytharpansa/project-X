@@ -25617,6 +25617,124 @@
           "playlist": "black-clover/ep170/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "parasyte-the-maxim",
+      "title": "Parasyte -the maxim-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c1faddc848ad772c57e77144fd60ea60246fa464/parasyte-the-maxim/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c1faddc848ad772c57e77144fd60ea60246fa464/parasyte-the-maxim/banner.jpg",
+      "synopsis": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey.\n\nSixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but it fails to take over his brain, ending up in his right hand instead. Unable to relocate, the parasite, now named Migi, has no choice but to rely on Shinichi in order to stay alive. Thus, the pair is forced into an uneasy coexistence and must defend themselves from hostile parasites that hope to eradicate this new threat to their species.\n\n(Source: MAL Rewrite)",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Parasite",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "da4664746058343e273ad2643f57d821729de500",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "parasyte-the-maxim/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "parasyte-the-maxim/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "parasyte-the-maxim/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "parasyte-the-maxim/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "parasyte-the-maxim/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "parasyte-the-maxim/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "parasyte-the-maxim/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "parasyte-the-maxim/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "parasyte-the-maxim/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "parasyte-the-maxim/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "parasyte-the-maxim/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "parasyte-the-maxim/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "parasyte-the-maxim/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "parasyte-the-maxim/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "parasyte-the-maxim/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "parasyte-the-maxim/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "parasyte-the-maxim/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "parasyte-the-maxim/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "parasyte-the-maxim/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "parasyte-the-maxim/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "parasyte-the-maxim/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "parasyte-the-maxim/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "parasyte-the-maxim/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "parasyte-the-maxim/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
