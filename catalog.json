@@ -33462,6 +33462,728 @@
           "playlist": "eden-of-the-east/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fairy-tail",
+      "title": "Fairy Tail",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@25d043c766a88b923744db620680c12f13aa02a2/fairy-tail/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@25d043c766a88b923744db620680c12f13aa02a2/fairy-tail/banner.jpg",
+      "synopsis": "A superficial but kind-hearted celestial mage, Lucy Heartfilia, joins a famous wizarding guild in Magnolia Town called Fairy Tail, where the members use their powers to earn rewards in exchange for fulfilling quests. Here she befriends an impetuous but faithful dragon-slayer wizard, Natsu Dragneel, who is scouring the land for his missing father. The two form a bond with fellow mages Erza Scarlet and Gray Fullbuster, and together they tackle daunting challenges, taking on several powerful allies and foes along the way. \nCreated by Hiro Mashima, Fairy Tail is an action-packed adventure that follows Lucy and her friends as they learn the value of friendship, forgiveness and family.\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Plot Continuity",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "96465fbfce3afdabfe15dca4f5d60cf4ac9f4e7f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fairy-tail/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fairy-tail/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fairy-tail/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fairy-tail/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fairy-tail/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fairy-tail/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fairy-tail/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fairy-tail/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fairy-tail/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fairy-tail/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fairy-tail/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fairy-tail/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fairy-tail/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "fairy-tail/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "fairy-tail/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "fairy-tail/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "fairy-tail/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "fairy-tail/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "fairy-tail/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "fairy-tail/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "fairy-tail/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "fairy-tail/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "fairy-tail/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "fairy-tail/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "fairy-tail/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "fairy-tail/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "fairy-tail/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "fairy-tail/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "fairy-tail/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "fairy-tail/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "fairy-tail/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "fairy-tail/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "fairy-tail/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "fairy-tail/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "fairy-tail/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "fairy-tail/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "fairy-tail/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "fairy-tail/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "fairy-tail/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "fairy-tail/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "fairy-tail/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "fairy-tail/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "fairy-tail/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "fairy-tail/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "fairy-tail/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "fairy-tail/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "fairy-tail/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "fairy-tail/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "fairy-tail/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "fairy-tail/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "fairy-tail/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "fairy-tail/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "fairy-tail/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "fairy-tail/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "fairy-tail/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "fairy-tail/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "fairy-tail/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "fairy-tail/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "fairy-tail/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "fairy-tail/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "fairy-tail/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "fairy-tail/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "fairy-tail/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "fairy-tail/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "fairy-tail/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "fairy-tail/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "fairy-tail/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "fairy-tail/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "fairy-tail/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "fairy-tail/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "fairy-tail/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "fairy-tail/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "fairy-tail/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "fairy-tail/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "fairy-tail/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "fairy-tail/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "fairy-tail/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "fairy-tail/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "fairy-tail/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "fairy-tail/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "fairy-tail/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "fairy-tail/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "fairy-tail/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "fairy-tail/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "fairy-tail/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "fairy-tail/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "fairy-tail/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "fairy-tail/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "fairy-tail/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "fairy-tail/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "fairy-tail/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "fairy-tail/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "fairy-tail/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "fairy-tail/ep94/playlist.m3u8"
+        },
+        {
+          "number": 95,
+          "playlist": "fairy-tail/ep95/playlist.m3u8"
+        },
+        {
+          "number": 96,
+          "playlist": "fairy-tail/ep96/playlist.m3u8"
+        },
+        {
+          "number": 97,
+          "playlist": "fairy-tail/ep97/playlist.m3u8"
+        },
+        {
+          "number": 98,
+          "playlist": "fairy-tail/ep98/playlist.m3u8"
+        },
+        {
+          "number": 99,
+          "playlist": "fairy-tail/ep99/playlist.m3u8"
+        },
+        {
+          "number": 100,
+          "playlist": "fairy-tail/ep100/playlist.m3u8"
+        },
+        {
+          "number": 101,
+          "playlist": "fairy-tail/ep101/playlist.m3u8"
+        },
+        {
+          "number": 102,
+          "playlist": "fairy-tail/ep102/playlist.m3u8"
+        },
+        {
+          "number": 103,
+          "playlist": "fairy-tail/ep103/playlist.m3u8"
+        },
+        {
+          "number": 104,
+          "playlist": "fairy-tail/ep104/playlist.m3u8"
+        },
+        {
+          "number": 105,
+          "playlist": "fairy-tail/ep105/playlist.m3u8"
+        },
+        {
+          "number": 106,
+          "playlist": "fairy-tail/ep106/playlist.m3u8"
+        },
+        {
+          "number": 107,
+          "playlist": "fairy-tail/ep107/playlist.m3u8"
+        },
+        {
+          "number": 108,
+          "playlist": "fairy-tail/ep108/playlist.m3u8"
+        },
+        {
+          "number": 109,
+          "playlist": "fairy-tail/ep109/playlist.m3u8"
+        },
+        {
+          "number": 110,
+          "playlist": "fairy-tail/ep110/playlist.m3u8"
+        },
+        {
+          "number": 111,
+          "playlist": "fairy-tail/ep111/playlist.m3u8"
+        },
+        {
+          "number": 112,
+          "playlist": "fairy-tail/ep112/playlist.m3u8"
+        },
+        {
+          "number": 113,
+          "playlist": "fairy-tail/ep113/playlist.m3u8"
+        },
+        {
+          "number": 114,
+          "playlist": "fairy-tail/ep114/playlist.m3u8"
+        },
+        {
+          "number": 115,
+          "playlist": "fairy-tail/ep115/playlist.m3u8"
+        },
+        {
+          "number": 116,
+          "playlist": "fairy-tail/ep116/playlist.m3u8"
+        },
+        {
+          "number": 117,
+          "playlist": "fairy-tail/ep117/playlist.m3u8"
+        },
+        {
+          "number": 118,
+          "playlist": "fairy-tail/ep118/playlist.m3u8"
+        },
+        {
+          "number": 119,
+          "playlist": "fairy-tail/ep119/playlist.m3u8"
+        },
+        {
+          "number": 120,
+          "playlist": "fairy-tail/ep120/playlist.m3u8"
+        },
+        {
+          "number": 121,
+          "playlist": "fairy-tail/ep121/playlist.m3u8"
+        },
+        {
+          "number": 122,
+          "playlist": "fairy-tail/ep122/playlist.m3u8"
+        },
+        {
+          "number": 123,
+          "playlist": "fairy-tail/ep123/playlist.m3u8"
+        },
+        {
+          "number": 124,
+          "playlist": "fairy-tail/ep124/playlist.m3u8"
+        },
+        {
+          "number": 125,
+          "playlist": "fairy-tail/ep125/playlist.m3u8"
+        },
+        {
+          "number": 126,
+          "playlist": "fairy-tail/ep126/playlist.m3u8"
+        },
+        {
+          "number": 127,
+          "playlist": "fairy-tail/ep127/playlist.m3u8"
+        },
+        {
+          "number": 128,
+          "playlist": "fairy-tail/ep128/playlist.m3u8"
+        },
+        {
+          "number": 129,
+          "playlist": "fairy-tail/ep129/playlist.m3u8"
+        },
+        {
+          "number": 130,
+          "playlist": "fairy-tail/ep130/playlist.m3u8"
+        },
+        {
+          "number": 131,
+          "playlist": "fairy-tail/ep131/playlist.m3u8"
+        },
+        {
+          "number": 132,
+          "playlist": "fairy-tail/ep132/playlist.m3u8"
+        },
+        {
+          "number": 133,
+          "playlist": "fairy-tail/ep133/playlist.m3u8"
+        },
+        {
+          "number": 134,
+          "playlist": "fairy-tail/ep134/playlist.m3u8"
+        },
+        {
+          "number": 135,
+          "playlist": "fairy-tail/ep135/playlist.m3u8"
+        },
+        {
+          "number": 136,
+          "playlist": "fairy-tail/ep136/playlist.m3u8"
+        },
+        {
+          "number": 137,
+          "playlist": "fairy-tail/ep137/playlist.m3u8"
+        },
+        {
+          "number": 138,
+          "playlist": "fairy-tail/ep138/playlist.m3u8"
+        },
+        {
+          "number": 139,
+          "playlist": "fairy-tail/ep139/playlist.m3u8"
+        },
+        {
+          "number": 140,
+          "playlist": "fairy-tail/ep140/playlist.m3u8"
+        },
+        {
+          "number": 141,
+          "playlist": "fairy-tail/ep141/playlist.m3u8"
+        },
+        {
+          "number": 142,
+          "playlist": "fairy-tail/ep142/playlist.m3u8"
+        },
+        {
+          "number": 143,
+          "playlist": "fairy-tail/ep143/playlist.m3u8"
+        },
+        {
+          "number": 144,
+          "playlist": "fairy-tail/ep144/playlist.m3u8"
+        },
+        {
+          "number": 145,
+          "playlist": "fairy-tail/ep145/playlist.m3u8"
+        },
+        {
+          "number": 146,
+          "playlist": "fairy-tail/ep146/playlist.m3u8"
+        },
+        {
+          "number": 147,
+          "playlist": "fairy-tail/ep147/playlist.m3u8"
+        },
+        {
+          "number": 148,
+          "playlist": "fairy-tail/ep148/playlist.m3u8"
+        },
+        {
+          "number": 149,
+          "playlist": "fairy-tail/ep149/playlist.m3u8"
+        },
+        {
+          "number": 150,
+          "playlist": "fairy-tail/ep150/playlist.m3u8"
+        },
+        {
+          "number": 151,
+          "playlist": "fairy-tail/ep151/playlist.m3u8"
+        },
+        {
+          "number": 152,
+          "playlist": "fairy-tail/ep152/playlist.m3u8"
+        },
+        {
+          "number": 153,
+          "playlist": "fairy-tail/ep153/playlist.m3u8"
+        },
+        {
+          "number": 154,
+          "playlist": "fairy-tail/ep154/playlist.m3u8"
+        },
+        {
+          "number": 155,
+          "playlist": "fairy-tail/ep155/playlist.m3u8"
+        },
+        {
+          "number": 156,
+          "playlist": "fairy-tail/ep156/playlist.m3u8"
+        },
+        {
+          "number": 157,
+          "playlist": "fairy-tail/ep157/playlist.m3u8"
+        },
+        {
+          "number": 158,
+          "playlist": "fairy-tail/ep158/playlist.m3u8"
+        },
+        {
+          "number": 159,
+          "playlist": "fairy-tail/ep159/playlist.m3u8"
+        },
+        {
+          "number": 160,
+          "playlist": "fairy-tail/ep160/playlist.m3u8"
+        },
+        {
+          "number": 161,
+          "playlist": "fairy-tail/ep161/playlist.m3u8"
+        },
+        {
+          "number": 162,
+          "playlist": "fairy-tail/ep162/playlist.m3u8"
+        },
+        {
+          "number": 163,
+          "playlist": "fairy-tail/ep163/playlist.m3u8"
+        },
+        {
+          "number": 164,
+          "playlist": "fairy-tail/ep164/playlist.m3u8"
+        },
+        {
+          "number": 165,
+          "playlist": "fairy-tail/ep165/playlist.m3u8"
+        },
+        {
+          "number": 166,
+          "playlist": "fairy-tail/ep166/playlist.m3u8"
+        },
+        {
+          "number": 167,
+          "playlist": "fairy-tail/ep167/playlist.m3u8"
+        },
+        {
+          "number": 168,
+          "playlist": "fairy-tail/ep168/playlist.m3u8"
+        },
+        {
+          "number": 169,
+          "playlist": "fairy-tail/ep169/playlist.m3u8"
+        },
+        {
+          "number": 170,
+          "playlist": "fairy-tail/ep170/playlist.m3u8"
+        },
+        {
+          "number": 171,
+          "playlist": "fairy-tail/ep171/playlist.m3u8"
+        },
+        {
+          "number": 172,
+          "playlist": "fairy-tail/ep172/playlist.m3u8"
+        },
+        {
+          "number": 173,
+          "playlist": "fairy-tail/ep173/playlist.m3u8"
+        },
+        {
+          "number": 174,
+          "playlist": "fairy-tail/ep174/playlist.m3u8"
+        },
+        {
+          "number": 175,
+          "playlist": "fairy-tail/ep175/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
