@@ -35943,6 +35943,32 @@
           "playlist": "weathering-with-you/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sword-art-online-the-movie-ordinal-scale",
+      "title": "Sword Art Online the Movie -Ordinal Scale-",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@98f4421cda5b09a91c5a3cc26dc8fd0f77b99456/sword-art-online-the-movie-ordinal-scale/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@98f4421cda5b09a91c5a3cc26dc8fd0f77b99456/sword-art-online-the-movie-ordinal-scale/banner.jpg",
+      "synopsis": "In 2022, the world of virtual reality was upended by the arrival of a new invention from a genius programmer, Akihiko Kayaba, called NerveGear. It was the first full-dive system, and with it, came endless possibilities to VRMMORPGs.\n\nIn 2026, a new machine called the Augma is developed to compete against the NerveGear and its successor, the Amusphere. A next-gen wearable device, the Augma doesn't have a full-dive function like its predecessors. Instead, it uses Augmented Reality (AR) to get players into the game. It is safe, user-friendly and lets users play while they are conscious, making it an instant hit on the market. The most popular game on the system is \"Ordinal Scale\" (aka: OS), an ARMMORPG developed exclusively for the Augma.\n\nAsuna and the gang have already been playing OS for a while, by the time Kirito decides to join them. They're about to find out that Ordinal Scale isn't all fun and games...\n\n(Source: Aniplex USA)",
+      "year": 2017,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Virtual Reality",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "bd24e10dbf953a7eca8d9127b0b250d6edb59782",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sword-art-online-the-movie-ordinal-scale/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
