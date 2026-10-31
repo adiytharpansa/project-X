@@ -27049,6 +27049,124 @@
           "playlist": "ouran-high-school-host-club/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "clannad-after-story",
+      "title": "Clannad ~After Story~",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@198416dccaa1ac9fb96698657f9ded9322faacb7/clannad-after-story/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@198416dccaa1ac9fb96698657f9ded9322faacb7/clannad-after-story/banner.jpg",
+      "synopsis": "Clannad: After Story, the sequel to the critically acclaimed slice-of-life series Clannad, begins after Tomoya Okazaki and Nagisa Furukawa graduate from high school. Together, they experience the emotional rollercoaster of growing up. Unable to decide on a course for his future, Tomoya learns the value of a strong work ethic and discovers the strength of Nagisa's support. Through the couple's dedication and unity of purpose, they push forward to confront their personal problems, deepen their old relationships, and create new bonds.\nTime also moves on in the Illusionary World. As the plains grow cold with the approach of winter, the Illusionary Girl and the Garbage Doll are presented with a difficult situation that reveals the World's true purpose.\nBased on the visual novel by Key and produced by Kyoto Animation, Clannad: After Story is an impactful drama highlighting the importance of family and the struggles of adulthood.\n[Written by MAL Rewrite]",
+      "year": 2008,
+      "score": 8.2,
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia",
+        "Angst"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "f54a01796a2223c7dd953269de5029b343c115db",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "clannad-after-story/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "clannad-after-story/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "clannad-after-story/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "clannad-after-story/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "clannad-after-story/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "clannad-after-story/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "clannad-after-story/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "clannad-after-story/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "clannad-after-story/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "clannad-after-story/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "clannad-after-story/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "clannad-after-story/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "clannad-after-story/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "clannad-after-story/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "clannad-after-story/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "clannad-after-story/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "clannad-after-story/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "clannad-after-story/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "clannad-after-story/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "clannad-after-story/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "clannad-after-story/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "clannad-after-story/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "clannad-after-story/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "clannad-after-story/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
