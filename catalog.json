@@ -47165,6 +47165,32 @@
           "playlist": "kiss-x-sis-tv/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-the-movie-two-heroes",
+      "title": "My Hero Academia the Movie: Two Heroes",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a1d58a22db9234859f621d67d457bb79088493fb/my-hero-academia-the-movie-two-heroes/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a1d58a22db9234859f621d67d457bb79088493fb/my-hero-academia-the-movie-two-heroes/banner.jpg",
+      "synopsis": "The climactic finals are over, and U.A. is getting ready for the summer training camp. Deku and All Might receive an invitation from a certain person to go overseas to a giant artificial moving city called I-Island. This island, a kind of “science Hollywood” that gathers the knowledge of scientists from around the world, is holding an exhibition called I-Expo showcasing the results of Quirk and hero item research. In the midst of all this, Deku meets a Quirkless girl named Melissa and remembers his own Quirkless past. Out of the blue, the impregnable security system the island boasts is hacked by villains, and all the people on the island are taken as hostages! Now, a plan that could shake hero society has been put into motion! The man who holds the key to it all is the number one hero and Symbol of Peace, All Might.\n\n(Source: Funimation)",
+      "year": 2018,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Comedy",
+        "School Life",
+        "Superhero",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "d76bfbd147b44c98f94859418efb805a258fc928",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-the-movie-two-heroes/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
