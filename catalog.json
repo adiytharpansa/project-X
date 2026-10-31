@@ -34380,6 +34380,200 @@
           "playlist": "gate/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "great-teacher-onizuka",
+      "title": "Great Teacher Onizuka",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ac7a2bbe01e38fa56cdf6653612265ef2fb835c1/great-teacher-onizuka/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ac7a2bbe01e38fa56cdf6653612265ef2fb835c1/great-teacher-onizuka/banner.jpg",
+      "synopsis": "Onizuka is a reformed biker gang leader who has his sights set on an honorable new ambition: to become the world's greatest teacher... for the purpose of meeting sexy high school girls. Okay, so he's mostly reformed.\nHowever, strict administrators and a class of ruthless delinquents stand between Onizuka and his goal and they will use any means, however illegal or low, to drive the new teacher away. Perfect, because Onizuka's methods won't be found in any teaching manual; he cares about the difference between legal and illegal activities about as much as he cares for the age difference between himself and a high school girl.\nSo get ready for math that doesn't add up, language you'd be slapped for using, and biology that would make a grown man blush... unless of course, you're the Great Teacher Onizuka.\n[Written by MAL Rewrite]",
+      "year": 1999,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Asia",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "5ee9a1f7e9d61605f8a37f23d2881fb03a5554ce",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "great-teacher-onizuka/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "great-teacher-onizuka/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "great-teacher-onizuka/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "great-teacher-onizuka/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "great-teacher-onizuka/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "great-teacher-onizuka/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "great-teacher-onizuka/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "great-teacher-onizuka/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "great-teacher-onizuka/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "great-teacher-onizuka/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "great-teacher-onizuka/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "great-teacher-onizuka/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "great-teacher-onizuka/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "great-teacher-onizuka/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "great-teacher-onizuka/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "great-teacher-onizuka/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "great-teacher-onizuka/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "great-teacher-onizuka/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "great-teacher-onizuka/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "great-teacher-onizuka/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "great-teacher-onizuka/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "great-teacher-onizuka/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "great-teacher-onizuka/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "great-teacher-onizuka/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "great-teacher-onizuka/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "great-teacher-onizuka/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "great-teacher-onizuka/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "great-teacher-onizuka/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "great-teacher-onizuka/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "great-teacher-onizuka/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "great-teacher-onizuka/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "great-teacher-onizuka/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "great-teacher-onizuka/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "great-teacher-onizuka/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "great-teacher-onizuka/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "great-teacher-onizuka/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "great-teacher-onizuka/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "great-teacher-onizuka/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "great-teacher-onizuka/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "great-teacher-onizuka/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "great-teacher-onizuka/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "great-teacher-onizuka/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "great-teacher-onizuka/ep43/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
