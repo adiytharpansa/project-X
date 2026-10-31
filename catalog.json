@@ -50382,6 +50382,84 @@
           "playlist": "sayonara/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sound-euphonium",
+      "title": "Sound! Euphonium",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@06c14829d8572e4ba9e2deecd82487425e50bd82/sound-euphonium/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@06c14829d8572e4ba9e2deecd82487425e50bd82/sound-euphonium/banner.jpg",
+      "synopsis": "After swearing off music due to an incident at the middle school regional brass band competition, euphonist Kumiko Oumae enters high school hoping for a fresh start. As fate would have it, she ends up being surrounded by people with an interest in the high school brass band. Kumiko finds the motivation she needs to make music once more with the help of her bandmates, some of whom are new like novice tubist Hazuki Katou; veteran contrabassist Sapphire Kawashima; and band vice president and fellow euphonist Asuka Tanaka. Others are old friends, like Kumiko's childhood friend and hornist-turned-trombonist Shuuichi Tsukamoto, and trumpeter and bandmate from middle school, Reina Kousaka.\n\nHowever, in the band itself, chaos reigns supreme. Despite their intention to qualify for the national band competition, as they currently are, just competing in the local festival will be a challenge—unless the new band advisor Noboru Taki does something about it.\nFrom the studio that animated Suzumiya Haruhi no Yuuutsu, Kyoto Animation's Hibike! Euphonium is a fresh and musical take on the slice-of-life staple that is the high school student's struggle to deal with their past, find romance, and realize their dreams and aspirations.\n\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Musical Band",
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "3901228d185f5bdaa243965615c52c615362fb9f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sound-euphonium/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "sound-euphonium/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "sound-euphonium/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "sound-euphonium/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "sound-euphonium/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "sound-euphonium/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "sound-euphonium/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "sound-euphonium/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "sound-euphonium/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "sound-euphonium/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "sound-euphonium/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "sound-euphonium/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "sound-euphonium/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "sound-euphonium/ep14/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
