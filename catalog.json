@@ -24581,6 +24581,32 @@
           "playlist": "food-wars-shokugeki-no-soma/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-neighbor-totoro",
+      "title": "My Neighbor Totoro",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a82b9b8bd2bb9f8abc0491d04b5d6f13e48b1fac/my-neighbor-totoro/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a82b9b8bd2bb9f8abc0491d04b5d6f13e48b1fac/my-neighbor-totoro/banner.jpg",
+      "synopsis": "Follow the adventures of Satsuki and her four-year-old sister Mei when they move into a new home in the countryside. To their delight they discover that their new neighbor is a mysterious forest spirit called Totoro who can be seen only through the eyes of a child. Totoro introduces them to extraordinary characters, including a cat that doubles as a bus, takes them on a journey through the wonders of nature.\n\n(Source: Disney)",
+      "year": 1988,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Countryside",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "516fe5361b003b6f700199258cd5901a27062f66",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-neighbor-totoro/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
