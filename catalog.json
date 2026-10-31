@@ -46073,6 +46073,76 @@
           "playlist": "my-teen-romantic-comedy-snafu-climax/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "school-live",
+      "title": "School-Live!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@85d6fd0ace6f2a2aff9e89309b5ec944474beb81/school-live/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@85d6fd0ace6f2a2aff9e89309b5ec944474beb81/school-live/banner.jpg",
+      "synopsis": "SCHOOL-LIVE! Focuses on the lives of 4 girls who decide to stay over at school: Yuki Takeya, Kurumi Ebisuzawa, Yuri Wakasa, and Miki Naoki. Along with the school adviser Megumi Sakura, they suddenly find themselves to be the final survivors of a zombie attack, and continue to live and survive at the school.\n\n(Source: Crunchyroll)",
+      "year": 2015,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Zombie",
+        "School Clubs",
+        "Angst",
+        "Fantasy",
+        "Horror",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "2268b9c7e6410fc44077612f16a3366c2ef2b609",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "school-live/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "school-live/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "school-live/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "school-live/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "school-live/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "school-live/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "school-live/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "school-live/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "school-live/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "school-live/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "school-live/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "school-live/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
