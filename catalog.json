@@ -22863,6 +22863,185 @@
           "playlist": "tokyo-ghoul-3/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "wo-zai-tianting-shou-feipin",
+      "title": "Wo Zai Tianting Shou Feipin",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d243175e0f18052d74f226fb6a53542fe342fd36/wo-zai-tianting-shou-feipin/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/gudang-gambar@d243175e0f18052d74f226fb6a53542fe342fd36/wo-zai-tianting-shou-feipin/poster.jpg",
+      "synopsis": "In a modern martial arts world, Zhao Xin unexpectedly inherits the Celestial Realm's recycling station. This grants him not only the aid of numerous immortals but also the admiration of many beauties, ultimately leading him to the pinnacle of martial arts.",
+      "year": null,
+      "score": null,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/gudang-14",
+      "pin": "9a0b7e65d7da411489965b84b7be1b9c28cf592a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "wo-zai-tianting-shou-feipin/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "wo-zai-tianting-shou-feipin/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "wo-zai-tianting-shou-feipin/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "wo-zai-tianting-shou-feipin/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "wo-zai-tianting-shou-feipin/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "wo-zai-tianting-shou-feipin/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "wo-zai-tianting-shou-feipin/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "wo-zai-tianting-shou-feipin/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "wo-zai-tianting-shou-feipin/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "wo-zai-tianting-shou-feipin/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "wo-zai-tianting-shou-feipin/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "wo-zai-tianting-shou-feipin/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "wo-zai-tianting-shou-feipin/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "wo-zai-tianting-shou-feipin/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "wo-zai-tianting-shou-feipin/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "wo-zai-tianting-shou-feipin/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "wo-zai-tianting-shou-feipin/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "wo-zai-tianting-shou-feipin/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "wo-zai-tianting-shou-feipin/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "wo-zai-tianting-shou-feipin/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "wo-zai-tianting-shou-feipin/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "wo-zai-tianting-shou-feipin/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "wo-zai-tianting-shou-feipin/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "wo-zai-tianting-shou-feipin/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "wo-zai-tianting-shou-feipin/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "wo-zai-tianting-shou-feipin/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "wo-zai-tianting-shou-feipin/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "wo-zai-tianting-shou-feipin/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "wo-zai-tianting-shou-feipin/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "wo-zai-tianting-shou-feipin/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "wo-zai-tianting-shou-feipin/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "wo-zai-tianting-shou-feipin/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "wo-zai-tianting-shou-feipin/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "wo-zai-tianting-shou-feipin/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "wo-zai-tianting-shou-feipin/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "wo-zai-tianting-shou-feipin/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "wo-zai-tianting-shou-feipin/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "wo-zai-tianting-shou-feipin/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "wo-zai-tianting-shou-feipin/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "wo-zai-tianting-shou-feipin/ep40/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
