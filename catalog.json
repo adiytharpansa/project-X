@@ -48120,6 +48120,76 @@
           "playlist": "gosick/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haganai-i-don-t-have-many-friends-next",
+      "title": "Haganai: I don't have many friends NEXT",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6564ed41ca904dffdcd3e9988afcc5b752eb2f51/haganai-i-don-t-have-many-friends-next/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6564ed41ca904dffdcd3e9988afcc5b752eb2f51/haganai-i-don-t-have-many-friends-next/banner.jpg",
+      "synopsis": "The Neighbor's Club—a club founded for the purpose of making friends, where misfortunate boys and girls with few friends live out their regrettable lives.\nAlthough Yozora Mikazuki faced a certain incident at the end of summer, the daily life of the Neighbor's Club goes on as usual. A strange nun, members of the student council and other new faces make an appearance, causing Kodaka Hasegawa's life to grow even busier.\nWhile they all enjoy going to the amusement park, playing games, celebrating birthdays, and challenging the \"school festival\"—a symbol of the school life normal people live—the relations amongst the members slowly begins to change...\nLet the next stage begin, on this unfortunate coming-of-age love comedy!!\n(Source: ANN)",
+      "year": 2013,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Maid",
+        "Present",
+        "School Clubs",
+        "Japan",
+        "Comedy",
+        "Ecchi"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "9e81ea167d732a5d13dbb54c3237052701d36b6b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "haganai-i-don-t-have-many-friends-next/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
