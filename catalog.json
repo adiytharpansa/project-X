@@ -46239,6 +46239,29 @@
           "playlist": "redline/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hanamonogatari",
+      "title": "Hanamonogatari",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c946ea20efeef2a1d4ff7ce9f4995f30ce2f3d06/hanamonogatari/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c946ea20efeef2a1d4ff7ce9f4995f30ce2f3d06/hanamonogatari/banner.jpg",
+      "synopsis": "Now that Koyomi Araragi and Hitagi Senjougahara have graduated, very few familiar faces remain at Naoetsu Private High School, one of them being Kanbaru Suruga, holder of the Monkey's Paw. When she begins to hear talk of a mysterious being known as the \"Devil,\" who will magically solve any problem, she immediately thinks these rumors are about her and decides to investigate.\n\nShe discovers the Devil is actually Rouka Numachi, a former rival from junior high who is providing free advice to those who seek her out now that she is no longer able to play basketball due to a leg injury. Acting as a collector of misfortune, she enjoys relieving the stress of her clients by providing them with the false hope of having their problems solved. Although Kanbaru sees no real harm being done, she reprimands Rouka for lying and heads home, relieved she is not the cause of the rumors. But when she finds that her left hand has reverted back to its human form, she may have a reason to worry after all...\n\n(Source: MAL Rewrite)",
+      "year": 2014,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xg8xosu0mqzx",
+      "pin": "28b147cd11244ed99aa3d462d72de1bd5b8cdf42",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hanamonogatari/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
