@@ -27051,308 +27051,76 @@
       ]
     },
     {
-      "id": "akame-ga-kill",
-      "title": "Akame ga Kill!",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3555afbe31651f0a05f9b3411895fdcc2d1fee3d/akame-ga-kill/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3555afbe31651f0a05f9b3411895fdcc2d1fee3d/akame-ga-kill/banner.jpg",
-      "synopsis": "Under the rule of a tyrannical empire, Tatsumi, a young swordsman, leaves his home to save his poverty stricken village. He meets a girl named Akame, an assassin who was bought, brainwashed and trained to kill by the Empire. Akame is a member of the secret assassin group called “Night Raid” who use special weapons called Teigu. Together, Tatsumi and the members of Night Raid confront the corrupt empire.\n\n(Source: Crunchyroll)",
-      "year": 2014,
-      "score": 7.5,
+      "id": "mob-psycho-100-ii",
+      "title": "Mob Psycho 100 II",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@978781a794b23556d451d448c216a35f9bdf3f93/mob-psycho-100-ii/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@978781a794b23556d451d448c216a35f9bdf3f93/mob-psycho-100-ii/banner.jpg",
+      "synopsis": "The second season of Mob Psycho 100.\n\nKageyama is an ordinary 8th grader who just wants to live a normal life. Although he can disappear in the crowd in a flash, he was actually the most powerful psychic. The lives of those around Mob and his numerous feelings that softly piles up for the eventual explosion. The mysterious group \"Claw\" stands before him once again. In the midst of his youthful days, where will his roaring heart take him!?\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 8.2,
       "genres": [
+        "Ghost",
         "Super Power",
-        "Violence",
+        "Plot Continuity",
         "Action",
-        "Fantasy",
-        "Adventure",
-        "Drama"
-      ],
-      "status": "FINISHED",
-      "repo": "adiytharpansa/xn4zeky5id7v",
-      "pin": "c347e25420aa319605529f98b07b442a388f1e8d",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "akame-ga-kill/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "akame-ga-kill/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "akame-ga-kill/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "akame-ga-kill/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "akame-ga-kill/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "akame-ga-kill/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "akame-ga-kill/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "akame-ga-kill/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "akame-ga-kill/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "akame-ga-kill/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "akame-ga-kill/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "akame-ga-kill/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "akame-ga-kill/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "akame-ga-kill/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "akame-ga-kill/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "akame-ga-kill/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "akame-ga-kill/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "akame-ga-kill/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "akame-ga-kill/ep19/playlist.m3u8"
-        },
-        {
-          "number": 20,
-          "playlist": "akame-ga-kill/ep20/playlist.m3u8"
-        },
-        {
-          "number": 21,
-          "playlist": "akame-ga-kill/ep21/playlist.m3u8"
-        },
-        {
-          "number": 22,
-          "playlist": "akame-ga-kill/ep22/playlist.m3u8"
-        },
-        {
-          "number": 23,
-          "playlist": "akame-ga-kill/ep23/playlist.m3u8"
-        },
-        {
-          "number": 24,
-          "playlist": "akame-ga-kill/ep24/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "puella-magi-madoka-magica",
-      "title": "Puella Magi Madoka Magica",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eb19cd8c19ac6e2f82440b4c8f4ab693e6a76883/puella-magi-madoka-magica/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eb19cd8c19ac6e2f82440b4c8f4ab693e6a76883/puella-magi-madoka-magica/banner.jpg",
-      "synopsis": "Madoka Kaname and Sayaka Miki are regular middle school girls with regular lives, but all that changes when they encounter Kyuubey, a cat-like magical familiar, and Homura Akemi, the new transfer student.\nKyuubey offers them a proposition: he will grant one of their wishes and in exchange, they will each become a magical girl, gaining enough power to fulfill their dreams. However Homura, a magical girl herself, urges them not to accept the offer since everything is not what it seems.\nA story of hope, despair, and friendship, Mahou Shoujo Madoka★Magica deals with the difficulties of being a magical girl and the price one has to pay to make a dream come true.\n[Written by MAL Rewrite]",
-      "year": 2011,
-      "score": 8.2,
-      "genres": [
-        "Middle School",
-        "Magic",
-        "Magical Girl",
-        "Super Power",
-        "Present",
-        "Earth"
-      ],
-      "status": "FINISHED",
-      "repo": "adiytharpansa/x44hq4epzll7",
-      "pin": "90184b788e596accf73e4b25ebb4df2b1ca05e33",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "puella-magi-madoka-magica/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "puella-magi-madoka-magica/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "puella-magi-madoka-magica/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "puella-magi-madoka-magica/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "puella-magi-madoka-magica/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "puella-magi-madoka-magica/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "puella-magi-madoka-magica/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "puella-magi-madoka-magica/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "puella-magi-madoka-magica/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "puella-magi-madoka-magica/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "puella-magi-madoka-magica/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "puella-magi-madoka-magica/ep12/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "the-disastrous-life-of-saiki-k",
-      "title": "The Disastrous Life of Saiki K.",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@61f193b7b4b77c0484b111851307d5dcd8270d36/the-disastrous-life-of-saiki-k/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@61f193b7b4b77c0484b111851307d5dcd8270d36/the-disastrous-life-of-saiki-k/banner.jpg",
-      "synopsis": "To the average person, psychic abilities might seem a blessing; for Kusuo Saiki, however, this couldn't be further from the truth. Gifted with a wide assortment of supernatural abilities ranging from telepathy to x-ray vision, he finds this so-called blessing to be nothing but a curse. As all the inconveniences his powers cause constantly pile up, all Kusuo aims for is an ordinary, hassle-free life—a life where ignorance is bliss.\nUnfortunately, the life of a psychic is far from quiet. Though Kusuo tries to stay out of the spotlight by keeping his powers a secret from his classmates, he ends up inadvertently attracting the attention of many odd characters, such as the empty-headed Riki Nendou and the delusional Shun Kaidou. Forced to deal with the craziness of the people around him, Kusuo comes to learn that the ordinary life he has been striving for is a lot more difficult to achieve than expected.\n\nNote: Originally aired as 120 5min episodes that were later compiled into 24 normal lenght episodes",
-      "year": 2016,
-      "score": 8.2,
-      "genres": [
-        "High School",
-        "Super Power",
-        "Absurdist Humour",
-        "Breaking The Fourth Wall",
         "Comedy",
-        "School Life"
+        "Slice of Life"
       ],
       "status": "FINISHED",
-      "repo": "adiytharpansa/xg8xosu0mqzx",
-      "pin": "f6cfb243310b60ff94023c84a21f2980e777ffd1",
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "35cc6ff62426e55f8326dfac0f76c4efc527e12e",
       "episodes": [
         {
           "number": 1,
-          "playlist": "the-disastrous-life-of-saiki-k/ep1/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "the-disastrous-life-of-saiki-k/ep2/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "the-disastrous-life-of-saiki-k/ep3/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "the-disastrous-life-of-saiki-k/ep4/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "the-disastrous-life-of-saiki-k/ep5/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "the-disastrous-life-of-saiki-k/ep6/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "the-disastrous-life-of-saiki-k/ep7/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "the-disastrous-life-of-saiki-k/ep8/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "the-disastrous-life-of-saiki-k/ep9/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "the-disastrous-life-of-saiki-k/ep10/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "the-disastrous-life-of-saiki-k/ep11/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "the-disastrous-life-of-saiki-k/ep12/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "the-disastrous-life-of-saiki-k/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "the-disastrous-life-of-saiki-k/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "the-disastrous-life-of-saiki-k/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "the-disastrous-life-of-saiki-k/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "the-disastrous-life-of-saiki-k/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "the-disastrous-life-of-saiki-k/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "the-disastrous-life-of-saiki-k/ep19/playlist.m3u8"
-        },
-        {
-          "number": 20,
-          "playlist": "the-disastrous-life-of-saiki-k/ep20/playlist.m3u8"
-        },
-        {
-          "number": 21,
-          "playlist": "the-disastrous-life-of-saiki-k/ep21/playlist.m3u8"
-        },
-        {
-          "number": 22,
-          "playlist": "the-disastrous-life-of-saiki-k/ep22/playlist.m3u8"
-        },
-        {
-          "number": 23,
-          "playlist": "the-disastrous-life-of-saiki-k/ep23/playlist.m3u8"
-        },
-        {
-          "number": 24,
-          "playlist": "the-disastrous-life-of-saiki-k/ep24/playlist.m3u8"
+          "playlist": "mob-psycho-100-ii/ep13/playlist.m3u8"
         }
       ]
     }
