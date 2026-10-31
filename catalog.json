@@ -50768,6 +50768,74 @@
           "playlist": "eromanga-sensei/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "himouto-umaru-chan",
+      "title": "Himouto! Umaru-chan",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ed7efe4cc08ef4d4da04fd8f87650429550fcdf0/himouto-umaru-chan/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ed7efe4cc08ef4d4da04fd8f87650429550fcdf0/himouto-umaru-chan/banner.jpg",
+      "synopsis": "People are not always who they appear to be, as is the case with Umaru Doma, the perfect high school girl—that is, until she gets home! Once the front door closes, the real fun begins. When she dons her hamster hoodie, she transforms from a refined, over-achieving student into a lazy, junk food-eating otaku, leaving all the housework to her responsible older brother Taihei. Whether she's hanging out with her friends Nana Ebina and Kirie Motoba, or competing with her self-proclaimed \"rival\" Sylphinford Tachibana, Umaru knows how to kick back and have some fun!Himouto! Umaru-chan is a cute story that follows the daily adventures of Umaru and Taihei, as they take care of—and put up with—each other the best they can, as well as the unbreakable bonds between friends and siblings.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Super Deformed",
+        "Comedy",
+        "Slice of Life",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "307efee3de7ef707dba931ee89e3645d1e707028",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "himouto-umaru-chan/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "himouto-umaru-chan/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "himouto-umaru-chan/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "himouto-umaru-chan/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "himouto-umaru-chan/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "himouto-umaru-chan/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "himouto-umaru-chan/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "himouto-umaru-chan/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "himouto-umaru-chan/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "himouto-umaru-chan/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "himouto-umaru-chan/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "himouto-umaru-chan/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
