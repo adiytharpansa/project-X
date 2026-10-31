@@ -45935,6 +45935,74 @@
           "playlist": "reborn/ep203/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hinamatsuri",
+      "title": "HINAMATSURI",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c688b0af2f99c2b9bde0bb75564e617b72018689/hinamatsuri/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c688b0af2f99c2b9bde0bb75564e617b72018689/hinamatsuri/banner.jpg",
+      "synopsis": "Nitta Yoshifumi, a young, intellectual yakuza, lived surrounded by his beloved pots in his turf in Ashigawa. But one day, a girl, Hina, arrives in a strange object, and uses her telekinetic powers to force Nitta to allow her to live with him, putting an end to his leisurely lifestyle. Hina tends to lose control of herself, wreaking havoc both at school and in Nitta's organization. Though troubled, he finds himself taking care of her. What will become of this strange arrangement? It's the beginning of the dangerous and lively story of a nice-guy outlaw and psychokinetic girl! \n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "0be89d1cd2fbf99e9c7fd7e0b3aeeaf6dd629514",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hinamatsuri/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hinamatsuri/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hinamatsuri/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hinamatsuri/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hinamatsuri/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hinamatsuri/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hinamatsuri/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hinamatsuri/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hinamatsuri/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hinamatsuri/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "hinamatsuri/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "hinamatsuri/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
