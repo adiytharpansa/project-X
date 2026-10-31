@@ -43440,6 +43440,76 @@
           "playlist": "a-certain-magical-index-ii/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "beastars",
+      "title": "BEASTARS",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3f8eb0316047564a421a80cadcff6fa24bb7a2ce/beastars/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3f8eb0316047564a421a80cadcff6fa24bb7a2ce/beastars/banner.jpg",
+      "synopsis": "In a world populated by anthropomorphic animals, herbivores and carnivores coexist with each other. For the adolescents of Cherryton Academy, school life is filled with hope, romance, distrust, and uneasiness.\n\nThe main character is Legoshi the Wolf, a member of the drama club. Despite his menacing appearance, he has a very gentle heart. Throughout most of his life, he has always been an object of fear and hatred by other animals, and he’s been quite accustomed to that lifestyle. But soon, he finds himself becoming more involved with his fellow classmates who have their own share of insecurities and finds his life in school changing slowly.\n\n(Source: moetron)",
+      "year": 2019,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Comedy",
+        "Anthropomorphism",
+        "Slice of Life",
+        "School Life",
+        "Drama"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "19cd9e3b0d8c25ff66f7f1f60ce795bdcedd3a82",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "beastars/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "beastars/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "beastars/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "beastars/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "beastars/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "beastars/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "beastars/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "beastars/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "beastars/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "beastars/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "beastars/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "beastars/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
