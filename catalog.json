@@ -33366,6 +33366,36 @@
           "playlist": "black-bullet/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-butler-book-of-murder",
+      "title": "Black Butler: Book of Murder",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a1619648a1e5dc0169698ea8da8fc633dce459b8/black-butler-book-of-murder/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a1619648a1e5dc0169698ea8da8fc633dce459b8/black-butler-book-of-murder/banner.jpg",
+      "synopsis": "At the behest of the Queen, Earl Ciel Phantomhive hosts a lavish dinner party attended by several of the finest members of polite society—as well as struggling author, Arthur. But as the party reaches its high, a terrible murder takes place and none other than the Earl himself is suspected of the crime.\nAs a violent storm rages on outside, the death count continues to climb. The Phantomhive household and their eminent guests find they must cooperate in order to solve this mystery before they too fall prey to the mysterious murderer. However, it seems that not even the perfect butler, Sebastian Michaelis, is safe from this horror.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Earth",
+        "Historical",
+        "Demon",
+        "Victorian Period",
+        "United Kingdom"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "357fa15b7060bbbbdc22622fe758c71328b1d7fb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "black-butler-book-of-murder/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "black-butler-book-of-murder/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
