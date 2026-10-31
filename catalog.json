@@ -47928,6 +47928,80 @@
           "playlist": "from-the-new-world/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "god-eater",
+      "title": "God Eater",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5db9ce8852a8798291ba239e312d6f98dda536a7/god-eater/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5db9ce8852a8798291ba239e312d6f98dda536a7/god-eater/banner.jpg",
+      "synopsis": "The year is 2071. Humanity has been pushed to the brink of extinction following the emergence of man-eating monsters called \"Aragami\" that boast an immunity to conventional weaponry. They ravaged the land, consuming almost everything in their path and leaving nothing in their wake. To combat them, an organization named Fenrir was formed as a last-ditch effort to save humanity through the use of \"God Eaters\"—special humans infused with Oracle cells, allowing them to wield the God Arc, the only known weapon capable of killing an Aragami. One such God Eater is Lenka Utsugi, a New-Type whose God Arc takes the form of both blade and gun.\nNow, as one of Fenrir's greatest weapons, Lenka must master his God Arc if he is to fulfill his desire of wiping out the Aragami once and for all. The monsters continue to be born en masse while the remnants of humanity struggle to survive the night. Only God Eaters stand between the Aragami and complete and total annihilation of the human race.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Dark Fantasy",
+        "Violence",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "891b5cd174a82436dc5f183d0d72e5c6951e67ca",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "god-eater/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "god-eater/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "god-eater/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "god-eater/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "god-eater/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "god-eater/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "god-eater/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "god-eater/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "god-eater/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "god-eater/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "god-eater/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "god-eater/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "god-eater/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
