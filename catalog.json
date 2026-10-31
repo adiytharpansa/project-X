@@ -30375,6 +30375,75 @@
           "playlist": "darling-in-the-franxx/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tokyo-ghoul-re",
+      "title": "Tokyo Ghoul:re",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2af6a66aff31d0219e0bb5dd601645d87a6ff04e/tokyo-ghoul-re/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2af6a66aff31d0219e0bb5dd601645d87a6ff04e/tokyo-ghoul-re/banner.jpg",
+      "synopsis": "Haise Sasaki has been tasked with teaching Qs Squad how to be outstanding investigators, but his assignment is complicated by the troublesome personalities of his students and his own uncertain grasp of his Ghoul powers. Can he pull them together as a team, or will Qs Squad first assignment be their last?\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Horror",
+        "Psychological",
+        "Supernatural",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "406a03f3d4120b7f698489de0f95b661139cf4ee",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-ghoul-re/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tokyo-ghoul-re/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tokyo-ghoul-re/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tokyo-ghoul-re/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tokyo-ghoul-re/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tokyo-ghoul-re/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tokyo-ghoul-re/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tokyo-ghoul-re/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tokyo-ghoul-re/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tokyo-ghoul-re/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tokyo-ghoul-re/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tokyo-ghoul-re/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
