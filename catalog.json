@@ -42549,6 +42549,75 @@
           "playlist": "gintama-enchousen/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-quintessential-quintuplets",
+      "title": "The Quintessential Quintuplets",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8c8c5ffd6e3a06cf1f7e2224d809d36cfbca20e8/the-quintessential-quintuplets/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8c8c5ffd6e3a06cf1f7e2224d809d36cfbca20e8/the-quintessential-quintuplets/banner.jpg",
+      "synopsis": "Uesugi Fuutarou, a high school second-year from a poor family, receives a highly appealing offer to work part-time as a tutor... but his students turn out to be girls from his own class! What's more, they're quintuplets... and all five are beautiful, but happen to be problem students who have borderline grades and hate studying! Looks like his first assignment will be to win all the sisters' trust?! Every day is a wild party in this rom-com centering around the quintuplet sisters of the Nakano household!\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Harem",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "a7315661e7ae7bb0ff99a49017eaa48daad43d2d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-quintessential-quintuplets/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-quintessential-quintuplets/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-quintessential-quintuplets/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-quintessential-quintuplets/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-quintessential-quintuplets/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-quintessential-quintuplets/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-quintessential-quintuplets/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-quintessential-quintuplets/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-quintessential-quintuplets/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-quintessential-quintuplets/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-quintessential-quintuplets/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-quintessential-quintuplets/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
