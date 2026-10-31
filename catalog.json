@@ -37767,6 +37767,124 @@
           "playlist": "monster/ep74/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "banana-fish",
+      "title": "Banana Fish",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@542b56971ec5c014a6bb04238a8f3710699925a4/banana-fish/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@542b56971ec5c014a6bb04238a8f3710699925a4/banana-fish/banner.jpg",
+      "synopsis": "Nature made Ash Lynx beautiful; nurture made him a cold ruthless killer. A runaway brought up as the adopted heir and sex toy of \"Papa\" Dino Golzine, Ash, now at the rebellious age of seventeen, forsakes the kingdom held out by the devil who raised him. But the hideous secret that drove Ash's older brother mad in Iraq has suddenly fallen into Papa's insatiably ambitious hands—and it's exactly the wrong time for Eiji Okamura, a pure-hearted young photographer from Japan, to make Ash Lynx's acquaintance...\n\n(Source: VIZ)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Delinquent",
+        "New York",
+        "United States",
+        "Action",
+        "Drama",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "5cd3b1c5226dce2c509ee84b93bb249457acd098",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "banana-fish/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "banana-fish/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "banana-fish/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "banana-fish/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "banana-fish/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "banana-fish/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "banana-fish/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "banana-fish/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "banana-fish/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "banana-fish/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "banana-fish/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "banana-fish/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "banana-fish/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "banana-fish/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "banana-fish/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "banana-fish/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "banana-fish/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "banana-fish/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "banana-fish/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "banana-fish/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "banana-fish/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "banana-fish/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "banana-fish/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "banana-fish/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
