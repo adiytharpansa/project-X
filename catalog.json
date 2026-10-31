@@ -30736,76 +30736,72 @@
       ]
     },
     {
-      "id": "my-little-monster",
-      "title": "My Little Monster",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@09896d7f7a2576b0d36d5c8eaf88f6570aee0c2a/my-little-monster/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@09896d7f7a2576b0d36d5c8eaf88f6570aee0c2a/my-little-monster/banner.jpg",
-      "synopsis": "Shizuku Mizutani is apathetic towards her classmates, only caring about her grades. However, her cold view of life begins to change when she meets Haru Yoshida, a violent troublemaker who stopped attending class after getting into a fight early in the school year. He is not much different from her, though—he too understands little about human nature and does not have any friends. Much to Shizuku's surprise, he proclaims that she will be his friend and immediately confesses his feelings towards her upon meeting her.\nBecause of her lack of friends and social interaction, Shizuku has a hard time understanding her relationship with Haru. But slowly, their friendship begins to progress, and she discovers that there is more to Haru than violence. She begins to  develop feelings for him, but is unsure what kind of emotions she is experiencing. Together, Shizuku and Haru explore the true nature of their relationship and emotions.\n[Written by MAL Rewrite]",
-      "year": 2012,
-      "score": 7.7,
+      "id": "seraph-of-the-end-vampire-reign",
+      "title": "Seraph of the End: Vampire Reign",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80e94878d7798b98e7ee4bea2380e5160ae11973/seraph-of-the-end-vampire-reign/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@80e94878d7798b98e7ee4bea2380e5160ae11973/seraph-of-the-end-vampire-reign/banner.jpg",
+      "synopsis": "With the appearance of a mysterious virus that kills everyone above the age of 13, mankind becomes enslaved by previously hidden, power-hungry vampires who emerge in order to subjugate society with the promise of protecting the survivors, in exchange for donations of their blood.\nAmong these survivors are Yuuichirou and Mikaela Hyakuya, two young boys who are taken captive from an orphanage, along with other children whom they consider family. Discontent with being treated like livestock under the vampires' cruel reign, Mikaela hatches a rebellious escape plan that is ultimately doomed to fail. The only survivor to come out on the other side is Yuuichirou, who is found by the Moon Demon Company, a military unit dedicated to exterminating the vampires in Japan.\nMany years later, now a member of the Japanese Imperial Demon Army, Yuuichirou is determined to take revenge on the creatures that slaughtered his family, but at what cost?Owari no Seraph is a post-apocalyptic supernatural shounen anime that follows a young man's search for retribution, all the while battling for friendship and loyalty against seemingly impossible odds.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.5,
       "status": "FINISHED",
       "genres": [
-        "High School",
-        "Delinquent",
-        "Present",
+        "Vampire",
         "Earth",
         "Japan",
-        "Slow When It Comes To Love"
+        "Tokyo",
+        "Asia",
+        "Action"
       ],
-      "repo": "adiytharpansa/xrld3r9mhojh",
-      "pin": "bfe734eda16c237be8cd49888cb46b24566fe185",
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "53e70b2c56d65b4b8942ddc034746e652360c805",
       "episodes": [
         {
           "number": 1,
-          "playlist": "my-little-monster/ep1/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "my-little-monster/ep2/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "my-little-monster/ep3/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "my-little-monster/ep4/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "my-little-monster/ep5/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "my-little-monster/ep6/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "my-little-monster/ep7/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "my-little-monster/ep8/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "my-little-monster/ep9/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "my-little-monster/ep10/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "my-little-monster/ep11/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "my-little-monster/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "my-little-monster/ep13/playlist.m3u8"
+          "playlist": "seraph-of-the-end-vampire-reign/ep12/playlist.m3u8"
         }
       ]
     }
