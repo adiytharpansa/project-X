@@ -34210,6 +34210,32 @@
           "playlist": "one-piece-episode-of-east-blue/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "5-centimeters-per-second",
+      "title": "5 Centimeters Per Second",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aeb52672d84400d3aa4026fdb934aed7bfced0ea/5-centimeters-per-second/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aeb52672d84400d3aa4026fdb934aed7bfced0ea/5-centimeters-per-second/banner.jpg",
+      "synopsis": "Takaki Toono and Akari Shinohara, two very close friends and classmates, are torn apart when Akari's family is transferred to another region of Japan due to her family's job. Despite separation, they continue to keep in touch through mail. When Takaki finds out that his family is also moving, he decides to meet with Akari one last time.\nAs years pass by, they continue down their own paths, their distance slowly growing wider and their contact with one another fades. Yet, they keep remembering one another and the times they have shared together, wondering if they will have the chance to meet once again.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Asia",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "347deaa63510f43921611c599dd6b791c2105b4d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "5-centimeters-per-second/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
