@@ -23957,6 +23957,80 @@
           "playlist": "fate-zero/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "noragami-aragoto",
+      "title": "Noragami Aragoto",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4cba9fa9e81060c5a4c9b053dd3f7d9004818708/noragami-aragoto/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4cba9fa9e81060c5a4c9b053dd3f7d9004818708/noragami-aragoto/banner.jpg",
+      "synopsis": "Yato and Yukine have finally mended their relationship as god and Regalia, and everyone has returned to their daily life. Yato remains a minor and unknown deity who continues taking odd jobs for five yen apiece in the hopes of one day having millions of worshippers and his own grand shrine. Hiyori Iki has yet to have her loose soul fixed by Yato, but she enjoys life and prepares to attend high school nonetheless.\nTaking place immediately after the first season, Noragami Aragoto delves into the complicated past between Yato and the god of war Bishamon. The female god holds a mysterious grudge against Yato, which often results in violent clashes between them. It doesn't help that Bishamon's most trusted and beloved Regalia, Kazuma, appears to be indebted to Yato. When lives are on the line, unraveling these mysteries and others may be the only way to correct past mistakes.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Deity",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xg8xosu0mqzx",
+      "pin": "396a228616734acfd4fb64614bcc32bf40377bc0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "noragami-aragoto/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "noragami-aragoto/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "noragami-aragoto/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "noragami-aragoto/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "noragami-aragoto/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "noragami-aragoto/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "noragami-aragoto/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "noragami-aragoto/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "noragami-aragoto/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "noragami-aragoto/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "noragami-aragoto/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "noragami-aragoto/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "noragami-aragoto/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
