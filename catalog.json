@@ -35703,6 +35703,80 @@
           "playlist": "ergo-proxy/ep23/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "say-i-love-you",
+      "title": "Say \"I Love You\".",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c6c40c8a434870dc6ab04d565c528e558799a4dc/say-i-love-you/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c6c40c8a434870dc6ab04d565c528e558799a4dc/say-i-love-you/banner.jpg",
+      "synopsis": "Mei Tachibana was once a regular girl who enjoyed hanging out with her friends. But after a traumatic incident where all her so-called friends suddenly turned their backs on her, Mei's idea of friendship changed forever. In order to stop herself from ever going through the same awful experience again, she decides to stay away from people as much as possible, and ideally, to never make any friends ever again. This tactic seems to have worked relatively well in her current high school life, and she didn't at all mind being thought of as gloomy and strange. However, the appearance of Yamato Kurosawa—one of the most popular boys in her high school—shakes her stable foundation of an introvert, and makes her question whether or not her choices were indeed the right ones.\nNot only does Yamato not ignore her like everyone else seems to be doing, he also decides to freely give her his phone number! As their relationship slowly develops, and is marked with an unexpected kiss, Mei is finding it very hard to adapt to this new life style, and hardest of all, to express her true feelings towards Yamato. Sukitte Ii na yo. follows their developing relationship, as well as their frequent disagreements, to portray how difficult it can really be to say \"I love you.\"",
+      "year": 2012,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Sudden Girlfriend Appearance"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "9c31e0f5a96b62f44496effa734c72aeeb07865c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "say-i-love-you/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "say-i-love-you/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "say-i-love-you/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "say-i-love-you/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "say-i-love-you/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "say-i-love-you/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "say-i-love-you/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "say-i-love-you/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "say-i-love-you/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "say-i-love-you/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "say-i-love-you/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "say-i-love-you/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "say-i-love-you/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
