@@ -39086,6 +39086,440 @@
           "playlist": "strike-the-blood/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "d-gray-man",
+      "title": "D.Gray-man",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c2396e5252aee2c37377836d95d8c6319c32eb29/d-gray-man/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c2396e5252aee2c37377836d95d8c6319c32eb29/d-gray-man/banner.jpg",
+      "synopsis": "Losing a loved one is so painful that one may sometimes wish to be able to resurrect them—a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as \"Akuma,\" he uses the souls of the dead that are called back. Once a soul is placed in an Akuma, it is trapped forever, and the only way to save them is to exorcise them from their vessel using the Anti-Akuma weapon, \"Innocence.\"\nAfter spending three years as the disciple of General Cross, Allen Walker is sent to the Black Order—an organization comprised of those willing to fight Akuma and the Millennium Earl—to become an official Exorcist. With an arm as his Innocence and a cursed eye that can see the suffering souls within an Akuma, it's up to Allen and his fellow Exorcists to stop the Millennium Earl's ultimate plot: one that can lead to the destruction of the world.\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Super Power",
+        "Past",
+        "Earth",
+        "Alternative Past",
+        "Demon"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "83ee81a8da2ac0ae6a85a29b09edd9da76f68535",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "d-gray-man/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "d-gray-man/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "d-gray-man/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "d-gray-man/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "d-gray-man/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "d-gray-man/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "d-gray-man/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "d-gray-man/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "d-gray-man/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "d-gray-man/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "d-gray-man/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "d-gray-man/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "d-gray-man/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "d-gray-man/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "d-gray-man/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "d-gray-man/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "d-gray-man/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "d-gray-man/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "d-gray-man/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "d-gray-man/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "d-gray-man/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "d-gray-man/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "d-gray-man/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "d-gray-man/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "d-gray-man/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "d-gray-man/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "d-gray-man/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "d-gray-man/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "d-gray-man/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "d-gray-man/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "d-gray-man/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "d-gray-man/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "d-gray-man/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "d-gray-man/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "d-gray-man/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "d-gray-man/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "d-gray-man/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "d-gray-man/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "d-gray-man/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "d-gray-man/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "d-gray-man/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "d-gray-man/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "d-gray-man/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "d-gray-man/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "d-gray-man/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "d-gray-man/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "d-gray-man/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "d-gray-man/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "d-gray-man/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "d-gray-man/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "d-gray-man/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "d-gray-man/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "d-gray-man/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "d-gray-man/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "d-gray-man/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "d-gray-man/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "d-gray-man/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "d-gray-man/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "d-gray-man/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "d-gray-man/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "d-gray-man/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "d-gray-man/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "d-gray-man/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "d-gray-man/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "d-gray-man/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "d-gray-man/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "d-gray-man/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "d-gray-man/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "d-gray-man/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "d-gray-man/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "d-gray-man/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "d-gray-man/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "d-gray-man/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "d-gray-man/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "d-gray-man/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "d-gray-man/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "d-gray-man/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "d-gray-man/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "d-gray-man/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "d-gray-man/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "d-gray-man/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "d-gray-man/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "d-gray-man/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "d-gray-man/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "d-gray-man/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "d-gray-man/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "d-gray-man/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "d-gray-man/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "d-gray-man/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "d-gray-man/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "d-gray-man/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "d-gray-man/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "d-gray-man/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "d-gray-man/ep94/playlist.m3u8"
+        },
+        {
+          "number": 95,
+          "playlist": "d-gray-man/ep95/playlist.m3u8"
+        },
+        {
+          "number": 96,
+          "playlist": "d-gray-man/ep96/playlist.m3u8"
+        },
+        {
+          "number": 97,
+          "playlist": "d-gray-man/ep97/playlist.m3u8"
+        },
+        {
+          "number": 98,
+          "playlist": "d-gray-man/ep98/playlist.m3u8"
+        },
+        {
+          "number": 99,
+          "playlist": "d-gray-man/ep99/playlist.m3u8"
+        },
+        {
+          "number": 100,
+          "playlist": "d-gray-man/ep100/playlist.m3u8"
+        },
+        {
+          "number": 101,
+          "playlist": "d-gray-man/ep101/playlist.m3u8"
+        },
+        {
+          "number": 102,
+          "playlist": "d-gray-man/ep102/playlist.m3u8"
+        },
+        {
+          "number": 103,
+          "playlist": "d-gray-man/ep103/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
