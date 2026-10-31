@@ -49074,6 +49074,116 @@
           "playlist": "cardcaptor-sakura/ep70/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "re-creators",
+      "title": "Re:Creators",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@995e9c9856db0dd5b7b29e200a67f0b9a6ebd755/re-creators/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@995e9c9856db0dd5b7b29e200a67f0b9a6ebd755/re-creators/banner.jpg",
+      "synopsis": "Humans have created many stories. Joy, sadness, anger, deep emotion. Stories shake our emotions, and fascinate us. However, these are only the thoughts of bystanders. But what if the characters in the story have \"intentions\"? To them, are we god-like existences for bringing their story into the world? Our world is changed. Mete out punishment upon the realm of the gods. In Re:CREATORS, everyone becomes a Creator.\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Battle Royale",
+        "Contemporary Fantasy",
+        "Japan",
+        "Action",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "ff01c162811caca9e294cb78fe3f64a337fefcd9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "re-creators/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "re-creators/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "re-creators/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "re-creators/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "re-creators/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "re-creators/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "re-creators/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "re-creators/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "re-creators/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "re-creators/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "re-creators/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "re-creators/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "re-creators/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "re-creators/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "re-creators/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "re-creators/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "re-creators/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "re-creators/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "re-creators/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "re-creators/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "re-creators/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "re-creators/ep22/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
