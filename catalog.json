@@ -32642,6 +32642,124 @@
           "playlist": "kamisama-kiss-season-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "vinland-saga",
+      "title": "Vinland Saga",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@137c9b1cc9df7b19ec78f48df815b5a22c8dc61b/vinland-saga/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@137c9b1cc9df7b19ec78f48df815b5a22c8dc61b/vinland-saga/banner.jpg",
+      "synopsis": "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father. Sustaining Throfinn through his ordeal are his pride in his family and his dreams of a fertile westward land, a land without war or slavery … the land Leif called Vinland.\n\n(Source: Kodansha Comics USA)",
+      "year": 2019,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Swordplay",
+        "Historical",
+        "Violence",
+        "Action",
+        "Adventure",
+        "Revenge"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "1d9bff7b07f28baa1fae2517a3765a9d1a637f42",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "vinland-saga/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "vinland-saga/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "vinland-saga/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "vinland-saga/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "vinland-saga/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "vinland-saga/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "vinland-saga/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "vinland-saga/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "vinland-saga/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "vinland-saga/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "vinland-saga/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "vinland-saga/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "vinland-saga/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "vinland-saga/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "vinland-saga/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "vinland-saga/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "vinland-saga/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "vinland-saga/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "vinland-saga/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "vinland-saga/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "vinland-saga/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "vinland-saga/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "vinland-saga/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "vinland-saga/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
