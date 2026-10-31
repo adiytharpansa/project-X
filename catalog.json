@@ -38858,6 +38858,116 @@
           "playlist": "infinite-stratos/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "shiki",
+      "title": "Shiki",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6ae9a6b11b8af9a6e50fbd8742d44affc76e008f/shiki/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6ae9a6b11b8af9a6e50fbd8742d44affc76e008f/shiki/banner.jpg",
+      "synopsis": "Fifteen-year-old Megumi Shimizu dreamed of a glamorous life in the big city; however, her unexpected death in the quiet village of Sotoba marks the beginning of what appears to be a ferocious epidemic that turns the hot summer into a season of blood and terror. A young doctor named Toshio Ozaki  begins to doubt the nature of the disease and comes to understand that to discover the truth, he must abandon his humanity. Meanwhile, Natsuno Yuuki, an antisocial youth from the city, is haunted by the sudden death of Megumi and must realize the pain of friendship in the face of his own tragedy. Toshio and Natsuno form an unlikely pair as they work together to save Sotoba before it transforms into a ghost town of vampires.Shiki, adapted from the horror novel written by Fuyumi Ono, goes beyond the average vampire story. It tells the tragic tale of survival in a world where one cannot easily distinguish between good and evil. Abandoned by God, the Shiki, as the vampires call themselves, have only their will to live as they clash with the fear of the paranoid/unbelieving villagers. Shiki explores the boundary that separates man from monster.\n[Written by MAL Rewrite]",
+      "year": 2010,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Present",
+        "Earth",
+        "Countryside",
+        "Contemporary Fantasy",
+        "Dark Fantasy"
+      ],
+      "repo": "adiytharpansa/x110nbooz5mb",
+      "pin": "ed95a3b4b7f84b05f48e11902e347cbcb32fbf10",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "shiki/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "shiki/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "shiki/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "shiki/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "shiki/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "shiki/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "shiki/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "shiki/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "shiki/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "shiki/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "shiki/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "shiki/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "shiki/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "shiki/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "shiki/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "shiki/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "shiki/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "shiki/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "shiki/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "shiki/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "shiki/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "shiki/ep22/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
