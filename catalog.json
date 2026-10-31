@@ -39826,6 +39826,42 @@
           "playlist": "high-school-dxd-born/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-seven-deadly-sins-signs-of-holy-war",
+      "title": "The Seven Deadly Sins: Signs of Holy War",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6e0c0f713cbbcdf4f7fe9998fc07a8426ddae178/the-seven-deadly-sins-signs-of-holy-war/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@6e0c0f713cbbcdf4f7fe9998fc07a8426ddae178/the-seven-deadly-sins-signs-of-holy-war/banner.jpg",
+      "synopsis": "Having taken the kingdom of Leones back from Holy Knights, the Seven Deadly Sins, along with Elizabeth and Hawk, can finally enjoy the peaceful lives they earned. However, with premonitions of a new threat looming, their happy, ordinary days are about to end...\n\n(Source: Anime News Network)",
+      "year": 2016,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Ecchi"
+      ],
+      "repo": "adiytharpansa/x44hq4epzll7",
+      "pin": "02e9f051536768044e58254f3c7e1aa1d957e0db",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-seven-deadly-sins-signs-of-holy-war/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-seven-deadly-sins-signs-of-holy-war/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-seven-deadly-sins-signs-of-holy-war/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-seven-deadly-sins-signs-of-holy-war/ep4/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
