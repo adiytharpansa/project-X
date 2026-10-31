@@ -31803,6 +31803,48 @@
           "playlist": "kokoro-connect/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "monthly-girls-nozaki-kun",
+      "title": "Monthly Girls' Nozaki-kun",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5a5c20bc65ea3215802739a396ea17db6b6525fd/monthly-girls-nozaki-kun/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@5a5c20bc65ea3215802739a396ea17db6b6525fd/monthly-girls-nozaki-kun/banner.jpg",
+      "synopsis": "You know how the story goes: girl crushes on guy, girl confesses feelings to guy, guy mistakes confession for a job application. Okay, maybe that's not how it usually goes, but that's what happens when Chiyo Sakura finally gets up the nerve to tell her classroom crush Nozaki how she feels. Since she doesn't know that he's secretly a manga artist who publishes under a female pen name, and he doesn't know that she doesn't know, he misunderstands and offers her a chance to work as his assistant instead of a date! But while it's not flowers and dancing, it is a chance to get closer to him, so Chiyo gamely accepts. And when Nozaki realizes how useful Chiyo can be in figuring out what girls find romantic, he'll be spending even more time with her \"researching\" while remaining completely clueless. Could Chiyo's romantic frustration possibly get any more drawn out of proportion? The answer will be profusely illustrated in MONTHLY GIRLS' NOZAKI-KUN!\n\n(Source: Sentai Filmworks)",
+      "year": 2014,
+      "score": 8.1,
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Japan",
+        "Slow When It Comes To Love",
+        "Stereotypes"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "ae21a9fffb18de3dd6ee8f82752b0dc909851d7f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "monthly-girls-nozaki-kun/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "monthly-girls-nozaki-kun/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "monthly-girls-nozaki-kun/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "monthly-girls-nozaki-kun/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "monthly-girls-nozaki-kun/ep5/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
