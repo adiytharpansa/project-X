@@ -43999,6 +43999,75 @@
           "playlist": "summer-wars/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blue-exorcist-kyoto-saga",
+      "title": "Blue Exorcist: Kyoto Saga",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3831ed85b04c742c97d78eb682fe3e281cb0a23a/blue-exorcist-kyoto-saga/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3831ed85b04c742c97d78eb682fe3e281cb0a23a/blue-exorcist-kyoto-saga/banner.jpg",
+      "synopsis": "Second season of the Ao no Exorcist series.",
+      "year": 2017,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "505cec62442fd7f715d6891a1f6a4bb5822cdc54",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blue-exorcist-kyoto-saga/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "blue-exorcist-kyoto-saga/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "blue-exorcist-kyoto-saga/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "blue-exorcist-kyoto-saga/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "blue-exorcist-kyoto-saga/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "blue-exorcist-kyoto-saga/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "blue-exorcist-kyoto-saga/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "blue-exorcist-kyoto-saga/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "blue-exorcist-kyoto-saga/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "blue-exorcist-kyoto-saga/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "blue-exorcist-kyoto-saga/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "blue-exorcist-kyoto-saga/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
