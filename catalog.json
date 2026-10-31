@@ -48260,6 +48260,76 @@
           "playlist": "haganai-i-don-t-have-many-friends/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "how-not-to-summon-a-demon-lord",
+      "title": "How Not to Summon a Demon Lord",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2b18af639df3c7ff4e3d9dfa13f62f46517ac33c/how-not-to-summon-a-demon-lord/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2b18af639df3c7ff4e3d9dfa13f62f46517ac33c/how-not-to-summon-a-demon-lord/banner.jpg",
+      "synopsis": "Sakamoto Takuma was so strong in the MMORPG Cross Reverie that his fellow players came to call him the \"demon lord.\" One day, he gets summoned to another world in his avatar form, and meets two girls who both insist that they're the one who summoned him. They cast a spell used to enslave summoned beasts on him, but that activates his unique ability, Magic Reflect, and the girls end up being the ones put under the spell! And thus begins the otherworldly adventure of a demon lord (pretend) who blazes his own trail through overwhelming power.\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Demon",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Ecchi"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "73b7a1a0c719190b21392d4c9f1742e9e87c0a89",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "how-not-to-summon-a-demon-lord/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "how-not-to-summon-a-demon-lord/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "how-not-to-summon-a-demon-lord/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "how-not-to-summon-a-demon-lord/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "how-not-to-summon-a-demon-lord/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "how-not-to-summon-a-demon-lord/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "how-not-to-summon-a-demon-lord/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "how-not-to-summon-a-demon-lord/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "how-not-to-summon-a-demon-lord/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "how-not-to-summon-a-demon-lord/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "how-not-to-summon-a-demon-lord/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "how-not-to-summon-a-demon-lord/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
