@@ -35589,6 +35589,120 @@
           "playlist": "amagi-brilliant-park/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ergo-proxy",
+      "title": "Ergo Proxy",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e0a5964b90dc095c92cbeee60efb0ca24b47af03/ergo-proxy/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e0a5964b90dc095c92cbeee60efb0ca24b47af03/ergo-proxy/banner.jpg",
+      "synopsis": "Thousands of years after Earth's atmosphere was destroyed, adventure blooms in the strangest of places. The domed city of Romdo is supposed to be perfect, but Re-l Mayer, a young female inspector from the Civilian Intelligence Office, knows better. In this place where humans and robots coexist, she receives a strange message: something is awakening!\n\n(Source: Funimation)",
+      "year": 2006,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Gunfights",
+        "Future",
+        "Fantasy World",
+        "Earth",
+        "Mecha"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "235ddaef8a8da1dbabd59e25923eb29b661fbbc4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ergo-proxy/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ergo-proxy/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ergo-proxy/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ergo-proxy/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ergo-proxy/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ergo-proxy/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ergo-proxy/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ergo-proxy/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ergo-proxy/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ergo-proxy/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ergo-proxy/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ergo-proxy/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "ergo-proxy/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "ergo-proxy/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "ergo-proxy/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "ergo-proxy/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "ergo-proxy/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "ergo-proxy/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "ergo-proxy/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "ergo-proxy/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "ergo-proxy/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "ergo-proxy/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "ergo-proxy/ep23/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
