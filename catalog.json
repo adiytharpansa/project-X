@@ -30574,120 +30574,138 @@
       ]
     },
     {
-      "id": "black-butler",
-      "title": "Black Butler",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@970880ce4360564cb83d1eb8b964f128207ffdc4/black-butler/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@970880ce4360564cb83d1eb8b964f128207ffdc4/black-butler/banner.jpg",
-      "synopsis": "Young Ciel Phantomhive is known as \"the Queen's Guard Dog,\" taking care of the many unsettling events that occur in Victorian England for Her Majesty. Aided by Sebastian Michaelis, his loyal butler with seemingly inhuman abilities, Ciel uses whatever means necessary to get the job done. But is there more to this black-clad butler than meets the eye?\nIn Ciel's past lies a secret tragedy that enveloped him in perennial darkness—during one of his bleakest moments, he formed a contract with Sebastian, a demon, bargaining his soul in exchange for vengeance upon those who wronged him. Today, not only is Sebastian one hell of a butler, but he is also the perfect servant to carry out his master's orders—all the while anticipating the delicious meal he will eventually make of Ciel's soul. As the two work to unravel the mystery behind Ciel's chain of misfortunes, a bond forms between them that neither heaven nor hell can tear apart.\n[Written by MAL Rewrite]",
-      "year": 2008,
-      "score": 7.7,
+      "id": "deadman-wonderland",
+      "title": "Deadman Wonderland",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cce747cbb0e12c215491f9497eedd4c46582c881/deadman-wonderland/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cce747cbb0e12c215491f9497eedd4c46582c881/deadman-wonderland/banner.jpg",
+      "synopsis": "It looked like it would be a normal day for Ganta Igarashi and his classmates—they were preparing to go on a class field trip to a certain prison amusement park called Deadman Wonderland, where the convicts perform dangerous acts for the onlookers' amusement. However, Ganta's life is quickly turned upside down when his whole class gets massacred by a mysterious man in red. Framed for the incident and sentenced to death, Ganta is sent to the very jail he was supposed to visit. \nBut Ganta's nightmare is only just beginning. \nThe young protagonist is thrown into a world of sadistic inmates and enigmatic powers, to live in constant fear of the lethal collar placed around his neck that is slowed only by winning in the prison's deathly games. Ganta must bet his life to survive in a ruthless place where it isn't always easy to tell friend from foe, all while trying to find the mysterious \"Red Man\" and clear his name, in Deadman Wonderland.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 7.2,
       "status": "FINISHED",
       "genres": [
-        "Super Power",
-        "Historical",
-        "Demon",
-        "Victorian Period",
-        "United Kingdom",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Violence",
+        "Asia",
         "Action"
       ],
-      "repo": "adiytharpansa/xn4zeky5id7v",
-      "pin": "a3885b9fc427d33d7ee78d7f0ed6ebba2bc43731",
+      "repo": "adiytharpansa/x06snbltj7lb",
+      "pin": "ab34ad106bc5e81d58bd68fa329b0b6fc437911c",
       "episodes": [
         {
           "number": 1,
-          "playlist": "black-butler/ep1/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "black-butler/ep2/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "black-butler/ep3/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "black-butler/ep4/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "black-butler/ep5/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "black-butler/ep6/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "black-butler/ep7/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "black-butler/ep8/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "black-butler/ep9/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "black-butler/ep10/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "black-butler/ep11/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "black-butler/ep12/playlist.m3u8"
+          "playlist": "deadman-wonderland/ep12/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "terror-in-resonance",
+      "title": "Terror in Resonance",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@887fc0e26ecc4de8934db65fd8a9fd2cbd780a26/terror-in-resonance/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@887fc0e26ecc4de8934db65fd8a9fd2cbd780a26/terror-in-resonance/banner.jpg",
+      "synopsis": "Painted in red, the word \"VON\" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless—until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as \"Sphinx\" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all.Zankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Plot Continuity",
+        "Thriller",
+        "Law And Order",
+        "Drama",
+        "Cops",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "a789af158eb9201e7a85cc7b3c6a0109700dab9d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "terror-in-resonance/ep1/playlist.m3u8"
         },
         {
-          "number": 13,
-          "playlist": "black-butler/ep13/playlist.m3u8"
+          "number": 2,
+          "playlist": "terror-in-resonance/ep2/playlist.m3u8"
         },
         {
-          "number": 14,
-          "playlist": "black-butler/ep14/playlist.m3u8"
+          "number": 3,
+          "playlist": "terror-in-resonance/ep3/playlist.m3u8"
         },
         {
-          "number": 15,
-          "playlist": "black-butler/ep15/playlist.m3u8"
+          "number": 4,
+          "playlist": "terror-in-resonance/ep4/playlist.m3u8"
         },
         {
-          "number": 16,
-          "playlist": "black-butler/ep16/playlist.m3u8"
+          "number": 5,
+          "playlist": "terror-in-resonance/ep5/playlist.m3u8"
         },
         {
-          "number": 17,
-          "playlist": "black-butler/ep17/playlist.m3u8"
+          "number": 6,
+          "playlist": "terror-in-resonance/ep6/playlist.m3u8"
         },
         {
-          "number": 18,
-          "playlist": "black-butler/ep18/playlist.m3u8"
+          "number": 7,
+          "playlist": "terror-in-resonance/ep7/playlist.m3u8"
         },
         {
-          "number": 19,
-          "playlist": "black-butler/ep19/playlist.m3u8"
+          "number": 8,
+          "playlist": "terror-in-resonance/ep8/playlist.m3u8"
         },
         {
-          "number": 20,
-          "playlist": "black-butler/ep20/playlist.m3u8"
+          "number": 9,
+          "playlist": "terror-in-resonance/ep9/playlist.m3u8"
         },
         {
-          "number": 21,
-          "playlist": "black-butler/ep21/playlist.m3u8"
+          "number": 10,
+          "playlist": "terror-in-resonance/ep10/playlist.m3u8"
         },
         {
-          "number": 22,
-          "playlist": "black-butler/ep22/playlist.m3u8"
-        },
-        {
-          "number": 23,
-          "playlist": "black-butler/ep23/playlist.m3u8"
-        },
-        {
-          "number": 24,
-          "playlist": "black-butler/ep24/playlist.m3u8"
+          "number": 11,
+          "playlist": "terror-in-resonance/ep11/playlist.m3u8"
         }
       ]
     }
