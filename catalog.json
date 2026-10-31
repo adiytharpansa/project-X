@@ -48718,6 +48718,56 @@
           "playlist": "tsukigakirei/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "owarimonogatari-second-season",
+      "title": "Owarimonogatari Second Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7578e7e72062b70dd069621df24205b1dcd9f14e/owarimonogatari-second-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7578e7e72062b70dd069621df24205b1dcd9f14e/owarimonogatari-second-season/banner.jpg",
+      "synopsis": "Second season of Owarimonogatari.",
+      "year": 2017,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "aef758201a7730f2ed4e7c50e1030a85caa699df",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "owarimonogatari-second-season/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "owarimonogatari-second-season/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "owarimonogatari-second-season/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "owarimonogatari-second-season/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "owarimonogatari-second-season/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "owarimonogatari-second-season/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "owarimonogatari-second-season/ep7/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
