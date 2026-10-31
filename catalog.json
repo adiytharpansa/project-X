@@ -49615,6 +49615,32 @@
           "playlist": "when-supernatural-battles-became-commonplace/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "konosuba-god-s-blessing-on-this-wonderful-world-legend-of-cr",
+      "title": "KonoSuba: God's Blessing on This Wonderful World!: Legend of Crimson",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3e24ee8dd386c99e55a328514531569bf32ea4cf/konosuba-god-s-blessing-on-this-wonderful-world-legend-of-cr/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3e24ee8dd386c99e55a328514531569bf32ea4cf/konosuba-god-s-blessing-on-this-wonderful-world-legend-of-cr/banner.jpg",
+      "synopsis": "The Crimson Demon village that Megumin and Yunyun are from is facing a threat that could mean it's ending. Kazuma and his gang follow Yunyun, who returns to the Crimson Demon village intent on saving it when they are faced with their greatest threat yet.\n\n(Source: Anime News Network)",
+      "year": 2019,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Deity",
+        "Fantasy World",
+        "Parody",
+        "Parallel Universe",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "296dd1bd010fe780e60cc7785e18ee66a2ccf7bc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "konosuba-god-s-blessing-on-this-wonderful-world-legend-of-cr/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
