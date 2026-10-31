@@ -34310,6 +34310,76 @@
           "playlist": "danganronpa-the-animation/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gate",
+      "title": "GATE",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a8f8f11fbbbbe653214a02ee64dbe8f031c1b538/gate/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a8f8f11fbbbbe653214a02ee64dbe8f031c1b538/gate/banner.jpg",
+      "synopsis": "Off-duty Japan Self-Defense Forces (JSDF) officer and otaku, Youji Itami, is on his way to attend a doujin convention in Ginza, Tokyo when a mysterious portal in the shape of a large gate suddenly appears. From this gate, supernatural creatures and warriors clad in medieval armor emerge, charging through the city, killing and destroying everything in their path. With swift actions, Youji saves as many lives as he can while the rest of the JSDF direct their efforts towards stopping the invasion.\nThree months after the attack, Youji has been tasked with leading a special recon team, as part of a JSDF task force, that will be sent to the world beyond the gate—now being referred to as the \"Special Region.\" They must travel into this unknown world in order to learn more about what they are dealing with and attempt to befriend the locals in hopes of creating peaceful ties with the ruling empire. But if they fail, they face the consequence of participating in a devastating war that will engulf both sides of the gate.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Fantasy World",
+        "Violence",
+        "Parallel Universe",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "2fc483375d95828c298959782714b5463971b32d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gate/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gate/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gate/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gate/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gate/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gate/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gate/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gate/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gate/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gate/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gate/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gate/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
