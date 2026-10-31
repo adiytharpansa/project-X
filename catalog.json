@@ -27123,6 +27123,75 @@
           "playlist": "mob-psycho-100-ii/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tokyo-ghoul-a",
+      "title": "Tokyo Ghoul √A",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c182bbebc9c22092b2f78e4c7fd0d68811af46f2/tokyo-ghoul-a/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c182bbebc9c22092b2f78e4c7fd0d68811af46f2/tokyo-ghoul-a/banner.jpg",
+      "synopsis": "The second season of Tokyo Ghoul.\n\nThe ghouls of Anteiku invaded the Aogiri's site in order to rescue Ken Kaneki who is being tortured. Due to provocation, he unleashed greater power enough to defeat Yamori. To become stronger, he decided to join Aogiri and left Anteiku. Ghoul investigators also making their moves by collecting information about the eye-patched ghoul - Ken Kaneki.\n\n(Source: Anime News Network)",
+      "year": 2015,
+      "score": 7.1,
+      "genres": [
+        "Violence",
+        "Action",
+        "Horror",
+        "Psychological",
+        "Mystery"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "7999f2bafd412d9db8c081c7dd5eddf6d3dba61d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-ghoul-a/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tokyo-ghoul-a/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tokyo-ghoul-a/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tokyo-ghoul-a/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tokyo-ghoul-a/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tokyo-ghoul-a/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tokyo-ghoul-a/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tokyo-ghoul-a/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tokyo-ghoul-a/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tokyo-ghoul-a/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tokyo-ghoul-a/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tokyo-ghoul-a/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
