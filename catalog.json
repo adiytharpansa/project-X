@@ -24607,6 +24607,76 @@
           "playlist": "my-neighbor-totoro/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "erased",
+      "title": "ERASED",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1178dd096c70ab621e8650879d410feca3cee45e/erased/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1178dd096c70ab621e8650879d410feca3cee45e/erased/banner.jpg",
+      "synopsis": "When tragedy is about to strike, Satoru Fujinuma finds himself sent back several minutes before the accident occurs. The detached, 29-year-old manga artist has taken advantage of this powerful yet mysterious phenomenon, which he calls \"Revival,\" to save many lives.\nHowever, when he is wrongfully accused of murdering someone close to him, Satoru is sent back to the past once again, but this time to 1988, 18 years in the past. Soon, he realizes that the murder may be connected to the abduction and killing of one of his classmates, the solitary and mysterious Kayo Hinazuki, that took place when he was a child. This is his chance to make things right.Boku dake ga Inai Machi follows Satoru in his mission to uncover what truly transpired 18 years ago and prevent the death of his classmate while protecting those he cares about in the present.\n[Written by MAL Rewrite]",
+      "year": 2016,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Past",
+        "Time Travel",
+        "Plot Continuity",
+        "Angst",
+        "Thriller"
+      ],
+      "repo": "adiytharpansa/xrld3r9mhojh",
+      "pin": "c073b4ca0ebdec9e5cd9b363e812597c246f2991",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "erased/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "erased/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "erased/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "erased/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "erased/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "erased/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "erased/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "erased/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "erased/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "erased/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "erased/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "erased/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
