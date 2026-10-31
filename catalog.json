@@ -42401,6 +42401,80 @@
           "playlist": "dragon-ball-z/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "myriad-colors-phantom-world",
+      "title": "Myriad Colors Phantom World",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@18c16bf6d5d76c39cacbfb300baa501cd9ddc0fb/myriad-colors-phantom-world/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@18c16bf6d5d76c39cacbfb300baa501cd9ddc0fb/myriad-colors-phantom-world/banner.jpg",
+      "synopsis": "In the near future, monstrous creatures called “phantoms” descend upon the world. Haruhiko Ichijo is a student at Hosea Academy, along with Mai Kawakami, Reina Izumi, and Koito Minase, three girls who fight these creatures. High school life proceeds as normal until a certain incident reveals the truth of their world to them.\n\n(Source: Crunchyroll)",
+      "year": 2016,
+      "score": 6.8,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Contemporary Fantasy",
+        "School Clubs",
+        "Action",
+        "Fantasy",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "5bb666c1501094af03825a6b20cd0455f02dab90",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "myriad-colors-phantom-world/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "myriad-colors-phantom-world/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "myriad-colors-phantom-world/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "myriad-colors-phantom-world/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "myriad-colors-phantom-world/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "myriad-colors-phantom-world/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "myriad-colors-phantom-world/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "myriad-colors-phantom-world/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "myriad-colors-phantom-world/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "myriad-colors-phantom-world/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "myriad-colors-phantom-world/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "myriad-colors-phantom-world/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "myriad-colors-phantom-world/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
