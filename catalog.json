@@ -40618,6 +40618,76 @@
           "playlist": "steins-gate-the-movie-load-region-of-d-j-vu/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "trinity-seven",
+      "title": "Trinity Seven",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3de6cf68ea11d708d1a62a476dce8a3d2e2b6070/trinity-seven/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3de6cf68ea11d708d1a62a476dce8a3d2e2b6070/trinity-seven/banner.jpg",
+      "synopsis": "“Awaken now, Kasuga Arata.” With those words, Arata’s uneventful, carefree life ends forever. A black shadow covers the sun and Arata’s entire town is reduced to rubble, all the people in it spirited away by the blackness of the sun in an event called a \"breakdown phenomenon\". As Arata’s memories come flooding back, he realizes he’s been living inside an illusion created by a powerful book of spells.\nLilith Asami, a mage dispatched to investigate the phenomenon, gives Arata two choices: hand over the book, or die. Arata chooses the third option: enrolling in the top-secret magic school Royal Biblia Academy. Waiting for him at the academy are seven beautiful magic users, the Trinity Seven, each with her own power and skill. With so many women surrounding him, there are plenty of opportunities to have some silly perverted fun.\nBut it’s not all fun and games for Arata. Spurred on by the memory of his cousin and childhood friend Hijiri Kasuga, Arata will stop at nothing to stop the destruction of the world and bring his best friend back.",
+      "year": 2014,
+      "score": 7.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Ecchi",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xi9uivufxysw",
+      "pin": "707975323e08d0336be111cd13efbf098904e504",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "trinity-seven/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "trinity-seven/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "trinity-seven/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "trinity-seven/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "trinity-seven/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "trinity-seven/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "trinity-seven/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "trinity-seven/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "trinity-seven/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "trinity-seven/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "trinity-seven/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "trinity-seven/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
