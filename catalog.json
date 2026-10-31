@@ -28875,6 +28875,79 @@
           "playlist": "kuroko-s-basketball/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "haikyuu-to-the-top",
+      "title": "Haikyuu!!: To the Top",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@99f6281cbe6be608883814a13cf7da0bb85bdd1b/haikyuu-to-the-top/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@99f6281cbe6be608883814a13cf7da0bb85bdd1b/haikyuu-to-the-top/poster.jpg",
+      "synopsis": "The fourth season of Haikyuu!!\n",
+      "year": 2020,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Volleyball",
+        "Comedy",
+        "School Life",
+        "Sports",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/x8jhjo6r9u0k",
+      "pin": "d5f71ad7473f4a7279a518104004da8e66eb535c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "haikyuu-to-the-top/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "haikyuu-to-the-top/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "haikyuu-to-the-top/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "haikyuu-to-the-top/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "haikyuu-to-the-top/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "haikyuu-to-the-top/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "haikyuu-to-the-top/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "haikyuu-to-the-top/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "haikyuu-to-the-top/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "haikyuu-to-the-top/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "haikyuu-to-the-top/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "haikyuu-to-the-top/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "haikyuu-to-the-top/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
