@@ -48002,6 +48002,124 @@
           "playlist": "god-eater/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gosick",
+      "title": "Gosick",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7c0bd0835f19b51090eccdfbb92c648bd261f541/gosick/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7c0bd0835f19b51090eccdfbb92c648bd261f541/gosick/banner.jpg",
+      "synopsis": "Kazuya Kujou is a foreign student at Saint Marguerite Academy, a luxurious boarding school in the Southern European country of Sauville. Originally from Japan, his jet-black hair and dark brown eyes cause his peers to shun him and give him the nickname \"Black Reaper,\" based on a popular urban legend about the traveler who brings death in the spring.\nOn a day like any other, Kujou visits the school's extravagant library in search of ghost stories. However, his focus soon changes as he becomes curious about a golden strand of hair on the stairs. The steps lead him to a large garden and a beautiful doll-like girl known as Victorique de Blois, whose complex and imaginative foresight allows her to predict their futures, now intertwined.\nWith more mysteries quickly developing—including the appearance of a ghost ship and an alchemist with the power of transmutation—Victorique and Kujou, bound by fate and their unique skills, have no choice but to rely on each other.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Past",
+        "Earth",
+        "Alternative Past",
+        "Historical",
+        "Victorian Period",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "1792c9f634755209d41d5d2560090ed0f8506439",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gosick/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gosick/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gosick/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gosick/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gosick/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gosick/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gosick/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gosick/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gosick/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gosick/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gosick/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gosick/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "gosick/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "gosick/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "gosick/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "gosick/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "gosick/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "gosick/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "gosick/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "gosick/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "gosick/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "gosick/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "gosick/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "gosick/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
