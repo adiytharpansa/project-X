@@ -48768,6 +48768,308 @@
           "playlist": "owarimonogatari-second-season/ep7/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cardcaptor-sakura",
+      "title": "Cardcaptor Sakura",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@343c12c8dce629112daf6267726ea75ba2abda86/cardcaptor-sakura/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@343c12c8dce629112daf6267726ea75ba2abda86/cardcaptor-sakura/banner.jpg",
+      "synopsis": "Sakura Kinomoto is your garden-variety ten-year-old fourth grader, until one day, she stumbles upon a mysterious book containing a set of cards. Unfortunately, she has little time to divine what the cards mean because she accidentally stirs up a magical gust of wind and unintentionally scatters the cards all over the world. Suddenly awakened from the book, the Beast of the Seal, Keroberos (nicknamed Kero-chan), tells Sakura that she has released the mystical Clow Cards created by the sorcerer Clow Reed. The Cards are no ordinary playthings. Each of them possesses incredible powers, and because they like acting independently, Clow sealed all the Cards within a book. Now that the Cards are set free, they pose a grave danger upon the world, and it is up to Sakura to prevent the Cards from causing a catastrophe!\nAppointing Sakura the title of \"the Cardcaptor\" and granting her the Sealed Key, Keroberos tasks her with finding and recapturing all the Cards. Alongside her best friend Tomoyo Daidouji, and with Kero-chan's guidance, Sakura must learn to balance her new secret duty with the everyday troubles of a young girl involving love, family, and school, all while she takes flight on her magical adventures as Sakura the Cardcaptor.\n[Written by MAL Rewrite] ",
+      "year": 1998,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Magical Girl",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "e9ed39143197932a71a94fc9ff0d0a443ece4b96",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cardcaptor-sakura/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "cardcaptor-sakura/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "cardcaptor-sakura/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "cardcaptor-sakura/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "cardcaptor-sakura/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "cardcaptor-sakura/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "cardcaptor-sakura/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "cardcaptor-sakura/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "cardcaptor-sakura/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "cardcaptor-sakura/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "cardcaptor-sakura/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "cardcaptor-sakura/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "cardcaptor-sakura/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "cardcaptor-sakura/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "cardcaptor-sakura/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "cardcaptor-sakura/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "cardcaptor-sakura/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "cardcaptor-sakura/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "cardcaptor-sakura/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "cardcaptor-sakura/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "cardcaptor-sakura/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "cardcaptor-sakura/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "cardcaptor-sakura/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "cardcaptor-sakura/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "cardcaptor-sakura/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "cardcaptor-sakura/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "cardcaptor-sakura/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "cardcaptor-sakura/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "cardcaptor-sakura/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "cardcaptor-sakura/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "cardcaptor-sakura/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "cardcaptor-sakura/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "cardcaptor-sakura/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "cardcaptor-sakura/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "cardcaptor-sakura/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "cardcaptor-sakura/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "cardcaptor-sakura/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "cardcaptor-sakura/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "cardcaptor-sakura/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "cardcaptor-sakura/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "cardcaptor-sakura/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "cardcaptor-sakura/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "cardcaptor-sakura/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "cardcaptor-sakura/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "cardcaptor-sakura/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "cardcaptor-sakura/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "cardcaptor-sakura/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "cardcaptor-sakura/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "cardcaptor-sakura/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "cardcaptor-sakura/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "cardcaptor-sakura/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "cardcaptor-sakura/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "cardcaptor-sakura/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "cardcaptor-sakura/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "cardcaptor-sakura/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "cardcaptor-sakura/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "cardcaptor-sakura/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "cardcaptor-sakura/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "cardcaptor-sakura/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "cardcaptor-sakura/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "cardcaptor-sakura/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "cardcaptor-sakura/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "cardcaptor-sakura/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "cardcaptor-sakura/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "cardcaptor-sakura/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "cardcaptor-sakura/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "cardcaptor-sakura/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "cardcaptor-sakura/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "cardcaptor-sakura/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "cardcaptor-sakura/ep70/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
