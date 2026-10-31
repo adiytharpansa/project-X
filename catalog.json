@@ -33292,6 +33292,80 @@
           "playlist": "relife/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-bullet",
+      "title": "Black Bullet",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f9554f039e0c9824d1186f46c20790f73b6948de/black-bullet/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f9554f039e0c9824d1186f46c20790f73b6948de/black-bullet/banner.jpg",
+      "synopsis": "In the year 2021, a parasitic virus known as \"Gastrea\" infects humans and turns them into monsters. What is left of mankind now lives within the Monolith walls, walls that are made of Varanium, the only material that can hurt Gastrea.\nTo counter the threat that the Gastrea pose, \"Cursed Children\"—female children whose bodies contain trace amounts of the virus which grant them superhuman abilities—officially called Initiators by the Tendo Civil Security, are given partners called Promoters, people who work to guide and protect the young Initiators. These teams of two are sent out on missions to fight the monsters created by the Gastrea virus and keep them at bay. Black Bullet revolves around the team of Enju Aihara, an Initiator, and Satomi Rentaro, a Promoter, as they go on missions to fight the growing threat of Gastrea in their hometown of Tokyo.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Cyborg",
+        "Martial Arts",
+        "Human Enhancement",
+        "Violence",
+        "Parasite",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "dbcab03329d14404eac5b34c455ed5ff48eed07a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "black-bullet/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "black-bullet/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "black-bullet/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "black-bullet/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "black-bullet/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "black-bullet/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "black-bullet/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "black-bullet/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "black-bullet/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "black-bullet/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "black-bullet/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "black-bullet/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "black-bullet/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
