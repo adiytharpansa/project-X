@@ -26527,6 +26527,32 @@
           "playlist": "wolf-children/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "no-game-no-life-zero",
+      "title": "No Game No Life: Zero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bf39188ecd25b9fcdfffd9049c84e8ada4efb684/no-game-no-life-zero/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bf39188ecd25b9fcdfffd9049c84e8ada4efb684/no-game-no-life-zero/banner.jpg",
+      "synopsis": "Six thousand years before Sora and Shiro were even a blink in the history of Disboard, war consumed the land, tearing apart the heavens, destroying stars, and even threatening to wipe out the human race. Amid the chaos and destruction, a young man named Riku leads humanity toward the tomorrow his heart believed in. One day, in the ruins of an Elf city, he meets Shuvi, a female exiled \"Ex-machina\" android who asks him to teach her what it means to have a human heart.\n\n(Source: Sentai Filmworks)",
+      "year": 2017,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Elf",
+        "Fantasy World",
+        "Virtual Reality",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xi9uivufxysw",
+      "pin": "db349eee4594b543d666a0b9e534201740a8b28f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "no-game-no-life-zero/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
