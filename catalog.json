@@ -30996,6 +30996,30 @@
           "playlist": "baccano/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan-roar-of-awakening",
+      "title": "Attack on Titan: Roar of Awakening",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
+      "banner": "",
+      "synopsis": "Eren Yeager and others of the 104th Training Corps have just begun to become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose—but all is not as it seems as more mysteries are unraveled. As the Survey Corps races to save the wall, they uncover more about the invading Titans and the dark secrets of their own members.\n\n(Source: MAL Rewrite)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Fantasy",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xe5zul7gia6i",
+      "pin": "52fc6341b45d07ff123d8228db67e78900ab9075",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-roar-of-awakening/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
