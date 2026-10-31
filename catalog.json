@@ -46003,6 +46003,76 @@
           "playlist": "hinamatsuri/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-teen-romantic-comedy-snafu-climax",
+      "title": "My Teen Romantic Comedy SNAFU Climax",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@95dc7d32f2f67f4d1df4081ab9165b02f9672bdf/my-teen-romantic-comedy-snafu-climax/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@95dc7d32f2f67f4d1df4081ab9165b02f9672bdf/my-teen-romantic-comedy-snafu-climax/banner.jpg",
+      "synopsis": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru..",
+      "year": 2020,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "08eecb528da0c3a62bf08420f4677ecc499d0bc1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-teen-romantic-comedy-snafu-climax/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
