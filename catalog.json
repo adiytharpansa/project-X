@@ -40116,6 +40116,30 @@
           "playlist": "91-days/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-stay-night-heaven-s-feel-i-presage-flower",
+      "title": "Fate/stay night: Heaven's Feel I. Presage Flower",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1a3ebea31569c76377e1e954e88adcd74f511b5f/fate-stay-night-heaven-s-feel-i-presage-flower/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1a3ebea31569c76377e1e954e88adcd74f511b5f/fate-stay-night-heaven-s-feel-i-presage-flower/banner.jpg",
+      "synopsis": "Emiya Shirou is a young magus who attends Homurahara Academy in Fuyuki City. One day after cleaning the Archery Dojo in his school, he catches a glimpse of a fight between superhuman beings, and he gets involved in the Holy Grail War, a ritual where magi called Masters fight each other with their Servants to win the Holy Grail. Shirou joins the battle to stop an evildoer from winning the Grail and to save innocent people, but everything goes wrong when a mysterious \"Shadow\" begins to indiscriminately kill people in Fuyuki...\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Battle Royale",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "ae08a62d8f92b5071b4435527acfabf526960073",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-stay-night-heaven-s-feel-i-presage-flower/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
