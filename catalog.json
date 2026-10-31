@@ -43618,6 +43618,124 @@
           "playlist": "black-butler-book-of-the-atlantic/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "chobits",
+      "title": "Chobits",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@dfacc7f2889a91699c39406ef491558e137838dd/chobits/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@dfacc7f2889a91699c39406ef491558e137838dd/chobits/banner.jpg",
+      "synopsis": "When computers start to look like humans, can love remain the same?\nHideki Motosuwa is a young country boy who is studying hard to get into college. Coming from a poor background, he can barely afford the expenses, let alone the newest fad: Persocoms, personal computers that look exactly like human beings. One evening while walking home, he finds an abandoned Persocom. After taking her home and managing to activate her, she seems to be defective, as she can only say one word, \"Chii,\" which eventually becomes her name. Unlike other Persocoms, however, Chii cannot download information onto her hard drive, so Hideki decides to teach her about the world the old-fashioned way, while studying for his college entrance exams at the same time.\nAlong with his friends, Hideki tries to unravel the mystery of Chii, who may be a \"Chobit,\" an urban legend about special units that have real human emotions and thoughts, and love toward their owner. But can romance flourish between a Persocom and a human? \n[Written by MAL Rewrite]",
+      "year": 2002,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Plot Continuity",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "510e4b56bb103d2caca8f6cceefc3023a982ecc9",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "chobits/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "chobits/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "chobits/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "chobits/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "chobits/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "chobits/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "chobits/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "chobits/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "chobits/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "chobits/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "chobits/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "chobits/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "chobits/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "chobits/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "chobits/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "chobits/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "chobits/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "chobits/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "chobits/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "chobits/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "chobits/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "chobits/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "chobits/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "chobits/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
