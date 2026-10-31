@@ -30708,6 +30708,32 @@
           "playlist": "terror-in-resonance/ep11/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-disappearance-of-haruhi-suzumiya",
+      "title": "The Disappearance of Haruhi Suzumiya",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@54f04bd737bb5a3740793f3b9b0c25b5c97343f3/the-disappearance-of-haruhi-suzumiya/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@54f04bd737bb5a3740793f3b9b0c25b5c97343f3/the-disappearance-of-haruhi-suzumiya/banner.jpg",
+      "synopsis": "One cold Christmas day, Kyon heads over to school and the SOS Brigade's holiday celebration, only to realize that Haruhi Suzumiya seems to have disappeared. Moreover, no one even remembers her or the SOS Brigade; Mikuru Asahina knows nothing and is now afraid of him, and Itsuki Koizumi has also gone missing. The Literature Club, formed only by an uncharacteristically shy Yuki Nagato, now occupies the old SOS club room.Suzumiya Haruhi no Shoushitsu is based on the fourth light novel of the acclaimed Haruhi series and is set after the events of the anime series. Not uncultured in the supernatural, Kyon will have to deal with his whole life turned upside down like a bad joke, and maybe it's better that way.\n[Written by MAL Rewrite]",
+      "year": 2010,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Alien",
+        "Present",
+        "Earth",
+        "Time Travel",
+        "School Clubs",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "266df05e2d768dc83932046f5db4fd3eaa03ff70",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-disappearance-of-haruhi-suzumiya/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
