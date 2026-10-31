@@ -38968,6 +38968,124 @@
           "playlist": "shiki/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "strike-the-blood",
+      "title": "Strike the Blood",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@48cadf9c178540edeedc2d8d11c089e1d788810f/strike-the-blood/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@48cadf9c178540edeedc2d8d11c089e1d788810f/strike-the-blood/banner.jpg",
+      "synopsis": "Kojou Akatsuki's days as an ordinary high school student in the Demon District of Itogami Island come to an abrupt end after a fateful encounter leaves him with the remarkable abilities of a vampire.\nIt isn't long before he is thrust into the center of attention when it is discovered that he is the fourth primogenitor, an immensely powerful vampire whom most consider to be merely a legend. Fearing Kojou's destructive potential, the Lion King Organization sends in an apprentice sword-shaman, Yukina Himeragi, to monitor, and should he become a threat, kill the boy deemed the world's most powerful vampire. Forced together by circumstance, the two form an unlikely alliance as Kojou comes to terms with his abilities and they both struggle to protect the city from various emerging chaotic forces.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.0,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Magic",
+        "Super Power",
+        "Present",
+        "Demon",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "9b9e72da42c7ecf1f56afd018c7f860cb33c4a5d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "strike-the-blood/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "strike-the-blood/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "strike-the-blood/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "strike-the-blood/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "strike-the-blood/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "strike-the-blood/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "strike-the-blood/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "strike-the-blood/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "strike-the-blood/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "strike-the-blood/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "strike-the-blood/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "strike-the-blood/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "strike-the-blood/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "strike-the-blood/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "strike-the-blood/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "strike-the-blood/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "strike-the-blood/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "strike-the-blood/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "strike-the-blood/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "strike-the-blood/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "strike-the-blood/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "strike-the-blood/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "strike-the-blood/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "strike-the-blood/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
