@@ -28401,6 +28401,132 @@
           "playlist": "high-school-of-the-dead/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "neon-genesis-evangelion",
+      "title": "Neon Genesis Evangelion",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e60c22a707dd023c239cbd7b00746014631246ad/neon-genesis-evangelion/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e60c22a707dd023c239cbd7b00746014631246ad/neon-genesis-evangelion/banner.jpg",
+      "synopsis": "In the year 2015, the world stands on the brink of destruction. Humanity's last hope lies in the hands of Nerv, a special agency under the United Nations, and their Evangelions, giant machines capable of defeating the Angels who herald Earth's ruin. Gendou Ikari, head of the organization, seeks compatible pilots who can synchronize with the Evangelions and realize their true potential. Aiding in this defensive endeavor are talented personnel Misato Katsuragi, Head of Tactical Operations, and Ritsuko Akagi, Chief Scientist.\n\nFace to face with his father for the first time in years, 14-year-old Shinji Ikari's average life is irreversibly changed when he is whisked away into the depths of Nerv, and into a harrowing new destiny—he must become the pilot of Evangelion Unit-01 with the fate of mankind on his shoulders.\nWritten by Hideaki Anno, Neon Genesis Evangelion is a heroic tale of a young boy who will become a legend. But as this psychological drama unfolds, ancient secrets beneath the big picture begin to bubble to the surface...\n\n(Source: MAL Rewrite)",
+      "year": 1995,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Middle School",
+        "Alien",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "d58e482900b7404f568d591e1651874660407400",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "neon-genesis-evangelion/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "neon-genesis-evangelion/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "neon-genesis-evangelion/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "neon-genesis-evangelion/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "neon-genesis-evangelion/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "neon-genesis-evangelion/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "neon-genesis-evangelion/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "neon-genesis-evangelion/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "neon-genesis-evangelion/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "neon-genesis-evangelion/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "neon-genesis-evangelion/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "neon-genesis-evangelion/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "neon-genesis-evangelion/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "neon-genesis-evangelion/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "neon-genesis-evangelion/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "neon-genesis-evangelion/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "neon-genesis-evangelion/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "neon-genesis-evangelion/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "neon-genesis-evangelion/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "neon-genesis-evangelion/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "neon-genesis-evangelion/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "neon-genesis-evangelion/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "neon-genesis-evangelion/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "neon-genesis-evangelion/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "neon-genesis-evangelion/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "neon-genesis-evangelion/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
