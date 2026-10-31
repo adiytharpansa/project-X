@@ -44543,6 +44543,72 @@
           "playlist": "berserk/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "blend-s",
+      "title": "BLEND-S",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a5cc90b0cbd427985dbefbd4d197bd790f88b037/blend-s/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a5cc90b0cbd427985dbefbd4d197bd790f88b037/blend-s/banner.jpg",
+      "synopsis": "Maika Sakuranomiya is, by nature, a person with bad luck who always gets into trouble, but knows Dino, who manages a cafe. However, it is not any cafe, as the waitresses have to act according to their \"attributes.\"\n\n(Source: Group Dinamo Translation)",
+      "year": 2017,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "ec51c73fd143878eb8e811680638591765a46d84",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "blend-s/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "blend-s/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "blend-s/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "blend-s/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "blend-s/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "blend-s/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "blend-s/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "blend-s/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "blend-s/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "blend-s/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "blend-s/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "blend-s/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
