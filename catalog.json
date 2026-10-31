@@ -42394,7 +42394,7 @@
         "Supernatural"
       ],
       "repo": "adiytharpansa/xrti1yysi6ir",
-      "pin": "a4f256e58e1b854a2dbd4da670ef743fbd169f72",
+      "pin": "61e46d7799adeb4736338ff2df625c6292ecf18a",
       "episodes": [
         {
           "number": 1,
@@ -42407,6 +42407,10 @@
         {
           "number": 3,
           "playlist": "dragon-ball-z/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dragon-ball-z/ep4/playlist.m3u8"
         }
       ]
     },
