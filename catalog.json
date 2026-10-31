@@ -35091,6 +35091,124 @@
           "playlist": "violet-evergarden-eternity-and-the-auto-memory-doll/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dororo",
+      "title": "Dororo",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a64c7fef14c2f86b9c8ce60db660bb8963d8fb4c/dororo/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a64c7fef14c2f86b9c8ce60db660bb8963d8fb4c/dororo/banner.jpg",
+      "synopsis": "In Japan's Warring States period, Lord Daigo Kagemitsu makes a pact with 12 demons, exchanging his unborn son for the prosperity of his lands. The child is born malformed and is set adrift in a river, while Kagemitsu's lands thrive as promised. Years later, young thief Dororo encounters the mysterious \"Hyakkimaru\", a boy whose arms are blades and whose visionless eyes seem able to see monsters.\n\n(Source: Amazon Prime Video)",
+      "year": 2019,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Historical",
+        "Demon",
+        "Action",
+        "Adventure",
+        "Supernatural",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xn4zeky5id7v",
+      "pin": "814093b17b444920f71c37a60662a974ae227fbb",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dororo/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dororo/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dororo/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dororo/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dororo/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dororo/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dororo/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dororo/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dororo/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dororo/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dororo/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dororo/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "dororo/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "dororo/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "dororo/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "dororo/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "dororo/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "dororo/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "dororo/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "dororo/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "dororo/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "dororo/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "dororo/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "dororo/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
