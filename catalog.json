@@ -51194,6 +51194,80 @@
           "playlist": "shimoneta-a-boring-world-where-the-concept-of-dirty-jokes-do/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "vampire-knight",
+      "title": "Vampire Knight",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7efe892e01d1919bd44bfa1df60198c846857c6c/vampire-knight/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@7efe892e01d1919bd44bfa1df60198c846857c6c/vampire-knight/banner.jpg",
+      "synopsis": "Cross Academy is an elite boarding school with two separate, isolated classes: the Day Class and the Night Class. On the surface, Yuuki Cross and Zero Kiryuu are prefects of the academy, and attempt to keep order between the students as classes rotate in the evenings. As the Night Class is full of utterly gorgeous elites, this can sometimes prove to be a bit difficult. It is completely necessary, however, as those \"elites\" are actually vampires. Yuuki and Zero act as guardians, protecting the secrets of the Night Class and the safety of their ignorant morning counterparts.\nAs the adopted daughter of the academy's chairman, Yuuki takes her job with a serious and energetic attitude. It also allows her to interact with her secret crush and savior, the president of the Night students' dorm, Kaname Kuran. Zero, on the other hand, has a deep-rooted hatred against vampires, and at times, does not hesitate to kill.\nCan vampires and humans co-exist, even in the strict setup of the Cross Academy? Only time will tell.\n[Written by MAL Rewrite]",
+      "year": 2008,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Bishounen",
+        "Contemporary Fantasy",
+        "Reverse Harem",
+        "Angst",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "ad3e9be90da322831846ccde2004a8f727e00a3d",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "vampire-knight/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "vampire-knight/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "vampire-knight/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "vampire-knight/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "vampire-knight/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "vampire-knight/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "vampire-knight/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "vampire-knight/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "vampire-knight/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "vampire-knight/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "vampire-knight/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "vampire-knight/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "vampire-knight/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
