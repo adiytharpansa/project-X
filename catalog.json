@@ -24924,6 +24924,80 @@
           "playlist": "violet-evergarden/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "angel-beats",
+      "title": "Angel Beats!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e346c6abe804af933f984e1fa4cb238c9c3b95a0/angel-beats/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e346c6abe804af933f984e1fa4cb238c9c3b95a0/angel-beats/banner.jpg",
+      "synopsis": "Otonashi awakens only to learn he is dead. A rifle-toting girl named Yuri explains that they are in the afterlife, and Otonashi realizes the only thing he can remember about himself is his name. Yuri tells him that she leads the Shinda Sekai Sensen (Afterlife Battlefront) and wages war against a girl named Tenshi. Unable to believe Yuri's claims that Tenshi is evil, Otonashi attempts to speak with her, but the encounter doesn't go as he intended.\nOtonashi decides to join the SSS and battle Tenshi, but he finds himself oddly drawn to her. While trying to regain his memories and understand Tenshi, he gradually unravels the mysteries of the afterlife.\n[Written by MAL Rewrite]",
+      "year": 2010,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Gunfights",
+        "Present",
+        "Fantasy World",
+        "Contemporary Fantasy",
+        "Plot Continuity",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "df9bb762b0e46af27b09c52c89864caa6ab64ad1",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "angel-beats/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "angel-beats/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "angel-beats/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "angel-beats/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "angel-beats/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "angel-beats/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "angel-beats/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "angel-beats/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "angel-beats/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "angel-beats/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "angel-beats/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "angel-beats/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "angel-beats/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
