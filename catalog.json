@@ -39756,6 +39756,76 @@
           "playlist": "cowboy-bebop-the-movie/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "high-school-dxd-born",
+      "title": "High School DxD BorN",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39bcefa8d74cdaf0450cd2b49a391edb37423661/high-school-dxd-born/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39bcefa8d74cdaf0450cd2b49a391edb37423661/high-school-dxd-born/banner.jpg",
+      "synopsis": "The babes and boys of the Occult Research Club are Back! Lovable loser (and bust buff) Issei and his clan of bewitching beauties return for a new season of supernatural tussles and sexy shenanigans—featuring old friends and new enemies! Now that all the girls live in Issei’s home, life seems like nothing but fun and scantily-clad lounging…for now! Join Rias, Akeno, Koneko, Asia, Xenovia, Gasper, and everyone’s favorite Harem King Issei as they fight, fumble, and fondle their way through their demonic high school lives.\n\n(Source: FUNimation)",
+      "year": 2015,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Angel",
+        "Dragon",
+        "Super Power",
+        "Demon",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/x44hq4epzll7",
+      "pin": "72e7fc2bc25de4a341a9c772fc8b1712b9116c18",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "high-school-dxd-born/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "high-school-dxd-born/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "high-school-dxd-born/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "high-school-dxd-born/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "high-school-dxd-born/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "high-school-dxd-born/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "high-school-dxd-born/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "high-school-dxd-born/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "high-school-dxd-born/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "high-school-dxd-born/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "high-school-dxd-born/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "high-school-dxd-born/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
