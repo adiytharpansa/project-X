@@ -35920,6 +35920,29 @@
           "playlist": "natsume-s-book-of-friends/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "weathering-with-you",
+      "title": "Weathering with You",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c06b71956e2cfd849a3f61c2f3c0cc2a376476da/weathering-with-you/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c06b71956e2cfd849a3f61c2f3c0cc2a376476da/weathering-with-you/banner.jpg",
+      "synopsis": "In the film's story, high school student Hodaka leaves his home on an isolated island and moves to Tokyo, but he immediately becomes broke. He lives his days in isolation, but finally finds a job as a writer for a shady occult magazine. After he starts his job, the weather has been rainy day after day. In a corner of the crowded and busy city, Hodaka meets a young woman named Hina. Due to certain circumstances, Hina and her younger brother live together, but have a cheerful and sturdy life. Hina also has a certain power: the power to stop the rain and clear the sky.\n\n(Source: ANN)",
+      "year": 2019,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "5a0296913b446c2e8ba48975e710842bb3320863",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "weathering-with-you/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
