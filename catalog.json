@@ -27169,72 +27169,72 @@
       ]
     },
     {
-      "id": "another",
-      "title": "Another",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a03fe1e142f8e5589b2aaccbf4b03bab10ea4552/another/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a03fe1e142f8e5589b2aaccbf4b03bab10ea4552/another/banner.jpg",
-      "synopsis": "In 1972, a popular student in Yomiyama North Middle School's class 3-3 named Misaki passed away during the school year. Since then, the town of Yomiyama has been shrouded by a fearful atmosphere, from the dark secrets hidden deep within.\nTwenty-six years later, 15-year-old Kouichi Sakakibara transfers into class 3-3 of Yomiyama North and soon after discovers that a strange, gloomy mood seems to hang over all the students. He also finds himself drawn to the mysterious, eyepatch-wearing student Mei Misaki; however, the rest of the class and the teachers seem to treat her like she doesn't exist. Paying no heed to warnings from everyone including Mei herself, Kouichi begins to get closer not only to her, but also to the truth behind the gruesome phenomenon plaguing class 3-3 of Yomiyama North.Another follows Kouichi, Mei, and their classmates as they are pulled into the enigma surrounding a series of inevitable, tragic events—but unraveling the horror of Yomiyama may just cost them the ultimate price.\n[Written by MAL Rewrite]",
-      "year": 2012,
-      "score": 7.5,
+      "id": "puella-magi-madoka-magica",
+      "title": "Puella Magi Madoka Magica",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eb19cd8c19ac6e2f82440b4c8f4ab693e6a76883/puella-magi-madoka-magica/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eb19cd8c19ac6e2f82440b4c8f4ab693e6a76883/puella-magi-madoka-magica/banner.jpg",
+      "synopsis": "Madoka Kaname and Sayaka Miki are regular middle school girls with regular lives, but all that changes when they encounter Kyuubey, a cat-like magical familiar, and Homura Akemi, the new transfer student.\nKyuubey offers them a proposition: he will grant one of their wishes and in exchange, they will each become a magical girl, gaining enough power to fulfill their dreams. However Homura, a magical girl herself, urges them not to accept the offer since everything is not what it seems.\nA story of hope, despair, and friendship, Mahou Shoujo Madoka★Magica deals with the difficulties of being a magical girl and the price one has to pay to make a dream come true.\n[Written by MAL Rewrite]",
+      "year": 2011,
+      "score": 8.2,
       "genres": [
         "Middle School",
+        "Magic",
+        "Magical Girl",
+        "Super Power",
         "Present",
-        "Earth",
-        "Japan",
-        "Violence",
-        "Plot Continuity"
+        "Earth"
       ],
       "status": "FINISHED",
-      "repo": "adiytharpansa/xrd5u319ewdz",
-      "pin": "dc00e0a6846c7afb80876944c696f819d83cf8e1",
+      "repo": "adiytharpansa/x44hq4epzll7",
+      "pin": "90184b788e596accf73e4b25ebb4df2b1ca05e33",
       "episodes": [
         {
           "number": 1,
-          "playlist": "another/ep1/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "another/ep2/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "another/ep3/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "another/ep4/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "another/ep5/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "another/ep6/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "another/ep7/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "another/ep8/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "another/ep9/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "another/ep10/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "another/ep11/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "another/ep12/playlist.m3u8"
+          "playlist": "puella-magi-madoka-magica/ep12/playlist.m3u8"
         }
       ]
     }
