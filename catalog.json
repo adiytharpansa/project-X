@@ -38719,6 +38719,75 @@
           "playlist": "dragon-ball/ep153/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "bungo-stray-dogs-3",
+      "title": "Bungo Stray Dogs 3",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8fa898933f12e0422517694b736290f896d8feb3/bungo-stray-dogs-3/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8fa898933f12e0422517694b736290f896d8feb3/bungo-stray-dogs-3/poster.jpg",
+      "synopsis": "The White Tiger and the Black Beast – Nakajima Atsushi and Akutagawa Ryunosuke’s fight against Francis F. brings an end to the great war against the Guild. Life goes on as normal in Yokohama, thanks to the continued truce between the Armed Detective Agency and the Port Mafia, who, together, saved the city from ruin. But there are still rumors of Guild stragglers and other crime organizations making their way in from abroad. Meanwhile, Dazai Osamu had premonitions of another impending disaster. Lurking in the darkness is the Fyodor D., leader of pirate organization Rats in the House of the Dead, his dreadful plans on the verge of execution.\n\n(Source: Crunchyroll)",
+      "year": 2019,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Supernatural",
+        "Mystery",
+        "Seinen"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "3462a6d3b3e1c3dc6a94c69703eed4ace6659a45",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "bungo-stray-dogs-3/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "bungo-stray-dogs-3/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "bungo-stray-dogs-3/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "bungo-stray-dogs-3/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "bungo-stray-dogs-3/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "bungo-stray-dogs-3/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "bungo-stray-dogs-3/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "bungo-stray-dogs-3/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "bungo-stray-dogs-3/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "bungo-stray-dogs-3/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "bungo-stray-dogs-3/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "bungo-stray-dogs-3/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
