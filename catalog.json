@@ -24821,6 +24821,35 @@
         11,
         12
       ]
+    },
+    {
+      "id": "attack-on-titan-no-regrets",
+      "title": "Attack on Titan: No Regrets",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fb3677be67d9a9b23a2ddff83903d67fb83f6e93/attack-on-titan-no-regrets/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fb3677be67d9a9b23a2ddff83903d67fb83f6e93/attack-on-titan-no-regrets/banner.jpg",
+      "synopsis": "Many years before becoming the famed captain of the Survey Corps, a young Levi struggles to survive in the capital's garbage dump, the Underground. As the boss of his own criminal operation, Levi attempts to get by with meager earnings while aided by fellow criminals, Isabel Magnolia and Farlan Church. With little hope for the future, Levi accepts a deal from the anti-expedition faction leader Nicholas Lobov, who promises the trio citizenship aboveground if they are able to successfully assassinate Erwin Smith, a squad leader of the Survey Corps.\n\nAs Levi and Erwin cross paths, Erwin acknowledges Levi's agility and skill and gives him the option to either become part of the expedition team, or be turned over to the Military Police, to atone for his crimes. Now closer to the man they are tasked to kill, the group plans to complete their mission and save themselves from a grim demise in the dim recesses of their past home. However, they are about to learn that the surface world is not as liberating as they had thought and that sometimes, freedom can come at a heavy price.\n\nBased on the popular spin-off manga of the same name, Shingeki no Kyojin: Kuinaki Sentaku illustrates the encounter between two of Shingeki no Kyojin's pivotal characters, as well as the events of the 23rd expedition beyond the walls.\n\n(Source: MAL Rewrite)",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Military",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "372526ce368a9a4b3674fa4098257184105e401c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-no-regrets/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "attack-on-titan-no-regrets/ep2/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
