@@ -48652,6 +48652,72 @@
           "playlist": "dagashi-kashi/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tsukigakirei",
+      "title": "Tsukigakirei",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c574be15c081dcbeb09b5c0b4ea3b20983d388ae/tsukigakirei/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c574be15c081dcbeb09b5c0b4ea3b20983d388ae/tsukigakirei/banner.jpg",
+      "synopsis": "Kotarou Azumi and Akane Mizuno became third year students at junior high school and are classmates for the first time. These two, along with fellow classmates, Chinatsu Nishio and Takumi Hira, relate to their peers through mutual understandings and feelings. As their final year at junior high school progresses, the group overcome their challenges to mature and become aware of changes in themselves.\n\n(Source: Nijipoi)",
+      "year": 2017,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Romance",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "9151087332bc40e6dd8bc93c251536e28153b8cc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tsukigakirei/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tsukigakirei/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tsukigakirei/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tsukigakirei/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tsukigakirei/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tsukigakirei/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tsukigakirei/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tsukigakirei/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tsukigakirei/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tsukigakirei/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tsukigakirei/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tsukigakirei/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
