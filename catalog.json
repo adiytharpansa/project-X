@@ -31046,6 +31046,80 @@
           "playlist": "the-girl-who-leapt-through-time/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-teen-romantic-comedy-snafu",
+      "title": "My Teen Romantic Comedy SNAFU",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b816eb2bbc6437cf93da4e33bdb456199fdfbdc2/my-teen-romantic-comedy-snafu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b816eb2bbc6437cf93da4e33bdb456199fdfbdc2/my-teen-romantic-comedy-snafu/banner.jpg",
+      "synopsis": "So exactly what’s going to happen when Hachiman Hikigaya, an isolated high school student with no friends, no interest in making any and a belief that everyone else’s supposedly great high school experiences are either delusions or outright lies, is coerced by a well meaning faculty member into joining the one member “Services Club” run by Yukino Yukinoshita, who’s smart, attractive and generally considers everyone in her school to be her complete inferior?\n\n(Source: Crunchyroll)",
+      "year": 2013,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x110nbooz5mb",
+      "pin": "97519542668128c4cbb651f32a1f31d56186143c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-teen-romantic-comedy-snafu/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-teen-romantic-comedy-snafu/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "my-teen-romantic-comedy-snafu/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "my-teen-romantic-comedy-snafu/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "my-teen-romantic-comedy-snafu/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "my-teen-romantic-comedy-snafu/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "my-teen-romantic-comedy-snafu/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "my-teen-romantic-comedy-snafu/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "my-teen-romantic-comedy-snafu/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "my-teen-romantic-comedy-snafu/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "my-teen-romantic-comedy-snafu/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "my-teen-romantic-comedy-snafu/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "my-teen-romantic-comedy-snafu/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
