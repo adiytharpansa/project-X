@@ -41167,6 +41167,124 @@
           "playlist": "evangelion-1-0-you-are-not-alone/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "fate-stay-night",
+      "title": "Fate/stay night",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b43d68e18e0c69f277f7bd438aedb13dc3ffda5e/fate-stay-night/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b43d68e18e0c69f277f7bd438aedb13dc3ffda5e/fate-stay-night/banner.jpg",
+      "synopsis": "After a mysterious inferno kills his family, Shirou is saved and adopted by Kiritsugu Emiya, who teaches him the ways of magic and justice.\nOne night, years after Kiritsugu's death, Shirou is cleaning at school, when he finds himself caught in the middle of a deadly encounter between two superhumans known as Servants. During his attempt to escape, the boy is caught by one of the Servants and receives a life-threatening injury. Miraculously, he survives, but the same Servant returns to finish what he started. In desperation, Shirou summons a Servant of his own, a knight named Saber. The two must now participate in the Fifth Holy Grail War, a battle royale of seven Servants and the mages who summoned them, with the grand prize being none other than the omnipotent Holy Grail itself.Fate/stay night follows Shirou as he struggles to find the fine line between a hero and a killer, his ideals clashing with the harsh reality around him. Will the boy become a hero like his foster father, or die trying?\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Battle Royale",
+        "Swordplay",
+        "Super Power",
+        "Present",
+        "Earth"
+      ],
+      "repo": "adiytharpansa/xg8xosu0mqzx",
+      "pin": "c77d7067f36452c40e094bca03eeb4cc8f98b902",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "fate-stay-night/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "fate-stay-night/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "fate-stay-night/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "fate-stay-night/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "fate-stay-night/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "fate-stay-night/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "fate-stay-night/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "fate-stay-night/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "fate-stay-night/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "fate-stay-night/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "fate-stay-night/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "fate-stay-night/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "fate-stay-night/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "fate-stay-night/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "fate-stay-night/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "fate-stay-night/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "fate-stay-night/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "fate-stay-night/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "fate-stay-night/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "fate-stay-night/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "fate-stay-night/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "fate-stay-night/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "fate-stay-night/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "fate-stay-night/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
