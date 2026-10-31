@@ -24823,128 +24823,152 @@
       ]
     },
     {
-      "id": "cowboy-bebop",
-      "title": "Cowboy Bebop",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@200cc5e0855ad6c262d63af8112c5e385d5d938d/cowboy-bebop/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@200cc5e0855ad6c262d63af8112c5e385d5d938d/cowboy-bebop/banner.jpg",
-      "synopsis": "In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as \"Cowboys\". The ragtag team aboard the spaceship Bebop are two such individuals.\nMellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each member's dark and mysterious past little by little. \nWell-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.\n\n(Source: MAL Rewrite)",
-      "year": 1998,
+      "id": "attack-on-titan-no-regrets",
+      "title": "Attack on Titan: No Regrets",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fb3677be67d9a9b23a2ddff83903d67fb83f6e93/attack-on-titan-no-regrets/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fb3677be67d9a9b23a2ddff83903d67fb83f6e93/attack-on-titan-no-regrets/banner.jpg",
+      "synopsis": "Many years before becoming the famed captain of the Survey Corps, a young Levi struggles to survive in the capital's garbage dump, the Underground. As the boss of his own criminal operation, Levi attempts to get by with meager earnings while aided by fellow criminals, Isabel Magnolia and Farlan Church. With little hope for the future, Levi accepts a deal from the anti-expedition faction leader Nicholas Lobov, who promises the trio citizenship aboveground if they are able to successfully assassinate Erwin Smith, a squad leader of the Survey Corps.\n\nAs Levi and Erwin cross paths, Erwin acknowledges Levi's agility and skill and gives him the option to either become part of the expedition team, or be turned over to the Military Police, to atone for his crimes. Now closer to the man they are tasked to kill, the group plans to complete their mission and save themselves from a grim demise in the dim recesses of their past home. However, they are about to learn that the surface world is not as liberating as they had thought and that sometimes, freedom can come at a heavy price.\n\nBased on the popular spin-off manga of the same name, Shingeki no Kyojin: Kuinaki Sentaku illustrates the encounter between two of Shingeki no Kyojin's pivotal characters, as well as the events of the 23rd expedition beyond the walls.\n\n(Source: MAL Rewrite)",
+      "year": 2014,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
-        "Bounty Hunter",
-        "Gunfights",
-        "Future",
-        "Space",
-        "Space Travel",
-        "Other Planet"
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Military",
+        "Shounen"
       ],
-      "repo": "adiytharpansa/xst3eg6e3w0e",
-      "pin": "079f8f9c056fbdbb2df64c20714dff8740a1c569",
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "372526ce368a9a4b3674fa4098257184105e401c",
       "episodes": [
         {
           "number": 1,
-          "playlist": "cowboy-bebop/ep1/playlist.m3u8"
+          "playlist": "attack-on-titan-no-regrets/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "cowboy-bebop/ep2/playlist.m3u8"
+          "playlist": "attack-on-titan-no-regrets/ep2/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "my-hero-academia-season-5",
+      "title": "My Hero Academia Season 5",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4022b4f60d97eb1f0427f190cb1e4b35affa8a9b/my-hero-academia-season-5/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4022b4f60d97eb1f0427f190cb1e4b35affa8a9b/my-hero-academia-season-5/banner.jpg",
+      "synopsis": "The rivalry between Class 1-A and Class 1-B heats up in a joint training battle. Eager to be a part of the hero course, brainwashing buff Shinso is tasked with competing on both sides.\n\nBut as each team faces their own weaknesses and discovers new strengths, this showdown might just become a toss-up.\n\n(Source: Funimation)",
+      "year": 2021,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "School Life",
+        "Superhero",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xgmeucmoz5ud",
+      "pin": "d277c759f2d1b641ad5c64cc192cd76048ab5505",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-season-5/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "my-hero-academia-season-5/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "cowboy-bebop/ep3/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "cowboy-bebop/ep4/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "cowboy-bebop/ep5/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "cowboy-bebop/ep6/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "cowboy-bebop/ep7/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "cowboy-bebop/ep8/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "cowboy-bebop/ep9/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "cowboy-bebop/ep10/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "cowboy-bebop/ep11/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "cowboy-bebop/ep12/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "cowboy-bebop/ep13/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep13/playlist.m3u8"
         },
         {
           "number": 14,
-          "playlist": "cowboy-bebop/ep14/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep14/playlist.m3u8"
         },
         {
           "number": 15,
-          "playlist": "cowboy-bebop/ep15/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep15/playlist.m3u8"
         },
         {
           "number": 16,
-          "playlist": "cowboy-bebop/ep16/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep16/playlist.m3u8"
         },
         {
           "number": 17,
-          "playlist": "cowboy-bebop/ep17/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep17/playlist.m3u8"
         },
         {
           "number": 18,
-          "playlist": "cowboy-bebop/ep18/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep18/playlist.m3u8"
         },
         {
           "number": 19,
-          "playlist": "cowboy-bebop/ep19/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep19/playlist.m3u8"
         },
         {
           "number": 20,
-          "playlist": "cowboy-bebop/ep20/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep20/playlist.m3u8"
         },
         {
           "number": 21,
-          "playlist": "cowboy-bebop/ep21/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep21/playlist.m3u8"
         },
         {
           "number": 22,
-          "playlist": "cowboy-bebop/ep22/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep22/playlist.m3u8"
         },
         {
           "number": 23,
-          "playlist": "cowboy-bebop/ep23/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep23/playlist.m3u8"
         },
         {
           "number": 24,
-          "playlist": "cowboy-bebop/ep24/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep24/playlist.m3u8"
         },
         {
           "number": 25,
-          "playlist": "cowboy-bebop/ep25/playlist.m3u8"
-        },
-        {
-          "number": 26,
-          "playlist": "cowboy-bebop/ep26/playlist.m3u8"
+          "playlist": "my-hero-academia-season-5/ep25/playlist.m3u8"
         }
       ]
     }
