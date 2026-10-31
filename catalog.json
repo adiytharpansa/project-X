@@ -39862,6 +39862,80 @@
           "playlist": "the-seven-deadly-sins-signs-of-holy-war/ep4/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "horimiya",
+      "title": "Horimiya",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c0ebd71b9f5524a8b8490b7348a360bc8ca9a7cd/horimiya/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c0ebd71b9f5524a8b8490b7348a360bc8ca9a7cd/horimiya/banner.jpg",
+      "synopsis": "Do opposites attract? At school, Hori is a social butterfly but her life at home is anything but perfect. Left to raise her brother, she’s facing responsibilities that she’s not ready for.\n\nMeanwhile, under a brooding façade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they’ve never shown. Could this blossom into something new?\n\n(Source: Funimation)",
+      "year": 2021,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xi9uivufxysw",
+      "pin": "e2b41c6ce04b5992ccc5b9588b4ccd12490e0c58",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "horimiya/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "horimiya/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "horimiya/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "horimiya/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "horimiya/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "horimiya/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "horimiya/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "horimiya/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "horimiya/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "horimiya/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "horimiya/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "horimiya/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "horimiya/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
