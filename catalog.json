@@ -24823,916 +24823,128 @@
       ]
     },
     {
-      "id": "attack-on-titan-no-regrets",
-      "title": "Attack on Titan: No Regrets",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fb3677be67d9a9b23a2ddff83903d67fb83f6e93/attack-on-titan-no-regrets/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fb3677be67d9a9b23a2ddff83903d67fb83f6e93/attack-on-titan-no-regrets/banner.jpg",
-      "synopsis": "Many years before becoming the famed captain of the Survey Corps, a young Levi struggles to survive in the capital's garbage dump, the Underground. As the boss of his own criminal operation, Levi attempts to get by with meager earnings while aided by fellow criminals, Isabel Magnolia and Farlan Church. With little hope for the future, Levi accepts a deal from the anti-expedition faction leader Nicholas Lobov, who promises the trio citizenship aboveground if they are able to successfully assassinate Erwin Smith, a squad leader of the Survey Corps.\n\nAs Levi and Erwin cross paths, Erwin acknowledges Levi's agility and skill and gives him the option to either become part of the expedition team, or be turned over to the Military Police, to atone for his crimes. Now closer to the man they are tasked to kill, the group plans to complete their mission and save themselves from a grim demise in the dim recesses of their past home. However, they are about to learn that the surface world is not as liberating as they had thought and that sometimes, freedom can come at a heavy price.\n\nBased on the popular spin-off manga of the same name, Shingeki no Kyojin: Kuinaki Sentaku illustrates the encounter between two of Shingeki no Kyojin's pivotal characters, as well as the events of the 23rd expedition beyond the walls.\n\n(Source: MAL Rewrite)",
-      "year": 2014,
+      "id": "cowboy-bebop",
+      "title": "Cowboy Bebop",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@200cc5e0855ad6c262d63af8112c5e385d5d938d/cowboy-bebop/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@200cc5e0855ad6c262d63af8112c5e385d5d938d/cowboy-bebop/banner.jpg",
+      "synopsis": "In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as \"Cowboys\". The ragtag team aboard the spaceship Bebop are two such individuals.\nMellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each member's dark and mysterious past little by little. \nWell-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.\n\n(Source: MAL Rewrite)",
+      "year": 1998,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
-        "Violence",
-        "Action",
-        "Fantasy",
-        "Military",
-        "Shounen"
+        "Bounty Hunter",
+        "Gunfights",
+        "Future",
+        "Space",
+        "Space Travel",
+        "Other Planet"
       ],
-      "repo": "adiytharpansa/xy1agcl08vr4",
-      "pin": "372526ce368a9a4b3674fa4098257184105e401c",
+      "repo": "adiytharpansa/xst3eg6e3w0e",
+      "pin": "079f8f9c056fbdbb2df64c20714dff8740a1c569",
       "episodes": [
         {
           "number": 1,
-          "playlist": "attack-on-titan-no-regrets/ep1/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "attack-on-titan-no-regrets/ep2/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "rent-a-girlfriend-season-2",
-      "title": "Rent-a-Girlfriend Season 2",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bab1407c35dfefbe09dedeb900c53b3ded32e720/rent-a-girlfriend-season-2/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bab1407c35dfefbe09dedeb900c53b3ded32e720/rent-a-girlfriend-season-2/banner.jpg",
-      "synopsis": "A hopeless college student, Kazuya Kinoshita, meets a graceful rental girlfriend, Chizuru Ichinose, and ends up introducing her as \nhis girlfriend to his family and friends. Time goes on with Kazuya unable to tell the truth, as he's surrounded by devilish ex-girlfriend Mami Nanami, who keeps coming back to tempt him for some reason, hyper-aggressive provisional girlfriend Ruka Sarashina, who doesn't know how to take no for an answer, and super shy but diligent and hardworking younger rental girlfriend, Sumi Sakurasawa… beautiful girlfriends of all types! The pub, the beach, hot springs, Christmas, and New Year’s… Having gone through these challenging events, Kazuya's feelings for Chizuru keep growing stronger. But she reveals a shocking truth that threatens to shake their \"relationship\" to the very core!\n\n\n\n(Source: Crunchyroll, edited)",
-      "year": 2022,
-      "score": 6.4,
-      "status": "FINISHED",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "repo": "adiytharpansa/x110nbooz5mb",
-      "pin": "87fbb4b158bdae80eaeea7bdfbd7b5cd7b8c28f1",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "rent-a-girlfriend-season-2/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "rent-a-girlfriend-season-2/ep2/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "rent-a-girlfriend-season-2/ep3/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "rent-a-girlfriend-season-2/ep4/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "rent-a-girlfriend-season-2/ep5/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "rent-a-girlfriend-season-2/ep6/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "rent-a-girlfriend-season-2/ep7/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "rent-a-girlfriend-season-2/ep8/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "rent-a-girlfriend-season-2/ep9/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "rent-a-girlfriend-season-2/ep10/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "rent-a-girlfriend-season-2/ep11/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "rent-a-girlfriend-season-2/ep12/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "black-clover",
-      "title": "Black Clover",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8d510a068012d0ab14ae2965c90602e6a194f0f4/black-clover/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8d510a068012d0ab14ae2965c90602e6a194f0f4/black-clover/banner.jpg",
-      "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n(Source: Crunchyroll)",
-      "year": 2017,
-      "score": 0,
-      "status": "FINISHED",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "repo": "adiytharpansa/xe5zul7gia6i",
-      "pin": "26f2eee83979a40fd0ae961c22b2396d6146fbf6",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "black-clover/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "black-clover/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "black-clover/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "black-clover/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "black-clover/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "black-clover/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "black-clover/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "black-clover/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "black-clover/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "black-clover/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "black-clover/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "black-clover/ep12/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "black-clover/ep13/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep13/playlist.m3u8"
         },
         {
           "number": 14,
-          "playlist": "black-clover/ep14/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep14/playlist.m3u8"
         },
         {
           "number": 15,
-          "playlist": "black-clover/ep15/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep15/playlist.m3u8"
         },
         {
           "number": 16,
-          "playlist": "black-clover/ep16/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep16/playlist.m3u8"
         },
         {
           "number": 17,
-          "playlist": "black-clover/ep17/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep17/playlist.m3u8"
         },
         {
           "number": 18,
-          "playlist": "black-clover/ep18/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep18/playlist.m3u8"
         },
         {
           "number": 19,
-          "playlist": "black-clover/ep19/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep19/playlist.m3u8"
         },
         {
           "number": 20,
-          "playlist": "black-clover/ep20/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep20/playlist.m3u8"
         },
         {
           "number": 21,
-          "playlist": "black-clover/ep21/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep21/playlist.m3u8"
         },
         {
           "number": 22,
-          "playlist": "black-clover/ep22/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep22/playlist.m3u8"
         },
         {
           "number": 23,
-          "playlist": "black-clover/ep23/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep23/playlist.m3u8"
         },
         {
           "number": 24,
-          "playlist": "black-clover/ep24/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep24/playlist.m3u8"
         },
         {
           "number": 25,
-          "playlist": "black-clover/ep25/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep25/playlist.m3u8"
         },
         {
           "number": 26,
-          "playlist": "black-clover/ep26/playlist.m3u8"
-        },
-        {
-          "number": 27,
-          "playlist": "black-clover/ep27/playlist.m3u8"
-        },
-        {
-          "number": 28,
-          "playlist": "black-clover/ep28/playlist.m3u8"
-        },
-        {
-          "number": 29,
-          "playlist": "black-clover/ep29/playlist.m3u8"
-        },
-        {
-          "number": 30,
-          "playlist": "black-clover/ep30/playlist.m3u8"
-        },
-        {
-          "number": 31,
-          "playlist": "black-clover/ep31/playlist.m3u8"
-        },
-        {
-          "number": 32,
-          "playlist": "black-clover/ep32/playlist.m3u8"
-        },
-        {
-          "number": 33,
-          "playlist": "black-clover/ep33/playlist.m3u8"
-        },
-        {
-          "number": 34,
-          "playlist": "black-clover/ep34/playlist.m3u8"
-        },
-        {
-          "number": 35,
-          "playlist": "black-clover/ep35/playlist.m3u8"
-        },
-        {
-          "number": 36,
-          "playlist": "black-clover/ep36/playlist.m3u8"
-        },
-        {
-          "number": 37,
-          "playlist": "black-clover/ep37/playlist.m3u8"
-        },
-        {
-          "number": 38,
-          "playlist": "black-clover/ep38/playlist.m3u8"
-        },
-        {
-          "number": 39,
-          "playlist": "black-clover/ep39/playlist.m3u8"
-        },
-        {
-          "number": 40,
-          "playlist": "black-clover/ep40/playlist.m3u8"
-        },
-        {
-          "number": 41,
-          "playlist": "black-clover/ep41/playlist.m3u8"
-        },
-        {
-          "number": 42,
-          "playlist": "black-clover/ep42/playlist.m3u8"
-        },
-        {
-          "number": 43,
-          "playlist": "black-clover/ep43/playlist.m3u8"
-        },
-        {
-          "number": 44,
-          "playlist": "black-clover/ep44/playlist.m3u8"
-        },
-        {
-          "number": 45,
-          "playlist": "black-clover/ep45/playlist.m3u8"
-        },
-        {
-          "number": 46,
-          "playlist": "black-clover/ep46/playlist.m3u8"
-        },
-        {
-          "number": 47,
-          "playlist": "black-clover/ep47/playlist.m3u8"
-        },
-        {
-          "number": 48,
-          "playlist": "black-clover/ep48/playlist.m3u8"
-        },
-        {
-          "number": 49,
-          "playlist": "black-clover/ep49/playlist.m3u8"
-        },
-        {
-          "number": 50,
-          "playlist": "black-clover/ep50/playlist.m3u8"
-        },
-        {
-          "number": 51,
-          "playlist": "black-clover/ep51/playlist.m3u8"
-        },
-        {
-          "number": 52,
-          "playlist": "black-clover/ep52/playlist.m3u8"
-        },
-        {
-          "number": 53,
-          "playlist": "black-clover/ep53/playlist.m3u8"
-        },
-        {
-          "number": 54,
-          "playlist": "black-clover/ep54/playlist.m3u8"
-        },
-        {
-          "number": 55,
-          "playlist": "black-clover/ep55/playlist.m3u8"
-        },
-        {
-          "number": 56,
-          "playlist": "black-clover/ep56/playlist.m3u8"
-        },
-        {
-          "number": 57,
-          "playlist": "black-clover/ep57/playlist.m3u8"
-        },
-        {
-          "number": 58,
-          "playlist": "black-clover/ep58/playlist.m3u8"
-        },
-        {
-          "number": 59,
-          "playlist": "black-clover/ep59/playlist.m3u8"
-        },
-        {
-          "number": 60,
-          "playlist": "black-clover/ep60/playlist.m3u8"
-        },
-        {
-          "number": 61,
-          "playlist": "black-clover/ep61/playlist.m3u8"
-        },
-        {
-          "number": 62,
-          "playlist": "black-clover/ep62/playlist.m3u8"
-        },
-        {
-          "number": 63,
-          "playlist": "black-clover/ep63/playlist.m3u8"
-        },
-        {
-          "number": 64,
-          "playlist": "black-clover/ep64/playlist.m3u8"
-        },
-        {
-          "number": 65,
-          "playlist": "black-clover/ep65/playlist.m3u8"
-        },
-        {
-          "number": 66,
-          "playlist": "black-clover/ep66/playlist.m3u8"
-        },
-        {
-          "number": 67,
-          "playlist": "black-clover/ep67/playlist.m3u8"
-        },
-        {
-          "number": 68,
-          "playlist": "black-clover/ep68/playlist.m3u8"
-        },
-        {
-          "number": 69,
-          "playlist": "black-clover/ep69/playlist.m3u8"
-        },
-        {
-          "number": 70,
-          "playlist": "black-clover/ep70/playlist.m3u8"
-        },
-        {
-          "number": 71,
-          "playlist": "black-clover/ep71/playlist.m3u8"
-        },
-        {
-          "number": 72,
-          "playlist": "black-clover/ep72/playlist.m3u8"
-        },
-        {
-          "number": 73,
-          "playlist": "black-clover/ep73/playlist.m3u8"
-        },
-        {
-          "number": 74,
-          "playlist": "black-clover/ep74/playlist.m3u8"
-        },
-        {
-          "number": 75,
-          "playlist": "black-clover/ep75/playlist.m3u8"
-        },
-        {
-          "number": 76,
-          "playlist": "black-clover/ep76/playlist.m3u8"
-        },
-        {
-          "number": 77,
-          "playlist": "black-clover/ep77/playlist.m3u8"
-        },
-        {
-          "number": 78,
-          "playlist": "black-clover/ep78/playlist.m3u8"
-        },
-        {
-          "number": 79,
-          "playlist": "black-clover/ep79/playlist.m3u8"
-        },
-        {
-          "number": 80,
-          "playlist": "black-clover/ep80/playlist.m3u8"
-        },
-        {
-          "number": 81,
-          "playlist": "black-clover/ep81/playlist.m3u8"
-        },
-        {
-          "number": 82,
-          "playlist": "black-clover/ep82/playlist.m3u8"
-        },
-        {
-          "number": 83,
-          "playlist": "black-clover/ep83/playlist.m3u8"
-        },
-        {
-          "number": 84,
-          "playlist": "black-clover/ep84/playlist.m3u8"
-        },
-        {
-          "number": 85,
-          "playlist": "black-clover/ep85/playlist.m3u8"
-        },
-        {
-          "number": 86,
-          "playlist": "black-clover/ep86/playlist.m3u8"
-        },
-        {
-          "number": 87,
-          "playlist": "black-clover/ep87/playlist.m3u8"
-        },
-        {
-          "number": 88,
-          "playlist": "black-clover/ep88/playlist.m3u8"
-        },
-        {
-          "number": 89,
-          "playlist": "black-clover/ep89/playlist.m3u8"
-        },
-        {
-          "number": 90,
-          "playlist": "black-clover/ep90/playlist.m3u8"
-        },
-        {
-          "number": 91,
-          "playlist": "black-clover/ep91/playlist.m3u8"
-        },
-        {
-          "number": 92,
-          "playlist": "black-clover/ep92/playlist.m3u8"
-        },
-        {
-          "number": 93,
-          "playlist": "black-clover/ep93/playlist.m3u8"
-        },
-        {
-          "number": 94,
-          "playlist": "black-clover/ep94/playlist.m3u8"
-        },
-        {
-          "number": 95,
-          "playlist": "black-clover/ep95/playlist.m3u8"
-        },
-        {
-          "number": 96,
-          "playlist": "black-clover/ep96/playlist.m3u8"
-        },
-        {
-          "number": 97,
-          "playlist": "black-clover/ep97/playlist.m3u8"
-        },
-        {
-          "number": 98,
-          "playlist": "black-clover/ep98/playlist.m3u8"
-        },
-        {
-          "number": 99,
-          "playlist": "black-clover/ep99/playlist.m3u8"
-        },
-        {
-          "number": 100,
-          "playlist": "black-clover/ep100/playlist.m3u8"
-        },
-        {
-          "number": 101,
-          "playlist": "black-clover/ep101/playlist.m3u8"
-        },
-        {
-          "number": 102,
-          "playlist": "black-clover/ep102/playlist.m3u8"
-        },
-        {
-          "number": 103,
-          "playlist": "black-clover/ep103/playlist.m3u8"
-        },
-        {
-          "number": 104,
-          "playlist": "black-clover/ep104/playlist.m3u8"
-        },
-        {
-          "number": 105,
-          "playlist": "black-clover/ep105/playlist.m3u8"
-        },
-        {
-          "number": 106,
-          "playlist": "black-clover/ep106/playlist.m3u8"
-        },
-        {
-          "number": 107,
-          "playlist": "black-clover/ep107/playlist.m3u8"
-        },
-        {
-          "number": 108,
-          "playlist": "black-clover/ep108/playlist.m3u8"
-        },
-        {
-          "number": 109,
-          "playlist": "black-clover/ep109/playlist.m3u8"
-        },
-        {
-          "number": 110,
-          "playlist": "black-clover/ep110/playlist.m3u8"
-        },
-        {
-          "number": 111,
-          "playlist": "black-clover/ep111/playlist.m3u8"
-        },
-        {
-          "number": 112,
-          "playlist": "black-clover/ep112/playlist.m3u8"
-        },
-        {
-          "number": 113,
-          "playlist": "black-clover/ep113/playlist.m3u8"
-        },
-        {
-          "number": 114,
-          "playlist": "black-clover/ep114/playlist.m3u8"
-        },
-        {
-          "number": 115,
-          "playlist": "black-clover/ep115/playlist.m3u8"
-        },
-        {
-          "number": 116,
-          "playlist": "black-clover/ep116/playlist.m3u8"
-        },
-        {
-          "number": 117,
-          "playlist": "black-clover/ep117/playlist.m3u8"
-        },
-        {
-          "number": 118,
-          "playlist": "black-clover/ep118/playlist.m3u8"
-        },
-        {
-          "number": 119,
-          "playlist": "black-clover/ep119/playlist.m3u8"
-        },
-        {
-          "number": 120,
-          "playlist": "black-clover/ep120/playlist.m3u8"
-        },
-        {
-          "number": 121,
-          "playlist": "black-clover/ep121/playlist.m3u8"
-        },
-        {
-          "number": 122,
-          "playlist": "black-clover/ep122/playlist.m3u8"
-        },
-        {
-          "number": 123,
-          "playlist": "black-clover/ep123/playlist.m3u8"
-        },
-        {
-          "number": 124,
-          "playlist": "black-clover/ep124/playlist.m3u8"
-        },
-        {
-          "number": 125,
-          "playlist": "black-clover/ep125/playlist.m3u8"
-        },
-        {
-          "number": 126,
-          "playlist": "black-clover/ep126/playlist.m3u8"
-        },
-        {
-          "number": 127,
-          "playlist": "black-clover/ep127/playlist.m3u8"
-        },
-        {
-          "number": 128,
-          "playlist": "black-clover/ep128/playlist.m3u8"
-        },
-        {
-          "number": 129,
-          "playlist": "black-clover/ep129/playlist.m3u8"
-        },
-        {
-          "number": 130,
-          "playlist": "black-clover/ep130/playlist.m3u8"
-        },
-        {
-          "number": 131,
-          "playlist": "black-clover/ep131/playlist.m3u8"
-        },
-        {
-          "number": 132,
-          "playlist": "black-clover/ep132/playlist.m3u8"
-        },
-        {
-          "number": 133,
-          "playlist": "black-clover/ep133/playlist.m3u8"
-        },
-        {
-          "number": 134,
-          "playlist": "black-clover/ep134/playlist.m3u8"
-        },
-        {
-          "number": 135,
-          "playlist": "black-clover/ep135/playlist.m3u8"
-        },
-        {
-          "number": 136,
-          "playlist": "black-clover/ep136/playlist.m3u8"
-        },
-        {
-          "number": 137,
-          "playlist": "black-clover/ep137/playlist.m3u8"
-        },
-        {
-          "number": 138,
-          "playlist": "black-clover/ep138/playlist.m3u8"
-        },
-        {
-          "number": 139,
-          "playlist": "black-clover/ep139/playlist.m3u8"
-        },
-        {
-          "number": 140,
-          "playlist": "black-clover/ep140/playlist.m3u8"
-        },
-        {
-          "number": 141,
-          "playlist": "black-clover/ep141/playlist.m3u8"
-        },
-        {
-          "number": 142,
-          "playlist": "black-clover/ep142/playlist.m3u8"
-        },
-        {
-          "number": 143,
-          "playlist": "black-clover/ep143/playlist.m3u8"
-        },
-        {
-          "number": 144,
-          "playlist": "black-clover/ep144/playlist.m3u8"
-        },
-        {
-          "number": 145,
-          "playlist": "black-clover/ep145/playlist.m3u8"
-        },
-        {
-          "number": 146,
-          "playlist": "black-clover/ep146/playlist.m3u8"
-        },
-        {
-          "number": 147,
-          "playlist": "black-clover/ep147/playlist.m3u8"
-        },
-        {
-          "number": 148,
-          "playlist": "black-clover/ep148/playlist.m3u8"
-        },
-        {
-          "number": 149,
-          "playlist": "black-clover/ep149/playlist.m3u8"
-        },
-        {
-          "number": 150,
-          "playlist": "black-clover/ep150/playlist.m3u8"
-        },
-        {
-          "number": 151,
-          "playlist": "black-clover/ep151/playlist.m3u8"
-        },
-        {
-          "number": 152,
-          "playlist": "black-clover/ep152/playlist.m3u8"
-        },
-        {
-          "number": 153,
-          "playlist": "black-clover/ep153/playlist.m3u8"
-        },
-        {
-          "number": 154,
-          "playlist": "black-clover/ep154/playlist.m3u8"
-        },
-        {
-          "number": 155,
-          "playlist": "black-clover/ep155/playlist.m3u8"
-        },
-        {
-          "number": 156,
-          "playlist": "black-clover/ep156/playlist.m3u8"
-        },
-        {
-          "number": 157,
-          "playlist": "black-clover/ep157/playlist.m3u8"
-        },
-        {
-          "number": 158,
-          "playlist": "black-clover/ep158/playlist.m3u8"
-        },
-        {
-          "number": 159,
-          "playlist": "black-clover/ep159/playlist.m3u8"
-        },
-        {
-          "number": 160,
-          "playlist": "black-clover/ep160/playlist.m3u8"
-        },
-        {
-          "number": 161,
-          "playlist": "black-clover/ep161/playlist.m3u8"
-        },
-        {
-          "number": 162,
-          "playlist": "black-clover/ep162/playlist.m3u8"
-        },
-        {
-          "number": 163,
-          "playlist": "black-clover/ep163/playlist.m3u8"
-        },
-        {
-          "number": 164,
-          "playlist": "black-clover/ep164/playlist.m3u8"
-        },
-        {
-          "number": 165,
-          "playlist": "black-clover/ep165/playlist.m3u8"
-        },
-        {
-          "number": 166,
-          "playlist": "black-clover/ep166/playlist.m3u8"
-        },
-        {
-          "number": 167,
-          "playlist": "black-clover/ep167/playlist.m3u8"
-        },
-        {
-          "number": 168,
-          "playlist": "black-clover/ep168/playlist.m3u8"
-        },
-        {
-          "number": 169,
-          "playlist": "black-clover/ep169/playlist.m3u8"
-        },
-        {
-          "number": 170,
-          "playlist": "black-clover/ep170/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "parasyte-the-maxim",
-      "title": "Parasyte -the maxim-",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c1faddc848ad772c57e77144fd60ea60246fa464/parasyte-the-maxim/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c1faddc848ad772c57e77144fd60ea60246fa464/parasyte-the-maxim/banner.jpg",
-      "synopsis": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey.\n\nSixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but it fails to take over his brain, ending up in his right hand instead. Unable to relocate, the parasite, now named Migi, has no choice but to rely on Shinichi in order to stay alive. Thus, the pair is forced into an uneasy coexistence and must defend themselves from hostile parasites that hope to eradicate this new threat to their species.\n\n(Source: MAL Rewrite)",
-      "year": 2014,
-      "score": 8.2,
-      "status": "FINISHED",
-      "genres": [
-        "High School",
-        "Earth",
-        "Japan",
-        "Violence",
-        "Parasite",
-        "Plot Continuity"
-      ],
-      "repo": "adiytharpansa/xqcfyjr2jw7b",
-      "pin": "da4664746058343e273ad2643f57d821729de500",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "parasyte-the-maxim/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "parasyte-the-maxim/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "parasyte-the-maxim/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "parasyte-the-maxim/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "parasyte-the-maxim/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "parasyte-the-maxim/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "parasyte-the-maxim/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "parasyte-the-maxim/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "parasyte-the-maxim/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "parasyte-the-maxim/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "parasyte-the-maxim/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "parasyte-the-maxim/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "parasyte-the-maxim/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "parasyte-the-maxim/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "parasyte-the-maxim/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "parasyte-the-maxim/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "parasyte-the-maxim/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "parasyte-the-maxim/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "parasyte-the-maxim/ep19/playlist.m3u8"
-        },
-        {
-          "number": 20,
-          "playlist": "parasyte-the-maxim/ep20/playlist.m3u8"
-        },
-        {
-          "number": 21,
-          "playlist": "parasyte-the-maxim/ep21/playlist.m3u8"
-        },
-        {
-          "number": 22,
-          "playlist": "parasyte-the-maxim/ep22/playlist.m3u8"
-        },
-        {
-          "number": 23,
-          "playlist": "parasyte-the-maxim/ep23/playlist.m3u8"
-        },
-        {
-          "number": 24,
-          "playlist": "parasyte-the-maxim/ep24/playlist.m3u8"
+          "playlist": "cowboy-bebop/ep26/playlist.m3u8"
         }
       ]
     }
