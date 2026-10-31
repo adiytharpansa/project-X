@@ -44186,6 +44186,76 @@
           "playlist": "paprika/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "spice-and-wolf-ii",
+      "title": "Spice and Wolf II",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d61132044e8acac6bdd5c769e21ca8bed8015acb/spice-and-wolf-ii/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@d61132044e8acac6bdd5c769e21ca8bed8015acb/spice-and-wolf-ii/banner.jpg",
+      "synopsis": "Kraft Lawrence, an experienced traveling merchant, and his sharp tongued wolf goddess companion, Holo, continue on their journey to return to Holo's home in the north called Yoitsu.  A tender relationship blossoms between the two as they make deals and travel between cities.",
+      "year": 2009,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Deity",
+        "Past",
+        "Historical",
+        "Contemporary Fantasy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "bd9c575efbf9e49c61aa20a39e7748543f985c5f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "spice-and-wolf-ii/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "spice-and-wolf-ii/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "spice-and-wolf-ii/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "spice-and-wolf-ii/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "spice-and-wolf-ii/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "spice-and-wolf-ii/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "spice-and-wolf-ii/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "spice-and-wolf-ii/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "spice-and-wolf-ii/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "spice-and-wolf-ii/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "spice-and-wolf-ii/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "spice-and-wolf-ii/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
