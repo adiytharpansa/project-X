@@ -45007,6 +45007,76 @@
           "playlist": "masamune-kun-s-revenge/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "absolute-duo",
+      "title": "Absolute Duo",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eacb2f5aabad912d19b883a6a51b0c771fbe7081/absolute-duo/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@eacb2f5aabad912d19b883a6a51b0c771fbe7081/absolute-duo/banner.jpg",
+      "synopsis": "Individuals who can materialize weapons from their soul are called \"Blazers,\" and they attend Kouryou Academy High School in order to harness their abilities. Each student is required to partner with another, in the hopes that one day, the pair can attain the power of Absolute Duo.\nTooru Kokonoe hopes to attend this academy in order to gain power after his sister and friends were slain by a mysterious man. However, at the opening ceremony, he is forced to duel against the person sitting next to him, with the loser being expelled. As Tooru prepares to give the match his all, it is not a weapon that manifests from his soul, but a shield, an irregularity which catches the attention of a foreign student named Julie Sigtuna.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 6.4,
+      "status": "FINISHED",
+      "genres": [
+        "Violence",
+        "Action",
+        "Fantasy",
+        "Ecchi",
+        "Romance",
+        "Harem"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "ae36d3fcb5fde656c3de1acac05eaefa759b49fa",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "absolute-duo/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "absolute-duo/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "absolute-duo/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "absolute-duo/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "absolute-duo/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "absolute-duo/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "absolute-duo/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "absolute-duo/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "absolute-duo/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "absolute-duo/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "absolute-duo/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "absolute-duo/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
