@@ -30446,76 +30446,130 @@
       ]
     },
     {
-      "id": "charlotte",
-      "title": "Charlotte",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c4483057ef1025fad7285ec47d0b07fd4f24999e/charlotte/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c4483057ef1025fad7285ec47d0b07fd4f24999e/charlotte/banner.jpg",
-      "synopsis": "Very few adolescent boys and girls have an onset of special abilities. Yu Otosaka is one such man who uses his ability unbeknownst to others in order to lead a satisfying school life. Then one day, a girl named Nao Tomori suddenly appears before him. Their encounter reveals the destiny for wielders of special abilities.\n\n(Source: Aniplex USA)",
-      "year": 2015,
-      "score": 7.7,
+      "id": "hunter-x-hunter-greed-island",
+      "title": "Hunter x Hunter: Greed Island",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@927c3dad99e515c89d81cdd3be413ab0743df497/hunter-x-hunter-greed-island/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@927c3dad99e515c89d81cdd3be413ab0743df497/hunter-x-hunter-greed-island/banner.jpg",
+      "synopsis": "After the battle with the Spiders, the search for Ging continues as Gon and Killua decided to once again attempt to purchase the rare game \"Greed Island\". However, Gon came up with a better plan, which was to volunteer to complete the game for the billionaire who owned it. But some training must be done, as Gon and Killua's abilities are still at a developing stage and \"Greed Island\" is no simple game for anyone to play with. It is the infamous game that could easily lead to one's death. Based on the manga by Togashi Yoshihiro. ",
+      "year": 2003,
+      "score": 8.2,
       "status": "FINISHED",
       "genres": [
         "Super Power",
         "Present",
-        "Earth",
-        "Japan",
-        "Violence",
-        "Asia"
+        "Fantasy World",
+        "Alternative Present",
+        "Virtual Reality",
+        "Action"
       ],
-      "repo": "adiytharpansa/xn4zeky5id7v",
-      "pin": "660dd4f32e08990ec0a15a9aa0fe079ef743790f",
+      "repo": "adiytharpansa/x3btmvhqb8dh",
+      "pin": "43ebcc05958e1af66b49fd2ebcca9be8a9611792",
       "episodes": [
         {
           "number": 1,
-          "playlist": "charlotte/ep1/playlist.m3u8"
+          "playlist": "hunter-x-hunter-greed-island/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "charlotte/ep2/playlist.m3u8"
+          "playlist": "hunter-x-hunter-greed-island/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "charlotte/ep3/playlist.m3u8"
+          "playlist": "hunter-x-hunter-greed-island/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "charlotte/ep4/playlist.m3u8"
+          "playlist": "hunter-x-hunter-greed-island/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "charlotte/ep5/playlist.m3u8"
+          "playlist": "hunter-x-hunter-greed-island/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "charlotte/ep6/playlist.m3u8"
+          "playlist": "hunter-x-hunter-greed-island/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "charlotte/ep7/playlist.m3u8"
+          "playlist": "hunter-x-hunter-greed-island/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "charlotte/ep8/playlist.m3u8"
+          "playlist": "hunter-x-hunter-greed-island/ep8/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "overlord",
+      "title": "Overlord",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@adb147d3e39f1757a91b968c9719aadd4c6acd8c/overlord/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@adb147d3e39f1757a91b968c9719aadd4c6acd8c/overlord/banner.jpg",
+      "synopsis": "The final hour of the popular virtual reality game Yggdrasil has come. However, Momonga, a powerful wizard and master of the dark guild Ainz Ooal Gown, decides to spend his last few moments in the game as the servers begin to shut down. To his surprise, despite the clock having struck midnight, Momonga is still fully conscious as his character and, moreover, the non-player characters appear to have developed personalities of their own!\n\nConfronted with this abnormal situation, Momonga commands his loyal servants to help him investigate and take control of this new world, with the hopes of figuring out what has caused this development and if there may be others in the same predicament.\n\n(Source: MAL Rewrite)",
+      "year": 2015,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Fantasy World",
+        "Violence",
+        "Virtual Reality",
+        "Action",
+        "Fantasy"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "a6d6c88c6da1a8b06692e87d4c079f1aac1e8de5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "overlord/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "overlord/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "overlord/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "overlord/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "overlord/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "overlord/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "overlord/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "overlord/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "charlotte/ep9/playlist.m3u8"
+          "playlist": "overlord/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "charlotte/ep10/playlist.m3u8"
+          "playlist": "overlord/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "charlotte/ep11/playlist.m3u8"
+          "playlist": "overlord/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "charlotte/ep12/playlist.m3u8"
+          "playlist": "overlord/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "charlotte/ep13/playlist.m3u8"
+          "playlist": "overlord/ep13/playlist.m3u8"
         }
       ]
     }
