@@ -31967,6 +31967,120 @@
           "playlist": "darker-than-black/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "clannad",
+      "title": "Clannad",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cfd71fcd9049784b9844846f015694b06991c54c/clannad/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cfd71fcd9049784b9844846f015694b06991c54c/clannad/banner.jpg",
+      "synopsis": "Tomoya Okazaki is a delinquent who finds life dull and believes he'll never amount to anything. Along with his friend Sunohara, he skips school and plans to waste his high school days away.\nOne day while walking to school, Tomoya passes a young girl muttering quietly to herself.  Without warning she exclaims \"Anpan!\" (a popular Japanese food) which catches Tomoya's attention. He soon discovers the girl's name is Nagisa Furukawa and that she exclaims things she likes in order to motivate herself. Nagisa claims they are now friends, but Tomoya walks away passing the encounter off as nothing.\nHowever, Tomoya finds he is noticing Nagisa more and more around school.  Eventually he concedes and befriends her.  Tomoya learns Nagisa has been held back a year due to a severe illness and that her dream is to revive the school's drama club.  Claiming he has nothing better to do, he decides to help her achieve this goal along with the help of four other girls.\nAs Tomoya spends more time with the girls, he learns more about them and their problems.  As he attempts to help each girl overcome her respective obstacle, he begins to realize life isn't as dull as he once thought.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 8.0,
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Love Polygon"
+      ],
+      "status": "FINISHED",
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "2c23921b321ffc4204ed7fc6c84cbfd246610590",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "clannad/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "clannad/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "clannad/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "clannad/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "clannad/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "clannad/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "clannad/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "clannad/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "clannad/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "clannad/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "clannad/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "clannad/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "clannad/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "clannad/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "clannad/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "clannad/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "clannad/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "clannad/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "clannad/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "clannad/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "clannad/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "clannad/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "clannad/ep23/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
