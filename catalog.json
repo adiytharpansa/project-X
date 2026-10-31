@@ -50121,6 +50121,76 @@
           "playlist": "jojo-s-bizarre-adventure-diamond-is-unbreakable/ep39/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kiznaiver",
+      "title": "KIZNAIVER",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c35f3c3942fdaa1e0c70c29047ebe90816113fea/kiznaiver/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c35f3c3942fdaa1e0c70c29047ebe90816113fea/kiznaiver/banner.jpg",
+      "synopsis": "The story takes place in Sugomori, a city built upon reclaimed land that once prospered as a futuristic city. One high school boy living there, Agata Katsuhira, is somehow unable to feel any pain. One day just before the start of summer break, Katsuhira is called by a mysterious girl named Sonozaki Noriko and chosen to become one of a group of people who share one another's pain: a \"Kiznaiver.\" Several of his classmates have also been chosen as part of this group, but they're all people from different circles who normally wouldn't associate with each other.\n\n(Source: Crunchyroll)",
+      "year": 2016,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Human Enhancement",
+        "Japan",
+        "Unrequited Love",
+        "Love Polygon"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "7723e311bea524e91b4f26a7a42a41a5324b6347",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kiznaiver/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kiznaiver/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kiznaiver/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kiznaiver/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kiznaiver/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kiznaiver/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kiznaiver/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kiznaiver/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kiznaiver/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kiznaiver/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kiznaiver/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kiznaiver/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
