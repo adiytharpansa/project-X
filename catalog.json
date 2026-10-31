@@ -46681,6 +46681,76 @@
           "playlist": "sword-art-online-alternative-gun-gale-online/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tamako-market",
+      "title": "Tamako Market",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0bfcbda9b6c45d2c96ac180d69d882059e8826c8/tamako-market/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0bfcbda9b6c45d2c96ac180d69d882059e8826c8/tamako-market/banner.jpg",
+      "synopsis": "Tamako knows everything about mochi, the traditional Japanese dessert treats - she even works at Tama-ya, her family’s mochi shop. However, friendships, rivalries, and strange new feelings are beginning to make her life a sticky, complicated mess!\n\n(Source: HIDIVE)",
+      "year": 2013,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "Cooking",
+        "Present",
+        "Japan",
+        "Comedy",
+        "Friendship",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "c8ea30838b7055436c23967f451377e733079303",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tamako-market/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tamako-market/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tamako-market/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tamako-market/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tamako-market/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tamako-market/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tamako-market/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tamako-market/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tamako-market/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tamako-market/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tamako-market/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tamako-market/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
