@@ -49306,6 +49306,80 @@
           "playlist": "fruits-basket-2nd-season/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kino-s-journey",
+      "title": "Kino's Journey",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@953499407c7d34daa0e65b3ce41915ab088ba9bf/kino-s-journey/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@953499407c7d34daa0e65b3ce41915ab088ba9bf/kino-s-journey/banner.jpg",
+      "synopsis": "Based on a hit light novel series by Keiichi Sigsawa, the philosophical Kino's Journey employs the time-honored motif of the road trip as a vehicle for self-discovery and universal truth. Deeply meditative and cooler than zero, the series follows the existential adventures of the apt marksman Kino along with talking motorcycle Hermes as they travel the world and learn much about themselves in the process. Imaginative, thought-provoking, and sometimes disturbing, Kino's journey is documented in an episodic style with an emphasis on atmosphere rather than action or plot, though still prevalent.",
+      "year": 2003,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Slice of Life",
+        "Steampunk"
+      ],
+      "repo": "adiytharpansa/xg8xosu0mqzx",
+      "pin": "7d935e64a1978a958abbfa5bc4c2a614daba94dc",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kino-s-journey/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kino-s-journey/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kino-s-journey/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kino-s-journey/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kino-s-journey/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kino-s-journey/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kino-s-journey/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kino-s-journey/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kino-s-journey/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kino-s-journey/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kino-s-journey/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kino-s-journey/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kino-s-journey/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
