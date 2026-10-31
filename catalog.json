@@ -35271,6 +35271,132 @@
           "playlist": "black-butler-book-of-circus/ep10/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "claymore",
+      "title": "Claymore",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ebcf3299f19b7905c4b390e24107827837edf936/claymore/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ebcf3299f19b7905c4b390e24107827837edf936/claymore/banner.jpg",
+      "synopsis": "In this world, humans coexist with demonic predators called Yoma. These demonic beasts feast on human innards and can blend into human society by taking on human appearance. As a counter force, a mysterious organization created half-human, half-Yoma warriors known as the \"Silver Eyed Witches\" or \"Claymores,\" after the huge claymore swords they carry. They are detested by humanity however necessary.\n\nThe story begins with a young boy, Raki, who has lost everything in a Yoma attack, and the Claymore, Clare, who is generally detested by society. Throughout the series, Clare and Raki show their deeper qualities, powers and Clare's never ending devotion to the goal she swore to fulfill in her childhood.\n\n(Source: MAL)",
+      "year": 2007,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Swordplay",
+        "Super Power",
+        "Past",
+        "Fantasy World",
+        "Demon",
+        "Dark Fantasy"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "dcec0c41d072a0e6fff616cdbaecc7d04e5a5c22",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "claymore/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "claymore/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "claymore/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "claymore/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "claymore/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "claymore/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "claymore/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "claymore/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "claymore/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "claymore/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "claymore/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "claymore/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "claymore/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "claymore/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "claymore/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "claymore/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "claymore/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "claymore/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "claymore/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "claymore/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "claymore/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "claymore/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "claymore/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "claymore/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "claymore/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "claymore/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
