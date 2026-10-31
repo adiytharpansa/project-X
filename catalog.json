@@ -40540,6 +40540,32 @@
           "playlist": "is-this-a-zombie/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kiki-s-delivery-service",
+      "title": "Kiki's Delivery Service",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fa068dfc4e05d894849601fa0ce5b7793f0cd602/kiki-s-delivery-service/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@fa068dfc4e05d894849601fa0ce5b7793f0cd602/kiki-s-delivery-service/banner.jpg",
+      "synopsis": "Kiki, a 13-year-old witch-in-training, must spend a year living on her own in a distant town in order to become a full-fledged witch. Leaving her family and friends, Kiki undertakes this tradition when she flies out into the open world atop her broomstick with her black cat Jiji.\nAs she settles down in the coastal town of Koriko, Kiki struggles to adapt and ends up wandering the streets with no place to stay—until she encounters Osono, who offers Kiki boarding in exchange for making deliveries for her small bakery. Before long, Kiki decides to open her own courier service by broomstick, beginning her journey to independence. In attempting to find her place among the townsfolk, Kiki brings with her exciting new experiences and comes to understand the true meaning of responsibility.\n[Written by MAL Rewrite]",
+      "year": 1989,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Earth",
+        "Alternative Present",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/xi9uivufxysw",
+      "pin": "b9a67f1098eb0c645f72899d608789e41f1c1f9b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kiki-s-delivery-service/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
