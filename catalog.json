@@ -42761,6 +42761,32 @@
           "playlist": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "attack-on-titan-chronicle",
+      "title": "Attack on Titan: Chronicle",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a0fec10be285e8070a00b9a7f948f1b9ded67c4c/attack-on-titan-chronicle/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a0fec10be285e8070a00b9a7f948f1b9ded67c4c/attack-on-titan-chronicle/poster.jpg",
+      "synopsis": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
+      "year": 2020,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Violence",
+        "Action",
+        "Angst",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "b689f813c1ff839fe9fd00e83f129dd5a7eb4737",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "attack-on-titan-chronicle/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
