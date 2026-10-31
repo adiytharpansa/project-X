@@ -24677,6 +24677,116 @@
           "playlist": "erased/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "psycho-pass",
+      "title": "Psycho-Pass",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8a52748fd5e3cc3851e32c3bd0821cf18631c982/psycho-pass/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8a52748fd5e3cc3851e32c3bd0821cf18631c982/psycho-pass/banner.jpg",
+      "synopsis": "Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, jaded Inspectors that have become latent criminals, granted relative freedom in exchange for carrying out the Inspectors' dirty work.\nInto this world steps Akane Tsunemori, a young woman with an honest desire to uphold justice. However, as she works alongside veteran Enforcer Shinya Kougami, she soon learns that the Sibyl System's judgments are not as perfect as her fellow Inspectors assume. With everything she has known turned on its head, Akane wrestles with the question of what justice truly is, and whether it can be upheld through the use of a system that may already be corrupt.\n[Written by MAL Rewrite]",
+      "year": 2012,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Asia",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xn4zeky5id7v",
+      "pin": "10635aa6e0bca3d00e9a083a18479fc09000a6b4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "psycho-pass/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "psycho-pass/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "psycho-pass/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "psycho-pass/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "psycho-pass/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "psycho-pass/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "psycho-pass/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "psycho-pass/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "psycho-pass/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "psycho-pass/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "psycho-pass/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "psycho-pass/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "psycho-pass/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "psycho-pass/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "psycho-pass/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "psycho-pass/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "psycho-pass/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "psycho-pass/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "psycho-pass/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "psycho-pass/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "psycho-pass/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "psycho-pass/ep22/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
