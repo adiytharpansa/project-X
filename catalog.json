@@ -26579,6 +26579,76 @@
           "playlist": "to-the-forest-of-the-firefly-lights/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "death-parade",
+      "title": "Death Parade",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f63e6ab49f200d7b3ce008710d1207f0179f29b7/death-parade/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f63e6ab49f200d7b3ce008710d1207f0179f29b7/death-parade/banner.jpg",
+      "synopsis": "After death, there is no heaven or hell, only a bar that stands between reincarnation and oblivion. There the attendant will, one after another, challenge pairs of the recently deceased to a random game in which their fate of either ascending into reincarnation or falling into the void will be wagered. Whether it's bowling, darts, air hockey, or anything in between, each person's true nature will be revealed in a ghastly parade of death and memories, dancing to the whims of the bar's master. Welcome to Quindecim, where Decim, arbiter of the afterlife, awaits!\n\nDeath Parade expands upon the original one-shot intended to train young animators. It follows yet more people receiving judgment—until a strange, black-haired guest causes Decim to begin questioning his own rulings.\n\n(Source: MAL Rewrite)",
+      "year": 2015,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Thriller",
+        "Drama",
+        "Psychological",
+        "Supernatural",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/x44hq4epzll7",
+      "pin": "d27e72569634d98e48b961d8870b520af257c136",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "death-parade/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "death-parade/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "death-parade/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "death-parade/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "death-parade/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "death-parade/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "death-parade/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "death-parade/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "death-parade/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "death-parade/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "death-parade/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "death-parade/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
