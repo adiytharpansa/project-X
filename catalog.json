@@ -38085,6 +38085,640 @@
           "playlist": "monogatari-series-second-season/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "dragon-ball",
+      "title": "Dragon Ball",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a43c4c78d84a43e71f83098008819081457e0ea2/dragon-ball/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a43c4c78d84a43e71f83098008819081457e0ea2/dragon-ball/banner.jpg",
+      "synopsis": "Gokuu Son is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Gokuu happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Gokuu trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.\n[Written by MAL Rewrite]",
+      "year": 1986,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Martial Arts",
+        "Super Power",
+        "Combat",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xe5zul7gia6i",
+      "pin": "ca8f12873e350b2283d5a606b1a2c70b25d08e04",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "dragon-ball/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "dragon-ball/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "dragon-ball/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "dragon-ball/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "dragon-ball/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "dragon-ball/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "dragon-ball/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "dragon-ball/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "dragon-ball/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "dragon-ball/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "dragon-ball/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "dragon-ball/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "dragon-ball/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "dragon-ball/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "dragon-ball/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "dragon-ball/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "dragon-ball/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "dragon-ball/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "dragon-ball/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "dragon-ball/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "dragon-ball/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "dragon-ball/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "dragon-ball/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "dragon-ball/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "dragon-ball/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "dragon-ball/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "dragon-ball/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "dragon-ball/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "dragon-ball/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "dragon-ball/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "dragon-ball/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "dragon-ball/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "dragon-ball/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "dragon-ball/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "dragon-ball/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "dragon-ball/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "dragon-ball/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "dragon-ball/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "dragon-ball/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "dragon-ball/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "dragon-ball/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "dragon-ball/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "dragon-ball/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "dragon-ball/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "dragon-ball/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "dragon-ball/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "dragon-ball/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "dragon-ball/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "dragon-ball/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "dragon-ball/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "dragon-ball/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "dragon-ball/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "dragon-ball/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "dragon-ball/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "dragon-ball/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "dragon-ball/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "dragon-ball/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "dragon-ball/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "dragon-ball/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "dragon-ball/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "dragon-ball/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "dragon-ball/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "dragon-ball/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "dragon-ball/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "dragon-ball/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "dragon-ball/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "dragon-ball/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "dragon-ball/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "dragon-ball/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "dragon-ball/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "dragon-ball/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "dragon-ball/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "dragon-ball/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "dragon-ball/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "dragon-ball/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "dragon-ball/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "dragon-ball/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "dragon-ball/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "dragon-ball/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "dragon-ball/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "dragon-ball/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "dragon-ball/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "dragon-ball/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "dragon-ball/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "dragon-ball/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "dragon-ball/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "dragon-ball/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "dragon-ball/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "dragon-ball/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "dragon-ball/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "dragon-ball/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "dragon-ball/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "dragon-ball/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "dragon-ball/ep94/playlist.m3u8"
+        },
+        {
+          "number": 95,
+          "playlist": "dragon-ball/ep95/playlist.m3u8"
+        },
+        {
+          "number": 96,
+          "playlist": "dragon-ball/ep96/playlist.m3u8"
+        },
+        {
+          "number": 97,
+          "playlist": "dragon-ball/ep97/playlist.m3u8"
+        },
+        {
+          "number": 98,
+          "playlist": "dragon-ball/ep98/playlist.m3u8"
+        },
+        {
+          "number": 99,
+          "playlist": "dragon-ball/ep99/playlist.m3u8"
+        },
+        {
+          "number": 100,
+          "playlist": "dragon-ball/ep100/playlist.m3u8"
+        },
+        {
+          "number": 101,
+          "playlist": "dragon-ball/ep101/playlist.m3u8"
+        },
+        {
+          "number": 102,
+          "playlist": "dragon-ball/ep102/playlist.m3u8"
+        },
+        {
+          "number": 103,
+          "playlist": "dragon-ball/ep103/playlist.m3u8"
+        },
+        {
+          "number": 104,
+          "playlist": "dragon-ball/ep104/playlist.m3u8"
+        },
+        {
+          "number": 105,
+          "playlist": "dragon-ball/ep105/playlist.m3u8"
+        },
+        {
+          "number": 106,
+          "playlist": "dragon-ball/ep106/playlist.m3u8"
+        },
+        {
+          "number": 107,
+          "playlist": "dragon-ball/ep107/playlist.m3u8"
+        },
+        {
+          "number": 108,
+          "playlist": "dragon-ball/ep108/playlist.m3u8"
+        },
+        {
+          "number": 109,
+          "playlist": "dragon-ball/ep109/playlist.m3u8"
+        },
+        {
+          "number": 110,
+          "playlist": "dragon-ball/ep110/playlist.m3u8"
+        },
+        {
+          "number": 111,
+          "playlist": "dragon-ball/ep111/playlist.m3u8"
+        },
+        {
+          "number": 112,
+          "playlist": "dragon-ball/ep112/playlist.m3u8"
+        },
+        {
+          "number": 113,
+          "playlist": "dragon-ball/ep113/playlist.m3u8"
+        },
+        {
+          "number": 114,
+          "playlist": "dragon-ball/ep114/playlist.m3u8"
+        },
+        {
+          "number": 115,
+          "playlist": "dragon-ball/ep115/playlist.m3u8"
+        },
+        {
+          "number": 116,
+          "playlist": "dragon-ball/ep116/playlist.m3u8"
+        },
+        {
+          "number": 117,
+          "playlist": "dragon-ball/ep117/playlist.m3u8"
+        },
+        {
+          "number": 118,
+          "playlist": "dragon-ball/ep118/playlist.m3u8"
+        },
+        {
+          "number": 119,
+          "playlist": "dragon-ball/ep119/playlist.m3u8"
+        },
+        {
+          "number": 120,
+          "playlist": "dragon-ball/ep120/playlist.m3u8"
+        },
+        {
+          "number": 121,
+          "playlist": "dragon-ball/ep121/playlist.m3u8"
+        },
+        {
+          "number": 122,
+          "playlist": "dragon-ball/ep122/playlist.m3u8"
+        },
+        {
+          "number": 123,
+          "playlist": "dragon-ball/ep123/playlist.m3u8"
+        },
+        {
+          "number": 124,
+          "playlist": "dragon-ball/ep124/playlist.m3u8"
+        },
+        {
+          "number": 125,
+          "playlist": "dragon-ball/ep125/playlist.m3u8"
+        },
+        {
+          "number": 126,
+          "playlist": "dragon-ball/ep126/playlist.m3u8"
+        },
+        {
+          "number": 127,
+          "playlist": "dragon-ball/ep127/playlist.m3u8"
+        },
+        {
+          "number": 128,
+          "playlist": "dragon-ball/ep128/playlist.m3u8"
+        },
+        {
+          "number": 129,
+          "playlist": "dragon-ball/ep129/playlist.m3u8"
+        },
+        {
+          "number": 130,
+          "playlist": "dragon-ball/ep130/playlist.m3u8"
+        },
+        {
+          "number": 131,
+          "playlist": "dragon-ball/ep131/playlist.m3u8"
+        },
+        {
+          "number": 132,
+          "playlist": "dragon-ball/ep132/playlist.m3u8"
+        },
+        {
+          "number": 133,
+          "playlist": "dragon-ball/ep133/playlist.m3u8"
+        },
+        {
+          "number": 134,
+          "playlist": "dragon-ball/ep134/playlist.m3u8"
+        },
+        {
+          "number": 135,
+          "playlist": "dragon-ball/ep135/playlist.m3u8"
+        },
+        {
+          "number": 136,
+          "playlist": "dragon-ball/ep136/playlist.m3u8"
+        },
+        {
+          "number": 137,
+          "playlist": "dragon-ball/ep137/playlist.m3u8"
+        },
+        {
+          "number": 138,
+          "playlist": "dragon-ball/ep138/playlist.m3u8"
+        },
+        {
+          "number": 139,
+          "playlist": "dragon-ball/ep139/playlist.m3u8"
+        },
+        {
+          "number": 140,
+          "playlist": "dragon-ball/ep140/playlist.m3u8"
+        },
+        {
+          "number": 141,
+          "playlist": "dragon-ball/ep141/playlist.m3u8"
+        },
+        {
+          "number": 142,
+          "playlist": "dragon-ball/ep142/playlist.m3u8"
+        },
+        {
+          "number": 143,
+          "playlist": "dragon-ball/ep143/playlist.m3u8"
+        },
+        {
+          "number": 144,
+          "playlist": "dragon-ball/ep144/playlist.m3u8"
+        },
+        {
+          "number": 145,
+          "playlist": "dragon-ball/ep145/playlist.m3u8"
+        },
+        {
+          "number": 146,
+          "playlist": "dragon-ball/ep146/playlist.m3u8"
+        },
+        {
+          "number": 147,
+          "playlist": "dragon-ball/ep147/playlist.m3u8"
+        },
+        {
+          "number": 148,
+          "playlist": "dragon-ball/ep148/playlist.m3u8"
+        },
+        {
+          "number": 149,
+          "playlist": "dragon-ball/ep149/playlist.m3u8"
+        },
+        {
+          "number": 150,
+          "playlist": "dragon-ball/ep150/playlist.m3u8"
+        },
+        {
+          "number": 151,
+          "playlist": "dragon-ball/ep151/playlist.m3u8"
+        },
+        {
+          "number": 152,
+          "playlist": "dragon-ball/ep152/playlist.m3u8"
+        },
+        {
+          "number": 153,
+          "playlist": "dragon-ball/ep153/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
