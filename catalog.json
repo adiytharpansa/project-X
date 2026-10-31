@@ -39730,6 +39730,32 @@
           "playlist": "nana/ep47/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "cowboy-bebop-the-movie",
+      "title": "Cowboy Bebop: The Movie",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8722b0e282cf88a16e4200fc04c88a1cea21a465/cowboy-bebop-the-movie/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@8722b0e282cf88a16e4200fc04c88a1cea21a465/cowboy-bebop-the-movie/banner.jpg",
+      "synopsis": "Another day, another bounty—such is the life of the often unlucky crew of the Bebop. However, this routine is interrupted when Faye, who is chasing a fairly worthless target on Mars, witnesses an oil tanker suddenly explode, causing mass hysteria. As casualties mount due to a strange disease spreading through the smoke from the blast, a whopping three hundred million woolong price is placed on the head of the supposed perpetrator.\nWith lives at stake and a solution to their money problems in sight, the Bebop crew springs into action. Spike, Jet, Faye, and Edward, followed closely by Ein, split up to pursue different leads across Alba City. Through their individual investigations, they discover a cover-up scheme involving a pharmaceutical company, revealing a plot that reaches much further than the ragtag team of bounty hunters could have realized.\n[Written by MAL Rewrite]",
+      "year": 2001,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Bounty Hunter",
+        "Gunfights",
+        "Future",
+        "Space",
+        "Other Planet",
+        "Mars"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "97ef5ef970b07f5a900aa368e4c3da34f32f1dc6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "cowboy-bebop-the-movie/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
