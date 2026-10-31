@@ -40566,6 +40566,32 @@
           "playlist": "kiki-s-delivery-service/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "nausica-of-the-valley-of-the-wind",
+      "title": "Nausicaä of the Valley of the Wind",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@420210b9c82af1510819382860399227e93b6387/nausica-of-the-valley-of-the-wind/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@420210b9c82af1510819382860399227e93b6387/nausica-of-the-valley-of-the-wind/banner.jpg",
+      "synopsis": "A millennium has passed since the catastrophic nuclear war named the \"Seven Days of Fire,\" which destroyed nearly all life on Earth. Humanity now lives in a constant struggle against the treacherous jungle that has evolved in response to the destruction caused by mankind. Filled with poisonous spores and enormous insects, the jungle spreads rapidly across the Earth and threatens to swallow the remnants of the human race.\nAway from the jungle exists a peaceful farming kingdom known as the \"Valley of the Wind,\" whose placement by the sea frees it from the spread of the jungle's deadly toxins. The Valley's charismatic young princess, Nausicaä, finds her tranquil kingdom disturbed when an airship from the kingdom of Tolmekia crashes violently in the Valley. After Nausicaä and the citizens of the Valley find a sinister pulsating object in the wreckage, the Valley is suddenly invaded by the Tolmekian military, who intend to revive a dangerous weapon from the Seven Days of Fire. Now Nausicaä must fight to stop the Tolmekians from plunging the Earth into a cataclysm which humanity could never survive, while also protecting the Valley from the encroaching forces of the toxic jungle.\n[Written by MAL Rewrite]",
+      "year": 1984,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Action",
+        "Science Fiction",
+        "Fantasy",
+        "Adventure",
+        "Post Apocalypse"
+      ],
+      "repo": "adiytharpansa/xi9uivufxysw",
+      "pin": "58046cbed57f129a703a5e0fd86660f63c5ae535",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "nausica-of-the-valley-of-the-wind/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
