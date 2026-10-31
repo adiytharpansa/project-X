@@ -32502,6 +32502,76 @@
           "playlist": "steins-gate-0/ep23/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "date-a-live",
+      "title": "Date A Live",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@44e550842e85f1974102c36c8a84aca8c48aaa39/date-a-live/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@44e550842e85f1974102c36c8a84aca8c48aaa39/date-a-live/banner.jpg",
+      "synopsis": "\"Before the world ends, kill me or kiss me.\"\nThirty years before the events of Date A Live, an enormous explosion devastates east Asia and kills 150 million people. This is the first known \"Spacequake\", an inexplicable natural disaster that has since become commonplace. Fast forward to the future. High school second year Shidou Itsuka lives alone with his cute little sister while their parents are away.\nWhat do these things have to do with each other? While rushing to save his sister from a sudden Spacequake, Shidou is caught in the blast and, in the midst of the chaos, finds a mysterious girl. It turns out that this girl is actually a Spirit, a powerful being from another world whose arrival devastates the surrounding area. Thankfully, Shidou is rescued by an anti-Spirit strike team... led by his little sister?!\nThis vicious task force is locked and loaded, ready to exterminate Spirits with extreme prejudice. But this violent method is not for Shidou. He discovers the one way to neutralize these Spirits peacefully: make them fall in love. Now, it's up to Shidou to save the world by dating those who threaten to destroy it!",
+      "year": 2013,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Mecha",
+        "Contemporary Fantasy",
+        "Japan",
+        "Science Fiction",
+        "Fantasy",
+        "Comedy"
+      ],
+      "repo": "adiytharpansa/x110nbooz5mb",
+      "pin": "3d30c90bc5d7d13916b60a0e6de1bb25ac9e1d47",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "date-a-live/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "date-a-live/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "date-a-live/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "date-a-live/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "date-a-live/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "date-a-live/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "date-a-live/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "date-a-live/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "date-a-live/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "date-a-live/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "date-a-live/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "date-a-live/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
