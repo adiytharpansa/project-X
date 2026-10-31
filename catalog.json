@@ -23575,272 +23575,124 @@
       ]
     },
     {
-      "id": "fate-zero",
-      "title": "Fate/Zero",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b2323ffa7741e2e8d5cf1059d50ae9640180d32/fate-zero/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9b2323ffa7741e2e8d5cf1059d50ae9640180d32/fate-zero/banner.jpg",
-      "synopsis": "With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated \"Magus Killer\" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.\nKiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.\nBased on the light novel written by Gen Urobuchi, Fate/Zero depicts the events of the Fourth Holy Grail War—10 years prior to Fate/stay night. Witness a battle royale in which no one is guaranteed to survive.\n[Written by MAL Rewrite]",
-      "year": 2011,
-      "score": 8.2,
-      "status": "FINISHED",
-      "genres": [
-        "Magic",
-        "Battle Royale",
-        "Swordplay",
-        "Present",
-        "Earth",
-        "Alternative Present"
-      ],
-      "repo": "adiytharpansa/x44hq4epzll7",
-      "pin": "67d31082550b92a72a644d6e50ebd6dd15c515b3",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "fate-zero/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "fate-zero/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "fate-zero/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "fate-zero/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "fate-zero/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "fate-zero/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "fate-zero/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "fate-zero/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "fate-zero/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "fate-zero/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "fate-zero/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "fate-zero/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "fate-zero/ep13/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "noragami-aragoto",
-      "title": "Noragami Aragoto",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4cba9fa9e81060c5a4c9b053dd3f7d9004818708/noragami-aragoto/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4cba9fa9e81060c5a4c9b053dd3f7d9004818708/noragami-aragoto/banner.jpg",
-      "synopsis": "Yato and Yukine have finally mended their relationship as god and Regalia, and everyone has returned to their daily life. Yato remains a minor and unknown deity who continues taking odd jobs for five yen apiece in the hopes of one day having millions of worshippers and his own grand shrine. Hiyori Iki has yet to have her loose soul fixed by Yato, but she enjoys life and prepares to attend high school nonetheless.\nTaking place immediately after the first season, Noragami Aragoto delves into the complicated past between Yato and the god of war Bishamon. The female god holds a mysterious grudge against Yato, which often results in violent clashes between them. It doesn't help that Bishamon's most trusted and beloved Regalia, Kazuma, appears to be indebted to Yato. When lives are on the line, unraveling these mysteries and others may be the only way to correct past mistakes.\n[Written by MAL Rewrite]",
+      "id": "haikyu-2nd-season",
+      "title": "Haikyu!! 2nd Season",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@23f907a329261c5e61a3f7514cd4f9a184dda8af/haikyu-2nd-season/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@23f907a329261c5e61a3f7514cd4f9a184dda8af/haikyu-2nd-season/banner.jpg",
+      "synopsis": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead. \n\nWhen they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing with some of the toughest teams in Japan, they hope not only to sharpen their skills, but also come up with new attacks that would strengthen them. Moreover, Hinata and Kageyama attempt to devise a more powerful weapon, one that could possibly break the sturdiest of blocks. \n\nFacing what may be their last chance at victory before the senior players graduate, the members of Karasuno's volleyball team must learn to settle their differences and train harder than ever if they hope to overcome formidable opponents old and new—including their archrival Aoba Jousai and its world-class setter Tooru Oikawa.\n\n(Source: MAL)",
       "year": 2015,
-      "score": 8.2,
+      "score": 8.3,
       "status": "FINISHED",
       "genres": [
-        "Deity",
-        "Super Power",
         "Present",
         "Earth",
-        "Contemporary Fantasy",
-        "Japan"
-      ],
-      "repo": "adiytharpansa/xg8xosu0mqzx",
-      "pin": "396a228616734acfd4fb64614bcc32bf40377bc0",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "noragami-aragoto/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "noragami-aragoto/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "noragami-aragoto/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "noragami-aragoto/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "noragami-aragoto/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "noragami-aragoto/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "noragami-aragoto/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "noragami-aragoto/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "noragami-aragoto/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "noragami-aragoto/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "noragami-aragoto/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "noragami-aragoto/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "noragami-aragoto/ep13/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "toradora",
-      "title": "Toradora!",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@67529fe12181fdf959060c711aa9573d9fccc6de/toradora/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@67529fe12181fdf959060c711aa9573d9fccc6de/toradora/banner.jpg",
-      "synopsis": "Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent. On the other hand is Taiga Aisaka, a small, doll-like student, who is anything but a cute and fragile girl. Equipped with a wooden katana and feisty personality, Taiga is known throughout the school as the \"Palmtop Tiger.\"\nOne day, an embarrassing mistake causes the two students to cross paths. Ryuuji discovers that Taiga actually has a sweet side: she has a crush on the popular vice president, Yuusaku Kitamura, who happens to be his best friend. But things only get crazier when Ryuuji reveals that he has a crush on Minori Kushieda—Taiga's best friend!Toradora! is a romantic comedy that follows this odd duo as they embark on a quest to help each other with their respective crushes, forming an unlikely alliance in the process.\n[Written by MAL Rewrite]",
-      "year": 2008,
-      "score": 8.2,
-      "status": "FINISHED",
-      "genres": [
-        "High School",
-        "Present",
-        "Earth",
-        "Slapstick",
+        "School Clubs",
         "Japan",
-        "Love Polygon"
+        "Volleyball",
+        "Plot Continuity"
       ],
-      "repo": "adiytharpansa/xd6d4o5knyyb",
-      "pin": "a1352845d1fa3755790de1a596d69b901dd2c21f",
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "652a2734ef9cdb339ac1791c8b21af11ce25a47d",
       "episodes": [
         {
           "number": 1,
-          "playlist": "toradora/ep1/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "toradora/ep2/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "toradora/ep3/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "toradora/ep4/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "toradora/ep5/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "toradora/ep6/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "toradora/ep7/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "toradora/ep8/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "toradora/ep9/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "toradora/ep10/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "toradora/ep11/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "toradora/ep12/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "toradora/ep13/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep13/playlist.m3u8"
         },
         {
           "number": 14,
-          "playlist": "toradora/ep14/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep14/playlist.m3u8"
         },
         {
           "number": 15,
-          "playlist": "toradora/ep15/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep15/playlist.m3u8"
         },
         {
           "number": 16,
-          "playlist": "toradora/ep16/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep16/playlist.m3u8"
         },
         {
           "number": 17,
-          "playlist": "toradora/ep17/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep17/playlist.m3u8"
         },
         {
           "number": 18,
-          "playlist": "toradora/ep18/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep18/playlist.m3u8"
         },
         {
           "number": 19,
-          "playlist": "toradora/ep19/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep19/playlist.m3u8"
         },
         {
           "number": 20,
-          "playlist": "toradora/ep20/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep20/playlist.m3u8"
         },
         {
           "number": 21,
-          "playlist": "toradora/ep21/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep21/playlist.m3u8"
         },
         {
           "number": 22,
-          "playlist": "toradora/ep22/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep22/playlist.m3u8"
         },
         {
           "number": 23,
-          "playlist": "toradora/ep23/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep23/playlist.m3u8"
         },
         {
           "number": 24,
-          "playlist": "toradora/ep24/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep24/playlist.m3u8"
         },
         {
           "number": 25,
-          "playlist": "toradora/ep25/playlist.m3u8"
+          "playlist": "haikyu-2nd-season/ep25/playlist.m3u8"
         }
       ]
     }
