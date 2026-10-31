@@ -45077,6 +45077,30 @@
           "playlist": "absolute-duo/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "my-hero-academia-the-movie-3-world-heroes-mission",
+      "title": "My Hero Academia the Movie 3: World Heroes' Mission",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b8560b4492756bd82a1224d6f3a586f9525e088e/my-hero-academia-the-movie-3-world-heroes-mission/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b8560b4492756bd82a1224d6f3a586f9525e088e/my-hero-academia-the-movie-3-world-heroes-mission/banner.jpg",
+      "synopsis": "The third installment in the Boku no Hero Academia movie franchise.\n\nA mysterious organization dedicated to the destruction of people with Quirks has issued a threat and set bombs all over the world. Pro Heroes and those in Hero Internships scramble to find the bombs. Deku, Bakugo, and Todoroki encounter Rody, a boy living in a mobile home in their designated area of Oseon, and end up working with him.\n\n(Source: Anime News Network)",
+      "year": 2021,
+      "score": 8.3,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Action",
+        "Superhero",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "de8499a358db29d5b715f54ef176d6dbe8236146",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "my-hero-academia-the-movie-3-world-heroes-mission/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
