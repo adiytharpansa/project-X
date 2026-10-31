@@ -47338,6 +47338,76 @@
           "playlist": "tower-of-god/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "goblin-slayer",
+      "title": "Goblin Slayer",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9be6558812bab4c9131cdb9a37c70bdc009bb369/goblin-slayer/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9be6558812bab4c9131cdb9a37c70bdc009bb369/goblin-slayer/banner.jpg",
+      "synopsis": "\"I'm not saving the world. I just kill goblins.\" Rumor has it that, in a certain guild in the middle of nowhere, there is an extraordinary man who has climbed all the way to the Silver rank just by killing goblins. At the same guild, a priestess who's just become a new adventurer has formed her first party... and the man who ends up rescuing that party when they get into trouble is none other than the Goblin Slayer.\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Elf",
+        "Magic",
+        "Swordplay",
+        "Fantasy World",
+        "Countryside",
+        "Dark Fantasy"
+      ],
+      "repo": "adiytharpansa/xe5zul7gia6i",
+      "pin": "f114c05c584e11f51821efa2fc276d785eab5e80",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "goblin-slayer/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "goblin-slayer/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "goblin-slayer/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "goblin-slayer/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "goblin-slayer/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "goblin-slayer/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "goblin-slayer/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "goblin-slayer/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "goblin-slayer/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "goblin-slayer/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "goblin-slayer/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "goblin-slayer/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
