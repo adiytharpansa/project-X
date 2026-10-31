@@ -35209,6 +35209,68 @@
           "playlist": "dororo/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "black-butler-book-of-circus",
+      "title": "Black Butler: Book of Circus",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ede585aeb6f87c74ec3f6dd1902d9d9034ea8e4e/black-butler-book-of-circus/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ede585aeb6f87c74ec3f6dd1902d9d9034ea8e4e/black-butler-book-of-circus/banner.jpg",
+      "synopsis": "Full of wonder and excitement, the Noah's Arc Circus troupe has captured audiences with their dazzling performances. Yet these fantastic acts don't come without a price. Children have mysteriously gone missing around London, correlating to that of the groups' movements. Unsettled by these kidnappings, Queen Victoria sends in her notorious guard dog, Ciel Phantomhive, and his ever-faithful demon butler, Sebastian Michaelis, on an undercover mission to find these missing children.\nTrying to balance their new circus acts with their covert investigation under the big top, however, proves to be quite a challenge. With the other performers growing suspicious and the threat of the circus' mysterious benefactor looming overhead, what the two discover will shake Ciel to his very core.\n\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Earth",
+        "Historical",
+        "Demon",
+        "United Kingdom",
+        "Europe"
+      ],
+      "repo": "adiytharpansa/x06snbltj7lb",
+      "pin": "a74b152ba76f8e255ac179a718b922309259f14a",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "black-butler-book-of-circus/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "black-butler-book-of-circus/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "black-butler-book-of-circus/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "black-butler-book-of-circus/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "black-butler-book-of-circus/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "black-butler-book-of-circus/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "black-butler-book-of-circus/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "black-butler-book-of-circus/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "black-butler-book-of-circus/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "black-butler-book-of-circus/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
