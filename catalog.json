@@ -47408,6 +47408,404 @@
           "playlist": "goblin-slayer/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "rurouni-kenshin",
+      "title": "Rurouni Kenshin",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f475329f6c0412c325b0fde61fe651bbfe99f0ac/rurouni-kenshin/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f475329f6c0412c325b0fde61fe651bbfe99f0ac/rurouni-kenshin/banner.jpg",
+      "synopsis": "In the final years of the Bakumatsu era lived a legendary assassin known as Hitokiri Battousai. Feared as a merciless killer, he was unmatched throughout the country, but mysteriously disappeared at the peak of the Japanese Revolution. It has been ten peaceful years since then, but the very mention of Battousai still strikes terror into the hearts of war veterans.Unbeknownst to them, Battousai has abandoned his bloodstained lifestyle in an effort to repent for his sins, now living as Kenshin Himura, a wandering swordsman with a cheerful attitude and a strong will. Vowing never to kill again, Kenshin dedicates himself to protecting the weak. One day, he stumbles across Kaoru Kamiya at her kendo dojo, which is being threatened by an impostor claiming to be Battousai. After receiving help from Kenshin, Kaoru allows him to stay at the dojo, and so the former assassin temporarily ceases his travels.Rurouni Kenshin: Meiji Kenkaku Romantan tells the story of Kenshin as he strives to save those in need of saving. However, as enemies from both past and present begin to emerge, will the reformed killer be able to uphold his new ideals?[Written by MAL Rewrite]",
+      "year": 1996,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Martial Arts",
+        "Swordplay",
+        "Super Power",
+        "Past",
+        "Earth"
+      ],
+      "repo": "adiytharpansa/xe5zul7gia6i",
+      "pin": "74ab4b245f0afbd1611bd46fe2a72c67bd8801ec",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "rurouni-kenshin/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "rurouni-kenshin/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "rurouni-kenshin/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "rurouni-kenshin/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "rurouni-kenshin/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "rurouni-kenshin/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "rurouni-kenshin/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "rurouni-kenshin/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "rurouni-kenshin/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "rurouni-kenshin/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "rurouni-kenshin/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "rurouni-kenshin/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "rurouni-kenshin/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "rurouni-kenshin/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "rurouni-kenshin/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "rurouni-kenshin/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "rurouni-kenshin/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "rurouni-kenshin/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "rurouni-kenshin/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "rurouni-kenshin/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "rurouni-kenshin/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "rurouni-kenshin/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "rurouni-kenshin/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "rurouni-kenshin/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "rurouni-kenshin/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "rurouni-kenshin/ep26/playlist.m3u8"
+        },
+        {
+          "number": 27,
+          "playlist": "rurouni-kenshin/ep27/playlist.m3u8"
+        },
+        {
+          "number": 28,
+          "playlist": "rurouni-kenshin/ep28/playlist.m3u8"
+        },
+        {
+          "number": 29,
+          "playlist": "rurouni-kenshin/ep29/playlist.m3u8"
+        },
+        {
+          "number": 30,
+          "playlist": "rurouni-kenshin/ep30/playlist.m3u8"
+        },
+        {
+          "number": 31,
+          "playlist": "rurouni-kenshin/ep31/playlist.m3u8"
+        },
+        {
+          "number": 32,
+          "playlist": "rurouni-kenshin/ep32/playlist.m3u8"
+        },
+        {
+          "number": 33,
+          "playlist": "rurouni-kenshin/ep33/playlist.m3u8"
+        },
+        {
+          "number": 34,
+          "playlist": "rurouni-kenshin/ep34/playlist.m3u8"
+        },
+        {
+          "number": 35,
+          "playlist": "rurouni-kenshin/ep35/playlist.m3u8"
+        },
+        {
+          "number": 36,
+          "playlist": "rurouni-kenshin/ep36/playlist.m3u8"
+        },
+        {
+          "number": 37,
+          "playlist": "rurouni-kenshin/ep37/playlist.m3u8"
+        },
+        {
+          "number": 38,
+          "playlist": "rurouni-kenshin/ep38/playlist.m3u8"
+        },
+        {
+          "number": 39,
+          "playlist": "rurouni-kenshin/ep39/playlist.m3u8"
+        },
+        {
+          "number": 40,
+          "playlist": "rurouni-kenshin/ep40/playlist.m3u8"
+        },
+        {
+          "number": 41,
+          "playlist": "rurouni-kenshin/ep41/playlist.m3u8"
+        },
+        {
+          "number": 42,
+          "playlist": "rurouni-kenshin/ep42/playlist.m3u8"
+        },
+        {
+          "number": 43,
+          "playlist": "rurouni-kenshin/ep43/playlist.m3u8"
+        },
+        {
+          "number": 44,
+          "playlist": "rurouni-kenshin/ep44/playlist.m3u8"
+        },
+        {
+          "number": 45,
+          "playlist": "rurouni-kenshin/ep45/playlist.m3u8"
+        },
+        {
+          "number": 46,
+          "playlist": "rurouni-kenshin/ep46/playlist.m3u8"
+        },
+        {
+          "number": 47,
+          "playlist": "rurouni-kenshin/ep47/playlist.m3u8"
+        },
+        {
+          "number": 48,
+          "playlist": "rurouni-kenshin/ep48/playlist.m3u8"
+        },
+        {
+          "number": 49,
+          "playlist": "rurouni-kenshin/ep49/playlist.m3u8"
+        },
+        {
+          "number": 50,
+          "playlist": "rurouni-kenshin/ep50/playlist.m3u8"
+        },
+        {
+          "number": 51,
+          "playlist": "rurouni-kenshin/ep51/playlist.m3u8"
+        },
+        {
+          "number": 52,
+          "playlist": "rurouni-kenshin/ep52/playlist.m3u8"
+        },
+        {
+          "number": 53,
+          "playlist": "rurouni-kenshin/ep53/playlist.m3u8"
+        },
+        {
+          "number": 54,
+          "playlist": "rurouni-kenshin/ep54/playlist.m3u8"
+        },
+        {
+          "number": 55,
+          "playlist": "rurouni-kenshin/ep55/playlist.m3u8"
+        },
+        {
+          "number": 56,
+          "playlist": "rurouni-kenshin/ep56/playlist.m3u8"
+        },
+        {
+          "number": 57,
+          "playlist": "rurouni-kenshin/ep57/playlist.m3u8"
+        },
+        {
+          "number": 58,
+          "playlist": "rurouni-kenshin/ep58/playlist.m3u8"
+        },
+        {
+          "number": 59,
+          "playlist": "rurouni-kenshin/ep59/playlist.m3u8"
+        },
+        {
+          "number": 60,
+          "playlist": "rurouni-kenshin/ep60/playlist.m3u8"
+        },
+        {
+          "number": 61,
+          "playlist": "rurouni-kenshin/ep61/playlist.m3u8"
+        },
+        {
+          "number": 62,
+          "playlist": "rurouni-kenshin/ep62/playlist.m3u8"
+        },
+        {
+          "number": 63,
+          "playlist": "rurouni-kenshin/ep63/playlist.m3u8"
+        },
+        {
+          "number": 64,
+          "playlist": "rurouni-kenshin/ep64/playlist.m3u8"
+        },
+        {
+          "number": 65,
+          "playlist": "rurouni-kenshin/ep65/playlist.m3u8"
+        },
+        {
+          "number": 66,
+          "playlist": "rurouni-kenshin/ep66/playlist.m3u8"
+        },
+        {
+          "number": 67,
+          "playlist": "rurouni-kenshin/ep67/playlist.m3u8"
+        },
+        {
+          "number": 68,
+          "playlist": "rurouni-kenshin/ep68/playlist.m3u8"
+        },
+        {
+          "number": 69,
+          "playlist": "rurouni-kenshin/ep69/playlist.m3u8"
+        },
+        {
+          "number": 70,
+          "playlist": "rurouni-kenshin/ep70/playlist.m3u8"
+        },
+        {
+          "number": 71,
+          "playlist": "rurouni-kenshin/ep71/playlist.m3u8"
+        },
+        {
+          "number": 72,
+          "playlist": "rurouni-kenshin/ep72/playlist.m3u8"
+        },
+        {
+          "number": 73,
+          "playlist": "rurouni-kenshin/ep73/playlist.m3u8"
+        },
+        {
+          "number": 74,
+          "playlist": "rurouni-kenshin/ep74/playlist.m3u8"
+        },
+        {
+          "number": 75,
+          "playlist": "rurouni-kenshin/ep75/playlist.m3u8"
+        },
+        {
+          "number": 76,
+          "playlist": "rurouni-kenshin/ep76/playlist.m3u8"
+        },
+        {
+          "number": 77,
+          "playlist": "rurouni-kenshin/ep77/playlist.m3u8"
+        },
+        {
+          "number": 78,
+          "playlist": "rurouni-kenshin/ep78/playlist.m3u8"
+        },
+        {
+          "number": 79,
+          "playlist": "rurouni-kenshin/ep79/playlist.m3u8"
+        },
+        {
+          "number": 80,
+          "playlist": "rurouni-kenshin/ep80/playlist.m3u8"
+        },
+        {
+          "number": 81,
+          "playlist": "rurouni-kenshin/ep81/playlist.m3u8"
+        },
+        {
+          "number": 82,
+          "playlist": "rurouni-kenshin/ep82/playlist.m3u8"
+        },
+        {
+          "number": 83,
+          "playlist": "rurouni-kenshin/ep83/playlist.m3u8"
+        },
+        {
+          "number": 84,
+          "playlist": "rurouni-kenshin/ep84/playlist.m3u8"
+        },
+        {
+          "number": 85,
+          "playlist": "rurouni-kenshin/ep85/playlist.m3u8"
+        },
+        {
+          "number": 86,
+          "playlist": "rurouni-kenshin/ep86/playlist.m3u8"
+        },
+        {
+          "number": 87,
+          "playlist": "rurouni-kenshin/ep87/playlist.m3u8"
+        },
+        {
+          "number": 88,
+          "playlist": "rurouni-kenshin/ep88/playlist.m3u8"
+        },
+        {
+          "number": 89,
+          "playlist": "rurouni-kenshin/ep89/playlist.m3u8"
+        },
+        {
+          "number": 90,
+          "playlist": "rurouni-kenshin/ep90/playlist.m3u8"
+        },
+        {
+          "number": 91,
+          "playlist": "rurouni-kenshin/ep91/playlist.m3u8"
+        },
+        {
+          "number": 92,
+          "playlist": "rurouni-kenshin/ep92/playlist.m3u8"
+        },
+        {
+          "number": 93,
+          "playlist": "rurouni-kenshin/ep93/playlist.m3u8"
+        },
+        {
+          "number": 94,
+          "playlist": "rurouni-kenshin/ep94/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
