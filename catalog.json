@@ -30758,6 +30758,32 @@
           "playlist": "attack-on-titan-roar-of-awakening/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-girl-who-leapt-through-time",
+      "title": "The Girl Who Leapt Through Time",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/banner.jpg",
+      "synopsis": "Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time.Toki wo Kakeru Shoujo follows Makoto as she plays around with her newfound power. However, she soon learns the hard way that every choice has a consequence, and time is a lot more complicated than it may seem.\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Time Travel",
+        "Japan",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "5da6e55e4cc311962029319e8242869d865510dd",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-girl-who-leapt-through-time/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
