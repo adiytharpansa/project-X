@@ -48464,6 +48464,124 @@
           "playlist": "ghost-in-the-shell-stand-alone-complex-2nd-gig/ep26/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "kaze-no-stigma",
+      "title": "Kaze no Stigma",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b5717d60b27c0f0f93d059c9229b67ef45f75805/kaze-no-stigma/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b5717d60b27c0f0f93d059c9229b67ef45f75805/kaze-no-stigma/banner.jpg",
+      "synopsis": "Kazuma Yagami is a user of \"Fuujutsu,\" the ability to control the wind. He returns to his old home, the noble Kannagi household, after being banished four years ago for his inability to control fire and his subsequent defeat in a duel at the hands of his younger cousin, Ayano Kannagi.\nReturning after such a brutal exile already gives rise to many conflicts, but to make matters worse, several Kannagi family members have recently been murdered with Fuujutsu. This leads the Kannagi family, including the hot-headed Ayano, to suspect Kazuma as the culprit. Now, Kazuma must not only clear his name, but also aid the family he shares a mutual hatred with, in order to discover the true identity of the killer.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Super Power",
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "Contemporary Fantasy"
+      ],
+      "repo": "adiytharpansa/xy1agcl08vr4",
+      "pin": "a1a81da08fde73dc5b295f6a922bd7c46112e720",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "kaze-no-stigma/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "kaze-no-stigma/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "kaze-no-stigma/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "kaze-no-stigma/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "kaze-no-stigma/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "kaze-no-stigma/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "kaze-no-stigma/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "kaze-no-stigma/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "kaze-no-stigma/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "kaze-no-stigma/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "kaze-no-stigma/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "kaze-no-stigma/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "kaze-no-stigma/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "kaze-no-stigma/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "kaze-no-stigma/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "kaze-no-stigma/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "kaze-no-stigma/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "kaze-no-stigma/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "kaze-no-stigma/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "kaze-no-stigma/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "kaze-no-stigma/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "kaze-no-stigma/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "kaze-no-stigma/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "kaze-no-stigma/ep24/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
