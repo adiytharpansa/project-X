@@ -34998,6 +34998,76 @@
           "playlist": "bungo-stray-dogs-2/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "high-school-dxd-new",
+      "title": "High School DxD New",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1d7ba99cd336bf7ea88de7e0d59e0a7b23558e0c/high-school-dxd-new/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@1d7ba99cd336bf7ea88de7e0d59e0a7b23558e0c/high-school-dxd-new/banner.jpg",
+      "synopsis": "The misadventures of Issei Hyoudou, high school pervert and aspiring Harem King, continue on in High School DxD New. As the members of the Occult Research Club carry out their regular activities, it becomes increasingly obvious that there is something wrong with their Knight, the usually composed and alert Yuuto Kiba. Soon, Issei learns of Kiba's dark, bloody past and its connection to the mysterious Holy Swords. Once the subject of a cruel experiment, Kiba now seeks revenge on all those who wronged him.\nWith the return of an old enemy, as well as the appearance of two new, Holy Sword-wielding beauties, it isn't long before Issei and his Devil comrades are plunged into a twisted plot once more.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Angel",
+        "Dragon",
+        "Super Power",
+        "Demon",
+        "Violence",
+        "Action"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "0371a842380cf0f02305899d576ce82416cc2940",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "high-school-dxd-new/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "high-school-dxd-new/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "high-school-dxd-new/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "high-school-dxd-new/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "high-school-dxd-new/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "high-school-dxd-new/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "high-school-dxd-new/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "high-school-dxd-new/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "high-school-dxd-new/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "high-school-dxd-new/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "high-school-dxd-new/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "high-school-dxd-new/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
