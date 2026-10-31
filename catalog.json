@@ -47265,6 +47265,79 @@
           "playlist": "the-god-of-high-school/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tower-of-god",
+      "title": "Tower of God",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@dada3421bab88826fdfc9f28d5c780732018a3c1/tower-of-god/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@dada3421bab88826fdfc9f28d5c780732018a3c1/tower-of-god/banner.jpg",
+      "synopsis": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of Rachel, the girl who climbed the tower so she could see the stars, and Bam, the boy who needed nothing but her.\n\n(Source: Crunchyroll)",
+      "year": 2020,
+      "score": 7.6,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy World",
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "fa6cdbf0a8872df63018126ccce6e9a04b2af5de",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tower-of-god/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tower-of-god/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tower-of-god/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tower-of-god/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tower-of-god/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tower-of-god/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tower-of-god/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tower-of-god/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tower-of-god/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tower-of-god/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tower-of-god/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tower-of-god/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "tower-of-god/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
