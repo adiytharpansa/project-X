@@ -42475,6 +42475,80 @@
           "playlist": "myriad-colors-phantom-world/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "gintama-enchousen",
+      "title": "Gintama': Enchousen",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@60cc5edc0ab921b975870ca9340dd2c81e6514b9/gintama-enchousen/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@60cc5edc0ab921b975870ca9340dd2c81e6514b9/gintama-enchousen/banner.jpg",
+      "synopsis": "Sakata Gintoki, Kagura, and Shinpachi Shimura continue to scrape a living as freelance jack-of-all-trades at Edo while amidst the several odd humans and aliens that inhabit the peculiar metropolis. \n(Source: ANN)",
+      "year": 2012,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Alien",
+        "Swordplay",
+        "Past",
+        "Alternative Past",
+        "Historical"
+      ],
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "dbff181a2b7ade3718bed7715fe12c69ca423823",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "gintama-enchousen/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "gintama-enchousen/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "gintama-enchousen/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "gintama-enchousen/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "gintama-enchousen/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "gintama-enchousen/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "gintama-enchousen/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "gintama-enchousen/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "gintama-enchousen/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "gintama-enchousen/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "gintama-enchousen/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "gintama-enchousen/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "gintama-enchousen/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
