@@ -44351,6 +44351,76 @@
           "playlist": "tokyo-ghoul-re-2/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "barakamon",
+      "title": "Barakamon",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e676e849e9b86ca64e77ace926dcdb4d9ea3a2a8/barakamon/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e676e849e9b86ca64e77ace926dcdb4d9ea3a2a8/barakamon/banner.jpg",
+      "synopsis": "Seishuu Handa is an up-and-coming calligrapher: young, handsome, talented, and unfortunately, a narcissist to boot. When a veteran labels his award-winning piece as \"unoriginal,\" Seishuu quickly loses his cool with severe repercussions.\nAs punishment, and also in order to aid him in self-reflection, Seishuu's father exiles him to the Goto Islands, far from the comfortable Tokyo lifestyle the temperamental artist is used to. Now thrown into a rural setting, Seishuu must attempt to find new inspiration and develop his own unique art style—that is, if boisterous children (headed by the frisky Naru Kotoishi), fujoshi middle schoolers, and energetic old men stop barging into his house! The newest addition to the intimate and quirky Goto community only wants to get some work done, but the islands are far from the peaceful countryside he signed up for. Thanks to his wacky neighbors who are entirely incapable of minding their own business, the arrogant calligrapher learns so much more than he ever hoped to.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Island",
+        "Countryside",
+        "Japan",
+        "Stereotypes"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "6d45033cc814769d6b962197b9a1dc14899c4208",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "barakamon/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "barakamon/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "barakamon/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "barakamon/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "barakamon/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "barakamon/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "barakamon/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "barakamon/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "barakamon/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "barakamon/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "barakamon/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "barakamon/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
