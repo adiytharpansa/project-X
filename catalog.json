@@ -43518,6 +43518,80 @@
           "playlist": "beastars/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "mayo-chiki",
+      "title": "Mayo Chiki!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c7077899291223935d601d46fea767d992c5421b/mayo-chiki/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c7077899291223935d601d46fea767d992c5421b/mayo-chiki/banner.jpg",
+      "synopsis": "Mayo Chiki!'s main protagonist, Sakamachi Kinjirou, has the worst case of gynophobia known to man. Just one touch from a girl and his nose bleeds almost uncontrollably. His condition is all thanks to his family of female wrestlers who \"trained\" him a bit too much as a child. Through this tough love, Kinjirou developed a body able to withstand hard blows... as well as an intense fear of the female race. Life with such a handicap is difficult in itself, but after one ominous visit to the school restroom, Kinjirou's semi-peaceful existence shifts into complete chaos. He discovers that the suave Subaru-sama, the bodyguard to the headmaster's daughter Kanade, is actually a girl. In exchange for his silence in the matter, Kanade promises to help him overcome his gynophobia.\nA cross dressing butler, a high-class twisted beauty, a BL writer wannabe, an aspiring pro-wrestler, and someone who lives with ghosts―these are the kind of girls that Sakamachi Kinjirou must deal with everyday. With such a unique cast of characters, high school life in Mayo Chiki! is sure to bring about a ton of wacky adventures.",
+      "year": 2011,
+      "score": 7.3,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "Slapstick",
+        "Japan",
+        "Violent Retribution For Accidental Infringement"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "222ebb46b6a353f97ea3a593382af17982b8ca97",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "mayo-chiki/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "mayo-chiki/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "mayo-chiki/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "mayo-chiki/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "mayo-chiki/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "mayo-chiki/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "mayo-chiki/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "mayo-chiki/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "mayo-chiki/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "mayo-chiki/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "mayo-chiki/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "mayo-chiki/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "mayo-chiki/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
