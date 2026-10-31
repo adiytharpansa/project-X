@@ -23381,6 +23381,76 @@
           "playlist": "jujutsu-kaisen-2/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "noragami",
+      "title": "Noragami",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4599f0f05247c888e50f441ccea36ef348ccacb8/noragami/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4599f0f05247c888e50f441ccea36ef348ccacb8/noragami/banner.jpg",
+      "synopsis": "In times of need, if you look in the right place, you just may see a strange telephone number scrawled in red. If you call this number, you will hear a young man introduce himself as the Yato God.\nYato is a minor deity and a self-proclaimed \"Delivery God,\" who dreams of having millions of worshippers. Without a single shrine dedicated to his name, however, his goals are far from being realized. He spends his days doing odd jobs for five yen apiece, until his weapon partner becomes fed up with her useless master and deserts him.\nJust as things seem to be looking grim for the god, his fortune changes when a middle school girl, Hiyori Iki, supposedly saves Yato from a car accident, taking the hit for him. Remarkably, she survives, but the event has caused her soul to become loose and hence able to leave her body. Hiyori demands that Yato return her to normal, but upon learning that he needs a new partner to do so, reluctantly agrees to help him find one. And with Hiyori's help, Yato's luck may finally be turning around.\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Ghost",
+        "Swordplay",
+        "Super Power",
+        "Contemporary Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/gudang-27",
+      "pin": "ed09d2f62faa84a0b0e40a7dad5c7199a326f7d4",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "noragami/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "noragami/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "noragami/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "noragami/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "noragami/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "noragami/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "noragami/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "noragami/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "noragami/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "noragami/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "noragami/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "noragami/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
