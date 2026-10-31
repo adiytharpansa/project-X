@@ -50191,6 +50191,127 @@
           "playlist": "kiznaiver/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "little-witch-academia-tv",
+      "title": "Little Witch Academia (TV)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b0b2ec101079ecf5b474963ac438c3d2d57e9d19/little-witch-academia-tv/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b0b2ec101079ecf5b474963ac438c3d2d57e9d19/little-witch-academia-tv/banner.jpg",
+      "synopsis": "Akko Kagari is an ordinary girl who joins the renowned witch academy for witch girls, Luna Nova Academy. When she was younger, she went to Magical Festa, a magic show hosted by a witch named Shiny Chariot. Akko was so mesmerized and inspired by Shiny Chariot's performance that she dreamed to someday be a \"cool\" witch like her. This young and impressionable Akko takes Shiny Chariot's words as her own motto: \"Never forget, a believing heart is your magic.“\n\n(Source: ANN)",
+      "year": 2017,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "School Life"
+      ],
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "9f2cbb24fd37926172cba5aba7047bd23db5fd0e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "little-witch-academia-tv/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "little-witch-academia-tv/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "little-witch-academia-tv/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "little-witch-academia-tv/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "little-witch-academia-tv/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "little-witch-academia-tv/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "little-witch-academia-tv/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "little-witch-academia-tv/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "little-witch-academia-tv/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "little-witch-academia-tv/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "little-witch-academia-tv/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "little-witch-academia-tv/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "little-witch-academia-tv/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "little-witch-academia-tv/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "little-witch-academia-tv/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "little-witch-academia-tv/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "little-witch-academia-tv/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "little-witch-academia-tv/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "little-witch-academia-tv/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "little-witch-academia-tv/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "little-witch-academia-tv/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "little-witch-academia-tv/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "little-witch-academia-tv/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "little-witch-academia-tv/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "little-witch-academia-tv/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
