@@ -27125,255 +27125,72 @@
       ]
     },
     {
-      "id": "tokyo-ghoul-a",
-      "title": "Tokyo Ghoul √A",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c182bbebc9c22092b2f78e4c7fd0d68811af46f2/tokyo-ghoul-a/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c182bbebc9c22092b2f78e4c7fd0d68811af46f2/tokyo-ghoul-a/banner.jpg",
-      "synopsis": "The second season of Tokyo Ghoul.\n\nThe ghouls of Anteiku invaded the Aogiri's site in order to rescue Ken Kaneki who is being tortured. Due to provocation, he unleashed greater power enough to defeat Yamori. To become stronger, he decided to join Aogiri and left Anteiku. Ghoul investigators also making their moves by collecting information about the eye-patched ghoul - Ken Kaneki.\n\n(Source: Anime News Network)",
-      "year": 2015,
-      "score": 7.1,
+      "id": "food-wars-the-third-plate",
+      "title": "Food Wars! The Third Plate",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4da95d8d69b9fcabc408a5965ee940206d767576/food-wars-the-third-plate/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@4da95d8d69b9fcabc408a5965ee940206d767576/food-wars-the-third-plate/banner.jpg",
+      "synopsis": "The third season of Shokugeki no Souma. ",
+      "year": 2017,
+      "score": 8.2,
       "genres": [
-        "Violence",
-        "Action",
-        "Horror",
-        "Psychological",
-        "Mystery"
-      ],
-      "status": "FINISHED",
-      "repo": "adiytharpansa/xd6d4o5knyyb",
-      "pin": "7999f2bafd412d9db8c081c7dd5eddf6d3dba61d",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "tokyo-ghoul-a/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "tokyo-ghoul-a/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "tokyo-ghoul-a/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "tokyo-ghoul-a/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "tokyo-ghoul-a/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "tokyo-ghoul-a/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "tokyo-ghoul-a/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "tokyo-ghoul-a/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "tokyo-ghoul-a/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "tokyo-ghoul-a/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "tokyo-ghoul-a/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "tokyo-ghoul-a/ep12/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "hyouka",
-      "title": "Hyouka",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aef43b70916b5c16fa38d163e37c0cc22fefa80a/hyouka/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aef43b70916b5c16fa38d163e37c0cc22fefa80a/hyouka/banner.jpg",
-      "synopsis": "Energy-conservative high school student Houtarou Oreki ends up with more than he bargained for when he signs up for the Classics Club at his sister's behest—especially when he realizes how deep-rooted the club's history really is. Begrudgingly, Oreki is dragged into an investigation concerning the 45-year-old mystery that surrounds the club room.\n\nAccompanied by his fellow club members, the knowledgeable Satoshi Fukube, the stern but benign Mayaka Ibara, and the ever-curious Eru Chitanda, Oreki must combat deadlines and lack of information with resourcefulness and hidden talent, in order to not only find the truth buried beneath the dust of works created years before them, but of other small side cases as well.\n\nBased on the award-winning Koten-bu light novel series, and directed by Yasuhiro Takemoto of Suzumiya Haruhi no Shoushitsu, Hyouka shows that normal life can be full of small mysteries, be it family history, a student film, or even the withered flowers that make up a ghost story.\n\n[Written by MAL Rewrite]",
-      "year": 2012,
-      "score": 8.1,
-      "genres": [
-        "Present",
-        "School Clubs",
+        "Cooking",
+        "Earth",
         "Japan",
-        "Asia",
-        "Slice of Life",
+        "Comedy",
+        "Ecchi",
         "School Life"
       ],
       "status": "FINISHED",
-      "repo": "adiytharpansa/xpp3elbf0150",
-      "pin": "c1566a763c75eb22d45fb052aaf9ff6325e5fc72",
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "dd3e9106fc2d20053448c1c6d5a9704f8af58269",
       "episodes": [
         {
           "number": 1,
-          "playlist": "hyouka/ep1/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "hyouka/ep2/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "hyouka/ep3/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "hyouka/ep4/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "hyouka/ep5/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "hyouka/ep6/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "hyouka/ep7/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "hyouka/ep8/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "hyouka/ep9/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "hyouka/ep10/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "hyouka/ep11/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "hyouka/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "hyouka/ep13/playlist.m3u8"
-        },
-        {
-          "number": 14,
-          "playlist": "hyouka/ep14/playlist.m3u8"
-        },
-        {
-          "number": 15,
-          "playlist": "hyouka/ep15/playlist.m3u8"
-        },
-        {
-          "number": 16,
-          "playlist": "hyouka/ep16/playlist.m3u8"
-        },
-        {
-          "number": 17,
-          "playlist": "hyouka/ep17/playlist.m3u8"
-        },
-        {
-          "number": 18,
-          "playlist": "hyouka/ep18/playlist.m3u8"
-        },
-        {
-          "number": 19,
-          "playlist": "hyouka/ep19/playlist.m3u8"
-        },
-        {
-          "number": 20,
-          "playlist": "hyouka/ep20/playlist.m3u8"
-        },
-        {
-          "number": 21,
-          "playlist": "hyouka/ep21/playlist.m3u8"
-        },
-        {
-          "number": 22,
-          "playlist": "hyouka/ep22/playlist.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "elfen-lied",
-      "title": "Elfen Lied",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8fbcdf252eeaa589771cd9da15a3fb52f5a170a/elfen-lied/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e8fbcdf252eeaa589771cd9da15a3fb52f5a170a/elfen-lied/banner.jpg",
-      "synopsis": "Lucy is a special breed of human referred to as \"Diclonius,\" born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government. However, once circumstances present her an opportunity to escape, Lucy, corrupted by the confinement and torture, unleashes a torrent of bloodshed as she escapes her captors.\nDuring her breakout, she receives a crippling head injury that leaves her with a split personality: someone with the mentality of a harmless child possessing limited speech capacity. In this state of instability, she stumbles upon two college students, Kouta and his cousin Yuka, who unknowingly take an injured fugitive into their care, unaware of her murderous tendencies. This act of kindness will change their lives, as they soon find themselves dragged into the shadowy world of government secrecy and conspiracy.\n[Written by MAL Rewrite]",
-      "year": 2004,
-      "score": 7.4,
-      "genres": [
-        "Gunfights",
-        "Super Power",
-        "Present",
-        "Earth",
-        "Japan",
-        "Violence"
-      ],
-      "status": "FINISHED",
-      "repo": "adiytharpansa/xe5zul7gia6i",
-      "pin": "675ad8d101d6b3c11e001a94cf24547442ac9ffc",
-      "episodes": [
-        {
-          "number": 1,
-          "playlist": "elfen-lied/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "elfen-lied/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "elfen-lied/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "elfen-lied/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "elfen-lied/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "elfen-lied/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "elfen-lied/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "elfen-lied/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "elfen-lied/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "elfen-lied/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "elfen-lied/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "elfen-lied/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "elfen-lied/ep13/playlist.m3u8"
+          "playlist": "food-wars-the-third-plate/ep12/playlist.m3u8"
         }
       ]
     }
