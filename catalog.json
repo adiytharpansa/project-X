@@ -32317,6 +32317,32 @@
           "playlist": "jojo-s-bizarre-adventure-stardust-crusaders/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "neon-genesis-evangelion-the-end-of-evangelion",
+      "title": "Neon Genesis Evangelion: The End of Evangelion",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c6f62f3487e3c6cc27339ff7fdc75aca310388d1/neon-genesis-evangelion-the-end-of-evangelion/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c6f62f3487e3c6cc27339ff7fdc75aca310388d1/neon-genesis-evangelion-the-end-of-evangelion/banner.jpg",
+      "synopsis": "With the final Angel vanquished, Nerv has one last enemy left to face—the humans under Seele's command.\n\nLeft in a deep depression nearing the end of the original series, an indecisive Shinji struggles with the ultimatum presented to him: to completely accept mankind's existence, or renounce humanity's individuality. Meanwhile, at the core of a compromised Nerv, Gendou Ikari and Rei Ayanami approach Lilith in an attempt to realize their own ideals concerning the future of the world.\n\nThe End of Evangelion serves as an alternate ending to the polarizing final episodes of Neon Genesis Evangelion. With the fate of the universe hanging in the balance, the climactic final battle draws near.\n\n(Source: MAL Rewrite)",
+      "year": 1997,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Future",
+        "Mecha",
+        "Piloted Robot",
+        "Japan",
+        "Violence",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "22c1e97a61670820ee015e0ce0743cbd9970c6d5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "neon-genesis-evangelion-the-end-of-evangelion/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
