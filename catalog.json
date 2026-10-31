@@ -24275,6 +24275,128 @@
           "playlist": "haikyu-2nd-season/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "code-geass-lelouch-of-the-rebellion",
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b4ce7121a8d3dc56ab8cf9ebcc60af93fa963cfb/code-geass-lelouch-of-the-rebellion/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b4ce7121a8d3dc56ab8cf9ebcc60af93fa963cfb/code-geass-lelouch-of-the-rebellion/banner.jpg",
+      "synopsis": "On August 10th of the year 2010, the Holy Empire of Britannia began a campaign of conquest, its sights set on Japan. Operations were completed in one month thanks to Britannia's deployment of new mobile humanoid armor vehicles dubbed Knightmare Frames. Japan's rights and identity were stripped away, the once proud nation is now referred to as Area 11. Its citizens, Elevens, are forced to scratch out a living while the Britannian aristocracy lives comfortably within their settlements. Pockets of resistance appear throughout Area 11, working towards independence for Japan.\n\nLelouch, an exiled Imperial Prince of Britannia posing as a student, finds himself in the heart of the ongoing conflict for the island nation. Through a chance meeting with a mysterious girl named C.C., Lelouch gains his Geass, the power of the king. Now endowed with absolute dominance over any person, Lelouch may finally realize his goal of bringing down Britannia from within!\n\n(Source: Bandai Entertainment)",
+      "year": 2006,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Mecha",
+        "Alternative Present",
+        "Piloted Robot"
+      ],
+      "repo": "adiytharpansa/x3lwme7wbrho",
+      "pin": "e90e4daa6cab9b272fe19cbdad2201738daf54e0",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "code-geass-lelouch-of-the-rebellion/ep25/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
