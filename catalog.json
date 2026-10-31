@@ -26503,28 +26503,98 @@
       ]
     },
     {
-      "id": "to-the-forest-of-the-firefly-lights",
-      "title": "To the Forest of the Firefly Lights",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@38c0d4cc4bf6947301b8bdaab31427e141c112fb/to-the-forest-of-the-firefly-lights/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@38c0d4cc4bf6947301b8bdaab31427e141c112fb/to-the-forest-of-the-firefly-lights/banner.jpg",
-      "synopsis": "Intrigued by the tale of a mountain god, six-year-old Hotaru Takegawa loses her way in the ancient forest while visiting her uncle. Exhausted and desperate for help, Hotaru is thrilled to find a masked forest spirit named Gin. She learns the hard way that she should not touch the boy, or he would disappear. In spite of this, Gin leads Hotaru out of the forest and warns her never to return when she promises to come again with a gift.\nPaying no heed to his cautionary words, and despite being separated by both distance and planes of existence, Hotaru and Gin become close friends as she visits him every summer. However, their relationship and resolve are put to the test, when romantic feelings conflict with the one and only rule.\nBased on Yuki Midorikawa's manga of the same name, Hotarubi no Mori e is a tale of friendship and compromise of two people who should never have crossed paths, as their lives become hopelessly intertwined.\n[Written by MAL Rewrite]",
-      "year": 2011,
+      "id": "no-game-no-life-zero",
+      "title": "No Game No Life: Zero",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bf39188ecd25b9fcdfffd9049c84e8ada4efb684/no-game-no-life-zero/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@bf39188ecd25b9fcdfffd9049c84e8ada4efb684/no-game-no-life-zero/banner.jpg",
+      "synopsis": "Six thousand years before Sora and Shiro were even a blink in the history of Disboard, war consumed the land, tearing apart the heavens, destroying stars, and even threatening to wipe out the human race. Amid the chaos and destruction, a young man named Riku leads humanity toward the tomorrow his heart believed in. One day, in the ruins of an Elf city, he meets Shuvi, a female exiled \"Ex-machina\" android who asks him to teach her what it means to have a human heart.\n\n(Source: Sentai Filmworks)",
+      "year": 2017,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Elf",
+        "Fantasy World",
+        "Virtual Reality",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/xi9uivufxysw",
+      "pin": "db349eee4594b543d666a0b9e534201740a8b28f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "no-game-no-life-zero/ep1/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "death-parade",
+      "title": "Death Parade",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f63e6ab49f200d7b3ce008710d1207f0179f29b7/death-parade/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f63e6ab49f200d7b3ce008710d1207f0179f29b7/death-parade/banner.jpg",
+      "synopsis": "After death, there is no heaven or hell, only a bar that stands between reincarnation and oblivion. There the attendant will, one after another, challenge pairs of the recently deceased to a random game in which their fate of either ascending into reincarnation or falling into the void will be wagered. Whether it's bowling, darts, air hockey, or anything in between, each person's true nature will be revealed in a ghastly parade of death and memories, dancing to the whims of the bar's master. Welcome to Quindecim, where Decim, arbiter of the afterlife, awaits!\n\nDeath Parade expands upon the original one-shot intended to train young animators. It follows yet more people receiving judgment—until a strange, black-haired guest causes Decim to begin questioning his own rulings.\n\n(Source: MAL Rewrite)",
+      "year": 2015,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
         "Present",
-        "Earth",
-        "Countryside",
-        "Contemporary Fantasy",
-        "Japan",
-        "Asia"
+        "Thriller",
+        "Drama",
+        "Psychological",
+        "Supernatural",
+        "Mystery"
       ],
-      "repo": "adiytharpansa/xs4dfmpt2u3u",
-      "pin": "ca5c5ce721cbf58255e29c954c02d31df5e10581",
+      "repo": "adiytharpansa/x44hq4epzll7",
+      "pin": "d27e72569634d98e48b961d8870b520af257c136",
       "episodes": [
         {
           "number": 1,
-          "playlist": "to-the-forest-of-the-firefly-lights/ep1/playlist.m3u8"
+          "playlist": "death-parade/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "death-parade/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "death-parade/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "death-parade/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "death-parade/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "death-parade/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "death-parade/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "death-parade/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "death-parade/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "death-parade/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "death-parade/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "death-parade/ep12/playlist.m3u8"
         }
       ]
     }
