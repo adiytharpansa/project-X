@@ -40810,6 +40810,72 @@
           "playlist": "chihayafuru/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-promised-neverland-season-2",
+      "title": "The Promised Neverland Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3517509e5ee6314b3a4b75589115ba51f016ef86/the-promised-neverland-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3517509e5ee6314b3a4b75589115ba51f016ef86/the-promised-neverland-season-2/banner.jpg",
+      "synopsis": "Fifteen children escape Grace Field House, a false paradise, hoping for a chance at freedom. Instead, they encounter plants and animals they have never before seen, and are chased by demons. The outside world is so beautiful, and yet is almost too cruel to face.\n\nEven so, the children refuse to give up. They are guided in their search for better lives only by a message from Minerva and a pen Norman left behind in order to fulfill their promise to return to the House to save those of their family who are still trapped within.\n\n(Source: Aniplex of America)\n\nNote: Episode 1 streamed early on Amazon Prime on Jan 7, 2021. The regular TV broadcast started on Jan 8, 2021.",
+      "year": 2021,
+      "score": 6.1,
+      "status": "FINISHED",
+      "genres": [
+        "Demon",
+        "Action",
+        "Science Fiction",
+        "Horror",
+        "Thriller",
+        "Psychological"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "6d226b99ac2e33e826f0e5340a383a24c6e210a7",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-promised-neverland-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-promised-neverland-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-promised-neverland-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-promised-neverland-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-promised-neverland-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-promised-neverland-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-promised-neverland-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-promised-neverland-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-promised-neverland-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-promised-neverland-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-promised-neverland-season-2/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
