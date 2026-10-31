@@ -30922,6 +30922,80 @@
           "playlist": "seraph-of-the-end-vampire-reign/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "baccano",
+      "title": "Baccano!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f9e588b7b4c4c887dfc8c568955a9c2cd9573e1d/baccano/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f9e588b7b4c4c887dfc8c568955a9c2cd9573e1d/baccano/banner.jpg",
+      "synopsis": "During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, is starting its legendary journey that will leave a trail of blood all over the country. At the same time in New York, the ambitious scientist Szilard and his unwilling aide Ennis are looking for missing bottles of the immortality elixir. In addition, a war between the mafia groups is getting worse. On board the Advena Avis, in 1711, alchemists are about to learn the price of immortality.\nBased on the award-winning light novels of the same name, Baccano! follows several events that initially seem unrelated, both in time and place, but are part of a much bigger story—one of alchemy, survival and immortality. Merging these events together are the kindhearted would-be thieves, Isaac and Miria, connecting various people, all of them with their own hidden ambitions and agendas, and creating lifelong bonds and consequences for everyone involved.\n[Written by MAL Rewrite] ",
+      "year": 2007,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Gunfights",
+        "Past",
+        "Earth",
+        "Historical",
+        "Contemporary Fantasy",
+        "Violence"
+      ],
+      "repo": "adiytharpansa/xpp3elbf0150",
+      "pin": "b712cede699fccf922abeff63d73999bc5f57fef",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "baccano/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "baccano/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "baccano/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "baccano/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "baccano/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "baccano/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "baccano/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "baccano/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "baccano/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "baccano/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "baccano/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "baccano/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "baccano/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
