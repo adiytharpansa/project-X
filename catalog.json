@@ -44282,6 +44282,75 @@
           "playlist": "the-garden-of-sinners-chapter-1-overlooking-view/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "tokyo-ghoul-re-2",
+      "title": "Tokyo Ghoul:re 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ceb2a3cab939cb5236369f8316241853a9d52e36/tokyo-ghoul-re-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ceb2a3cab939cb5236369f8316241853a9d52e36/tokyo-ghoul-re-2/banner.jpg",
+      "synopsis": "The second cour of Tokyo Ghoul:re.\n\nKaneki Ken has finally regained memories of his former self, but this once again leaves him at a crossroads in the war between human and ghoul. After donning a pair of glasses to mirror his mentor Arima, Kaneki's new assignment is to manage the interrogation of Eto, the One-Eyed Owl, after she reveals her ghoul nature in a press conference about the publication of her newest book, which she claims will bridge the gap between the two warring sides. Now interred in Cochlea, Eto eagerly awaits the awakening of the \"One-Eyed King\", but only Kaneki seems to understand what she's really planning. As Aogiri Tree descends on the facility to rescue their leader, Kaneki turns to one of his oldest friends for help in his new secret mission.\n\n(Source: Anime News Network)\n\nThe first episode was distributed online via GYAO! on September 29, 2018. TV broadcast began on October 9, 2018.",
+      "year": 2018,
+      "score": 6.6,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Horror",
+        "Psychological",
+        "Supernatural",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xd6d4o5knyyb",
+      "pin": "c088ea54e59828c1335985f243614649a55d4c18",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-ghoul-re-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tokyo-ghoul-re-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tokyo-ghoul-re-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tokyo-ghoul-re-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tokyo-ghoul-re-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tokyo-ghoul-re-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tokyo-ghoul-re-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tokyo-ghoul-re-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tokyo-ghoul-re-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tokyo-ghoul-re-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tokyo-ghoul-re-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tokyo-ghoul-re-2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
