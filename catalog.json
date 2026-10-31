@@ -37257,6 +37257,80 @@
           "playlist": "magi-the-labyrinth-of-magic/ep25/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "k-on",
+      "title": "K-ON!",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e9e83388abe9792b7feff6908343ba6c84759dde/k-on/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e9e83388abe9792b7feff6908343ba6c84759dde/k-on/banner.jpg",
+      "synopsis": "Hirasawa Yui, a young, carefree girl entering high school, has her imagination instantly captured when she sees a poster advertising the \"Light Music Club.\" Being the carefree girl that she is, she quickly signs up; however, Yui has a problem, she is unable to play an instrument.\n\nWhen Yui goes to the clubroom to explain, she's greeted by the other members: Ritsu, Mio, and Tsumugi. Although disheartened at Yui's lack of musical know-how, they still try to convince her to stay to prevent the club's disbandment. After playing Yui a short piece which re-ignites her imagination, they succeed in keeping their new member and guitarist.\n\nAlong with the tasks of school and homework, Yui begins to learn the guitar with the help of the other band members, experiencing many mishaps along the way. However, with the school festival drawing near and Yui getting stuck with her practice, will the Light Music Club be ready in time for their debut?\n\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "All Girls School",
+        "Musical Band",
+        "High School",
+        "Present",
+        "School Clubs",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x44hq4epzll7",
+      "pin": "0ba7a02b4c0a43dc8d1bff18702094b37a106f42",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "k-on/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "k-on/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "k-on/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "k-on/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "k-on/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "k-on/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "k-on/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "k-on/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "k-on/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "k-on/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "k-on/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "k-on/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "k-on/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
