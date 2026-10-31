@@ -40046,6 +40046,76 @@
           "playlist": "march-comes-in-like-a-lion/ep22/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "91-days",
+      "title": "91 Days",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@28ed9312bc77f1f368f7bf5270aa18f02521a156/91-days/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@28ed9312bc77f1f368f7bf5270aa18f02521a156/91-days/banner.jpg",
+      "synopsis": "During Prohibition, the law held no power and the mafia ruled the town. The story takes place in Lawless, a town thriving on black market sales of illicitly brewed liquor. One day, Avilio receives a letter from a mysterious sender, prompting him to return to Lawless for revenge. He then infiltrates the Vanetti family, the ones responsible for his family's murder, and sets about befriending the don's son, Nero, to set his vengeance in motion. Killing brings more killing, and revenge spawns more revenge. How will the 91-day story of these men guided by a tragic fate end?\n\n(Source: Crunchyroll)",
+      "year": 2016,
+      "score": 7.8,
+      "status": "FINISHED",
+      "genres": [
+        "Gunfights",
+        "Past",
+        "Earth",
+        "Historical",
+        "Violence",
+        "United States"
+      ],
+      "repo": "adiytharpansa/xes4w5aapjlc",
+      "pin": "831fbde5e483dd9a7693c5ec2d0d9b469e6c91ae",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "91-days/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "91-days/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "91-days/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "91-days/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "91-days/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "91-days/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "91-days/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "91-days/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "91-days/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "91-days/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "91-days/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "91-days/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
