@@ -42618,6 +42618,80 @@
           "playlist": "the-quintessential-quintuplets/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "oreshura",
+      "title": "Oreshura",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ad49a829a9d364241b07a078d09b0844a118e94c/oreshura/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ad49a829a9d364241b07a078d09b0844a118e94c/oreshura/banner.jpg",
+      "synopsis": "It is often said that events of the past shape what you become in the future. For Eita Kidou, a studious, hard-working student aspiring to earn a scholarship so that he can become a doctor, this is an undeniable truth after being abandoned by his love-addled parents. This event left him jaded to the notion of romance, seeing it as only a distraction that gets in the way of studying.\nUnfortunately for Eita, his efforts hit a snag when he receives a confession of love from Masuzu Natsukawa, a transfer student with platinum hair and blue eyes. Eita sees through the confession, causing Masuzu to admit that she only did so because having a boyfriend would stop people from asking her out daily. She finds love to be just as much of a hindrance as he does, so by pretending to date, they can stave off advances from everyone else.\nEita refuses on the grounds that his classmates will be jealous, but Masuzu blackmails him by revealing that she has his journal and will post it online for everyone to see if he betrays her. Thus begins Ore no Kanojo to Osananajimi ga Shuraba Sugiru, a story that follows Eita coping with his new \"relationship\" and the complications that arise from it.",
+      "year": 2013,
+      "score": 6.9,
+      "status": "FINISHED",
+      "genres": [
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs",
+        "Japan",
+        "Slow When It Comes To Love"
+      ],
+      "repo": "adiytharpansa/xgzhg08peezp",
+      "pin": "62631fdd935a6d4ca9804027d0ec932df3385136",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "oreshura/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "oreshura/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "oreshura/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "oreshura/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "oreshura/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "oreshura/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "oreshura/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "oreshura/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "oreshura/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "oreshura/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "oreshura/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "oreshura/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "oreshura/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
