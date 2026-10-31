@@ -43973,6 +43973,32 @@
           "playlist": "rosario-vampire/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "summer-wars",
+      "title": "Summer Wars",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2b5969ca12359d2cd206801257ff4a9da9172764/summer-wars/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2b5969ca12359d2cd206801257ff4a9da9172764/summer-wars/banner.jpg",
+      "synopsis": "OZ, a virtual world connected to the internet, has become extremely popular worldwide as a spot for people to engage in a large variety of activities, such as playing sports or shopping, through avatars created and customized by the user. OZ also possesses a near impenetrable security due to its strong encryption, ensuring that any personal data transmitted through the networks will be kept safe in order to protect those who use it. Because of its convenient applications, the majority of society has become highly dependent on the simulated reality, even going as far as entrusting the system with bringing back the unmanned asteroid explorer, Arawashi.\nKenji Koiso is a 17-year-old math genius and part-time OZ moderator who is invited by his crush Natsuki Shinohara on a summer trip. But unbeknownst to him, this adventure requires him to act as her fiancé. Shortly after arriving at Natsuki's family's estate, which is preparing for her great-grandmother's 90th birthday, he receives a strange, coded message on his cell phone from an unknown sender who challenges him to solve it. Kenji is able to crack the code, but little does he know that his math expertise has just put Earth in great danger.\n[Written by MAL Rewrite]",
+      "year": 2009,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Fantasy World",
+        "Earth",
+        "Countryside",
+        "Japan",
+        "Asia",
+        "Virtual Reality"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "f3169010b4fa1b39504a326964557b40167806cf",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "summer-wars/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
