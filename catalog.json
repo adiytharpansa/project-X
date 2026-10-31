@@ -41539,6 +41539,76 @@
           "playlist": "blast-of-tempest/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "durarara-x2",
+      "title": "Durarara!! x2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@44adec2fdfcde5f4c6d338f9bf251c3c0c6b59a3/durarara-x2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@44adec2fdfcde5f4c6d338f9bf251c3c0c6b59a3/durarara-x2/banner.jpg",
+      "synopsis": "Although peace has finally returned to Ikebukuro, many of the odd occurrences have become common sights around the city. One such case is the police's constant pursuit of Celty Sturluson, the Headless Rider. Moreover, someone has placed a large bounty on her, igniting the motivation of gang members all over to begin searching for the supernatural creature as well. Meanwhile, Mikado Ryuugamine is approached by Aoba Kuronuma, a mysterious underclassman with unknown intentions, who reveals that he knows Mikado's true identity.\nBut Ikebukuro's state of tranquility is short-lived, as a new threat appears in the form of a murderer who goes by the pseudonym \"Hollywood,\" known for wearing a different mask each time they commit a crime. As the various events taking place prove to be connected yet again, Ikebukuro is thrown into another conflict that threatens to engulf the entire city in chaos.\n[Written by MAL Rewrite]",
+      "year": 2015,
+      "score": 8.0,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Earth",
+        "Japan",
+        "Tokyo",
+        "Violence",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xs4dfmpt2u3u",
+      "pin": "7928734f0d3e0fab75b76a4c267471b051e1608f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "durarara-x2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "durarara-x2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "durarara-x2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "durarara-x2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "durarara-x2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "durarara-x2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "durarara-x2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "durarara-x2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "durarara-x2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "durarara-x2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "durarara-x2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "durarara-x2/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
