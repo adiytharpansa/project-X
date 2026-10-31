@@ -49475,6 +49475,76 @@
           "playlist": "sword-of-the-stranger/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "teasing-master-takagi-san",
+      "title": "Teasing Master Takagi-san",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@faa5e3bf181c6f02b532149f344f3029f38e836f/teasing-master-takagi-san/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@faa5e3bf181c6f02b532149f344f3029f38e836f/teasing-master-takagi-san/banner.jpg",
+      "synopsis": "Tired of being mercilessly teased by his classmate Takagi, Nishikata has vowed to get her back and successfully tease the girl that's made him blush countless times. After all, if you blush, you lose! But getting vengeance isn't so easy when every attempt blows up in his face. Will Nishikata ever make Takagi blush or will he gain something more fulfilling from his bumbling attempts?\n\n(Source: Funimation)",
+      "year": 2018,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Middle School",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School Life",
+        "Shounen"
+      ],
+      "repo": "adiytharpansa/xijqrynd7mbn",
+      "pin": "0a43b96d996356b84746bab0b9dc4635b77431ad",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "teasing-master-takagi-san/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "teasing-master-takagi-san/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "teasing-master-takagi-san/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "teasing-master-takagi-san/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "teasing-master-takagi-san/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "teasing-master-takagi-san/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "teasing-master-takagi-san/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "teasing-master-takagi-san/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "teasing-master-takagi-san/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "teasing-master-takagi-san/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "teasing-master-takagi-san/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "teasing-master-takagi-san/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
