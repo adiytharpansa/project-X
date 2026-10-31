@@ -49449,6 +49449,32 @@
           "playlist": "land-of-the-lustrous-tv/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "sword-of-the-stranger",
+      "title": "Sword of the Stranger",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3ecd34923cf5d063290f459c9d022aa2459b2dbc/sword-of-the-stranger/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3ecd34923cf5d063290f459c9d022aa2459b2dbc/sword-of-the-stranger/banner.jpg",
+      "synopsis": "In the Sengoku period of Japan, a young orphan named Kotarou and his dog Tobimaru steal from unsuspecting villagers in order to make ends meet. However, Kotarou is forced to remain on the run when he finds himself being hunted down by assassins sent by China's Ming Dynasty for mysterious reasons not involving his petty crimes. \nFortunately, the duo run into Nanashi, a ronin who has taken refuge in a small temple, when Kotarou is attacked and Tobimaru poisoned. Although the samurai  saves the helpless pair from their pursuers, he feels that there is no need to help them further; but when offered a gem in exchange for his services as a bodyguard, he reluctantly accepts Kotarou's offer of employment—just until Tobimaru is healed and the two reach their destination. As the three set out on a perilous journey, it soon becomes evident that their path is riddled with danger, as the Ming Dynasty has now sent a terrifying swordsman after them to capture Kotarou and fulfill a certain prophecy.\n[Written by MAL Rewrite]",
+      "year": 2007,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "Samurai",
+        "Martial Arts",
+        "Swordplay",
+        "Earth",
+        "Historical",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "d1ac7e680c096cca359766c6be7552ca7b997aa6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "sword-of-the-stranger/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
