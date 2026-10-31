@@ -30137,102 +30137,385 @@
       ]
     },
     {
-      "id": "the-girl-who-leapt-through-time",
-      "title": "The Girl Who Leapt Through Time",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/banner.jpg",
-      "synopsis": "Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time.Toki wo Kakeru Shoujo follows Makoto as she plays around with her newfound power. However, she soon learns the hard way that every choice has a consequence, and time is a lot more complicated than it may seem.\n[Written by MAL Rewrite]",
-      "year": 2006,
+      "id": "magi-the-kingdom-of-magic",
+      "title": "Magi: The Kingdom of Magic",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aa77db4a928022ced5e38a439cd5037b1a7b0982/magi-the-kingdom-of-magic/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@aa77db4a928022ced5e38a439cd5037b1a7b0982/magi-the-kingdom-of-magic/banner.jpg",
+      "synopsis": "After celebrating their victory against Al-Thamen, Aladdin and his friends depart the land of Sindria. With the end of the battle, however, comes the time for each of them to go their separate ways. Hakuryuu and Kougyoku are ordered to go back to their home country, the Kou Empire. Meanwhile Aladdin announces he needs to head for Magnostadt—a mysterious country ruled by magicians—to investigate the mysterious events occurring in this new kingdom and become more proficient in magic. For their part, encouraged by Aladdin's words, Alibaba and Morgiana also set off in pursuit of their own goals: training and going to her homeland, respectively.Magi: The Kingdom of Magic follows these friends as they all go about their separate adventures, each facing their own challenges. However, a new threat begins to rise as a great war looms over the horizon...\n[Written by MAL Rewrite]",
+      "year": 2013,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
-        "High School",
-        "Present",
-        "Earth",
-        "Time Travel",
-        "Japan",
-        "Plot Continuity"
+        "Magic",
+        "Swordplay",
+        "Super Power",
+        "Desert",
+        "Action",
+        "Fantasy"
       ],
-      "repo": "adiytharpansa/xc0i4ysbjp2q",
-      "pin": "5da6e55e4cc311962029319e8242869d865510dd",
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "62a070af6316b4aa5be44378eda4fb2dfcf4ed3d",
       "episodes": [
         {
           "number": 1,
-          "playlist": "the-girl-who-leapt-through-time/ep1/playlist.m3u8"
+          "playlist": "magi-the-kingdom-of-magic/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "magi-the-kingdom-of-magic/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "magi-the-kingdom-of-magic/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "magi-the-kingdom-of-magic/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "magi-the-kingdom-of-magic/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "magi-the-kingdom-of-magic/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "magi-the-kingdom-of-magic/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "magi-the-kingdom-of-magic/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "magi-the-kingdom-of-magic/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "magi-the-kingdom-of-magic/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "magi-the-kingdom-of-magic/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "magi-the-kingdom-of-magic/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "magi-the-kingdom-of-magic/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "magi-the-kingdom-of-magic/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "magi-the-kingdom-of-magic/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "magi-the-kingdom-of-magic/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "magi-the-kingdom-of-magic/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "magi-the-kingdom-of-magic/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "magi-the-kingdom-of-magic/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "magi-the-kingdom-of-magic/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "magi-the-kingdom-of-magic/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "magi-the-kingdom-of-magic/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "magi-the-kingdom-of-magic/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "magi-the-kingdom-of-magic/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "magi-the-kingdom-of-magic/ep25/playlist.m3u8"
         }
       ]
     },
     {
-      "id": "my-teen-romantic-comedy-snafu",
-      "title": "My Teen Romantic Comedy SNAFU",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b816eb2bbc6437cf93da4e33bdb456199fdfbdc2/my-teen-romantic-comedy-snafu/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b816eb2bbc6437cf93da4e33bdb456199fdfbdc2/my-teen-romantic-comedy-snafu/banner.jpg",
-      "synopsis": "So exactly what’s going to happen when Hachiman Hikigaya, an isolated high school student with no friends, no interest in making any and a belief that everyone else’s supposedly great high school experiences are either delusions or outright lies, is coerced by a well meaning faculty member into joining the one member “Services Club” run by Yukino Yukinoshita, who’s smart, attractive and generally considers everyone in her school to be her complete inferior?\n\n(Source: Crunchyroll)",
-      "year": 2013,
-      "score": 8.0,
+      "id": "darling-in-the-franxx",
+      "title": "DARLING in the FRANXX",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e30ace867b23df4269bb8de15cb8dbc3363213fc/darling-in-the-franxx/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@e30ace867b23df4269bb8de15cb8dbc3363213fc/darling-in-the-franxx/banner.jpg",
+      "synopsis": "The distant future: Humanity established the mobile fort city, Plantation, upon the ruined wasteland. Within the city were pilot quarters, Mistilteinn, otherwise known as the “Birdcage.” That is where the children live... Their only mission in life was the fight. Their enemies are the mysterious giant organisms known as Kyoryu. The children operate robots known as FRANXX in order to face these still unseen enemies. Among them was a boy who was once called a child prodigy: Code number 016, Hiro. One day, a mysterious girl called Zero Two appears in front of Hiro. “I’ve found you, my Darling.”\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.4,
       "status": "FINISHED",
       "genres": [
-        "High School",
-        "Present",
-        "Earth",
-        "School Clubs",
-        "Japan",
-        "Comedy"
+        "Mecha",
+        "Piloted Robot",
+        "Slow When It Comes To Love",
+        "Love Polygon",
+        "Stereotypes",
+        "Action"
       ],
-      "repo": "adiytharpansa/x110nbooz5mb",
-      "pin": "97519542668128c4cbb651f32a1f31d56186143c",
+      "repo": "adiytharpansa/xwaz77crvbpw",
+      "pin": "c9cb830894ba8ba286dd1e63d14257ccadf73ffa",
       "episodes": [
         {
           "number": 1,
-          "playlist": "my-teen-romantic-comedy-snafu/ep1/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep1/playlist.m3u8"
         },
         {
           "number": 2,
-          "playlist": "my-teen-romantic-comedy-snafu/ep2/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep2/playlist.m3u8"
         },
         {
           "number": 3,
-          "playlist": "my-teen-romantic-comedy-snafu/ep3/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep3/playlist.m3u8"
         },
         {
           "number": 4,
-          "playlist": "my-teen-romantic-comedy-snafu/ep4/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep4/playlist.m3u8"
         },
         {
           "number": 5,
-          "playlist": "my-teen-romantic-comedy-snafu/ep5/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep5/playlist.m3u8"
         },
         {
           "number": 6,
-          "playlist": "my-teen-romantic-comedy-snafu/ep6/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep6/playlist.m3u8"
         },
         {
           "number": 7,
-          "playlist": "my-teen-romantic-comedy-snafu/ep7/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep7/playlist.m3u8"
         },
         {
           "number": 8,
-          "playlist": "my-teen-romantic-comedy-snafu/ep8/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep8/playlist.m3u8"
         },
         {
           "number": 9,
-          "playlist": "my-teen-romantic-comedy-snafu/ep9/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep9/playlist.m3u8"
         },
         {
           "number": 10,
-          "playlist": "my-teen-romantic-comedy-snafu/ep10/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep10/playlist.m3u8"
         },
         {
           "number": 11,
-          "playlist": "my-teen-romantic-comedy-snafu/ep11/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep11/playlist.m3u8"
         },
         {
           "number": 12,
-          "playlist": "my-teen-romantic-comedy-snafu/ep12/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep12/playlist.m3u8"
         },
         {
           "number": 13,
-          "playlist": "my-teen-romantic-comedy-snafu/ep13/playlist.m3u8"
+          "playlist": "darling-in-the-franxx/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "darling-in-the-franxx/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "darling-in-the-franxx/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "darling-in-the-franxx/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "darling-in-the-franxx/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "darling-in-the-franxx/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "darling-in-the-franxx/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "darling-in-the-franxx/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "darling-in-the-franxx/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "darling-in-the-franxx/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "darling-in-the-franxx/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "darling-in-the-franxx/ep24/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "tokyo-ghoul-re",
+      "title": "Tokyo Ghoul:re",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2af6a66aff31d0219e0bb5dd601645d87a6ff04e/tokyo-ghoul-re/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@2af6a66aff31d0219e0bb5dd601645d87a6ff04e/tokyo-ghoul-re/banner.jpg",
+      "synopsis": "Haise Sasaki has been tasked with teaching Qs Squad how to be outstanding investigators, but his assignment is complicated by the troublesome personalities of his students and his own uncertain grasp of his Ghoul powers. Can he pull them together as a team, or will Qs Squad first assignment be their last?\n\n(Source: Crunchyroll)",
+      "year": 2018,
+      "score": 7.2,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Horror",
+        "Psychological",
+        "Supernatural",
+        "Mystery"
+      ],
+      "repo": "adiytharpansa/xqcfyjr2jw7b",
+      "pin": "406a03f3d4120b7f698489de0f95b661139cf4ee",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "tokyo-ghoul-re/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "tokyo-ghoul-re/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "tokyo-ghoul-re/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "tokyo-ghoul-re/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "tokyo-ghoul-re/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "tokyo-ghoul-re/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "tokyo-ghoul-re/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "tokyo-ghoul-re/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "tokyo-ghoul-re/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "tokyo-ghoul-re/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "tokyo-ghoul-re/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "tokyo-ghoul-re/ep12/playlist.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "charlotte",
+      "title": "Charlotte",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c4483057ef1025fad7285ec47d0b07fd4f24999e/charlotte/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@c4483057ef1025fad7285ec47d0b07fd4f24999e/charlotte/banner.jpg",
+      "synopsis": "Very few adolescent boys and girls have an onset of special abilities. Yu Otosaka is one such man who uses his ability unbeknownst to others in order to lead a satisfying school life. Then one day, a girl named Nao Tomori suddenly appears before him. Their encounter reveals the destiny for wielders of special abilities.\n\n(Source: Aniplex USA)",
+      "year": 2015,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Super Power",
+        "Present",
+        "Earth",
+        "Japan",
+        "Violence",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xn4zeky5id7v",
+      "pin": "660dd4f32e08990ec0a15a9aa0fe079ef743790f",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "charlotte/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "charlotte/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "charlotte/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "charlotte/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "charlotte/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "charlotte/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "charlotte/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "charlotte/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "charlotte/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "charlotte/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "charlotte/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "charlotte/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "charlotte/ep13/playlist.m3u8"
         }
       ]
     }
