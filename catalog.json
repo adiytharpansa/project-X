@@ -29380,6 +29380,68 @@
           "playlist": "beyond-the-boundary/ep12/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "hellsing-ultimate",
+      "title": "Hellsing Ultimate",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f91c5510319c1ddcd4b830e6297a34c4494d1c8a/hellsing-ultimate/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f91c5510319c1ddcd4b830e6297a34c4494d1c8a/hellsing-ultimate/banner.jpg",
+      "synopsis": "There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. On the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the very existence of humanity. At its head is Integra Fairbrook Wingates Hellsing, who commands a powerful military and spends her life fighting the undead.\nIntegra's vast army, however, pales in comparison with her ultimate weapon: the vampire Alucard, who works against his own kind as an exterminator for Hellsing. With his new vampire servant, Seras Victoria, at his side, Alucard must battle not only monsters, but all those who stand to oppose Hellsing, be they in the guise of good or evil.\nIn a battle for mankind's survival, Hellsing Ultimate proves that appearances are not all they may seem, and sometimes the greatest weapon can come in the form of one's worst nightmare.\n[Written by MAL Rewrite]",
+      "year": 2006,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Vampire",
+        "Gunfights",
+        "Present",
+        "Violence",
+        "United Kingdom",
+        "Action"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "4ebc302deac4cd7b042798442314df43b8b8277b",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "hellsing-ultimate/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "hellsing-ultimate/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "hellsing-ultimate/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "hellsing-ultimate/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "hellsing-ultimate/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "hellsing-ultimate/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "hellsing-ultimate/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "hellsing-ultimate/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "hellsing-ultimate/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "hellsing-ultimate/ep10/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
