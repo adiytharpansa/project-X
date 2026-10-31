@@ -43736,6 +43736,132 @@
           "playlist": "chobits/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "k-on-season-2",
+      "title": "K-ON! Season 2",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ce134e1016bd237c25fbd5c692836949cf7979f5/k-on-season-2/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@ce134e1016bd237c25fbd5c692836949cf7979f5/k-on-season-2/banner.jpg",
+      "synopsis": "For two full years, Yui, Mio, Ritsu and Tsumugi have worked together to keep the struggling Light Music Club alive. With a new school year there are new and scary challenges ahead!\n\n(Source: HIDIVE)",
+      "year": 2010,
+      "score": 8.1,
+      "status": "FINISHED",
+      "genres": [
+        "All Girls School",
+        "Musical Band",
+        "High School",
+        "Present",
+        "Earth",
+        "School Clubs"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "93d8cf557b55558aa533794f9804068a5bd1f11e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "k-on-season-2/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "k-on-season-2/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "k-on-season-2/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "k-on-season-2/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "k-on-season-2/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "k-on-season-2/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "k-on-season-2/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "k-on-season-2/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "k-on-season-2/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "k-on-season-2/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "k-on-season-2/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "k-on-season-2/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "k-on-season-2/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "k-on-season-2/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "k-on-season-2/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "k-on-season-2/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "k-on-season-2/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "k-on-season-2/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "k-on-season-2/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "k-on-season-2/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "k-on-season-2/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "k-on-season-2/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "k-on-season-2/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "k-on-season-2/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "k-on-season-2/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "k-on-season-2/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
