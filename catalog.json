@@ -36679,6 +36679,78 @@
           "playlist": "fairy-tail-season-2/ep102/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "magi-adventure-of-sinbad-tv",
+      "title": "Magi: Adventure of Sinbad (TV)",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3deb3dfbd2ddfc6dbc0dcfa20e84635bf0a82138/magi-adventure-of-sinbad-tv/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@3deb3dfbd2ddfc6dbc0dcfa20e84635bf0a82138/magi-adventure-of-sinbad-tv/banner.jpg",
+      "synopsis": "The story of Sinbad's early life and when he captured several dungeons.\n\n(Source: Magi Wikia, edited)",
+      "year": 2016,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x44hq4epzll7",
+      "pin": "111a33fe2ad24a0218c51c8042dbe27f72e9b466",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "magi-adventure-of-sinbad-tv/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "magi-adventure-of-sinbad-tv/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "magi-adventure-of-sinbad-tv/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "magi-adventure-of-sinbad-tv/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "magi-adventure-of-sinbad-tv/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "magi-adventure-of-sinbad-tv/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "magi-adventure-of-sinbad-tv/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "magi-adventure-of-sinbad-tv/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "magi-adventure-of-sinbad-tv/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "magi-adventure-of-sinbad-tv/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "magi-adventure-of-sinbad-tv/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "magi-adventure-of-sinbad-tv/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "magi-adventure-of-sinbad-tv/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
