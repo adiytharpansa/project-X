@@ -35515,6 +35515,80 @@
           "playlist": "my-love-story/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "amagi-brilliant-park",
+      "title": "Amagi Brilliant Park",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@84ccfa8a3d88b2ac5925a526a9d0be51269fbe27/amagi-brilliant-park/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@84ccfa8a3d88b2ac5925a526a9d0be51269fbe27/amagi-brilliant-park/banner.jpg",
+      "synopsis": "A mysterious but pretty transfer student, Sento Isuzu, asks Kanie Seiya out on a date to an amusement park. That park was Amagi Brilliant Park, featuring worn-down attractions and lackluster service -- the worst in Japan.\n\n(Source: Crunchyroll)",
+      "year": 2014,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Magic",
+        "Present",
+        "Earth",
+        "Contemporary Fantasy",
+        "Japan",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/x110nbooz5mb",
+      "pin": "9a92331068a0f97d01ef0c97875609f33fc82ad6",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "amagi-brilliant-park/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "amagi-brilliant-park/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "amagi-brilliant-park/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "amagi-brilliant-park/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "amagi-brilliant-park/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "amagi-brilliant-park/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "amagi-brilliant-park/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "amagi-brilliant-park/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "amagi-brilliant-park/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "amagi-brilliant-park/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "amagi-brilliant-park/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "amagi-brilliant-park/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "amagi-brilliant-park/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
