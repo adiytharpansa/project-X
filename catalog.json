@@ -32878,6 +32878,32 @@
           "playlist": "a-certain-magical-index/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ghost-in-the-shell",
+      "title": "Ghost in the Shell",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a23c0a6d96e49151e795a0f24e462356475490ef/ghost-in-the-shell/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a23c0a6d96e49151e795a0f24e462356475490ef/ghost-in-the-shell/banner.jpg",
+      "synopsis": "2029: A female cybernetic government agent, Major Motoko Kusanagi, and the Internal Bureau of Investigations are hot on the trail of “The Puppet Master,” a mysterious and threatening computer virus capable of infiltrating human hosts. Together with her fellow agents from Section 9, Kusanagi embarks on a high-tech race against time to capture the omnipresent entity.\n\n(Source: Lionsgate Films)",
+      "year": 1995,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Cyborg",
+        "Future",
+        "Earth",
+        "Human Enhancement",
+        "Mecha",
+        "Japan"
+      ],
+      "repo": "adiytharpansa/x9iv5ihks0fy",
+      "pin": "19318f3b2774505909d40ba30b7164d3d848ad0c",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ghost-in-the-shell/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
