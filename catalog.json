@@ -35777,6 +35777,75 @@
           "playlist": "say-i-love-you/ep13/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "grimgar-ashes-and-illusions",
+      "title": "Grimgar, Ashes and Illusions",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cfeb8a5c0d78203cc26ac33178077a4607f7f6f8/grimgar-ashes-and-illusions/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@cfeb8a5c0d78203cc26ac33178077a4607f7f6f8/grimgar-ashes-and-illusions/banner.jpg",
+      "synopsis": "Fear, survival, instinct. Thrown into a foreign land with nothing but hazy memories and the knowledge of their name, they can feel only these three emotions resonating deep within their souls. A group of strangers is given no other choice than to accept the only paying job in this game-like world—the role of a soldier in the Reserve Army—and eliminate anything that threatens the peace in their new world, Grimgar.\n\nWhen all of the stronger candidates join together, those left behind must create a party together to survive: Manato, a charismatic leader and priest; Haruhiro, a nervous thief; Yume, a cheerful hunter; Shihoru, a shy mage; Mogzo, a kind warrior; and Ranta, a rowdy dark knight. Despite its resemblance to one, this is no game—there are no redos or respawns; it is kill or be killed.\n\nIt is now up to this ragtag group of unlikely fighters to survive together in a world where life and death are separated only by a fine line.\n\n(Source: MAL Rewrite)",
+      "year": 2016,
+      "score": 7.7,
+      "status": "FINISHED",
+      "genres": [
+        "Plot Continuity",
+        "Parallel Universe",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "repo": "adiytharpansa/x06snbltj7lb",
+      "pin": "68d72d9c0233bb2da60d5d1fd6526ccb69af5150",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "grimgar-ashes-and-illusions/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "grimgar-ashes-and-illusions/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "grimgar-ashes-and-illusions/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "grimgar-ashes-and-illusions/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "grimgar-ashes-and-illusions/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "grimgar-ashes-and-illusions/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "grimgar-ashes-and-illusions/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "grimgar-ashes-and-illusions/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "grimgar-ashes-and-illusions/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "grimgar-ashes-and-illusions/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "grimgar-ashes-and-illusions/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "grimgar-ashes-and-illusions/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
