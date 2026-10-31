@@ -30736,26 +30736,28 @@
       ]
     },
     {
-      "id": "attack-on-titan-roar-of-awakening",
-      "title": "Attack on Titan: Roar of Awakening",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
-      "synopsis": "Eren Yeager and others of the 104th Training Corps have just begun to become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose—but all is not as it seems as more mysteries are unraveled. As the Survey Corps races to save the wall, they uncover more about the invading Titans and the dark secrets of their own members.\n\n(Source: MAL Rewrite)",
-      "year": 2018,
+      "id": "the-girl-who-leapt-through-time",
+      "title": "The Girl Who Leapt Through Time",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f6b4182b6c06d1a6bc478e2de3013ac553b09c70/the-girl-who-leapt-through-time/banner.jpg",
+      "synopsis": "Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time.Toki wo Kakeru Shoujo follows Makoto as she plays around with her newfound power. However, she soon learns the hard way that every choice has a consequence, and time is a lot more complicated than it may seem.\n[Written by MAL Rewrite]",
+      "year": 2006,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
-        "Super Power",
-        "Action",
-        "Fantasy",
-        "Shounen"
+        "High School",
+        "Present",
+        "Earth",
+        "Time Travel",
+        "Japan",
+        "Plot Continuity"
       ],
-      "repo": "adiytharpansa/xe5zul7gia6i",
-      "pin": "52fc6341b45d07ff123d8228db67e78900ab9075",
+      "repo": "adiytharpansa/xc0i4ysbjp2q",
+      "pin": "5da6e55e4cc311962029319e8242869d865510dd",
       "episodes": [
         {
           "number": 1,
-          "playlist": "attack-on-titan-roar-of-awakening/ep1/playlist.m3u8"
+          "playlist": "the-girl-who-leapt-through-time/ep1/playlist.m3u8"
         }
       ]
     }
