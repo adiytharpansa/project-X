@@ -42250,6 +42250,132 @@
           "playlist": "the-melancholy-of-haruhi-suzumiya-season-2/ep14/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "ghost-in-the-shell-stand-alone-complex",
+      "title": "Ghost in the Shell: Stand Alone Complex",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0aa23bf0501162f8676b00a63ef8e19fbb8f628e/ghost-in-the-shell-stand-alone-complex/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@0aa23bf0501162f8676b00a63ef8e19fbb8f628e/ghost-in-the-shell-stand-alone-complex/banner.jpg",
+      "synopsis": "In the not so distant future, mankind has advanced to a state where complete body transplants from flesh to machine is possible. This allows for great increases in both physical and cybernetic prowess and blurring the lines between the two worlds. However, criminals can also make full use of such technology, leading to new and sometimes, very dangerous crimes. In response to such innovative new methods, the Japanese Government has established Section 9, an independently operating police unit which deals with such highly sensitive crimes.\nLed by Daisuke Aramaki and Motoko Kusanagi, Section 9 deals with such crimes over the entire social spectrum, usually with success. However, when faced with a new A level hacker nicknamed \"The Laughing Man,\" the team is thrown into a dangerous cat and mouse game, following the hacker's trail as it leaves its mark on Japan.\n[Written by MAL Rewrite]",
+      "year": 2002,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Android",
+        "Cyborg",
+        "Gunfights",
+        "Future",
+        "Earth",
+        "Human Enhancement"
+      ],
+      "repo": "adiytharpansa/xpbcessos04e",
+      "pin": "7af0b1ad5531abb3e3621ca4c5685b3ea0aee74e",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep13/playlist.m3u8"
+        },
+        {
+          "number": 14,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep14/playlist.m3u8"
+        },
+        {
+          "number": 15,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep15/playlist.m3u8"
+        },
+        {
+          "number": 16,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep16/playlist.m3u8"
+        },
+        {
+          "number": 17,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep17/playlist.m3u8"
+        },
+        {
+          "number": 18,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep18/playlist.m3u8"
+        },
+        {
+          "number": 19,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep19/playlist.m3u8"
+        },
+        {
+          "number": 20,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep20/playlist.m3u8"
+        },
+        {
+          "number": 21,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep21/playlist.m3u8"
+        },
+        {
+          "number": 22,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep22/playlist.m3u8"
+        },
+        {
+          "number": 23,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep23/playlist.m3u8"
+        },
+        {
+          "number": 24,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep24/playlist.m3u8"
+        },
+        {
+          "number": 25,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep25/playlist.m3u8"
+        },
+        {
+          "number": 26,
+          "playlist": "ghost-in-the-shell-stand-alone-complex/ep26/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
