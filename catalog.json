@@ -41635,6 +41635,76 @@
           "playlist": "fairy-tail-movie-2-dragon-cry/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "grand-blue-dreaming",
+      "title": "Grand Blue Dreaming",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@efd2cc65aa97aa16172f829cc37077ba1fd5510b/grand-blue-dreaming/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@efd2cc65aa97aa16172f829cc37077ba1fd5510b/grand-blue-dreaming/banner.jpg",
+      "synopsis": "When Iori Kitahara heads off to college, he decides to live at his uncle's dive shop in Izu named Grand Blue. Iori is looking forward to experiencing college life amidst the roar of the waves, the blazing sun, and his cute cousin who lives with him! However, Iori runs into a group of tough guys playing strip rock-paper-scissors, and ends up joining Peek-a-Boo, the college's diving club!\n\n(Source: Amazon Prime Video)",
+      "year": 2018,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "University",
+        "School Clubs",
+        "Japan",
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "repo": "adiytharpansa/xacok2204muc",
+      "pin": "9eb30034bfcca19f23620e0e50472390a9c1d641",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "grand-blue-dreaming/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "grand-blue-dreaming/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "grand-blue-dreaming/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "grand-blue-dreaming/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "grand-blue-dreaming/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "grand-blue-dreaming/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "grand-blue-dreaming/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "grand-blue-dreaming/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "grand-blue-dreaming/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "grand-blue-dreaming/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "grand-blue-dreaming/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "grand-blue-dreaming/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
