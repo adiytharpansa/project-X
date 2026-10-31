@@ -30068,76 +30068,26 @@
       ]
     },
     {
-      "id": "baccano",
-      "title": "Baccano!",
-      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f9e588b7b4c4c887dfc8c568955a9c2cd9573e1d/baccano/poster.jpg",
-      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@f9e588b7b4c4c887dfc8c568955a9c2cd9573e1d/baccano/banner.jpg",
-      "synopsis": "During the early 1930s in Chicago, the transcontinental train, Flying Pussyfoot, is starting its legendary journey that will leave a trail of blood all over the country. At the same time in New York, the ambitious scientist Szilard and his unwilling aide Ennis are looking for missing bottles of the immortality elixir. In addition, a war between the mafia groups is getting worse. On board the Advena Avis, in 1711, alchemists are about to learn the price of immortality.\nBased on the award-winning light novels of the same name, Baccano! follows several events that initially seem unrelated, both in time and place, but are part of a much bigger story—one of alchemy, survival and immortality. Merging these events together are the kindhearted would-be thieves, Isaac and Miria, connecting various people, all of them with their own hidden ambitions and agendas, and creating lifelong bonds and consequences for everyone involved.\n[Written by MAL Rewrite] ",
-      "year": 2007,
+      "id": "attack-on-titan-roar-of-awakening",
+      "title": "Attack on Titan: Roar of Awakening",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@39844f158d7eb8ec8746b1e539c85454d74b9072/attack-on-titan-roar-of-awakening/poster.jpg",
+      "synopsis": "Eren Yeager and others of the 104th Training Corps have just begun to become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose—but all is not as it seems as more mysteries are unraveled. As the Survey Corps races to save the wall, they uncover more about the invading Titans and the dark secrets of their own members.\n\n(Source: MAL Rewrite)",
+      "year": 2018,
       "score": 8.2,
       "status": "FINISHED",
       "genres": [
-        "Gunfights",
-        "Past",
-        "Earth",
-        "Historical",
-        "Contemporary Fantasy",
-        "Violence"
+        "Super Power",
+        "Action",
+        "Fantasy",
+        "Shounen"
       ],
-      "repo": "adiytharpansa/xpp3elbf0150",
-      "pin": "b712cede699fccf922abeff63d73999bc5f57fef",
+      "repo": "adiytharpansa/xe5zul7gia6i",
+      "pin": "52fc6341b45d07ff123d8228db67e78900ab9075",
       "episodes": [
         {
           "number": 1,
-          "playlist": "baccano/ep1/playlist.m3u8"
-        },
-        {
-          "number": 2,
-          "playlist": "baccano/ep2/playlist.m3u8"
-        },
-        {
-          "number": 3,
-          "playlist": "baccano/ep3/playlist.m3u8"
-        },
-        {
-          "number": 4,
-          "playlist": "baccano/ep4/playlist.m3u8"
-        },
-        {
-          "number": 5,
-          "playlist": "baccano/ep5/playlist.m3u8"
-        },
-        {
-          "number": 6,
-          "playlist": "baccano/ep6/playlist.m3u8"
-        },
-        {
-          "number": 7,
-          "playlist": "baccano/ep7/playlist.m3u8"
-        },
-        {
-          "number": 8,
-          "playlist": "baccano/ep8/playlist.m3u8"
-        },
-        {
-          "number": 9,
-          "playlist": "baccano/ep9/playlist.m3u8"
-        },
-        {
-          "number": 10,
-          "playlist": "baccano/ep10/playlist.m3u8"
-        },
-        {
-          "number": 11,
-          "playlist": "baccano/ep11/playlist.m3u8"
-        },
-        {
-          "number": 12,
-          "playlist": "baccano/ep12/playlist.m3u8"
-        },
-        {
-          "number": 13,
-          "playlist": "baccano/ep13/playlist.m3u8"
+          "playlist": "attack-on-titan-roar-of-awakening/ep1/playlist.m3u8"
         }
       ]
     }
