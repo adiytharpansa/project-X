@@ -33396,6 +33396,72 @@
           "playlist": "black-butler-book-of-murder/ep2/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "eden-of-the-east",
+      "title": "Eden of the East",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9fe23820280cbd39c54dcc861624129f9a3f2043/eden-of-the-east/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@9fe23820280cbd39c54dcc861624129f9a3f2043/eden-of-the-east/banner.jpg",
+      "synopsis": "On November 22, 2010, Japan was hit by missile strikes, a terrorist act that fortunately did not harm anyone, becoming known as \"Careless Monday.\" Quickly forgotten, society goes on about their lives as normal.\n\nDuring her graduation trip to America three months later, friendly college student Saki Morimi's life is forever changed when she finds herself saved from unexpected trouble by Akira Takizawa. Takizawa is cheerful, but odd in many ways—he is stark naked and suffers from amnesia, believing himself to be a terrorist. In addition, he possesses a strange cell phone loaded with 8.2 billion yen in digital cash.\n\nDespite Takizawa's suspicious traits, Saki quickly befriends the enigmatic young man. However, unbeknownst to her, this is the beginning of a thrilling death game involving money, cell phones, and the salvation of the world. Higashi no Eden chronicles Saki's struggle to unravel the mysteries behind her savior, while Takizawa himself battles other individuals armed with similar cell phones and returning memories which reveal his possible connection to the event from months ago.\n\n(Source: MAL Rewrite)",
+      "year": 2009,
+      "score": 7.9,
+      "status": "FINISHED",
+      "genres": [
+        "Battle Royale",
+        "Present",
+        "Earth",
+        "Alternative Present",
+        "Japan",
+        "Plot Continuity"
+      ],
+      "repo": "adiytharpansa/xrti1yysi6ir",
+      "pin": "a28d0492b2bc74a018918065632e078c6c86dcf5",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "eden-of-the-east/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "eden-of-the-east/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "eden-of-the-east/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "eden-of-the-east/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "eden-of-the-east/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "eden-of-the-east/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "eden-of-the-east/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "eden-of-the-east/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "eden-of-the-east/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "eden-of-the-east/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "eden-of-the-east/ep11/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
