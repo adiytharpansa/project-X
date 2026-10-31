@@ -33148,6 +33148,76 @@
           "playlist": "accel-world/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "free-iwatobi-swim-club",
+      "title": "Free! - Iwatobi Swim Club",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a39d42980a095cf1916e1242fe7522b09b20b355/free-iwatobi-swim-club/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@a39d42980a095cf1916e1242fe7522b09b20b355/free-iwatobi-swim-club/banner.jpg",
+      "synopsis": "Haruka Nanase has a love for water and a passion for swimming. In elementary school, he competed in and won a relay race with his three friends Rin Matsuoka, Nagisa Hazuki, and Makoto Tachibana. After claiming victory at the tournament, the four friends went their separate ways. Years later, they reunite as high school students; however, Rin couldn't care less about returning to the way things used to be. Not only does he attend a different school, but the sole thing important to him is proving that he is a better swimmer than Haruka.\nAfter the bitter reunion, Haruka, Nagisa, and Makoto decide to form the Iwatobi High School Swim Club, but they will need a fourth member if they hope to take part in the upcoming tournament. Enter Rei Ryuugazaki, a former member of the track team whom Nagisa recruits. As the time to compete draws near, the four develop a close bond while training intensely to come out on top and settle things between Haruka and Rin once and for all.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 7.5,
+      "status": "FINISHED",
+      "genres": [
+        "Bishounen",
+        "Present",
+        "Earth",
+        "Japan",
+        "Plot Continuity",
+        "Asia"
+      ],
+      "repo": "adiytharpansa/xpke5owz1til",
+      "pin": "c13910cc188090781b8bffc2171042145b5023c8",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "free-iwatobi-swim-club/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "free-iwatobi-swim-club/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "free-iwatobi-swim-club/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "free-iwatobi-swim-club/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "free-iwatobi-swim-club/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "free-iwatobi-swim-club/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "free-iwatobi-swim-club/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "free-iwatobi-swim-club/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "free-iwatobi-swim-club/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "free-iwatobi-swim-club/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "free-iwatobi-swim-club/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "free-iwatobi-swim-club/ep12/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
