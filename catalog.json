@@ -40592,6 +40592,32 @@
           "playlist": "nausica-of-the-valley-of-the-wind/ep1/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "steins-gate-the-movie-load-region-of-d-j-vu",
+      "title": "Steins;Gate: The Movie − Load Region of Déjà Vu",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@53f42488939e2c707b48dcf11b2e64a509f6eb07/steins-gate-the-movie-load-region-of-d-j-vu/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@53f42488939e2c707b48dcf11b2e64a509f6eb07/steins-gate-the-movie-load-region-of-d-j-vu/banner.jpg",
+      "synopsis": "After a year in America, Kurisu Makise returns to Akihabara and reunites with Rintarou Okabe. However, their reunion is cut short when Okabe begins to experience recurring flashes of other timelines as the consequences of his time traveling start to manifest. These side effects eventually culminate in Okabe suddenly vanishing from the world, and only the startled Kurisu has any memory of his existence.\nIn the midst of despair, Kurisu is faced with a truly arduous choice that will test both her duty as a scientist and her loyalty as a friend: follow Okabe's advice and stay away from traveling through time to avoid the potential consequences it may have on the world lines, or ignore it to rescue the person that she cherishes most. Regardless of her decision, the path she chooses is one that will affect the past, the present, and the future.\n[Written by MAL Rewrite]",
+      "year": 2013,
+      "score": 8.2,
+      "status": "FINISHED",
+      "genres": [
+        "Present",
+        "Time Travel",
+        "Japan",
+        "Plot Continuity",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "repo": "adiytharpansa/xi9uivufxysw",
+      "pin": "f70352c343af55337d6e3c99cd68c997a0488e87",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "steins-gate-the-movie-load-region-of-d-j-vu/ep1/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
