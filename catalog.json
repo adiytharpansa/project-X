@@ -40326,6 +40326,80 @@
           "playlist": "shakugan-no-shana-season-i/ep24/playlist.m3u8"
         }
       ]
+    },
+    {
+      "id": "the-fruit-of-grisaia",
+      "title": "The Fruit of Grisaia",
+      "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b5a20efa1911b16c028831e4d6af8bf9110559e5/the-fruit-of-grisaia/poster.jpg",
+      "banner": "https://cdn.jsdelivr.net/gh/adiytharpansa/x08wf1zos7qd@b5a20efa1911b16c028831e4d6af8bf9110559e5/the-fruit-of-grisaia/banner.jpg",
+      "synopsis": "Yuuji Kazami is a transfer student who has just been admitted into Mihama Academy. He wants to live an ordinary high school life, but this dream of his may not come true any time soon as Mihama Academy is quite the opposite. Consisting of only the principal and five other students, all of whom are girls, Yuuji becomes acquainted with each of them, discovering more about their personalities as socialization is inevitable. Slowly, he begins to learn about the truth behind the small group of students occupying the academy—they each have their own share of traumatic experiences which are tucked away from the world.\nMihama Academy acts as a home for these girls, they are the \"fruit\" which fell from their trees and have begun to decay. It is up to Yuuji to become the catalyst to save them from themselves, but how can he save another when he cannot even save himself?\n[Written by MAL Rewrite]",
+      "year": 2014,
+      "score": 7.4,
+      "status": "FINISHED",
+      "genres": [
+        "Earth",
+        "Japan",
+        "Asia",
+        "Angst",
+        "Comedy",
+        "Romance"
+      ],
+      "repo": "adiytharpansa/xrd5u319ewdz",
+      "pin": "90c44ecaaaf01b1d6b0cd529120b62d1fd93d245",
+      "episodes": [
+        {
+          "number": 1,
+          "playlist": "the-fruit-of-grisaia/ep1/playlist.m3u8"
+        },
+        {
+          "number": 2,
+          "playlist": "the-fruit-of-grisaia/ep2/playlist.m3u8"
+        },
+        {
+          "number": 3,
+          "playlist": "the-fruit-of-grisaia/ep3/playlist.m3u8"
+        },
+        {
+          "number": 4,
+          "playlist": "the-fruit-of-grisaia/ep4/playlist.m3u8"
+        },
+        {
+          "number": 5,
+          "playlist": "the-fruit-of-grisaia/ep5/playlist.m3u8"
+        },
+        {
+          "number": 6,
+          "playlist": "the-fruit-of-grisaia/ep6/playlist.m3u8"
+        },
+        {
+          "number": 7,
+          "playlist": "the-fruit-of-grisaia/ep7/playlist.m3u8"
+        },
+        {
+          "number": 8,
+          "playlist": "the-fruit-of-grisaia/ep8/playlist.m3u8"
+        },
+        {
+          "number": 9,
+          "playlist": "the-fruit-of-grisaia/ep9/playlist.m3u8"
+        },
+        {
+          "number": 10,
+          "playlist": "the-fruit-of-grisaia/ep10/playlist.m3u8"
+        },
+        {
+          "number": 11,
+          "playlist": "the-fruit-of-grisaia/ep11/playlist.m3u8"
+        },
+        {
+          "number": 12,
+          "playlist": "the-fruit-of-grisaia/ep12/playlist.m3u8"
+        },
+        {
+          "number": 13,
+          "playlist": "the-fruit-of-grisaia/ep13/playlist.m3u8"
+        }
+      ]
     }
   ],
   "pin": "5d35139b1480f78af632932d8363d4f78ebd402b"
